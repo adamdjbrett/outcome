@@ -1,0 +1,23 @@
+<div class="offcanvas offcanvas-start" tabindex="-1" id="sidebarMenu" aria-labelledby="sidebarMenuLabel">
+<div class="offcanvas-header bg-body-tertiary">
+<h5 class="offcanvas-title" id="sidebarMenuLabel">
+<img class="img-fluid img-logo-nav" alt="{{metadata.title}}" src="{{metadata.sidebar.logo}}">
+</h5>
+<button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+</div>
+<div class="offcanvas-body">
+<div class="ms-3">
+{% for m in metadata.sidebar.left %}
+<p class="menu-list">{{m.title}}</p>
+<ul class="ms-3">{% for i in m.item %}
+<li><a class="no-deco text-body-emphasis" href="{{i.link}}"><span class="navis">{{i.name}}</span></a></li>
+{% endfor %}</ul>
+{% endfor %}
+</div>
+</div>
+<div class="offcanvas-footer bg-body-tertiary p-3 text-center">
+{% for s in metadata.sidebar.social_icon %}
+<a href="{{s.link}}" title="{{s.title}}"><i class="{{s.icon}} me-1 ms-1"></i></a>
+{% endfor %}
+</div>
+</div>

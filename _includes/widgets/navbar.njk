@@ -1,0 +1,50 @@
+<div class="row orange text-center">
+{% for n in metadata.navbar %}<a href="{{n.link}}" class="nav-link col-md-3 col-3 text-white"><span class="navis">{{n.name}}</span></a>{% endfor %}
+</div>
+<div class="container">
+<div class="row p-2">
+<div class="col-md-1 col-2">
+<button class="btn mt-1" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
+<path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
+</svg>
+</button>
+</div>
+<div class="col-md-7 col-4 p-2 navbar-brand">
+<img class="img-fluid img-logo" alt="" src="{{metadata.sidebar.logo_nav}}">
+<strong><a class="no-deco" href="{{metadata.url}}">{{metadata.title}}</a></strong>
+</div>
+<div class="col-md-3 col-4">
+<input class="form-control me-2" type="search" placeholder="{{metadata.search.placeholder}}" aria-label="Search"  data-bs-toggle="modal" data-bs-target="#searchModal">
+</div>
+<div class="col-md-1 col-1 text-end">
+<button class="btn no-bd py-2" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" aria-label="Toggle theme (auto)">
+<svg class="bi my-1 theme-icon-active" width="1em" height="1em"><use href="#circle-half"></use></svg>
+<span class="visually-hidden" id="bd-theme-text">Toggle theme</span>
+</button>
+<ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="bd-theme-text">
+<li>
+<button type="button" class="dropdown-item darklight d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
+<svg class="bi me-2 opacity-75" width="1em" height="1em"><use href="#sun-fill"></use></svg>
+Light
+<svg class="bi ms-auto d-none" width="1em" height="1em"><use href="#check2"></use></svg>
+</button>
+</li>
+<li>
+<button type="button" class="dropdown-item d-flex darklight align-items-center" data-bs-theme-value="dark" aria-pressed="false">
+<svg class="bi me-2 opacity-75" width="1em" height="1em"><use href="#moon-stars-fill"></use></svg>
+Dark
+<svg class="bi ms-auto d-none" width="1em" height="1em"><use href="#check2"></use></svg>
+</button>
+</li>
+<li>
+<button type="button" class="dropdown-item d-flex darklight align-items-center active" data-bs-theme-value="auto" aria-pressed="true">
+<svg class="bi me-2 opacity-75" width="1em" height="1em"><use href="#circle-half"></use></svg>
+Auto
+<svg class="bi ms-auto d-none" width="1em" height="1em"><use href="#check2"></use></svg>
+</button>
+</li>
+</ul>
+</div>
+</div>
+</div>
