@@ -1,0 +1,255 @@
+{
+	"title": "Outcome",
+	"description": "Outcome podcast doctrine discrovery",
+	"url": "https://outcome.doctrineofdiscovery.org/",
+	"favicon": "/img/logo.png",
+	"language": "en",
+	"locale": "en_US",
+	"metasocial": {
+		"image": "/img/logo-ls.png",
+		"facebook": "https://www.facebook.com/adamdjbrett/",
+		"twitteruser": "@__adjb",
+		"twitter": "https://x.com/__adjb"
+	},
+	"navbar": [
+		{
+			"name": "Home",
+			"link": "/"
+		},
+		{
+			"name": "About",
+			"link": "/about"
+		},
+		{
+			"name": "Submit",
+			"link": "/how-to-submit/"
+		},
+		{
+			"name": "Contact",
+			"link": "/contact/"
+		}
+	],
+	"sidebar": {
+		"logo": "/img/logo-ls.png",
+		"logo_nav": "/img/logo.png",
+		"left": [
+			{
+				"title": "Esay",
+				"item": 
+				[
+					{
+						"name": "Hello World",
+						"link": "/"
+					},
+					{
+						"name": "Apa Kabar Dunia",
+						"link": "/"
+					},
+					{
+						"name": "Lorep Ipsum",
+						"link": "/"
+					},
+					{
+						"name": "Dolor Siamet",
+						"link": "/"
+					}
+				]
+			},
+			{
+				"title": "Information",
+				"item": 
+				[
+					{
+						"name": "For Developer",
+						"link": "/"
+					},
+					{
+						"name": "For Authors",
+						"link": "/"
+					},
+					{
+						"name": "For Sponsor",
+						"link": "/"
+					},
+					{
+						"name": "For Publishers",
+						"link": "/"
+					}
+				]
+			},
+			{
+				"title": "Pages",
+				"item": 
+				[
+					{
+						"name": "Home Page",
+						"link": "/"
+					},
+					{
+						"name": "About Page",
+						"link": "/about/"
+					},
+					{
+						"name": "How to Submit",
+						"link": "/how-to-submit/"
+					},
+					{
+						"name": "Contact Us",
+						"link": "/contact/"
+					}
+				]
+			}
+		],
+		"right": [
+			{
+				"title": "Information",
+				"item": 
+				[
+					{
+						"name": "For Developer",
+						"link": "/"
+					},
+					{
+						"name": "For Authors",
+						"link": "/"
+					},
+					{
+						"name": "For Sponsor",
+						"link": "/"
+					},
+					{
+						"name": "For Publishers",
+						"link": "/"
+					}
+				]
+			},
+			{
+				"title": "Pages",
+				"item": 
+				[
+					{
+						"name": "Home Page",
+						"link": "/"
+					},
+					{
+						"name": "About Page",
+						"link": "/"
+					},
+					{
+						"name": "How to Submit",
+						"link": "/"
+					},
+					{
+						"name": "Contact Us",
+						"link": "/"
+					}
+				]
+			}
+		],
+		"social_icon": [
+			{
+				"icon": "fa-brands fa-facebook",
+				"title": "Connect with our Facebook",
+				"link": "https://facebook.com"
+			},
+			{
+				"icon": "fa-brands fa-twitter",
+				"title": "Connect with our Twitter",
+				"link": "https://twitter.com"
+			},
+			{
+				"icon": "fa-brands fa-instagram",
+				"title": "Connect with our Instagram",
+				"link": "https://instagram.com"
+			},
+			{
+				"icon": "fa-brands fa-youtube",
+				"title": "Connect with our Youtube",
+				"link": "https://youtube.com"
+			}
+		]
+	},
+	"search": {
+		"title": "Searching",
+		"placeholder": "Search Now.."
+	},
+	"footer": {
+		"copyrights": {
+			"logo": "/img/logo-ls.png",
+			"text1": "© 2024 Outcome Doctrine of Discovery, Powered by",
+			"text2": "Eleventy",
+			"text2_link": "https://11ty.dev/",
+			"text3": "Website developed by",
+			"text4": "Adam DJ Brett",
+			"text4_link": "https://adamdjbrett.com/"
+		},
+		"licency": {
+			"text1": "Except where otherwise noted, the content on The Doctrine of Discovery Project is released under a",
+			"text2": "Creative Commons Attribution 4.0 International license (CC BY 4.0)",
+			"text2_link": "https://creativecommons.org/licenses/by/4.0/deed.en",
+			"text3": "sitemap",
+			"text3_link": "https://outcome.doctrineofdiscovery.org/sitemap.xml"
+		},
+		"privacy": {
+			"text1": "This project is administered by the Indigenous Values Initiative. Please help support our work. View our",
+			"text2": "Privacy Policy",
+			"text2_link": "https://outcome.doctrineofdiscovery.org/",
+			"text3": "proven."
+		},
+		"menu_title": "Menu",
+		"menu": [
+			{
+				"name": "Home",
+				"url": "/"
+			},
+			{
+				"name": "About",
+				"url": "/about/"
+			},
+			{
+				"name": "Submit",
+				"url": "/how-to-submit/"
+			},
+			{
+				"name": "Contributor",
+				"url": "/"
+			},
+			{
+				"name": "Contact",
+				"url": "/contact/"
+			}
+		],
+		"info_title": "Infromation",
+		"info": [
+			{
+				"name": "Esay",
+				"url": "/"
+			},
+			{
+				"name": "Readers",
+				"url": "/"
+			},
+			{
+				"name": "Blogs",
+				"url": "/"
+			},
+			{
+				"name": "Librarians",
+				"url": "/"
+			},
+			{
+				"name": "Advertisers",
+				"url": "/"
+			},
+			{
+				"name": "Authors",
+				"url": "/"
+			}
+		]
+	},
+	"author": {
+		"name": "Adam Dj Brett",
+		"email": "info@adamdjbrett.com",
+		"url": "https://www.adamdjbrett.com/"
+	}
+}

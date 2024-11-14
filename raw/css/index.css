@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond&display=swap');
+html,body {font-family: "Cormorant Garamond", "Times New Roman" ,serif; font-size: 16px;}
+p {font-family: "Times New Roman", Times, serif; }
+h1,h2,h3,h4,h5,h6 {font-family: Arial, Helvetica, sans-serif;}
+      .b-example-divider {
+        width: 100%;
+        height: 3rem;
+        background-color: rgba(0, 0, 0, .1);
+        border: solid rgba(0, 0, 0, .15);
+        border-width: 1px 0;
+        box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+      }
+
+      .b-example-vr {
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 100vh;
+      }
+
+      .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+      }
+
+      .nav-scroller {
+        position: relative;
+        z-index: 2;
+        height: 2.75rem;
+        overflow-y: hidden;
+      }
+
+      .nav-scroller .nav {
+        display: flex;
+        flex-wrap: nowrap;
+        padding-bottom: 1rem;
+        margin-top: -1px;
+        overflow-x: auto;
+        text-align: center;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+      }
+
+
+      .bd-mode-toggle {
+        z-index: 1500;
+      }
+
+      .bd-mode-toggle .dropdown-menu .active .bi {
+        background-color:#c93c22; color:#fff;
+        display: block !important;
+        }
+.no-bd {border:none;}
+.no-deco {text-decoration:none;}
+.page-link {border:none;font-size:20px; }
+.text-big {font-size:20px;}
+.page-link:hover{background-color:#c93c22; color:white;}
+.img-cover {object-fit:cover; width:100%; height:250px;}
+.img-issue {object-fit:cover; width:200px; height:250px;}
+.img-logo {width:35px;height:35px;}
+.img-logo-footer {width:240px;height:60px;}
+.img-logo-nav {width:180px;height:50px;}
+.darklight {background-color:transpatrent;}
+.darklight:hover,.darklight:active{background-color:#e84c31; color:#fff;}
+.dropdown-menu .active{background-color:#c93c22; color:#fff;}
+.navis:hover {border-bottom: 1px solid;}
+.form-control:focus,
+.form-select:focus {
+  outline: none !important;
+  border:1px solid #c93c22;
+  box-shadow: none;
+}
+select option:hover {
+  box-shadow: 0 0 10px 100px #c93c22 inset !important;
+  color:white;
+}
+select option:checked{
+  box-shadow: 0 0 10px 100px #c93c22 inset !important;
+  color:white;
+  }
+
+
+[data-bs-theme=light] {
+a.nav-link {color:#c93c22; font-weight:bold;}
+a,.page-link{color:#ec5033;}
+.menu-list {color:#ec5033;}
+.bt-orange {border-top: 1px solid #ec5033;}
+.bb-orange {border-bottom: 1px solid #ec5033;}
+.border-orange {border: 1px solid #ec5033;}
+.page-link:hover{background-color:#c93c22; color:white;}
+.btn-orange{background-color:#ec5033;padding:10px;color:#fff}
+.btn-orange:hover, .orange{background-color:#c93c22;padding:10px;color:#fff}
+}
+
+
+
+[data-bs-theme=dark] {
+  a.nav-link {color:#e95339; font-weight:bold;}
+  a,.page-link{color:#f36248;}
+  .menu-list {color:#ff8069;}
+  .bt-orange {border-top: 1px solid #ff8069;}
+  .bb-orange {border-bottom: 1px solid #ff8069;}
+  .border-orange {border: 1px solid #ff8069;}
+  .page-link:hover{background-color:#e24d33; color:white;}
+  .btn-orange  {background-color:#fc6146;padding:10px;color:#fff}
+  .btn-orange:hover,  .orange  {background-color:#ed6047;padding:10px;color:#fff}
+  }

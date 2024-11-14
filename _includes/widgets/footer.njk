@@ -1,0 +1,35 @@
+<footer class="container-fluid bg-body-tertiary bt-orange">
+<div class="container">
+<div class="row">
+<div class="col-md-8 col-12 p-3 p-md-5">
+<img class="img-fluid img-logo-footer" width="100%" height="100%" 
+alt="{{metadata.title}}" src="{{metadata.footer.copyrights.logo}}">
+<p>
+{{metadata.footer.copyrights.text1}} <a href="{{metadata.footer.copyrights.text2_link}}">{{metadata.footer.copyrights.text2}}</a>. 
+{{metadata.footer.copyrights.text3}} <a href="{{metadata.footer.copyrights.text3_link}}">{{metadata.footer.copyrights.text4}}</a>.<br/>
+{{metadata.footer.licency.text1}} 
+<a href="{{metadata.footer.licency.text2_link}}">{{metadata.footer.licency.text2}}</a>. 
+<a href="{{metadata.footer.licency.text3_link}}">{{metadata.footer.licency.text3}}</a>
+<br/>
+{{metadata.footer.privacy.text1}} <a href="{{metadata.footer.privacy.text2_link}}">{{metadata.footer.privacy.text2}}</a>. 
+{{metadata.footer.privacy.text3}}
+</p>
+</div>
+<div class="col-md-2 col-12 p-3 p-md-5">
+<p><strong>{{metadata.footer.menu_title}}</strong></p>
+<p>{% for s in metadata.footer.menu %}<a href="{{s.url}}" class="no-deco">{{s.name}}</a><br/>{% endfor %}<br/>
+</p>
+</div>
+<div class="col-md-2 col-12 p-3 p-md-5">
+<p><strong>{{metadata.footer.info_title}}</strong></p>
+<p>{% for i in metadata.footer.info %}<a href="{{i.url}}" class="no-deco">{{i.name}}</a><br/>{% endfor %}<br/>
+</p>
+</div>
+</div>
+</div>
+</footer>
+{% include "widgets/searchmodal.njk" %}
+<script type="module" src="{% getBundleFileUrl "js" %}"></script>
+<script src="/js/index.js"></script>
+</body>
+</html>
