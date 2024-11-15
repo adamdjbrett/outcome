@@ -1,6 +1,6 @@
 # Mac
 .DS_Store
-
+_site
 # Logs
 logs
 *.log
