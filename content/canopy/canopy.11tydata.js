@@ -2,5 +2,5 @@ export default {
 	tags: [
 		"canopys"
 	],
-	"layout": "layouts/post.njk",
+	"layout": "layouts/canopy/essay.njk",
 };

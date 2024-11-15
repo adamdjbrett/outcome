@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"jcesaysones"
+		"jcesaysones" , "jc"
 	],
 	"layout": "layouts/post.njk",
 };

@@ -47,10 +47,10 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-		return (tags || []).filter(tag => ["all", "canopys" ,"esaysones" , "esaystwos" , "jcreors" , "jcesaysones" , "jcesaystwos" ,
-			"crosscurrentss" , "croesaysones" , "croesaystwos" ,
-			"features" , "fesaysones" , "fesaystwos" ,
-			 "author" , "authors"].indexOf(tag) === -1);
+		return (tags || []).filter(tag => ["all", "canopyt", "cocor" , "fifi", "jc" , 
+			"canopys" ,"esaysones" , "esaystwos" , "jcreors" , "jcesaysones" , "jcesaystwos" , 
+			"crosscurrentss" , "croesaysones" , "croesaystwos" ,"features" , "fesaysones" , 
+			"fesaystwos" ,"author" , "authors"].indexOf(tag) === -1);
 	});
 
 };

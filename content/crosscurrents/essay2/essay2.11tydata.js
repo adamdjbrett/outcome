@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"croesaystwos"
+		"croesaystwos" , "cocor"
 	],
 	"layout": "layouts/post.njk",
 };
