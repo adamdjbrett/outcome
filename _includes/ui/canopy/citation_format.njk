@@ -1,0 +1,10 @@
+<div class="dropdown">
+<button class="btn bg-body-tertiary col-12 btn-sm dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+<small>Citation Format</small>
+</button>
+<ul class="dropdown-menu col-12">
+{% for s in citation_format %}
+<li><a class="dropdown-item" href="{{s.link}}">{{s.name}}</a></li>
+{% endfor %}
+</ul>
+</div>

@@ -17,6 +17,36 @@
 	</url>
 	
 	<url>
+		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay1/ator/</loc>
+		<lastmod>2023-03-10</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay1/dodor/</loc>
+		<lastmod>2023-03-10</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay1/intro/</loc>
+		<lastmod>2023-03-10</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay2/ator/</loc>
+		<lastmod>2023-03-10</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay2/dodor/</loc>
+		<lastmod>2023-03-10</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay2/intro/</loc>
+		<lastmod>2023-03-10</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://outcome.doctrineofdiscovery.org/JCREOR/essay1/ones/</loc>
 		<lastmod>2024-04-02</lastmod>
 	</url>
@@ -43,21 +73,6 @@
 	
 	<url>
 		<loc>https://outcome.doctrineofdiscovery.org/JCREOR/essay2/six/</loc>
-		<lastmod>2024-04-02</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay2/five/</loc>
-		<lastmod>2024-04-02</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay2/four/</loc>
-		<lastmod>2024-04-02</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay2/six/</loc>
 		<lastmod>2024-04-02</lastmod>
 	</url>
 	
@@ -107,42 +122,22 @@
 	</url>
 	
 	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay1/canopy2/</loc>
-		<lastmod>2024-04-03</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay1/canopy3/</loc>
-		<lastmod>2024-04-03</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/canopy/essay1/canop1/</loc>
-		<lastmod>2024-04-20</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://outcome.doctrineofdiscovery.org/blog/</loc>
-		<lastmod>2024-11-05</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/about/</loc>
-		<lastmod>2024-11-05</lastmod>
+		<lastmod>2024-11-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://outcome.doctrineofdiscovery.org/</loc>
-		<lastmod>2024-11-05</lastmod>
+		<lastmod>2024-11-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://outcome.doctrineofdiscovery.org/tags/</loc>
-		<lastmod>2024-11-05</lastmod>
+		<lastmod>2024-11-14</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/how-to-submit/</loc>
+		<loc>https://outcome.doctrineofdiscovery.org/about/</loc>
 		<lastmod>2024-11-14</lastmod>
 	</url>
 	
@@ -152,7 +147,17 @@
 	</url>
 	
 	<url>
-		<loc>https://outcome.doctrineofdiscovery.org/feed/feed.xml</loc>
+		<loc>https://outcome.doctrineofdiscovery.org/how-to-submit/</loc>
 		<lastmod>2024-11-14</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://outcome.doctrineofdiscovery.org/canopy/</loc>
+		<lastmod>2024-11-15</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://outcome.doctrineofdiscovery.org/feed/feed.xml</loc>
+		<lastmod>2024-11-15</lastmod>
 	</url>
 </urlset>

@@ -1,0 +1,26 @@
+{%- for item in pagination.items %}
+<div class="col-md-12 p-1 mb-3">
+<p><strong>
+<a href="{{item.url}}" title="{{item.data.title}}">{{item.data.title}}</a>
+</strong></p>
+{% if item.data.abstract %}<p>
+{% if item.data.image %}<img class="img-fluid float-start me-3"
+style="width:120px; height:80px; object-fit:cover;" alt="{{item.data.title}}" src="{{item.data.image}}"/>{% endif %}    
+{{item.data.abstract}}</p>
+{% endif %}
+</p>
+<div class="row">
+{% if item.data.author %}
+{% for a in item.data.author %}
+<div class="col-md-4 col-6 p-1">
+<p><small>
+{% if a.image %}<img class="me-3 rounded-circle img-author-main" alt="{{a.title}}" 
+width="20" height="20" src="{{a.image}}"/>{% endif %}
+{{a.name}}
+</small></p>
+</div>
+{% endfor %}
+{% endif %}
+</div>
+</div>
+{% endfor -%}
