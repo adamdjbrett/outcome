@@ -20,56 +20,6 @@ citation_format:
    link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
 show_toc: true
 author: 
- - name: "Philip P. Arnold"
-   sort: "1"
-   image: "https://canopyforum.org/wp-content/uploads/2023/03/Arnold-Phil-Headshot.jpg"
-   university: "Syracuse University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
-   about: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
-   information: 
-    - text: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
-    - text: "principal investigator for the Henry Luce Grant “200 Years of Johnson v. M’Intosh, the founding director of the Skä·noñh—Great Law of Peace Center, and president of the Indigenous Values Initiative."
-   social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Philip P Arnold Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Philip P Arnold Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Philip P Arnold Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Philip P Arnold Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Philip P Arnold"
- - name: "Sandra Bigtree"
-   sort: "2"
-   image: "https://canopyforum.org/wp-content/uploads/2023/03/Sandra-L.-Bigtree-Headshot.jpg"
-   university: "Syracuse University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
-   about: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
-   information: 
-    - text: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
-    - text: " a member of the Skä·noñh—Great Law of Peace Center Academic Collaborative, and a founding board member of the Indigenous Values Initiative."
-   social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Sandra Bigtree Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Sandra Bigtree Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Sandra Bigtree Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Sandra Bigtree Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Sandra Bigtree"
  - name: "Adam Dj Brett"
    sort: "3"
    image: "https://avatars.githubusercontent.com/u/22662978?v=4"
@@ -105,7 +55,7 @@ tags:
  - series
 ---
 
-As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in [_Johnson v. M’Intosh_](https://www.oyez.org/cases/1789-1850/21us543) (1823) includes all these elements. The _Johnson_ decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples. 
+### Angak Ho
 
 The Doctrine of Discovery — or, more aptly, the [Doctrine of Christian Discovery](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/) — is a theological and legal framework of domination developed in the 15th century by the Roman Catholic Church and European monarchs. First articulated in a series of papal bulls, [_Inter Caetera_](https://doctrineofdiscovery.org/inter-caetera/) (1493), the Doctrine of Discovery asserted the supposed right of European powers to “discover” and claim ownership of lands inhabited by non-Christian peoples. As Shawnee and Lenape legal scholar [Steven T. Newcomb](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php) explains, the Doctrine of Discovery was (and is) a theological and legal attempt to justify the unjustifiable: enslavement, exploitation, dispossession, and extraction.
 

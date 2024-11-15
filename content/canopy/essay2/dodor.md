@@ -45,57 +45,6 @@ author:
     - icon: "fa-regular fa-envelope"
       link: "mailto:info@adamdjbrett.com"
       title: "Message Philip P Arnold"
- - name: "Sandra Bigtree"
-   sort: "2"
-   image: "https://canopyforum.org/wp-content/uploads/2023/03/Sandra-L.-Bigtree-Headshot.jpg"
-   university: "Syracuse University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
-   about: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
-   information: 
-    - text: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
-    - text: " a member of the Skä·noñh—Great Law of Peace Center Academic Collaborative, and a founding board member of the Indigenous Values Initiative."
-   social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Sandra Bigtree Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Sandra Bigtree Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Sandra Bigtree Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Sandra Bigtree Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Sandra Bigtree"
- - name: "Adam Dj Brett"
-   sort: "3"
-   image: "https://avatars.githubusercontent.com/u/22662978?v=4"
-   university: "Syracuse University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
-   about: "I’M A EDUCATOR, RESEARCHER, OPERATIONS MANAGER, AND A WEB DEVELOPER."
-   information: 
-    - text: "I love listening, learning, sharing, and hearing stories. Since 2016 I have been working with the American Indian Law Alliance (AILA)."
-    - text: "This work is challening and breaks me great joy. In 2022 I received my Ph.D. in religion from Syracuse University."
-    - text: "I am passionate about researching and teaching the histories of the Doctrine of Discovery."
-   social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Adam Dj Brett Google Schollar"
-    - icon: "fa-solid fa-school"
-      link: "https://nabpr.org/officers/"
-      title: "Adam Dj Brett Social"
-    - icon: "fa-solid fa-globe"
-      link: "https://www.adamdjbrett.com/"
-      title: "Adam Dj Brett Social Media"
-    - icon: "fa-brands fa-github"
-      link: "https://github.com/adamdjbrett"
-      title: "Adam Dj Brett Github"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Adam Dj Brett"
 tags: 
  - philip p arnold
  - adam dj brett
@@ -105,7 +54,7 @@ tags:
  - series
 ---
 
-As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in [_Johnson v. M’Intosh_](https://www.oyez.org/cases/1789-1850/21us543) (1823) includes all these elements. The _Johnson_ decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples. 
+### Hello Wolrd
 
 The Doctrine of Discovery — or, more aptly, the [Doctrine of Christian Discovery](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/) — is a theological and legal framework of domination developed in the 15th century by the Roman Catholic Church and European monarchs. First articulated in a series of papal bulls, [_Inter Caetera_](https://doctrineofdiscovery.org/inter-caetera/) (1493), the Doctrine of Discovery asserted the supposed right of European powers to “discover” and claim ownership of lands inhabited by non-Christian peoples. As Shawnee and Lenape legal scholar [Steven T. Newcomb](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php) explains, the Doctrine of Discovery was (and is) a theological and legal attempt to justify the unjustifiable: enslavement, exploitation, dispossession, and extraction.
 

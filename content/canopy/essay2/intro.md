@@ -105,7 +105,7 @@ tags:
  - series
 ---
 
-As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in [_Johnson v. M’Intosh_](https://www.oyez.org/cases/1789-1850/21us543) (1823) includes all these elements. The _Johnson_ decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples. 
+### Lorep Ipsujm 
 
 The Doctrine of Discovery — or, more aptly, the [Doctrine of Christian Discovery](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/) — is a theological and legal framework of domination developed in the 15th century by the Roman Catholic Church and European monarchs. First articulated in a series of papal bulls, [_Inter Caetera_](https://doctrineofdiscovery.org/inter-caetera/) (1493), the Doctrine of Discovery asserted the supposed right of European powers to “discover” and claim ownership of lands inhabited by non-Christian peoples. As Shawnee and Lenape legal scholar [Steven T. Newcomb](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php) explains, the Doctrine of Discovery was (and is) a theological and legal attempt to justify the unjustifiable: enslavement, exploitation, dispossession, and extraction.
 
