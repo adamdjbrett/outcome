@@ -6,6 +6,12 @@ description: Home Description
 
 <div class="row mt-5">
 
+<div class="col-md-12 p-3">
+<h3>UPdate</h3>
+<p>Implement canopy data first tester on essay 1 and essay 2</p>
+<p><a href="/canopy/"> Visit Canopy Page </a></p>
+</div>
+
 <div class="col-md-4 p-3">
 <h3 >Canopy All test fetch</h3>
 {% for s in collections.canopys | reverse %}
