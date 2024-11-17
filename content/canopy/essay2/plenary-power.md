@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Alexandra Fay is the inaugural Richard M. Milanovich Fellow at the Native Nations Law & Policy Center of UCLA School of Law."
    information: 
-    - text: "Matthew Cavedon is the Robert Pool Fellow in Law and Religion at Emory’s Center for the Study of Law and Religion."
     - text: "She writes about federal Indian law, tribal sovereignty, and critical race theory."
    social:
     - icon: "fa-brands fa-google-scholar"

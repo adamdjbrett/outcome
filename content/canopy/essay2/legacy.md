@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Kerri J. Malloy is an Assistant Professor of Global Humanities and Special Advisor on Native American and Indigenous Studies to the Office of the Provost at San José State University. "
    information: 
-    - text: "Kerri J. Malloy is an Assistant Professor of Global Humanities and Special Advisor on Native American and Indigenous Studies to the Office of the Provost at San José State University. "
     - text: "His research focuses on Indigenous genocide, healing, and reconciliation in North America and the necessity of systemic change within social structures to advance transitional justice."
    social:
     - icon: "fa-brands fa-google-scholar"

@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Tina Ngata is a Ngati Porou author, advocating for environmental, Indigenous, and human rights. Her background is in holistic approaches to public health, including oranga taiao (environmental wellbeing) and oranga whanau (collective wellbeing)."
    information: 
-    - text: "Tina Ngata is a Ngati Porou author, advocating for environmental, Indigenous, and human rights. Her background is in holistic approaches to public health, including oranga taiao (environmental wellbeing) and oranga whanau (collective wellbeing)."
     - text: "Since 2019, Tina has been developing models of wellbeing and protection, founding the award-winning Manaaki Matakaoa program that uses community-centered, flaxroots oranga services to build a community-based health infrastructure."
    social:
     - icon: "fa-brands fa-google-scholar"

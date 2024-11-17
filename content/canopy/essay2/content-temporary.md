@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Mark Tremblay is an ordained minister in The Presbyterian Church in Canada living in Calgary, AB."
    information: 
-    - text: "Mark Tremblay is an ordained minister in The Presbyterian Church in Canada living in Calgary, AB."
     - text: "He has advanced degrees in Philosophy from the Claremont Graduate University and the University of Wales, Swansea."
    social:
     - icon: "fa-brands fa-google-scholar"

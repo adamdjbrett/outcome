@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Dana Lloyd is an Assistant Professor of Global Interdisciplinary Studies at Villanova University."
    information: 
-    - text: "Dana Lloyd is an Assistant Professor of Global Interdisciplinary Studies at Villanova University."
     - text: "Her first book, Land is Kin: Sovereignty, Religious Freedom, and Indigenous Sacred Sites, is forthcoming with University Press of Kansas this Fall."
    social:
     - icon: "fa-brands fa-google-scholar"

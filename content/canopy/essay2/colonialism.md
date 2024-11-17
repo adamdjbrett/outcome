@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Robert J. Miller is a professor at the Sandra Day O’Connor College of Law where he is also the Willard H. Pedrick Distinguished Research Scholar and the Director of the Rosette LLP American Indian Economic Development Program."
    information: 
-    - text: "Robert J. Miller is a professor at the Sandra Day O’Connor College of Law where he is also the Willard H. Pedrick Distinguished Research Scholar and the Director of the Rosette LLP American Indian Economic Development Program."
     - text: "He is the Chief Justice of the Pascua Yaqui Tribe Court of Appeals, a citizen of the Eastern Shawnee Tribe, and was elected a member of the American Philosophical Society in 2014."
    social:
     - icon: "fa-brands fa-google-scholar"

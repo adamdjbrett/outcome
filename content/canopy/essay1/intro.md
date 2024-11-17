@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
    information: 
-    - text: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
     - text: "principal investigator for the Henry Luce Grant “200 Years of Johnson v. M’Intosh, the founding director of the Skä·noñh—Great Law of Peace Center, and president of the Indigenous Values Initiative."
    social:
     - icon: "fa-brands fa-google-scholar"
@@ -52,7 +51,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
    information: 
-    - text: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
     - text: " a member of the Skä·noñh—Great Law of Peace Center Academic Collaborative, and a founding board member of the Indigenous Values Initiative."
    social:
     - icon: "fa-brands fa-google-scholar"

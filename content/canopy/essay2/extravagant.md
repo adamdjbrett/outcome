@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation. Betty has worked for the Onondaga Nation for over 20 years."
    information: 
-    - text: "President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation. Betty has worked for the Onondaga Nation for over 20 years."
     - text: "Ms. Lyons serves as a member of the Haudenosaunee External Relations Committee and has been an active participant at the annual United Nations Permanent Forum on Indigenous Issues (UNPFII) since the first session in 2001 as a delegate of the Onondaga Nation. Betty attended Cazenovia College and is a Bryant Stratton College Graduate of the Paralegal Program."
    social:
     - icon: "fa-brands fa-google-scholar"

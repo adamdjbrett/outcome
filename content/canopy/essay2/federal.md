@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Peter d’Errico graduated from Yale Law School, was an attorney at Dinébe’iiná Náhiiłna be Agha’diit’ahii, Navajo Legal Services, and a founding professor of Legal Studies at the University of Massachusetts Amherst."
    information: 
-    - text: "Peter d’Errico graduated from Yale Law School, was an attorney at Dinébe’iiná Náhiiłna be Agha’diit’ahii, Navajo Legal Services, and a founding professor of Legal Studies at the University of Massachusetts Amherst."
     - text: "He litigated on behalf of Native prisoners’ freedom of religion; Mashpee Wampanoag fishing rights; Western Shoshone land rights; and other Indigenous cases."
    social:
     - icon: "fa-brands fa-google-scholar"

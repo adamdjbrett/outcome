@@ -2,31 +2,34 @@
 {% for a in author %}
 <div class="col-md-4 col-6 p-3">
 <div class="row bg-body-tertiary p-1">
+<div class="col-md-3 col-4 p-1">
 {% if a.image %}
-<div class="col-md-4 col-4 p-0"
-style="background-image: url('{{a.image}}');
+<img class="img-fluid"
+src="{{a.image}}"
+style="
 background-position: center;
 width: 80px; height: 80px;
 object-fit:cover;
 background-repeat: no-repeat;
 background-size: cover;
 border-radius: 50px; "
->
+/>
 {% else %}
-<div class="col-md-4 col-4 p-0"
-style="background-image: url('{{metadata.icon}}');
+<img class="img-fluid"
+src="{{metadata.icon}}"
+style="
 background-position: center;
 background-repeat: no-repeat;
 background-size: cover; 
 border-radius: 90px; "
->{% endif %}
+/>{% endif %}
 </div>
-<div class="col-md-8 col-8 p-3">
+<div class="col-md-9 col-8 p-3">
 <p>
 <strong><a href="#" class="no-deco" data-bs-toggle="modal" data-bs-target="#{{a.sort}}Modal"> 
 {{a.name}}</a></strong> <a href="{{a.orchid}}" class="no-deco"><img class="img-fluid ms-1" 
 src="/img/orchid.svg" width="20" height="20"/></a>
-<br/>{{a.university}}
+<br/><small>{{a.university}}</small>
 {% include "ui/canopy/profile.njk" %}
 </p>
 </div>

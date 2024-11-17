@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Andrew Little is an associate professor of business law in the College of Business Administration at Abilene Christian University in Texas, where he also serves as associate dean. "
    information: 
-    - text: "Andrew Little is an associate professor of business law in the College of Business Administration at Abilene Christian University in Texas, where he also serves as associate dean. "
     - text: "His research interests include corporate social responsibility, legal history, and land use and natural resource law"
    social:
     - icon: "fa-brands fa-google-scholar"

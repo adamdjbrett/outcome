@@ -27,7 +27,6 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Matthew Cavedon is the Robert Pool Fellow in Law and Religion at Emory’s Center for the Study of Law and Religion."
    information: 
-    - text: "Matthew Cavedon is the Robert Pool Fellow in Law and Religion at Emory’s Center for the Study of Law and Religion."
     - text: "Previously a criminal defense attorney in Gainesville, GA, he graduated from Emory University in 2015 with a law degree and masters of theological studies."
    social:
     - icon: "fa-brands fa-google-scholar"
