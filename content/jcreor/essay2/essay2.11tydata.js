@@ -2,5 +2,5 @@ export default {
 	tags: [
 		"jcesaystwos" , "jc"
 	],
-	"layout": "layouts/post.njk",
+	"layout": "layouts/jcreor/essay.njk",
 };

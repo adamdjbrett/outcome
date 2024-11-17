@@ -2,5 +2,5 @@ export default {
 	tags: [
 		"jcreors"
 	],
-	"layout": "layouts/post.njk",
+	"layout": "layouts/jcreor/essay.njk",
 };

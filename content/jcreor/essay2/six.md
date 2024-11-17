@@ -1,5 +1,5 @@
 ---
-title: "Six Post Test from Easy 2"
+title: JCREOR Easy 2 - Six
 description: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Courts landmark ruling in Johnson v. M’Intosh (1823) includes all these elements."
 abstract: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in Johnson v. M’Intosh (1823) includes all these elements. The Johnson decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples."
 image: "/img/post/NARA.jpg"
