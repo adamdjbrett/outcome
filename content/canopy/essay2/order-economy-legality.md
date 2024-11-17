@@ -32,19 +32,19 @@ author:
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Peter d’Errico Google Schollar"
+      title: "Andrew Little Google Schollar"
     - icon: "fa-brands fa-youtube"
       link: "https://youtube.com/"
-      title: "Peter d’Errico Youtube"
+      title: "Andrew Little Youtube"
     - icon: "fa-brands fa-facebook"
       link: "https://www.facebook.com/"
-      title: "Peter d’Errico Facebook"
+      title: "Andrew Little Facebook"
     - icon: "fa-brands fa-instagram"
       link: "https://instagram"
-      title: "Peter d’Errico Instagram"
+      title: "Andrew Little Instagram"
     - icon: "fa-regular fa-envelope"
       link: "mailto:info@adamdjbrett.com"
-      title: "Message Peter d’Errico"
+      title: "Message Andrew Little"
 tags: 
  - Andrew Little
  - Order

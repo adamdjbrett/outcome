@@ -3,7 +3,7 @@ title: "Introduction to 200 Years of Johnson v. M’Intosh: Law, Religion, and N
 description: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Courts landmark ruling in Johnson v. M’Intosh (1823) includes all these elements."
 abstract: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in Johnson v. M’Intosh (1823) includes all these elements. The Johnson decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples."
 image: "/img/post/NARA.jpg"
-date: 2023-03-20
+date: 2024-10-20
 doi:  "https://doi.org/10.1558/bsor.25342"
 pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
 how_to_cite: "Arnold, Philip P., Bigtree, Sandra L., and Brett, Adam DJ. “Introduction to the 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands Series.” March 10, 2023. "
@@ -77,9 +77,8 @@ author:
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "I’M A EDUCATOR, RESEARCHER, OPERATIONS MANAGER, AND A WEB DEVELOPER."
    information: 
-    - text: "I love listening, learning, sharing, and hearing stories. Since 2016 I have been working with the American Indian Law Alliance (AILA)."
-    - text: "This work is challening and breaks me great joy. In 2022 I received my Ph.D. in religion from Syracuse University."
-    - text: "I am passionate about researching and teaching the histories of the Doctrine of Discovery."
+    - text: "Adam DJ Brett is the grant and event coordinator for the Doctrine of Discovery Project, funded by the Henry Luce Grant “200 Years of Johnson v. M’Intosh” and supported by the Indigenous Values Initiative and Syracuse University."
+    - text: "He is also an International Research Associate with the American Indian Law Alliance and an adjunct professor of religion at Syracuse University."
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
@@ -97,11 +96,11 @@ author:
       link: "mailto:info@adamdjbrett.com"
       title: "Message Adam Dj Brett"
 tags: 
- - philip p arnold
- - adam dj brett
- - sandra bigtree
+ - Philip P Arnold
+ - Adam Dj Brett
+ - Sandra Bigtree
  - 200 years of johnson
- - native american lands
+ - Native American Lands
  - series
 ---
 

@@ -4,8 +4,8 @@
 <a href="{{item.url}}" title="{{item.data.title}}">{{item.data.title}}</a>
 </strong></p>
 {% if item.data.abstract %}<p>
-{% if item.data.image %}<img class="img-fluid float-start me-3"
-style="width:120px; height:80px; object-fit:cover;" alt="{{item.data.title}}" src="{{item.data.image}}"/>{% endif %}    
+{% if item.data.image %}<a href="{{item.url}}" title="{{item.data.title}}"><img class="img-fluid float-start me-3"
+style="width:120px; height:80px; object-fit:cover;" alt="{{item.data.title}}" src="{{item.data.image}}"/></a>{% endif %}    
 {{item.data.abstract}}</p>
 {% endif %}
 <div class="row">
