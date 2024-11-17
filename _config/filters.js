@@ -12,6 +12,7 @@ export default function(eleventyConfig) {
 	});
 
 // author inject here..
+
 	eleventyConfig.addFilter("getAuthor", (authors,label) => {
 		let author = authors.filter(a => a.key === label)[0];
 		return author;
@@ -23,6 +24,13 @@ export default function(eleventyConfig) {
 
 // author inject here..
 
+
+	  
+		eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
+		
+		eleventyConfig.addFilter("min", (...numbers) => {
+			return Math.min.apply(null, numbers);
+		});
 
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {

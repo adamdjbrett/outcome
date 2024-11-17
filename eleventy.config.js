@@ -33,6 +33,21 @@ export default async function(eleventyConfig) {
 		  return content;
 		}
 	  
+// 		eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
+//		eleventyConfig.addFilter("head", (array, n) => {
+//			if(!Array.isArray(array) || array.length === 0) {
+//				return [];
+//			}
+//			if( n < 0 ) {
+//				return array.slice(n);
+//			}
+//	
+//			return array.slice(0, n);
+//		});
+		eleventyConfig.addFilter("min", (...numbers) => {
+			return Math.min.apply(null, numbers);
+		});
+		
 		const purgeCSSResults = await new PurgeCSS().purge({
 		  content: [{ raw: content }],
 		  css: ['dist/css/index.css', 'dist/css/outcome.css'],

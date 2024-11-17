@@ -79,7 +79,7 @@ select option:checked{
   }
 .img-issues-post { width: 100%; height: 80px; object-fit:cover;}
 img.content {max-width:100%; height:auto;}
-
+.abstract-post { display: inline-block; text-align: left; max-width: 40ex; }
 
 [data-bs-theme=light] {
 a.nav-link {color:#c93c22; font-weight:bold;}

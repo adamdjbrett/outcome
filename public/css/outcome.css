@@ -84,6 +84,11 @@ select option:checked{
   padding: 0;
   }
 .tocil a {text-decoration: none;}
+.abstract-post { overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;}
+.img_widget {width:100%;height:150px; object-fit:cover;}
 
 [data-bs-theme=light] {
 a.nav-link {color:#c93c22; font-weight:bold;}
