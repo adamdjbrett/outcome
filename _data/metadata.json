@@ -14,18 +14,22 @@
 	"navbar": [
 		{
 			"name": "Home",
+			"key": "h",
 			"link": "/"
 		},
 		{
 			"name": "About",
+			"key": "a",
 			"link": "/about"
 		},
 		{
 			"name": "Submit",
+			"key": "s",
 			"link": "/how-to-submit/"
 		},
 		{
 			"name": "Contact",
+			"key": "c",
 			"link": "/contact/"
 		}
 	],
@@ -39,18 +43,22 @@
 				[
 					{
 						"name": "Hello World",
+						"key": "q",
 						"link": "/"
 					},
 					{
 						"name": "Apa Kabar Dunia",
+						"key": "x",
 						"link": "/"
 					},
 					{
 						"name": "Lorep Ipsum",
+						"key": "f",
 						"link": "/"
 					},
 					{
 						"name": "Dolor Siamet",
+						"key": "j",
 						"link": "/"
 					}
 				]
@@ -61,18 +69,22 @@
 				[
 					{
 						"name": "For Developer",
+						"key": "d",
 						"link": "/"
 					},
 					{
 						"name": "For Authors",
+						"key": "t",
 						"link": "/"
 					},
 					{
 						"name": "For Sponsor",
+						"key": "s",
 						"link": "/"
 					},
 					{
 						"name": "For Publishers",
+						"key": "p",
 						"link": "/"
 					}
 				]
@@ -83,18 +95,22 @@
 				[
 					{
 						"name": "Home Page",
+						"key": "h",
 						"link": "/"
 					},
 					{
 						"name": "About Page",
+						"key": "a",
 						"link": "/about/"
 					},
 					{
 						"name": "How to Submit",
+						"key": "s",
 						"link": "/how-to-submit/"
 					},
 					{
 						"name": "Contact Us",
+						"key": "c",
 						"link": "/contact/"
 					}
 				]
@@ -107,18 +123,22 @@
 				[
 					{
 						"name": "For Developer",
+						"key": "d",
 						"link": "/"
 					},
 					{
 						"name": "For Authors",
+						"key": "t",
 						"link": "/"
 					},
 					{
 						"name": "For Sponsor",
+						"key": "s",
 						"link": "/"
 					},
 					{
 						"name": "For Publishers",
+						"key": "p",
 						"link": "/"
 					}
 				]
@@ -129,18 +149,22 @@
 				[
 					{
 						"name": "Home Page",
+						"key": "h",
 						"link": "/"
 					},
 					{
 						"name": "About Page",
+						"key": "a",
 						"link": "/"
 					},
 					{
 						"name": "How to Submit",
+						"key": "s",
 						"link": "/"
 					},
 					{
 						"name": "Contact Us",
+						"key": "c",
 						"link": "/"
 					}
 				]
@@ -171,6 +195,7 @@
 	},
 	"search": {
 		"title": "Searching",
+		"key": "ui",
 		"placeholder": "Search Now.."
 	},
 	"footer": {
@@ -200,22 +225,27 @@
 		"menu": [
 			{
 				"name": "Home",
+				"key": "h",
 				"url": "/"
 			},
 			{
 				"name": "About",
+				"key": "a",
 				"url": "/about/"
 			},
 			{
 				"name": "Submit",
+				"key": "s",
 				"url": "/how-to-submit/"
 			},
 			{
 				"name": "Contributor",
+				"key": "b",
 				"url": "/"
 			},
 			{
 				"name": "Contact",
+				"key": "c",
 				"url": "/contact/"
 			}
 		],
@@ -223,26 +253,32 @@
 		"info": [
 			{
 				"name": "Esay",
+				"key": "e",
 				"url": "/"
 			},
 			{
 				"name": "Readers",
+				"key": "w",
 				"url": "/"
 			},
 			{
 				"name": "Blogs",
+				"key": "b",
 				"url": "/"
 			},
 			{
 				"name": "Librarians",
+				"key": "l",
 				"url": "/"
 			},
 			{
 				"name": "Advertisers",
+				"key": "v",
 				"url": "/"
 			},
 			{
 				"name": "Authors",
+				"key": "r",
 				"url": "/"
 			}
 		]

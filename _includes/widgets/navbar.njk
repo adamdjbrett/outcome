@@ -1,5 +1,5 @@
 <div class="row orange text-center">
-{% for n in metadata.navbar %}<a href="{{n.link}}" class="nav-link col-md-3 col-3 text-white"><span class="navis">{{n.name}}</span></a>{% endfor %}
+{% for n in metadata.navbar %}<a href="{{n.link}}" accesskey="{{n.key}}" class="nav-link col-md-3 col-3 text-white"><span class="navis">{{n.name}}</span></a>{% endfor %}
 </div>
 <div class="container">
 <div class="row p-2">
@@ -11,7 +11,7 @@
 </button>
 </div>
 <div class="col-md-7 col-4 p-2 navbar-brand">
-<img class="img-fluid img-logo" alt="" src="{{metadata.sidebar.logo_nav}}">
+<img class="img-fluid img-logo" alt="{{metadata.title}}" src="{{metadata.sidebar.logo_nav}}">
 <strong><a class="no-deco" href="{{metadata.url}}">{{metadata.title}}</a></strong>
 </div>
 <div class="col-md-3 col-4">
