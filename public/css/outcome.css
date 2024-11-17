@@ -55,7 +55,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Arial, Helvetica, sans-serif;}
 .text-big {font-size:20px;}
 .page-link:hover{background-color:#c93c22; color:white;}
 .img-cover {object-fit:cover; width:100%; height:250px;}
-.img-issue {object-fit:cover; width:200px; height:250px;}
+.img-issue {object-fit:cover; width:300px; height:250px;}
 .img-logo {width:35px;height:35px;}
 .img-logo-footer {width:240px;height:60px;}
 .img-logo-nav {width:180px;height:50px;}
