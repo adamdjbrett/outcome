@@ -1,0 +1,12 @@
+<h3 class="col-md-12 p-1">{{widget_title}}</h3>
+<div class="row">
+{% for w in widget %}
+<div class="col-md-4 p-3">
+<div class="bg-body-secondary text-center">
+<a href="{{w.url}}" title="{{w.title}}" class="no-deco">{% if w.image %}<img class="img-fluid img_widget" alt="{{w.title}}" src="{{w.image}}"/>{% endif %}
+<h3 class="p-3">{{w.title}}</h3>
+</a>
+</div>
+</div>
+{% endfor %}
+</div>

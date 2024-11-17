@@ -4,7 +4,7 @@ const pagination = {
 	data: "collections",
 	size: 1,
 	alias: "tag",
-	filter: ["all", "posts"],
+	filter: ["all", "canopyt" , "jc" , "fifi" , "cocor"],
 	// addAllPagesToCollections: true,
 };
 
@@ -17,9 +17,25 @@ const eleventyComputed = {
 	}
 };
 ---
-<h1>Tagged “{{ tag }}”</h1>
-
+<div class="col-md-12 p-3 p-md-5"></div>
+<div class="container-fluid">
+<div class="row mt-5 mb-3">
+<div class="col-md-10 mx-auto p-3 p-md-5">
+<div class="row">
+<h1 class="mb-5">Tagged “{{ tag }}”</h1>
 {% set postslist = collections[ tag ] %}
-{% include "postslist.njk" %}
-
-<p>See <a href="tags.njk">all tags</a>.</p>
+<dov class="row">
+{% for post in postslist | reverse %}
+<div class="col-md-6 col-6 p-3">
+<div class="card bg-body-tertiary">
+{% if post.data.image %}<img class="img-fluid img_tag mb-3" style="width:100%; height:150px; object-fit:cover;" alt="{{post.data.title}}" src="{{post.data.image}}"/>{% endif %}
+<h3 class="p-3"><strong><a href="{{ post.url }}" class="no-deco">{% if post.data.title %}{{ post.data.title }}{% endif %}</a></strong></h3>
+</div>
+</div>
+{% endfor %}
+</div>
+<p class="col-md-12 text-center p-3 mt-3"><a href="/tags/" class="btn btn-orange">Explore all tags</a></p>
+</div>
+</div>
+</div>
+</div>

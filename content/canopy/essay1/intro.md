@@ -2,11 +2,11 @@
 title: "Introduction to 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands"
 description: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Courts landmark ruling in Johnson v. M’Intosh (1823) includes all these elements."
 abstract: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in Johnson v. M’Intosh (1823) includes all these elements. The Johnson decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples."
-image: "https://canopyforum.org/wp-content/uploads/2023/03/Great_Lakes_Seaway_Trail_-_Erie_Bluffs_Shoreline_-_NARA_-_7718816.jpg"
-date: 2023-03-10
+image: "/img/post/NARA.jpg"
+date: 2024-10-20
 doi:  "https://doi.org/10.1558/bsor.25342"
 pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "El Houkayem, M. (2024). Opening the Closet: Manuscripts, Archives, and the Smith Sisters. Bulletin for the Study of Religion, 53(2), 50-54."
+how_to_cite: "Arnold, Philip P., Bigtree, Sandra L., and Brett, Adam DJ. “Introduction to the 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands Series.” March 10, 2023. "
 citation_format: 
  - name: ACM
    link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
@@ -22,12 +22,11 @@ show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "https://canopyforum.org/wp-content/uploads/2023/03/Arnold-Phil-Headshot.jpg"
-   university: "Syracuse University"
+   image: "/img/authors/philips.jpg"
+   university: "Massachusetts Amherst"
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
    information: 
-    - text: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
     - text: "principal investigator for the Henry Luce Grant “200 Years of Johnson v. M’Intosh, the founding director of the Skä·noñh—Great Law of Peace Center, and president of the Indigenous Values Initiative."
    social:
     - icon: "fa-brands fa-google-scholar"
@@ -47,12 +46,11 @@ author:
       title: "Message Philip P Arnold"
  - name: "Sandra Bigtree"
    sort: "2"
-   image: "https://canopyforum.org/wp-content/uploads/2023/03/Sandra-L.-Bigtree-Headshot.jpg"
+   image: "/img/authors/sandra.jpg"
    university: "Syracuse University"
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
    information: 
-    - text: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
     - text: " a member of the Skä·noñh—Great Law of Peace Center Academic Collaborative, and a founding board member of the Indigenous Values Initiative."
    social:
     - icon: "fa-brands fa-google-scholar"
@@ -72,14 +70,13 @@ author:
       title: "Message Sandra Bigtree"
  - name: "Adam Dj Brett"
    sort: "3"
-   image: "https://avatars.githubusercontent.com/u/22662978?v=4"
+   image: "/img/authors/adam.jpeg"
    university: "Syracuse University"
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "I’M A EDUCATOR, RESEARCHER, OPERATIONS MANAGER, AND A WEB DEVELOPER."
    information: 
-    - text: "I love listening, learning, sharing, and hearing stories. Since 2016 I have been working with the American Indian Law Alliance (AILA)."
-    - text: "This work is challening and breaks me great joy. In 2022 I received my Ph.D. in religion from Syracuse University."
-    - text: "I am passionate about researching and teaching the histories of the Doctrine of Discovery."
+    - text: "Adam DJ Brett is the grant and event coordinator for the Doctrine of Discovery Project, funded by the Henry Luce Grant “200 Years of Johnson v. M’Intosh” and supported by the Indigenous Values Initiative and Syracuse University."
+    - text: "He is also an International Research Associate with the American Indian Law Alliance and an adjunct professor of religion at Syracuse University."
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
@@ -97,15 +94,15 @@ author:
       link: "mailto:info@adamdjbrett.com"
       title: "Message Adam Dj Brett"
 tags: 
- - philip p arnold
- - adam dj brett
- - sandra bigtree
+ - Philip P Arnold
+ - Adam Dj Brett
+ - Sandra Bigtree
  - 200 years of johnson
- - native american lands
+ - Native American Lands
  - series
 ---
 
-### Aseloley
+### Introduction
 
 The Doctrine of Discovery — or, more aptly, the [Doctrine of Christian Discovery](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/) — is a theological and legal framework of domination developed in the 15th century by the Roman Catholic Church and European monarchs. First articulated in a series of papal bulls, [_Inter Caetera_](https://doctrineofdiscovery.org/inter-caetera/) (1493), the Doctrine of Discovery asserted the supposed right of European powers to “discover” and claim ownership of lands inhabited by non-Christian peoples. As Shawnee and Lenape legal scholar [Steven T. Newcomb](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php) explains, the Doctrine of Discovery was (and is) a theological and legal attempt to justify the unjustifiable: enslavement, exploitation, dispossession, and extraction.
 
@@ -118,7 +115,7 @@ Methodology
 
 Abolishing something as pernicious as the Doctrine of Christian Discovery requires collaboration between settler-colonial and Indigenous Peoples. As guest editors of this series and members of the Indigenous Values Initiative at Syracuse University, we are guided by Haudenosaunee practices of peace (_Skä·noñh_), described in Betty Lyons’ article. _Skä·noñh_ is attained only when human beings have a proper relationship with the natural world. The Haudenosaunee “Great Binding Peace” is the basis for their understanding of freedom and democracy. This pre-colonial matrilineal clan system of governance has been practiced for thousands of years, throughout periods of warfare, colonization, forced removal, and environmental destruction, which were often conducted under a banner of Christian hegemony. In the 18th century, the Haudenosaunee Confederacy’s non-monarchical system of government was a source of great inspiration to the Founding Fathers. By the 19th century, their matrilineal clan system had influenced the Women’s Rights Movement. 
 
-![](https://canopyforum.org/wp-content/uploads/2023/03/IMG_7564-1024x607.jpg)
+![{{title}}](/img/post/indian.jpg)
 
 “We were planting corn and they were planting crosses.” ~ Faithkeeper Oren Lyons.  
 (Photo by Phillip P. Arnold from the Skä•noñh Great Law of Peace Center.)
