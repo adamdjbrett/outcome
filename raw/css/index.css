@@ -78,6 +78,7 @@ select option:checked{
   color:white;
   }
 .img-issues-post { width: 100%; height: 80px; object-fit:cover;}
+img.content {max-width:100%; height:auto;}
 
 
 [data-bs-theme=light] {
@@ -91,8 +92,6 @@ a,.page-link{color:#ec5033;}
 .btn-orange{background-color:#ec5033;padding:10px;color:#fff}
 .btn-orange:hover, .orange{background-color:#c93c22;padding:10px;color:#fff}
 }
-
-
 
 [data-bs-theme=dark] {
   a.nav-link {color:#e95339; font-weight:bold;}
