@@ -3,10 +3,10 @@ title: "Introduction to 200 Years of Johnson v. M’Intosh: Law, Religion, and N
 description: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Courts landmark ruling in Johnson v. M’Intosh (1823) includes all these elements."
 abstract: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in Johnson v. M’Intosh (1823) includes all these elements. The Johnson decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples."
 image: "/img/post/NARA.jpg"
-date: 2023-03-10
+date: 2023-03-20
 doi:  "https://doi.org/10.1558/bsor.25342"
 pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "El Houkayem, M. (2024). Opening the Closet: Manuscripts, Archives, and the Smith Sisters. Bulletin for the Study of Religion, 53(2), 50-54."
+how_to_cite: "Arnold, Philip P., Bigtree, Sandra L., and Brett, Adam DJ. “Introduction to the 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands Series.” March 10, 2023. "
 citation_format: 
  - name: ACM
    link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
@@ -23,7 +23,7 @@ author:
  - name: "Philip P. Arnold"
    sort: "1"
    image: "/img/authors/philips.jpg"
-   university: "Syracuse University"
+   university: "Massachusetts Amherst"
    orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
    information: 
