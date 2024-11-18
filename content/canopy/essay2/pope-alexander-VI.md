@@ -4,46 +4,28 @@ description: "Archbishop Adrian Tync. Wikimedia CC BY-SA 4.0 This article is par
 abstract: "Shortly before Thanksgiving 2016, Episcopalian priest John Floberg held up a copy of Pope Alexander VI’s 1493 papal bull Inter caetera before a crowd of hundreds of protesters and clerics at North Dakota’s Oceti Sakowin Camp. He asked a committee of Indigenous elders to authorize its burning. They did, the paper went up in flames, and the crowd erupted in applause."
 image: "/img/post/pope.jpg"
 date: 2023-03-21
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "Cavedon, Matthew P. “Did Pope Alexander VI Authorize England’s Colonization of North America?” Canopy Forum, March 21, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+doi:  "https://canopyforum.org/2023/03/21/did-pope-alexander-vi-authorize-englands-colonization-of-north-america/"
+pdf: "/pdf/08-Cavedon.pdf"
+how_to_cite: "Cavedon, Matthew P.. 'Did Pope Alexander VI Authorize England’s Colonization of North America?.' (2023)."
+citation_download: 
+ name: Download Citation
+ link: /bib/cavedon.bib
 show_toc: true
 author: 
  - name: "Matthew Cavedon"
    sort: "1"
    image: "/img/authors/matthew.png"
    university: "Emory University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-orcid"
+    link: "https://orcid.org/0000-0002-4221-1629"
    about: "Matthew Cavedon is the Robert Pool Fellow in Law and Religion at Emory’s Center for the Study of Law and Religion."
    information: 
     - text: "Previously a criminal defense attorney in Gainesville, GA, he graduated from Emory University in 2015 with a law degree and masters of theological studies."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Dana Lloyd Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Dana Lloyd Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Dana Lloyd Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Dana Lloyd Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Dana Lloyd"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0000-0002-4221-1629"
+      title: "Matthew Cavedon Orcid"
 tags: 
  - Matthew Cavedon
  - Pope Alexander
@@ -51,7 +33,7 @@ tags:
  - Cristanity
 ---
 
-### Introdcution
+### INTRODUCTION
 
 Why torch the text? Those present believed, as do many activists today, that _Inter caetera_ was the basis for the English colonization of North America and later U.S. claims to the land formerly held by Indigenous peoples. Early American legal precedent took this view. But that belief is wrong as a matter of history. _Inter caetera’s_ only function in English colonization was as a foil — a symbol of the narrow-minded, theocratic, _Catholic_ Spanish foe. It was emphatically not the historical basis for Anglo-American colonialism. 
 

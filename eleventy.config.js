@@ -32,7 +32,8 @@ export default async function(eleventyConfig) {
 		if (process.env.ELEVENTY_ENV !== 'production' || !outputPath.endsWith('.html')) {
 		  return content;
 		}
-	  
+		
+
 // 		eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
 //		eleventyConfig.addFilter("head", (array, n) => {
 //			if(!Array.isArray(array) || array.length === 0) {

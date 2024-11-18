@@ -4,46 +4,28 @@ description: "This article is part of our “200 Years of Johnson v. M’Intosh:
 abstract: "February 28, 2023 marked 200 years since Chief Justice John Marshall delivered a unanimous decision for the U.S. Supreme Court in the case Johnson & Graham’s Lessee v. M’Intosh. This decision enshrined into the system of ideas and arguments called “U.S. law,” the assertion that the Christian nations of Europe, and their political successors, had a right of discovery and domination (“ultimate dominion”) against the original nations and peoples of this continent. At one point, the Court used the phrase “natives who were heathens,” language which is traced to the Bible and to Vatican documents from the fifteenth century."
 image: "/img/post/puzzle.jpg"
 date: 2023-04-13
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "Newcomb, Steven T. “Johnson v. M’Intosh and the Missing Cover of the Jigsaw Puzzle.” Canopy Forum, April 13, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+doi:  "https://canopyforum.org/2023/04/13/johnson-v-mintosh-and-the-missing-cover-of-the-jigsaw-puzzle/"
+pdf: "/pdf/02-Newcomb.pdf"
+how_to_cite: "Newcomb, Steven T. 'Johnson v. M'Intosh and the Missing Cover of the Jigsaw Puzzle.' (2023)."
+citation_download: 
+ name: Download Citation
+ link: /bib/newcomb.bib
 show_toc: true
 author: 
  - name: "Steven T. Newcomb"
    sort: "1"
    image: "/img/authors/steven.png"
    university: "Indigenous Law Institute"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-solid fa-link"
+    link: "https://originalfreenations.com/about/"
    about: "Steven T. Newcomb (Shawnee, Lenape) is the co-founder and co-director of the Indigenous Law Institute, along with Birgil Kills Straight who is an Oglala Lakota headman and ceremonial person."
    information: 
     - text: "Steve Newcomb is the author of Pagans in the Promised Land: Decoding the Doctrine of Christian Discovery and co-producer of the documentary film, The Doctrine of Discovery: Unmasking the Domination Code, directed by Sheldon Wolfchild (Dakota). He is one of the world’s foremost authorities on the Doctrine of Discovery based on the 40 years he has spent investigating and writing about these issues. He has been a tireless advocate for Indigenous nations and peoples for decades and his work has now become a global movement."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Steven T. Newcomb Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Steven T. Newcomb Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Steven T. Newcomb Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Steven T. Newcomb Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Steven T. Newcomb"
+    - icon: "fa-solid fa-link"
+      link: "https://originalfreenations.com/about/"
+      title: "Steven T. Newcomb Profile"
 tags: 
  - Steven T Newcomb
  - Property Law
@@ -51,7 +33,7 @@ tags:
  - Indigenous Religious Traditions
 ---
 
-### Introdcution
+### INTRODUCTION
 
 In the 1980s, during my first decade researching the Supreme Court ruling _Johnson v._ _M’Intosh_, it occurred to me that I was working on a task analogous to combining the intricate pieces of a jigsaw puzzle. In my case, however, I did not have the benefit of an image on the cover to know what the puzzle would look like when completed. As I continued to work on “the puzzle” of the _Johnson_ ruling, I gained a deeper understanding, while at the same time adding additional “pieces” to the mix, increasing the complexity of the puzzle.
 

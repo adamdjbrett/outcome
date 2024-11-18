@@ -5,45 +5,27 @@ abstract: "In 1823, the U.S. Supreme Court handed down a decision in Johnson v M
 image: "/img/post/supreme.jpg"
 date: 2023-03-18
 doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "Lloyd, Dana. “Haaland v. Brackeen and the Logic of Discovery.” Canopy Forum, March 18, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+pdf: "/pdf/09-Lloyd.pdf"
+how_to_cite: "Lloyd, Dana. 'Haaland v. Brackeen and the Logic of Discovery.' (2023)."
+citation_download: 
+ name: Download Citation
+ link: /bib/lloyd.bib
 show_toc: true
 author: 
  - name: "Dana Lloyd"
    sort: "1"
    image: "/img/authors/dana.png"
    university: "Villanova University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-orcid"
+    link: "https://orcid.org/0000-0002-8108-6373"
    about: "Dana Lloyd is an Assistant Professor of Global Interdisciplinary Studies at Villanova University."
    information: 
     - text: "Her first book, Land is Kin: Sovereignty, Religious Freedom, and Indigenous Sacred Sites, is forthcoming with University Press of Kansas this Fall."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Dana Lloyd Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Dana Lloyd Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Dana Lloyd Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Dana Lloyd Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Dana Lloyd"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0000-0002-8108-6373"
+      title: "Dana Lloyd Orcid"
 tags: 
  - Dana Lloyd
  - Order
@@ -51,7 +33,7 @@ tags:
  - Legality
 ---
 
-### Introdcution
+### INTRODUCTION
 
 This essay reads the _Brackeen_ case as an integral part of the legacy of _Johnson_, and as following a logic of discovery, which _Johnson_ pushed forward and into U.S. law. While the _Brackeen_ case has not been decided yet at the time of this writing, the fact that the Supreme Court has granted certiorari is reason enough for me to offer this reading of the case.  
 

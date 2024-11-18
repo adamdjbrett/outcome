@@ -4,54 +4,36 @@ description: "This article is part of our “200 Years of Johnson v. M’Intosh:
 abstract: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. - Legacy embeds the actions and inactions of those before us into the current legal, political, and social processes. Reverberating through history are the echoes of words that canonized inequity in the systemic structures of federalism in the United States. In 1823,"
 image: "/img/post/legcay.jpg"
 date: 2023-04-01
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
+doi:  "https://canopyforum.org/2023/04/01/the-legacy-of-the-right-to-control-land-and-dependency/"
+pdf: "/pdf/04-Malloy.pdf"
 how_to_cite: "Malloy, Kerri J. “The Legacy of the Right to Control Land and Dependency.” Canopy Forum. April 1, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+citation_download: 
+ name: Download Citation
+ link: /bib/malloy.bib
 show_toc: true
 author: 
  - name: "Kerri J. Malloy"
    sort: "1"
    image: "/img/authors/malloy.jpg"
    university: "San José State University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-orcid"
+    link: "https://orcid.org/0000-0002-7043-7721"
    about: "Kerri J. Malloy is an Assistant Professor of Global Humanities and Special Advisor on Native American and Indigenous Studies to the Office of the Provost at San José State University. "
    information: 
     - text: "His research focuses on Indigenous genocide, healing, and reconciliation in North America and the necessity of systemic change within social structures to advance transitional justice."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Dana Lloyd Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Dana Lloyd Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Dana Lloyd Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Dana Lloyd Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Dana Lloyd"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0000-0002-7043-7721"
+      title: "Kerri J. Malloy Orcid Profile"
 tags: 
- - Alexandra Fay
+ - Kerri J Malloy
  - Property Law
  - History
  - Indigenous Religious Traditions
 ---
 
-### Introdcution
+### INTRODUCTION
 
 Legacy embeds the actions and inactions of those before us into the current legal, political, and social processes. Reverberating through history are the echoes of words that canonized inequity in the systemic structures of federalism in the United States. In 1823, the [U.S. Supreme Court](https://www.supremecourt.gov/opinions/21pdf/19-1392_6j37.pdf) decision in _[Johnson & Graham’s Lessee v. M’Intosh](https://www.oyez.org/cases/1789-1850/21us543)_ infused the [Doctrine of Discovery](https://www.law.cornell.edu/wex/doctrine_of_discovery) as the law of the land and as the cornerstone for [federal Indian law](https://www.courts.ca.gov/27002.htm) for the next two centuries. Along with the two other chapters of the [Marshall Trilogy](https://uaf.edu/tribal/academics/112/unit-1/marshalltrilogy.php), [_Cherokee Nation v. Georgia_](https://www.law.cornell.edu/supremecourt/text/30/1) (1831) and [_Worcester v. Georgia_](https://www.oyez.org/cases/1789-1850/31us515) (1832), solidified the [plenary power](https://www.law.cornell.edu/wex/plenary_power) of the federal government over [Indian tribes](https://www.law.cornell.edu/uscode/text/34/12133) that remains intact today. 
 

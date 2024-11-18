@@ -4,53 +4,31 @@ description: "2023 is the bi-centennial year of Johnson v. McIntosh, the case th
 abstract: "2023 is the bi-centennial year of Johnson v. McIntosh, the case that put ‘Christian discovery’ into US property law in a way that simultaneously created ‘federal Indian law’: The 200th year since the imposition of domination on the basis of a religious and racist theory of humankind. A domination that two-hundred years later is still considered ‘law.’"
 image: "/img/post/federal.png"
 date: 2023-03-07
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
+doi:  "https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/"
+pdf: "/pdf/12-dErrico.pdf"
 how_to_cite: "d’Errico, Peter. “Federal Anti-Indian Law: The Legal Entrapment of Indigenous Peoples.” Canopy Forum, March 7, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+citation_download: 
+ name: Download Citation
+ link: /bib/d'errico.bib
 show_toc: true
+custom_icon: 
+ link: https://www.researchgate.net/profile/Peter-Derrico
+ icon: /img/ResearchGate_icon_SVG.svg
 author: 
  - name: "Peter d’Errico"
    sort: "1"
    image: "/img/authors/peter.png"
-   university: "Syracuse University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   university: "University of Massachusetts Amherst"
    about: "Peter d’Errico graduated from Yale Law School, was an attorney at Dinébe’iiná Náhiiłna be Agha’diit’ahii, Navajo Legal Services, and a founding professor of Legal Studies at the University of Massachusetts Amherst."
    information: 
     - text: "He litigated on behalf of Native prisoners’ freedom of religion; Mashpee Wampanoag fishing rights; Western Shoshone land rights; and other Indigenous cases."
-   social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Peter d’Errico Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Peter d’Errico Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Peter d’Errico Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Peter d’Errico Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Peter d’Errico"
 tags: 
  - Peter d’Errico
  - Federal Anti-Indian Law
  - The Legal Entrapment of Indigenous Peoples
  - politics
 ---
-### Introduction
+### INTRODUCTION
 
 This book tells the story of Christian discovery, the legal doctrine underpinning U.S. dispossession and domination of Indigenous peoples. The doctrine, which essentially states that the United States owns all Native lands, haunts American law to this day. It forms the bedrock of what is known as “federal Indian law”; in fact, federal Indian law is a matrix for domination, which is why I call it “federal anti-Indian law.” 
 

@@ -4,54 +4,32 @@ description: "This article is part of our “200 Years of Johnson v. M’Intosh:
 abstract: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. The International Law of Colonialism:Johnson v. M’Intosh and the Doctrine of Discovery Applied Worldwide"
 image: "/img/post/colonial.jpeg"
 date: 2023-03-30
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
+doi:  "https://canopyforum.org/2023/03/30/the-international-law-of-colonialism-johnson-v-mintosh-and-the-doctrine-of-discovery-applied-worldwide/"
+pdf: "/pdf/05-Miller.pdf"
 how_to_cite: "Miller, Robert J. “The International Law of Colonialism: Johnson v. M’Intosh and the Doctrine of Discovery Applied Worldwide.” Canopy Forum, March 30, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+citation_download: 
+ name: Download Citation
+ link: /bib/miller.bib
+custom_icon: 
+ link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=354803
+ icon: /img/ssrn.png
 show_toc: true
 author: 
  - name: "Robert J. Miller"
    sort: "1"
    image: "/img/authors/miller.png"
    university: "Sandra Day O’Connor College of Law"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
    about: "Robert J. Miller is a professor at the Sandra Day O’Connor College of Law where he is also the Willard H. Pedrick Distinguished Research Scholar and the Director of the Rosette LLP American Indian Economic Development Program."
    information: 
     - text: "He is the Chief Justice of the Pascua Yaqui Tribe Court of Appeals, a citizen of the Eastern Shawnee Tribe, and was elected a member of the American Philosophical Society in 2014."
-   social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Dana Lloyd Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Dana Lloyd Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Dana Lloyd Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Dana Lloyd Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Dana Lloyd"
 tags: 
- - Alexandra Fay
+ - Robert J Miller
  - Property Law
  - History
  - Indigenous Religious Traditions
 ---
 
-### Introdcution
+### INTRODUCTION
 
 The United States Supreme Court’s first Indian law case, [_Johnson v. M’Intosh_](https://tile.loc.gov/storage-services/service/ll/usrep/usrep021/usrep021543/usrep021543.pdf), was decided in 1823. In that case, the Court summarized and then applied four hundred years of international law and colonization to the Indigenous nations and peoples within the United States. _Johnson_ is still the law in the United States today and has also influenced the jurisprudence and histories of [other settler colonial countries](https://global.oup.com/academic/product/discovering-indigenous-lands-9780199579815?cc=us&lang=en&) around the world. _Johnson_ has been cited scores of times by courts in New Zealand, Australia, and Canada, as well as by the British Privy Council. The elements or factors that make up this international law have been used by European colonizer countries since the early 1400s to establish empires around the world. These elements are plainly visible in the histories and policies of both former colonizer and formally colonized countries, as well as in these countries’ contemporary laws. For example, the elements are still present in the laws and policies of the [United States](https://heinonline.org/HOL/LandingPage?handle=hein.journals/idlr42&div=7&id=&page=), [Chile](https://heinonline.org/HOL/LandingPage?handle=hein.journals/nebklr89&div=32&id=&page=), and [Brazil](https://heinonline.org/HOL/LandingPage?handle=hein.journals/bjil37&div=4&id=&page=).
 

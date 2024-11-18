@@ -89,6 +89,10 @@ select option:checked{
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;}
 .img_widget {width:100%;height:150px; object-fit:cover;}
+.link_doi { 
+  word-wrap: break-word
+}
+
 
 [data-bs-theme=light] {
 a.nav-link {color:#c93c22; font-weight:bold;}

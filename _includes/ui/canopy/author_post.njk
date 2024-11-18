@@ -26,9 +26,9 @@ border-radius: 90px; "
 </div>
 <div class="col-md-9 col-8 p-3">
 <p>
-<strong><a href="#" class="no-deco" data-bs-toggle="modal" data-bs-target="#{{a.sort}}Modal"> 
-{{a.name}}</a></strong> <a href="{{a.orchid}}" class="no-deco"><img class="img-fluid ms-1" 
-src="/img/orchid.svg" width="20" height="20"/></a>
+<strong><a href="#" class="no-deco me-1" data-bs-toggle="modal" data-bs-target="#{{a.sort}}Modal"> 
+{{a.name}}</a></strong> {% if a.profile_icon %}<a href="{{a.profile_icon.link}}" class="no-deco"><i class="{{a.profile_icon.icon}} text-success ms-1"></i></a>{% endif %}
+{% if custom_icon %}<a href="{{custom_icon.link}}" class="btn btn-sm me-3"><img class="img-fluid" src="{{custom_icon.icon}}" width="24" height="24"/></a>{% endif %}</a>
 <br/><small>{{a.university}}</small>
 {% include "ui/canopy/profile.njk" %}
 </p>
