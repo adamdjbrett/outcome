@@ -9,7 +9,7 @@ pdf: "/pdf/06-Fay.pdf"
 how_to_cite: "Alexandra, Fay. 'Johnson v. M’Intosh, Plenary Power, and Our Colonial Constitution.' (2023)."
 citation_download: 
  name: Download Citation
- link: /bib/d'errico.bib
+ link: /bib/alexandra.bib
 show_toc: true
 author: 
  - name: "Alexandra Fay"
