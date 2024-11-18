@@ -4,46 +4,28 @@ description: "Mother Earth is the wellspring of indigenous culture, religion, an
 abstract: "Mother Earth is the wellspring of indigenous culture, religion, and economic life. It forms the identity of Native Americans as indigenous peoples.rom the beginning, the appropriation and distribution of Indigenous land had to be orderly. Settler-colonists needed a system to avoid haphazard, disorganized tribal land transactions and achieve their goal of the private commodification of the expanding American frontier. "
 image: "/img/post/national.jpg"
 date: 2023-03-11
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "Little, Andrew. “Order, Economy, and Legality: Johnson v. M’Intosh after Two Hundred Years.” Canopy Forum, March 11, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+doi:  "https://canopyforum.org/2023/03/11/order-economy-and-legality-johnson-v-mintosh-after-two-hundred-years/"
+pdf: "/pdf/11-Little.pdf"
+how_to_cite: "Little, Andrew. 'Order, Economy, and Legality: Johnson v. M’Intosh after Two Hundred Years.' (2023)."
+citation_download: 
+ name: Download Citation
+ link: /bib/little.bib
 show_toc: true
 author: 
  - name: "Andrew Little"
    sort: "1"
    image: "/img/authors/andrew.png"
    university: "Abilene University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-google-scholar"
+    link: "https://scholar.google.com/citations?user=Glzgi-IAAAAJ&hl=en"
    about: "Andrew Little is an associate professor of business law in the College of Business Administration at Abilene Christian University in Texas, where he also serves as associate dean. "
    information: 
     - text: "His research interests include corporate social responsibility, legal history, and land use and natural resource law"
    social:
     - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
+      link: "https://scholar.google.com/citations?user=Glzgi-IAAAAJ&hl=en"
       title: "Andrew Little Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Andrew Little Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Andrew Little Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Andrew Little Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Andrew Little"
 tags: 
  - Andrew Little
  - Order
@@ -51,7 +33,7 @@ tags:
  - Legality
 ---
 
-### Introdcution
+### INTRODUCTION
 
 From the beginning, the appropriation and distribution of Indigenous land had to be orderly. Settler-colonists needed a system to avoid haphazard, disorganized tribal land transactions and achieve their goal of the private commodification of the expanding American frontier. The settlers were well-versed in creating systems, in contrast to how they regarded the supposedly “inferior” native peoples. Condescending views of Indigenous lifeways predominated. [William Cronon](https://us.macmillan.com/books/9780809016341/changesinthelandrevisededition) quotes one colonial apologist as arguing “the Indians ‘were not industrious, neither have art, science, skill or faculty to use either the land or the commodities of it’” (p. 56). The colonists self-assuredly possessed all those techniques, plus racism, and built orderly systems of conveyances and record-keeping to support flourishing market prosperity in land. Legal historian [Lawrence Friedman](https://law.stanford.edu/publications/a-history-of-american-law-3rd-ed/) notes that, for the American mind in the seventeenth and eighteenth centuries, “The land was a commodity, an asset, something to be bought and sold . . . the point was to transfer it to private citizens, in an orderly, fruitful way” (p. 168). To create this orderly, fruitful economy, settlers needed the firm application of the rule of law. 
 

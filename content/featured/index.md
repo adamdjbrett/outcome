@@ -6,6 +6,7 @@ description: "Produced through a partnership between Canopy Forum, the Indigenou
 abstract: "Produced through a partnership between Canopy Forum, the Indigenous Values Initiative (IVI), and Syracuse University, this series of essays brings together religion scholars, legal scholars, and Indigenous activists to explore the problematic legacy of Johnson v. M’Intosh (1823) and the 15th century Doctrine of (Christian) Discovery – a legal and religious rationale by which European powers claimed the right to discover and claim lands inhabited by non-Christian peoples."
 breadcumb: Featured
 show_toc: true
+pdf_download: /pdf/00-overview.pdf
 pagination:
   data: collections.fifi
   size: 6
@@ -18,7 +19,7 @@ testdata:
 permalink: "featured/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---
 
-### Introduction
+### INTRODUCTION
 
 Produced through a partnership between _Canopy Forum_, the Indigenous Values Initiative (IVI), and Syracuse University, this series of essays brings together religion scholars, legal scholars, and Indigenous activists to explore the problematic legacy of _Johnson v. M’Intosh_ (1823) and the 15th century Doctrine of (Christian) Discovery – a legal and religious rationale by which European powers claimed the right to discover and claim lands inhabited by non-Christian peoples. Focusing primarily on the 19th through the 21st centuries, these essays illustrate how _Johnson_ and the Doctrine of Christian Discovery have global import to [Turtle Island](https://en.wikipedia.org/wiki/Turtle_Island_(Native_American_folklore)) (especially the United States and Canada) and [Aotearoa](https://en.wikipedia.org/wiki/Aotearoa) (New Zealand). 
 

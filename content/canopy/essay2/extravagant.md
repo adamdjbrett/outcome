@@ -4,51 +4,35 @@ description: "The George Washington Belt, the Two Row Wampum, and the Hiawatha B
 abstract: "The George Washington Belt, the Two Row Wampum, and the Hiawatha Belt. The Canandaigua, Two Row, and Haudenosaunee Confederacy Wampum Belts. Image by Lindsay Speer, 2008. This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series."
 image: "/img/post/extravagant.jpg"
 date: 2023-03-23
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
+doi:  "https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh/"
+pdf: "/pdf/07-Lyons-Brett.pdf"
 how_to_cite: "Lyons, Betty and Adam DJ Brett. “However, Extravagant The Pretensions Of Johnson V. M’Intosh.” Canopy Forum, March 23, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+citation_download: 
+ name: Download Citation
+ link: /bib/brett-lyons.bib
 show_toc: true
 author: 
  - name: "Betty Lyons"
    sort: "1"
    image: "/img/authors/betty.jpg"
    university: "American Indian Law Alliance"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: ""
+    link: "https://orcid.org/0009-0009-9244-7857"
    about: "President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation. Betty has worked for the Onondaga Nation for over 20 years."
    information: 
     - text: "Ms. Lyons serves as a member of the Haudenosaunee External Relations Committee and has been an active participant at the annual United Nations Permanent Forum on Indigenous Issues (UNPFII) since the first session in 2001 as a delegate of the Onondaga Nation. Betty attended Cazenovia College and is a Bryant Stratton College Graduate of the Paralegal Program."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Sandra Bigtree Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Sandra Bigtree Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Sandra Bigtree Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Sandra Bigtree Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Sandra Bigtree"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0009-0009-9244-7857"
+      title: "Betty Lyons Google Schollar"
  - name: "Adam Dj Brett"
    sort: "2"
    image: "/img/authors/adam.jpeg"
    university: "Syracuse University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-orcid"
+    link: "https://orcid.org/0009-0004-6725-8425"
    about: "I’M A EDUCATOR, RESEARCHER, OPERATIONS MANAGER, AND A WEB DEVELOPER."
    information: 
     - text: "Adam DJ Brett is the grant and event coordinator for the Doctrine of Discovery Project, funded by the Henry Luce Grant “200 Years of Johnson v. M’Intosh” and supported by the Indigenous Values Initiative and Syracuse University."
@@ -60,9 +44,12 @@ author:
     - icon: "fa-solid fa-school"
       link: "https://nabpr.org/officers/"
       title: "Adam Dj Brett Social"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0009-0004-6725-8425"
+      title: "Adam Dj Brett Orcid"
     - icon: "fa-solid fa-globe"
       link: "https://www.adamdjbrett.com/"
-      title: "Adam Dj Brett Social Media"
+      title: "Adam Dj Brett Website"
     - icon: "fa-brands fa-github"
       link: "https://github.com/adamdjbrett"
       title: "Adam Dj Brett Github"
@@ -81,7 +68,7 @@ tags:
 
 > — Oren Lyons, “The Ice is Melting in the North”
 
-### Introduction
+### INTRODUCTION
 
 The original free nations of Turtle Island have lived in a relationship with Mother Earth and all living beings since the beginning of time. There have been times of great harmony and balance and times — like now — of war and imbalance. Thousands of years ago, before the Haudenosaunee Confederacy was formed, the nation fought against the nation, and there was an imbalance. During this time, the Creator sent a prophet, the Peacemaker. The Peacemaker arrived on the shores of Onondaga Lake in a stone canoe. There on the shoes of the Onondaga lake, he met Hiawatha. Hiawatha listened to the Peacemaker’s message of cooperation, peace, and a Good Mind. Tadodaho, a powerful sorcerer and warlord, sought revenge against Hiawatha and killed his daughters as retribution for Hiawatha following the Peacemaker. Grieving, Hiawatha returned to Onondaga lake, where he saw glistening white Quahog shells called wampum. Using these shells, he developed a process to cope with his grief. The Condolence Ceremony clears the eyes, ears, and throat; this practice continues even to this day. 
 

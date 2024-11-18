@@ -4,46 +4,28 @@ description: "Wife and Child of Bull Plume&#8221; by Kathryn Woodman Leighton (W
 abstract: "Wife and Child of Bull Plume&#8221; by Kathryn Woodman Leighton (Wikimedia PD-US) This article is part of our “200 Years of&nbsp;Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. In Johnson v. M’Intosh, Chief Justice John Marshall articulated the doctrine of discovery as a justification for the legal subordination of Native people and their rights. "
 image: "/img/post/plenary.jpg"
 date: 2023-03-29
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "Fay, Alexandra. “Johnson v. M’Intosh, Plenary Power, and Our Colonial Constitution.” Canopy Forum, March 29, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+doi:  "https://canopyforum.org/2023/03/29/johnson-v-mintosh-plenary-power-and-our-colonial-constitution/"
+pdf: "/pdf/06-Fay.pdf"
+how_to_cite: "Alexandra, Fay. 'Johnson v. M’Intosh, Plenary Power, and Our Colonial Constitution.' (2023)."
+citation_download: 
+ name: Download Citation
+ link: /bib/d'errico.bib
 show_toc: true
 author: 
  - name: "Alexandra Fay"
    sort: "1"
    image: "/img/authors/fay.png"
    university: "Emory University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-orcid"
+    link: "https://orcid.org/0009-0000-0358-1208"
    about: "Alexandra Fay is the inaugural Richard M. Milanovich Fellow at the Native Nations Law & Policy Center of UCLA School of Law."
    information: 
     - text: "She writes about federal Indian law, tribal sovereignty, and critical race theory."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Dana Lloyd Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Dana Lloyd Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Dana Lloyd Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Dana Lloyd Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Dana Lloyd"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0009-0000-0358-1208"
+      title: "Alexandra Fay Orcid"
 tags: 
  - Alexandra Fay
  - Constitutional Law
@@ -51,7 +33,7 @@ tags:
  - Indigenous Religious Traditions
 ---
 
-### Introdcution
+### INTRODUCTION
 
 In [_Johnson v. M’Intosh_](https://supreme.justia.com/cases/federal/us/21/543/)_,_ Chief Justice John Marshall articulated the doctrine of discovery as a justification for the legal subordination of Native people and their rights. In European international law, the [doctrine of discovery](https://www.law.cornell.edu/wex/doctrine_of_discovery) gave European empires the legal right to settle whichever parts of the New World they “discovered.” Inherent to this idea was the presumption that Native lands were available for settlement and civilization by the Christian nations of Europe. By importing this doctrine into American law, the Supreme Court justified American claims over Native lands, disregarding Native Nations’ rights to their sovereign territory. Even in that 1823 decision, the Supreme Court demonstrated discomfort with the pretensions of empire — the brazen assertions of colonial claims at odds with the reality of a continent already settled by Indigenous civilizations. Two hundred years later, legal principles derived from conquest maintain their hold on federal Indian law. To this day, the doctrine of discovery and its progeny remain glaring examples of the colonial commitments of American law. Thus, via the doctrine of discovery, the United States owned title to all the lands it won in the Revolutionary War, subject only to the Indian right of occupancy. Moreover, according to the Court, the United States retained exclusive power to extinguish that Indian right of occupancy.
 

@@ -4,54 +4,36 @@ description: "Many groups and organizations have taken actions to repudiate the 
 abstract: "any groups and organizations have taken actions to repudiate the Doctrine of Discovery. In an opinion piece published in Canada’s Globe and Mail in Aug 2022, Douglas Sanderson asserts that the Doctrine of Discovery had little influence on the relationship between Indigenous peoples and the French and English who treated Indigenous nations as equals. The Doctrine of Discovery seeks to explain how European nations dispossessed Indigenous peoples of their land and rights. Sanderon claims that giving force to the Doctrine of Discovery (which he understands as an American legal fiction) in Canada misrepresents Indigenous history. Further, Mr. Sanderson explains that after the invention of this doctrine which, “neatly explained Indigenous dispossession in a sentence or two” no one cared about the past and “the story of relationships based in diplomacy and alliance slipped almost from memory.” "
 image: "/img/post/firt_nation.jpg"
 date: 2023-03-14
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "Tremblay, Mark. “The Contemporary Presence of Discovery’s Assertion in Canada.” Canopy Forum, March 14, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+doi:  "https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/"
+pdf: "/pdf/10-Tremblay.pdf"
+how_to_cite: "Tremblay, Mark. 'The Contemporary Presence of Discovery’s Assertion in Canada.' (2023)."
+citation_download: 
+ name: Download Citation
+ link: /bib/Tremblay.bib
 show_toc: true
 author: 
  - name: "Mark Tremblay"
    sort: "1"
    image: "/img/authors/mark.png"
    university: "Claremont University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-linkedin"
+    link: "https://www.linkedin.com/in/mark-tremblay-06392030/"
    about: "Mark Tremblay is an ordained minister in The Presbyterian Church in Canada living in Calgary, AB."
    information: 
     - text: "He has advanced degrees in Philosophy from the Claremont Graduate University and the University of Wales, Swansea."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Mark Tremblay Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Mark Tremblay Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Mark Tremblay Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Mark Tremblay Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Mark Tremblay"
+    - icon: "fa-brands fa-linkedin"
+      link: "https://www.linkedin.com/in/mark-tremblay-06392030/"
+      title: "Mark Tremblay Linked"
 tags: 
- - Andrew Little
+ - Mark Tremblay
  - Order
  - Economy
  - Legality
 ---
 
-### Introdcution
+### INTRODUCTION
 
 I think Mr. Sanderson provides a reminder of what can easily be forgotten in Indigenous–settler relations — namely, the relationship. In 2015, the Truth and Reconciliation Commission (TRC) called the relationship between Canada and Indigenous peoples “broken.” It advanced the United Nations Declaration on the Rights of Indigenous People as the framework for reconciliation. [Call to Action 47](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/calls_to_action_english2.pdf) asked for the repudiation of the Doctrine of Discovery and other colonial concepts that reinforce European sovereignty over Indigenous peoples and lands. There are both negative and positive actions required to begin the long process of establishing and maintaining a mutually respectful relationship between Indigenous and non-Indigenous peoples. This is what the TRC identifies as reconciliation. Attitudes and lives must change. The following attempts to show how the Doctrine of Discovery continues to be a barrier in Canada to the kind of reconciliation the TRC advocates.
 

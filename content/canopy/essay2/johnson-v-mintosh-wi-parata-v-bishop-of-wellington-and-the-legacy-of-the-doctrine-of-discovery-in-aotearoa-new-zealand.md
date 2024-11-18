@@ -4,46 +4,28 @@ description: "Here in Aotearoa-New Zealand the doctrine of discovery is, for man
 abstract: "Here in Aotearoa-New Zealand the doctrine of discovery is, for many, a very new concept. If people knew of it at all, they assumed it to be relevant to the history of the Americas, but not to Aotearoa-New Zealand. This is in part due to our preoccupation with the colonial fiction of a “kind settlement.” A concerted grassroots campaign organized during the 2019 national commemorations of James Cook’s invasion in 1769 resulted in heightened awareness of his imperial intent. Consequently, there has been a somewhat belated awakening for Aotearoa-New Zealand to the reality of how the doctrine of discovery arrived here and has come to shape our existence."
 image: "/img/post/lake.jpeg"
 date: 2023-04-11
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "Ngata, Tina. “Johnson v. M’intosh, Wi Parata v. Bishop of Wellington, and the Legacy of the Doctrine of Discovery in Aotearoa-New Zealand.” Canopy Forum, April 11, 2023."
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+doi:  "https://canopyforum.org/2023/04/11/johnson-v-mintosh-wi-parata-v-bishop-of-wellington-and-the-legacy-of-the-doctrine-of-discovery-in-aotearoa-new-zealand/"
+pdf: "/pdf/03-Ngata.pdf"
+how_to_cite: "Ngata, Tina. 'Johnson v. M’Intosh, Wi Parata v. Bishop of Wellington, and the Legacy of the Doctrine of Discovery in Aotearoa-New Zealand.' (2023)."
+citation_download: 
+ name: Download Citation
+ link: /bib/ngata.bib
 show_toc: true
 author: 
  - name: Tina Ngata
    sort: "1"
    image: "/img/authors/tina.png"
    university: "Manaaki Matakaoa"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-orcid"
+    link: "https://orcid.org/0000-0002-5852-3627"
    about: "Tina Ngata is a Ngati Porou author, advocating for environmental, Indigenous, and human rights. Her background is in holistic approaches to public health, including oranga taiao (environmental wellbeing) and oranga whanau (collective wellbeing)."
    information: 
     - text: "Since 2019, Tina has been developing models of wellbeing and protection, founding the award-winning Manaaki Matakaoa program that uses community-centered, flaxroots oranga services to build a community-based health infrastructure."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Dana Lloyd Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Dana Lloyd Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Dana Lloyd Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Dana Lloyd Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Dana Lloyd"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0000-0002-5852-3627"
+      title: "Tina Ngata Orcid"
 tags: 
  - Tina Ngata
  - Property Law
@@ -51,7 +33,7 @@ tags:
  - Indigenous Religious Traditions
 ---
 
-### Introdcution
+### INTRODUCTION
 
 Here in Aotearoa-New Zealand the doctrine of discovery is, for many, a very new concept. If people knew of it at all, they assumed it to be relevant to the history of the Americas, but not to Aotearoa-New Zealand. This is in part due to our preoccupation with the colonial fiction of a “kind settlement.” A concerted grassroots campaign organized during the 2019 national commemorations of James Cook’s invasion in 1769 resulted in heightened awareness of his imperial intent. Consequently, there has been a somewhat belated awakening for Aotearoa-New Zealand to the reality of how the doctrine of discovery arrived here and has come to shape our existence.
 

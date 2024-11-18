@@ -1,0 +1,67 @@
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+		<script type="text/javascript" src="/js/priority-queue.js"></script>
+		<script type="text/javascript" src="/js/bibtex_js.js"></script>
+		<!-- Insert your bibtex entries in "bibtex_input" (or dynamically load them from a .bib file on your server) !-->
+		<div id="bibtex_input" style="display:none;">
+		@misc{arnold_introduction_2023,
+	type = {Peer {Reviewed}},
+	title = {Introduction to 200 {Years} of {Johnson} v. {M}’{Intosh}: {Law}, {Religion}, and {Native} {American} {Lands}},
+	copyright = {All rights reserved},
+	shorttitle = {Introduction to 200 {Years} of {Johnson} v. {M}’{Intosh}},
+	url = {https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/},
+	language = {English},
+	journal = {Canopy Forum},
+	author = {Arnold, Philip P. and Bigtree, Sandra L. and Brett, Adam D.J.},
+	month = mar,
+	year = {2023},
+}
+	</div>
+</head>
+
+<!-- The references will be populated in "bibtex_display" !-->
+<div id="bibtex_display">   
+</div>
+<div class="bibtex_template">
+	<div class ="well">
+		<div class ="container">
+			<div class="if author" style="font-weight: bold;">
+				<span class="author"></span>
+				<span class="if year"> (<span class="year"></span>) </span>
+				<span class="if url" style="margin-left: 5px">
+					<a class="url " style="color:black; font-size:10px"><span class="url"></span></a>
+				</span>
+			</div>
+
+			<!-- This div is what is used to determine what is displayed from the bib entry. It is written to produce (roughly) APA formatting, though it is not perfect... !-->
+			<div style="margin-left: 10px; margin-bottom:5px;">
+				<span class="title "></span>.
+				<span class="if editor ">
+					In <span class="editor "></span> (Eds.),
+				</span>
+				<span class="if booktitle ">
+					<span class="booktitle " style="font-style: italic;"></span>
+					<span class="if pages ">
+						(p. <span class="pages "></span>).
+					</span>
+					<span class="if address "><span class="address "></span>:</span>
+					<span class="if publisher "><span class="publisher "></span>.</span>
+				</span>
+				<span class="if journal " style="font-style: italic;">
+					<span class="journal"></span>,
+				</span>
+				<span class="if volume " style="font-style: italic;">
+					<span class="volume"></span>
+				</span>
+				<span class="if number ">
+					(<span class="number "></span>),
+				</span>
+				<span class="if journal ">
+					<span class="if pages ">
+						<span class="pages "></span>.
+					</span>
+				</span>
+			</div>
+
+		</div>
+	</div>
+</div>

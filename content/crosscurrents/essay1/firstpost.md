@@ -4,77 +4,49 @@ description: "As historians of religions, we are interested in myths, history, a
 abstract: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in Johnson v. M’Intosh (1823) includes all these elements. The Johnson decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples."
 image: "/img/post/NARA.jpg"
 date: 2024-10-20
-doi:  "https://doi.org/10.1558/bsor.25342"
-pdf: "https://www.adamdjbrett.com/assets/pdfs/2024-adamdjbrett-cv-detailed-rev10-web.pdf"
-how_to_cite: "Arnold, Philip P., Bigtree, Sandra L., and Brett, Adam DJ. “Introduction to the 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands Series.” March 10, 2023. "
-citation_format: 
- - name: ACM
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acm-sig-proceedings?submissionId=25342&publicationId=24072&issueId=2679
- - name: ACS
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/acs-nano?submissionId=25342&publicationId=24072&issueId=2679
- - name: APA
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/apa?submissionId=25342&publicationId=24072&issueId=2679
- - name: Vancouver
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/vancouver?submissionId=25342&publicationId=24072&issueId=2679
- - name: Havard
-   link: https://journal.equinoxpub.com/BSOR/citationstylelanguage/get/harvard-cite-them-right?submissionId=25342&publicationId=24072&issueId=2679
+doi:  "https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/"
+pdf: "/pdf/01-intro.pdf"
+how_to_cite: "Arnold, Philip P., Sandra L., Bigtree, and Adam D.J., Brett. 'Introduction to 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands.' (2023)."
+citation_download: 
+ name: Download Citation
+ link: /bib/intro-arnold.bib
 show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
    image: "/img/authors/philips.jpg"
    university: "Massachusetts Amherst"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-google-scholar"
+    link: "https://scholar.google.com/citations?user=W36SKGgAAAAJ&hl=en&oi=ao"
    about: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
    information: 
-    - text: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
     - text: "principal investigator for the Henry Luce Grant “200 Years of Johnson v. M’Intosh, the founding director of the Skä·noñh—Great Law of Peace Center, and president of the Indigenous Values Initiative."
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
       title: "Philip P Arnold Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Philip P Arnold Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Philip P Arnold Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Philip P Arnold Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Philip P Arnold"
  - name: "Sandra Bigtree"
    sort: "2"
    image: "/img/authors/sandra.jpg"
    university: "Syracuse University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-solid fa-link"
+    link: "https://indigenousvalues.org/about/our-team/"
    about: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
    information: 
-    - text: "Sandra Bigtree is a citizen of the Mohawk Nation at Akwesasne"
     - text: " a member of the Skä·noñh—Great Law of Peace Center Academic Collaborative, and a founding board member of the Indigenous Values Initiative."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Sandra Bigtree Google Schollar"
-    - icon: "fa-brands fa-youtube"
-      link: "https://youtube.com/"
-      title: "Sandra Bigtree Youtube"
-    - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/"
-      title: "Sandra Bigtree Facebook"
-    - icon: "fa-brands fa-instagram"
-      link: "https://instagram"
-      title: "Sandra Bigtree Instagram"
-    - icon: "fa-regular fa-envelope"
-      link: "mailto:info@adamdjbrett.com"
-      title: "Message Sandra Bigtree"
+    - icon: "fa-solid fa-link"
+      link: "https://indigenousvalues.org/about/our-team/"
+      title: "Sandra Bigtree URL Link"
  - name: "Adam Dj Brett"
    sort: "3"
    image: "/img/authors/adam.jpeg"
    university: "Syracuse University"
-   orchid: "https://orcid.org/0009-0004-6725-8425"
+   profile_icon: 
+    icon: "fa-brands fa-orcid"
+    link: "https://orcid.org/0009-0004-6725-8425"
    about: "I’M A EDUCATOR, RESEARCHER, OPERATIONS MANAGER, AND A WEB DEVELOPER."
    information: 
     - text: "Adam DJ Brett is the grant and event coordinator for the Doctrine of Discovery Project, funded by the Henry Luce Grant “200 Years of Johnson v. M’Intosh” and supported by the Indigenous Values Initiative and Syracuse University."
@@ -104,7 +76,7 @@ tags:
  - series
 ---
 
-### Introduction
+### INTRODUCTION
 
 The Doctrine of Discovery — or, more aptly, the [Doctrine of Christian Discovery](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/) — is a theological and legal framework of domination developed in the 15th century by the Roman Catholic Church and European monarchs. First articulated in a series of papal bulls, [_Inter Caetera_](https://doctrineofdiscovery.org/inter-caetera/) (1493), the Doctrine of Discovery asserted the supposed right of European powers to “discover” and claim ownership of lands inhabited by non-Christian peoples. As Shawnee and Lenape legal scholar [Steven T. Newcomb](https://www.chicagoreviewpress.com/pagans-in-the-promised-land-products-9781555916428.php) explains, the Doctrine of Discovery was (and is) a theological and legal attempt to justify the unjustifiable: enslavement, exploitation, dispossession, and extraction.
 
