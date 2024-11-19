@@ -92,6 +92,7 @@ select option:checked{
 .link_doi { 
   word-wrap: break-word
 }
+.img_canopyt {width:100%; height:280px; object-fit:cover;}
 
 
 [data-bs-theme=light] {
