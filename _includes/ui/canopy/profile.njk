@@ -8,19 +8,10 @@
 <div class="modal-body">
 {% if a.image %}
 <div class="col-md-12 p-3 text-center">
-<img class="img-fluid" alt="{{a.name}}"
-style="background-image: url('{{a.image}}'); 
-background-position: center;
-border-radius:80px;
-width: 150px; height:150px; object-fit:cover;
-background-repeat: no-repeat;
-background-size: cover; "/>{% else %}
-<img class="img-fluid" alt="{{metadata.title}}"
-style="background-image: url('{{metadata.favicon}}'); 
-background-position: center;
-border-radius:50px;
-background-repeat: no-repeat;
-background-size: cover; "/>
+<img class="img-fluid" alt="{{a.name}}" width="150" height="150" src="https://wsrv.nl/?url={{metadata.url}}{{a.image}}&w=150&h=150&output=webp"
+style="border-radius:80px;object-fit:cover;"/>{% else %}
+<img class="img-fluid" alt="{{a.name}}" width="150" height="150" src="https://wsrv.nl/?url={{metadata.url}}{{metadata.favicon}}&w=150&h=150&output=webp"
+style="border-radius:80px;object-fit:cover;"/>
 {% endif %}
 <h3 class="mt-3"><strong><a href="{{page.url}}" class="no-deco">{{a.name}}</a></strong></h3>
 </div>
