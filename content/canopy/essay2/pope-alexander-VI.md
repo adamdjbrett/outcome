@@ -4,7 +4,8 @@ description: "Archbishop Adrian Tync. Wikimedia CC BY-SA 4.0 This article is par
 abstract: "Shortly before Thanksgiving 2016, Episcopalian priest John Floberg held up a copy of Pope Alexander VI’s 1493 papal bull Inter caetera before a crowd of hundreds of protesters and clerics at North Dakota’s Oceti Sakowin Camp. He asked a committee of Indigenous elders to authorize its burning. They did, the paper went up in flames, and the crowd erupted in applause."
 image: "/img/post/pope.jpg"
 date: 2023-03-21
-doi:  "https://canopyforum.org/2023/03/21/did-pope-alexander-vi-authorize-englands-colonization-of-north-america/"
+doi: dofd.fyi/c/cavedon/
+canoncial: "https://canopyforum.org/2023/03/21/did-pope-alexander-vi-authorize-englands-colonization-of-north-america/"
 pdf: "/pdf/08-Cavedon.pdf"
 how_to_cite: "Cavedon, Matthew P.. 'Did Pope Alexander VI Authorize England’s Colonization of North America?.' (2023)."
 citation_download: 

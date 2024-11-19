@@ -4,7 +4,8 @@ description: "Many groups and organizations have taken actions to repudiate the 
 abstract: "any groups and organizations have taken actions to repudiate the Doctrine of Discovery. In an opinion piece published in Canada’s Globe and Mail in Aug 2022, Douglas Sanderson asserts that the Doctrine of Discovery had little influence on the relationship between Indigenous peoples and the French and English who treated Indigenous nations as equals. The Doctrine of Discovery seeks to explain how European nations dispossessed Indigenous peoples of their land and rights. Sanderon claims that giving force to the Doctrine of Discovery (which he understands as an American legal fiction) in Canada misrepresents Indigenous history. Further, Mr. Sanderson explains that after the invention of this doctrine which, “neatly explained Indigenous dispossession in a sentence or two” no one cared about the past and “the story of relationships based in diplomacy and alliance slipped almost from memory.” "
 image: "/img/post/firt_nation.jpg"
 date: 2023-03-14
-doi:  "https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/"
+doi: dofd.fyi/c/tremblay/
+canoncial: "https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/"
 pdf: "/pdf/10-Tremblay.pdf"
 how_to_cite: "Tremblay, Mark. 'The Contemporary Presence of Discovery’s Assertion in Canada.' (2023)."
 citation_download: 
