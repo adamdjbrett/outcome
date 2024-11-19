@@ -18,5 +18,3 @@ widget:
    image: /img/post/legal.jpg
    url: /jcreor/
 ---
-
-Welcome to outcome

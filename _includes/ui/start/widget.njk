@@ -2,8 +2,8 @@
 <div class="row">
 {% for w in widget %}
 <div class="col-md-4 p-3">
-<div class="bg-body-secondary text-center">
-<a href="{{w.url}}" title="{{w.title}}" class="no-deco">{% if w.image %}<img class="img-fluid img_widget" 
+<div class="bg-body-tertiary text-center">
+<a href="{{w.url}}" title="{{w.title}} {{metadata.title}}" class="no-deco">{% if w.image %}<img class="img-fluid img_widget" 
 alt="{{w.title}}" loading="lazy" width"100%" height="100%" 
 src="https://wsrv.nl/?url={{metadata.url}}{{w.image}}&output=webp"/>{% endif %}
 <h3 class="p-3">{{w.title}}</h3>
