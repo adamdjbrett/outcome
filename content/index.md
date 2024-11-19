@@ -19,4 +19,4 @@ widget:
    url: /jcreor/
 ---
 
-Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index Article from index 
+Welcome to outcome
