@@ -6,7 +6,7 @@
 {%- for post in collections.canopyt| reverse | limit(4) -%}
 <div class="row shadow-sm p-1 mt-3 mb-5 bg-body-tertiary">
   <div class="col-md-4 p-0"
-  style="background-image: url('{{post.data.image}}');
+  style="background-image: url('https://wsrv.nl/?url=wsrv.nl/{{metadata.url}}{{post.data.image}}&output=webp');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; "
@@ -19,7 +19,8 @@
 {% for s in post.data.author %}
 <div class="col-md-4 col-6">
 <p><small>
-<img class="img-fluid me-3 rounded-circle" alt="{{s.name}}" width="30" height="30" src="{{s.image}}"/>
+<img class="img-fluid me-3 rounded-circle" alt="{{s.name}}{{title}}" width="30" height="30" 
+src="https://wsrv.nl/?url=wsrv.nl/{{metadata.url}}{{s.image}}&w=30&output=webp"/>
 {{s.name}}
 </small></p>
 </div>
