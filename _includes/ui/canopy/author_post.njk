@@ -5,7 +5,7 @@
 <div class="col-md-3 col-4 p-1">
 {% if a.image %}
 <img class="img-fluid" alt="{{a.name}} {{a.university}}"
-src="https://wsrv.nl/?url={{metadata.url}}{{a.image}}&w=80&output=webp"
+src="https://wsrv.nl/?url={{metadata.url}}{{a.image}}&w=80&h=80&output=webp"
 style="
 background-position: center;
 width: 80px; height: 80px;
@@ -16,7 +16,7 @@ border-radius: 50px; "
 />
 {% else %}
 <img class="img-fluid" alt="{{metadata.title}}" 
-src="https://wsrv.nl/?url={{metadata.url}}{{metadata.icon}}&w=80&output=webp"
+src="https://wsrv.nl/?url={{metadata.url}}{{metadata.icon}}&w=80&h=80&output=webp"
 style="
 background-position: center;
 background-repeat: no-repeat;
