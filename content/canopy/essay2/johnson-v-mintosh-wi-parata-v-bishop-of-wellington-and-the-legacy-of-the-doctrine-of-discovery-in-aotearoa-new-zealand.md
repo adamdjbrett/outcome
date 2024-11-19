@@ -4,7 +4,8 @@ description: "Here in Aotearoa-New Zealand the doctrine of discovery is, for man
 abstract: "Here in Aotearoa-New Zealand the doctrine of discovery is, for many, a very new concept. If people knew of it at all, they assumed it to be relevant to the history of the Americas, but not to Aotearoa-New Zealand. This is in part due to our preoccupation with the colonial fiction of a “kind settlement.” A concerted grassroots campaign organized during the 2019 national commemorations of James Cook’s invasion in 1769 resulted in heightened awareness of his imperial intent. Consequently, there has been a somewhat belated awakening for Aotearoa-New Zealand to the reality of how the doctrine of discovery arrived here and has come to shape our existence."
 image: "/img/post/lake.jpeg"
 date: 2023-04-11
-doi:  "https://canopyforum.org/2023/04/11/johnson-v-mintosh-wi-parata-v-bishop-of-wellington-and-the-legacy-of-the-doctrine-of-discovery-in-aotearoa-new-zealand/"
+doi: dofd.fyi/c/ngata/
+canoncial: "https://canopyforum.org/2023/04/11/johnson-v-mintosh-wi-parata-v-bishop-of-wellington-and-the-legacy-of-the-doctrine-of-discovery-in-aotearoa-new-zealand/"
 pdf: "/pdf/03-Ngata.pdf"
 how_to_cite: "Ngata, Tina. 'Johnson v. M’Intosh, Wi Parata v. Bishop of Wellington, and the Legacy of the Doctrine of Discovery in Aotearoa-New Zealand.' (2023)."
 citation_download: 
