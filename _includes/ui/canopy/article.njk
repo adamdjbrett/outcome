@@ -6,7 +6,7 @@
 {% if item.data.abstract %}
 {% if item.data.image %}<a href="{{item.url}}" title="{{item.data.title}}"><img class="img-fluid float-start me-3"
 style="width:120px; height:80px; object-fit:cover;" alt="{{item.data.title}}" loading="lazy" 
-src="https://wsrv.nl/?url=wsrv.nl/{{metadata.url}}{{item.data.image}}&w=500&output=webp"/></a>{% endif %}    
+src="https://wsrv.nl/?url={{metadata.url}}{{item.data.image}}&w=500&output=webp"/></a>{% endif %}    
 <p class="abstract-post">{{item.data.abstract}}</p>
 {% endif %}
 <div class="row">
@@ -15,7 +15,7 @@ src="https://wsrv.nl/?url=wsrv.nl/{{metadata.url}}{{item.data.image}}&w=500&outp
 <div class="col-md-4 col-6 p-1">
 <p><small>
 {% if a.image %}<img class="me-3 rounded-circle img-author-main" alt="{{a.title}} {{metadata.title}}" loading="eager" 
-width="20" height="20" src="https://wsrv.nl/?url=wsrv.nl/{{metadata.url}}{{a.image}}&w=20&output=webp"/>{% endif %}
+width="20" height="20" src="https://wsrv.nl/?url={{metadata.url}}{{a.image}}&w=20&output=webp"/>{% endif %}
 {{a.name}}
 </small></p>
 </div>
