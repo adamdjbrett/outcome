@@ -4,8 +4,8 @@
 <div class="row bg-body-tertiary p-1">
 <div class="col-md-3 col-4 p-1">
 {% if a.image %}
-<img class="img-fluid"
-src="{{a.image}}"
+<img class="img-fluid" alt="{{a.name}} {{a.university}}"
+src="https://wsrv.nl/?url=wsrv.nl/{{metadata.url}}{{a.image}}&w=80&output=webp"
 style="
 background-position: center;
 width: 80px; height: 80px;
@@ -15,8 +15,8 @@ background-size: cover;
 border-radius: 50px; "
 />
 {% else %}
-<img class="img-fluid"
-src="{{metadata.icon}}"
+<img class="img-fluid" alt="{{metadata.title}}" 
+src="https://wsrv.nl/?url=wsrv.nl/{{metadata.url}}{{metadata.icon}}&w=80&output=webp"
 style="
 background-position: center;
 background-repeat: no-repeat;
@@ -28,7 +28,8 @@ border-radius: 90px; "
 <p>
 <strong><a href="#" class="no-deco me-1" data-bs-toggle="modal" data-bs-target="#{{a.sort}}Modal"> 
 {{a.name}}</a></strong> {% if a.profile_icon %}<a href="{{a.profile_icon.link}}" class="no-deco"><i class="{{a.profile_icon.icon}} text-success ms-1"></i></a>{% endif %}
-{% if custom_icon %}<a href="{{custom_icon.link}}" class="btn btn-sm me-3"><img class="img-fluid" src="{{custom_icon.icon}}" width="24" height="24"/></a>{% endif %}</a>
+{% if custom_icon %}<a href="{{custom_icon.link}}" class="btn btn-sm me-3">
+<img class="img-fluid" alt="{{a.university}}" src="https://wsrv.nl/?url=wsrv.nl/{{metadata.url}}{{custom_icon.icon}}&w=24&output=webp" width="24" height="24"/></a>{% endif %}</a>
 <br/><small>{{a.university}}</small>
 {% include "ui/canopy/profile.njk" %}
 </p>
