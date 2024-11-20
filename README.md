@@ -2,7 +2,7 @@
 
 Project by 👩‍🚀 [Adam Dj Brett](https://www.adamdjbrett.com)
 
-Developer by 👩‍🚀 [Adam Dj Brett](https://www.adamdjbrett.com)
+Developer 👩‍🚀 [Adam Dj Brett](https://www.adamdjbrett.com)
 
 JAMSTACK SSG 11ty aka Eleventy 🛰
 
@@ -12,6 +12,28 @@ Status
 ## Test URL
 -[https://outcomedocs.netlify.app](https://outcomedocs.netlify.app)
 
-First Dev Outcome Projects
+Features ❤️
 
-Comming soon... on progresss.....
++ 11ty Eleventy
++ Header Anchor
++ TOC
++ Pagefind
++ Purge CSS
++ FontAwesome
++ Auto SEO injection Script
++ Collections
++ Pagination
++ Tags
++ Multi Author
++ Author Profile
++ Cite
++ Bib Download
++ PDF Download
++ Author Profile
++ Author Link and Icon
++ Custom Icon
++ WSRV image CDN
+
+Next Update ☕
+
++ Headless Decap Netlify CMS Integration
