@@ -1,8 +1,8 @@
 # OUTCOME 🚀
 
-Project by 👩‍🚀 [Adam Dj Brett](https://www.adamdjbrett.com)
+Project by 👩‍🚀 [Adam DJ Brett](https://www.adamdjbrett.com)
 
-Developer 👩‍🚀 [Adam Dj Brett](https://www.adamdjbrett.com)
+Developer 👩‍🚀 [Adam DJ Brett](https://www.adamdjbrett.com)
 
 JAMSTACK SSG 11ty aka Eleventy 🛰
 
