@@ -1,4 +1,6 @@
 # OUTCOME 🚀
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
+Still in development. The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v. M’Intosh (JvM): Indigenous Responses to the Religious Foundations of Racism.
 
 Project by 👩‍🚀 [Adam DJ Brett](https://www.adamdjbrett.com)
 
