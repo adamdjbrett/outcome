@@ -56,7 +56,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Arial, Helvetica, sans-serif;}
 .page-link:hover{background-color:#bf2d13; color:white;}
 .img-cover {object-fit:cover; width:100%; height:250px;}
 .img-issue {object-fit:cover; width:300px; height:250px;}
-.img-logo {width:38px;height:38px;}
+.img-logo {width:35px;height:35px;}
 .img-logo-footer {width:314px;height:90px;}
 .img-logo-nav {width:180px;height:50px;}
 .darklight {background-color:transpatrent;}
@@ -92,7 +92,7 @@ select option:checked{
 .link_doi { 
   word-wrap: break-word
 }
-.img_canopyt {width:100%; height:280px; object-fit:cover;}
+.img_canopyt {width:400px; height:280px; object-fit:cover;}
 .zoom:hover {  transform: scale(1.05)}.zoom {transition: transform 0.6s;}
 
 

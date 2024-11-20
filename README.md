@@ -26,6 +26,7 @@ Features ❤️
 + Tags
 + Multi Author
 + Author Profile
++ Abstract
 + Cite
 + Bib Download
 + PDF Download
