@@ -14,6 +14,18 @@ Status
 ## Test URL
 -[https://outcomedocs.netlify.app](https://outcomedocs.netlify.app)
 
+### Peformance
+
+![Mobile Test](mobile.png)
+
+Mobile Peformance
+
+![Desktop Test](desktop.png)
+
+Desktop Peformance
+
+
+
 Features ❤️
 
 + 11ty Eleventy
@@ -24,7 +36,9 @@ Features ❤️
 + FontAwesome
 + Auto SEO injection Script
 + Collections
-+ Pagination
++ Collections Pagination
++ Article Page
++ Article Pagination
 + Tags
 + Multi Author
 + Author Profile
