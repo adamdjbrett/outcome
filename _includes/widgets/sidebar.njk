@@ -11,7 +11,7 @@ src="https://wsrv.nl/?url={{metadata.url}}{{metadata.sidebar.logo}}&output=webp"
 {% for m in metadata.sidebar.left %}
 <p class="menu-list">{{m.title}}</p>
 <ul class="ms-3">{% for i in m.item %}
-<li><a class="no-deco text-body-emphasis" accesskey="{{i.key}}" href="{{i.link}}"><span class="navis">{{i.name}}</span></a></li>
+<li><a class="no-deco text-body-emphasis" href="{{i.link}}"><span class="navis">{{i.name}}</span></a></li>
 {% endfor %}</ul>
 {% endfor %}
 </div>
