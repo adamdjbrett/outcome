@@ -3,8 +3,10 @@
 	"description": "Outcome podcast doctrine discrovery",
 	"url": "https://outcomedocs.netlify.app",
 	"favicon": "/img/logo.png",
+	"image": "/img/logo.png",
 	"language": "en",
 	"locale": "en_US",
+	"formspree_id": "",
 	"metasocial": {
 		"image": "/img/logo-ls.png",
 		"facebook": "https://www.facebook.com/adamdjbrett/",

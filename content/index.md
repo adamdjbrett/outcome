@@ -2,6 +2,7 @@
 layout: layouts/start.njk
 title: ABOUT OUTCOME
 description: Home Description
+image: 
 canopy:
  title: Update From Canopy
  button: View All Canopy

@@ -18,7 +18,7 @@ collections:
        fields:
           - { label: 'Title', name: 'title', widget: 'string' }
           - { label: 'Description', name: 'description', widget: 'text' }
-          - { label: 'Button', name: 'button', widget: 'string'}
+          - { label: 'Image', name: 'image', widget: 'image' , hint: "image for meta tag ,open graph and twitter card"}
           - name: 'canopy'
             label: 'Canopy Widgets' 
             widget: 'object'
@@ -45,7 +45,7 @@ collections:
     fields:
       - { name: 'title', label: 'Title', widget: 'string' }
       - { name: 'description', label: 'Description', widget: 'text' }
-      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'image', label: 'Image', widget: 'image' , required:false, hint: "insert image if use cover image"}
       - { name: 'permalink', label: 'Permalink URL', widget: 'string' }
       - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
       - { name: 'body', label: 'Body', widget: 'markdown' } 
@@ -61,26 +61,27 @@ collections:
       - { name: 'description', label: 'Description', widget: 'text' }
       - { name: 'abstract', label: 'Abstarct', widget: 'text' }
       - { name: 'image', label: 'Image', widget: 'image' , required:false}
-      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
-      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
-      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
-      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature"}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature"}
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature"}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false, hint: "Fill in if you use this features  or leave it blank if you don't use this feature" }
       - name: 'citation_download'
         label: 'Citation Download' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'name', label: 'Title', widget: 'string', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'custom_icon'
         label: 'Custom Icon' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'icon', label: 'Icon', widget: 'image', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'author'
         label: 'Author' 
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature"
         widget: 'list'
         fields:
         - { name: 'name', label: 'Author Name', widget: 'string', required:false}
@@ -88,22 +89,22 @@ collections:
         - { name: 'university', label: 'Author University', widget: 'string', required:false}
         - name: 'profile_icon'
           label: 'Profile Icon'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'object'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
           - {name: 'link', label: 'URL Link', widget: 'string', required:false}
         - { name: 'image', label: 'Author Image', widget: 'image', required:false}
         - { name: 'about', label: 'About Author', widget: 'text', required:false}
-        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
         - name: 'information'
           label: 'Author Information'
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature"
           widget: 'list'
           fields: 
           - {name: 'text', label: 'Text Information', widget: 'text', required:false}
         - name: 'social'
           label: 'Author Social Media'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
@@ -124,27 +125,28 @@ collections:
       - { name: 'title', label: 'Title', widget: 'string' }
       - { name: 'description', label: 'Description', widget: 'text' }
       - { name: 'abstract', label: 'Abstarct', widget: 'text' }
-      - { name: 'image', label: 'Image', widget: 'image' , required:false}
-      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
-      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
-      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
-      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false, hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
       - name: 'citation_download'
         label: 'Citation Download' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'name', label: 'Title', widget: 'string', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'custom_icon'
         label: 'Custom Icon' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'icon', label: 'Icon', widget: 'image', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'author'
         label: 'Author' 
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'list'
         fields:
         - { name: 'name', label: 'Author Name', widget: 'string', required:false}
@@ -152,22 +154,22 @@ collections:
         - { name: 'university', label: 'Author University', widget: 'string', required:false}
         - name: 'profile_icon'
           label: 'Profile Icon'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'object'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
           - {name: 'link', label: 'URL Link', widget: 'string', required:false}
         - { name: 'image', label: 'Author Image', widget: 'image', required:false}
         - { name: 'about', label: 'About Author', widget: 'text', required:false}
-        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
         - name: 'information'
           label: 'Author Information'
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'text', label: 'Text Information', widget: 'text', required:false}
         - name: 'social'
           label: 'Author Social Media'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
@@ -188,27 +190,28 @@ collections:
       - { name: 'title', label: 'Title', widget: 'string' }
       - { name: 'description', label: 'Description', widget: 'text' }
       - { name: 'abstract', label: 'Abstarct', widget: 'text' }
-      - { name: 'image', label: 'Image', widget: 'image' , required:false}
-      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
-      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
-      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
-      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature." }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
       - name: 'citation_download'
         label: 'Citation Download' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'name', label: 'Title', widget: 'string', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'custom_icon'
         label: 'Custom Icon' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'icon', label: 'Icon', widget: 'image', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'author'
         label: 'Author' 
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'list'
         fields:
         - { name: 'name', label: 'Author Name', widget: 'string', required:false}
@@ -216,22 +219,22 @@ collections:
         - { name: 'university', label: 'Author University', widget: 'string', required:false}
         - name: 'profile_icon'
           label: 'Profile Icon'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'object'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
           - {name: 'link', label: 'URL Link', widget: 'string', required:false}
         - { name: 'image', label: 'Author Image', widget: 'image', required:false}
         - { name: 'about', label: 'About Author', widget: 'text', required:false}
-        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
         - name: 'information'
           label: 'Author Information'
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'text', label: 'Text Information', widget: 'text', required:false}
         - name: 'social'
           label: 'Author Social Media'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
@@ -252,21 +255,21 @@ collections:
       - { name: 'title', label: 'Title', widget: 'string' }
       - { name: 'description', label: 'Description', widget: 'text' }
       - { name: 'abstract', label: 'Abstarct', widget: 'text' }
-      - { name: 'image', label: 'Image', widget: 'image' , required:false}
-      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
-      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
-      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
-      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false , hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
       - name: 'citation_download'
         label: 'Citation Download' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'name', label: 'Title', widget: 'string', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'custom_icon'
         label: 'Custom Icon' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'icon', label: 'Icon', widget: 'image', required:false}
@@ -280,22 +283,22 @@ collections:
         - { name: 'university', label: 'Author University', widget: 'string', required:false}
         - name: 'profile_icon'
           label: 'Profile Icon'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'object'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
           - {name: 'link', label: 'URL Link', widget: 'string', required:false}
         - { name: 'image', label: 'Author Image', widget: 'image', required:false}
         - { name: 'about', label: 'About Author', widget: 'text', required:false}
-        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
         - name: 'information'
           label: 'Author Information'
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'text', label: 'Text Information', widget: 'text', required:false}
         - name: 'social'
           label: 'Author Social Media'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
@@ -316,27 +319,28 @@ collections:
       - { name: 'title', label: 'Title', widget: 'string' }
       - { name: 'description', label: 'Description', widget: 'text' }
       - { name: 'abstract', label: 'Abstarct', widget: 'text' }
-      - { name: 'image', label: 'Image', widget: 'image' , required:false}
-      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
-      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
-      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
-      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature." }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
       - name: 'citation_download'
         label: 'Citation Download' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'name', label: 'Title', widget: 'string', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'custom_icon'
         label: 'Custom Icon' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'icon', label: 'Icon', widget: 'image', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'author'
-        label: 'Author' 
+        label: 'Author'
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature." 
         widget: 'list'
         fields:
         - { name: 'name', label: 'Author Name', widget: 'string', required:false}
@@ -344,22 +348,22 @@ collections:
         - { name: 'university', label: 'Author University', widget: 'string', required:false}
         - name: 'profile_icon'
           label: 'Profile Icon'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'object'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
           - {name: 'link', label: 'URL Link', widget: 'string', required:false}
         - { name: 'image', label: 'Author Image', widget: 'image', required:false}
         - { name: 'about', label: 'About Author', widget: 'text', required:false}
-        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
         - name: 'information'
           label: 'Author Information'
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'text', label: 'Text Information', widget: 'text', required:false}
         - name: 'social'
           label: 'Author Social Media'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
@@ -380,27 +384,28 @@ collections:
       - { name: 'title', label: 'Title', widget: 'string' }
       - { name: 'description', label: 'Description', widget: 'text' }
       - { name: 'abstract', label: 'Abstarct', widget: 'text' }
-      - { name: 'image', label: 'Image', widget: 'image' , required:false}
-      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
-      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
-      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
-      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature." }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
       - name: 'citation_download'
         label: 'Citation Download' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'name', label: 'Title', widget: 'string', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'custom_icon'
         label: 'Custom Icon' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'icon', label: 'Icon', widget: 'image', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'author'
         label: 'Author' 
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'list'
         fields:
         - { name: 'name', label: 'Author Name', widget: 'string', required:false}
@@ -408,14 +413,13 @@ collections:
         - { name: 'university', label: 'Author University', widget: 'string', required:false}
         - name: 'profile_icon'
           label: 'Profile Icon'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'object'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
           - {name: 'link', label: 'URL Link', widget: 'string', required:false}
         - { name: 'image', label: 'Author Image', widget: 'image', required:false}
         - { name: 'about', label: 'About Author', widget: 'text', required:false}
-        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
         - name: 'information'
           label: 'Author Information'
           widget: 'list'
@@ -423,7 +427,7 @@ collections:
           - {name: 'text', label: 'Text Information', widget: 'text', required:false}
         - name: 'social'
           label: 'Author Social Media'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
@@ -444,27 +448,28 @@ collections:
       - { name: 'title', label: 'Title', widget: 'string' }
       - { name: 'description', label: 'Description', widget: 'text' }
       - { name: 'abstract', label: 'Abstarct', widget: 'text' }
-      - { name: 'image', label: 'Image', widget: 'image' , required:false}
-      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
-      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
-      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
-      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
       - name: 'citation_download'
         label: 'Citation Download' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'name', label: 'Title', widget: 'string', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'custom_icon'
         label: 'Custom Icon' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'icon', label: 'Icon', widget: 'image', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'author'
         label: 'Author' 
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'list'
         fields:
         - { name: 'name', label: 'Author Name', widget: 'string', required:false}
@@ -472,22 +477,22 @@ collections:
         - { name: 'university', label: 'Author University', widget: 'string', required:false}
         - name: 'profile_icon'
           label: 'Profile Icon'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'object'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
           - {name: 'link', label: 'URL Link', widget: 'string', required:false}
         - { name: 'image', label: 'Author Image', widget: 'image', required:false}
         - { name: 'about', label: 'About Author', widget: 'text', required:false}
-        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
         - name: 'information'
           label: 'Author Information'
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'text', label: 'Text Information', widget: 'text', required:false}
         - name: 'social'
           label: 'Author Social Media'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
@@ -509,26 +514,27 @@ collections:
       - { name: 'description', label: 'Description', widget: 'text' }
       - { name: 'abstract', label: 'Abstarct', widget: 'text' }
       - { name: 'image', label: 'Image', widget: 'image' , required:false}
-      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
-      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
-      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
-      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false ,hint: "Fill in if you use this features  or leave it blank if you don't use this feature."}
       - name: 'citation_download'
         label: 'Citation Download' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'name', label: 'Title', widget: 'string', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'custom_icon'
         label: 'Custom Icon' 
-        patern: "Fill in if using this features"
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'object'
         fields:
         - { name: 'icon', label: 'Icon', widget: 'image', required:false}
         - { name: 'link', label: 'Link URL', widget: 'string', required:false}
       - name: 'author'
         label: 'Author' 
+        hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
         widget: 'list'
         fields:
         - { name: 'name', label: 'Author Name', widget: 'string', required:false}
@@ -536,22 +542,22 @@ collections:
         - { name: 'university', label: 'Author University', widget: 'string', required:false}
         - name: 'profile_icon'
           label: 'Profile Icon'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'object'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
           - {name: 'link', label: 'URL Link', widget: 'string', required:false}
         - { name: 'image', label: 'Author Image', widget: 'image', required:false}
         - { name: 'about', label: 'About Author', widget: 'text', required:false}
-        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
         - name: 'information'
           label: 'Author Information'
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'text', label: 'Text Information', widget: 'text', required:false}
         - name: 'social'
           label: 'Author Social Media'
-          patern: "Fill in if using this features"
+          hint: "Fill in if you use this features  or leave it blank if you don't use this feature."
           widget: 'list'
           fields: 
           - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
@@ -561,4 +567,161 @@ collections:
       - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
       - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
       - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: "tags"
+    label: "Tags Page"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/tags.md"
+       label: "Tag Page"
+       name: "tag"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+          - { label: 'Image', name: 'image', widget: 'image' , hint: "image for meta tag ,open graph and twitter card"}
+          - { label: 'Content Article', name: 'body', widget: 'markdown' } 
+  - name: "notfounds"
+    label: "404 Page"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/404.md"
+       label: "404 Page"
+       name: "notfounds"
+       widget: list
+       fields:
+          - { label: 'Content Article', name: 'body', widget: 'markdown' } 
+  - name: "setups"
+    label: "Website Setup"
+    extension: "json"
+    editor:
+      preview: false
+    files:
+     - file: "_data/metadata.json"
+       label: "Website Configuration"
+       name: "metadata"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text'}
+          - { label: 'Favicon', name: 'favicon', widget: 'image'}
+          - { label: 'Image', name: 'image', widget: 'image'}
+          - { label: 'Language', name: 'language', widget: 'string' }
+          - { label: 'Locale', name: 'locale', widget: 'string' }
+          - { label: 'Formspree ID', name: 'formspree_id', widget: 'string' }
+          - { label: 'Site URL', name: 'url', widget: 'string' }
+          - name: 'metasocial'
+            label: 'Metadata Social Media' 
+            widget: 'object'
+            fields:
+             - { label: 'Image' , name: 'image', widget: 'image' }
+             - { label: 'Facebook' , name: 'facebook', widget: 'string' }
+             - { label: 'Tweet User' , name: 'twitteruser', widget: 'string' }
+             - { label: 'Twitter', name: 'twitter', widget: 'string' }
+          - name: 'navbar'
+            label: 'Navbar Header' 
+            widget: 'list'
+            fields:
+             - { label: 'Navbar Title' , name: 'name', widget: 'string' }
+             - { label: 'Navbar Access Key' , name: 'key', widget: 'string' }
+             - { label: 'URL Link' , name: 'link', widget: 'string' }
+          - name: 'sidebar'
+            label: 'Sidebar Menu' 
+            widget: 'object'
+            fields:
+             - { label: 'Sidebar Logo' , name: 'logo', widget: 'image' }
+             - { label: 'Nav Header Logo' , name: 'logo_nav', widget: 'image' }
+             - label: 'Sidebar Menu Left'
+               name: 'left'
+               widget: 'list'
+               fields: 
+                - { label: "Title" , name: "title" , widget: "string"}
+                - name: "item"
+                  widget: "list"
+                  label: "Menu List"
+                  fields: 
+                  - {name: "name", label: "Title" , widget: "string"}
+                  - {name: "link", label: "Title" , widget: "string"}
+             - label: 'Sidebar Menu Right'
+               name: 'right'
+               widget: 'list'
+               fields: 
+                - { label: "Title" , name: "title" , widget: "string"}
+                - name: "item"
+                  widget: "list"
+                  label: "Menu List"
+                  fields: 
+                  - {name: "name", label: "Title" , widget: "string"}
+                  - {name: "link", label: "Title" , widget: "string"}
+             - label: 'Social Icon'
+               name: 'social_icon'
+               widget: 'list'
+               fields: 
+                - { name: "icon",label: "Fontawesome Icon" , widget: "string"}
+                - { name: "title",label: "Title" , widget: "string"}
+                - { name: "link",label: "Link URL" , widget: "string"}
+          - label: 'Search Widget'
+            name: 'search'
+            widget: 'object'
+            fields: 
+             - { name: "title",label: "Title" , widget: "string"}
+             - { name: "key",label: "Access Key" , widget: "string"}
+             - { name: "placeholder",label: "PlaceHolder" , widget: "string"}
+          - label: 'Footer Setup'
+            name: 'footer'
+            widget: 'object'
+            fields: 
+             - name: "copyrights"
+               label: "Copyrights Area"
+               widget: "list"
+               fields: 
+                - {name: "logo" , label: "Copyrights Logo" , widget: "image"}
+                - {name: "text1" , label: "Copyrights Text 1 Area" , widget: "string"}
+                - {name: "text2" , label: "Copyrights Text 2 Area" , widget: "string"}
+                - {name: "text2_link" , label: "Copyrights Text 2 Link URL" , widget: "string"}
+                - {name: "text3" , label: "Copyrights Text 3 Area" , widget: "string"}
+                - {name: "text3_link" , label: "Copyrights Text 3 Link URL" , widget: "string"}
+                - {name: "text4" , label: "Copyrights Text 4 Area" , widget: "string"}
+                - {name: "text4_link" , label: "Copyrights Text 4 Link URL" , widget: "string"}
+             - name: "licency"
+               label: "Licency Area"
+               widget: "object"
+               fields: 
+                - {name: "text1" , label: "Licency Text 1 Area" , widget: "string"}
+                - {name: "text2" , label: "Licency Text 2 Area" , widget: "string"}
+                - {name: "text2_link" , label: "Licency Text 2 Link URL" , widget: "string"}
+                - {name: "text3" , label: "Licency Text 3 Area" , widget: "string"}
+                - {name: "text3_link" , label: "Licency Text 3 Link URL" , widget: "string"}
+             - name: "privacy"
+               label: "Privacy Area"
+               widget: "object"
+               fields: 
+                - {name: "text1" , label: "Licency Text 1 Area" , widget: "string"}
+                - {name: "text2" , label: "Licency Text 2 Area" , widget: "string"}
+                - {name: "text2_link" , label: "Licency Text 2 Link URL" , widget: "string"}
+                - {name: "text3" , label: "Licency Text 3 Area" , widget: "string"}
+            - { label: 'Footer Menu 1 Title' , name: 'menu_title', widget: 'string' }
+            - name: "menu"
+              label: "Footer Menu 1 List"
+              widget: "list"
+              fields: 
+               - {name: "name" , label: "Name" , widget: "string"}
+               - {name: "url" , label: "URL Link" , widget: "string"}
+            - { label: 'Footer Menu 2 Title' , name: 'info_title', widget: 'string' }
+            - name: "info"
+              label: "Footer Menu 2 List"
+              widget: "list"
+              fields: 
+               - {name: "name" , label: "Name" , widget: "string"}
+               - {name: "url" , label: "URL Link" , widget: "string"}
+          - name: 'author'
+            label: 'Website Author Profile' 
+            widget: 'object'
+            fields:
+             - { label: 'Name' , name: 'name', widget: 'string' }
+             - { label: 'Email' , name: 'email', widget: 'string' }
+             - { label: 'URL Link' , name: 'url', widget: 'string' }
 
