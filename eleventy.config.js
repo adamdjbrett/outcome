@@ -124,7 +124,7 @@ export default async function(eleventyConfig) {
 			language: "en",
 			title: "Outcome",
 			subtitle: "Outcome Project",
-			base: "https://example.com/",
+			base: "https://outcome.podcastdoctrineofdiscovery.com/",
 			author: {
 				name: "Adam Dj Brett"
 			}
