@@ -1,0 +1,564 @@
+local_backend: true
+backend:
+  name: git-gateway
+#  repo: adamdjbrett/outcome
+#  branch: main 
+media_folder: 'public/img'
+collections:
+  - name: "homes"
+    label: "Home Page"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/index.md"
+       label: "Home Page"
+       name: "home"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+          - { label: 'Button', name: 'button', widget: 'string'}
+          - name: 'canopy'
+            label: 'Canopy Widgets' 
+            widget: 'object'
+            fields:
+             - { name: 'title', label: 'Title', widget: 'string' }
+             - { name: 'button', label: 'Button Text', widget: 'string'}
+             - { name: 'url', label: 'Link URL', widget: 'string'}
+          - { label: 'Widget Title', name: 'widget_title', widget: 'string'}
+          - name: 'widget'
+            label: 'Widgets' 
+            widget: 'list'
+            fields:
+             - { name: 'title', label: 'Title', widget: 'string' }
+             - { name: 'image', label: 'Image', widget: 'image'}
+             - { name: 'url', label: 'Link URL', widget: 'string'}
+          - { label: 'Content Article', name: 'body', widget: 'markdown' } 
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content/page'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'permalink', label: 'Permalink URL', widget: 'string' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: 'canopyessayone'
+    label: 'Canopy Essay 1'
+    folder: 'content/canopy/essay1'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'abstract', label: 'Abstarct', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - name: 'citation_download'
+        label: 'Citation Download' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'name', label: 'Title', widget: 'string', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'custom_icon'
+        label: 'Custom Icon' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'icon', label: 'Icon', widget: 'image', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'author'
+        label: 'Author' 
+        widget: 'list'
+        fields:
+        - { name: 'name', label: 'Author Name', widget: 'string', required:false}
+        - { name: 'sort', label: 'Author Sort ID', widget: 'number', required:false}
+        - { name: 'university', label: 'Author University', widget: 'string', required:false}
+        - name: 'profile_icon'
+          label: 'Profile Icon'
+          patern: "Fill in if using this features"
+          widget: 'object'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+        - { name: 'image', label: 'Author Image', widget: 'image', required:false}
+        - { name: 'about', label: 'About Author', widget: 'text', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+        - name: 'information'
+          label: 'Author Information'
+          widget: 'list'
+          fields: 
+          - {name: 'text', label: 'Text Information', widget: 'text', required:false}
+        - name: 'social'
+          label: 'Author Social Media'
+          patern: "Fill in if using this features"
+          widget: 'list'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+          - {name: 'title', label: 'Title', widget: 'string', required:false}
+      - { name: 'date', label: 'Publish Date', widget: 'datetime' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: 'canopyessaytwo'
+    label: 'Canopy Essay 2'
+    folder: 'content/canopy/essay2'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'abstract', label: 'Abstarct', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - name: 'citation_download'
+        label: 'Citation Download' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'name', label: 'Title', widget: 'string', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'custom_icon'
+        label: 'Custom Icon' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'icon', label: 'Icon', widget: 'image', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'author'
+        label: 'Author' 
+        widget: 'list'
+        fields:
+        - { name: 'name', label: 'Author Name', widget: 'string', required:false}
+        - { name: 'sort', label: 'Author Sort ID', widget: 'number', required:false}
+        - { name: 'university', label: 'Author University', widget: 'string', required:false}
+        - name: 'profile_icon'
+          label: 'Profile Icon'
+          patern: "Fill in if using this features"
+          widget: 'object'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+        - { name: 'image', label: 'Author Image', widget: 'image', required:false}
+        - { name: 'about', label: 'About Author', widget: 'text', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+        - name: 'information'
+          label: 'Author Information'
+          widget: 'list'
+          fields: 
+          - {name: 'text', label: 'Text Information', widget: 'text', required:false}
+        - name: 'social'
+          label: 'Author Social Media'
+          patern: "Fill in if using this features"
+          widget: 'list'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+          - {name: 'title', label: 'Title', widget: 'string', required:false}
+      - { name: 'date', label: 'Publish Date', widget: 'datetime' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: 'crosscurrentsone'
+    label: 'Cross Currents Essay 1'
+    folder: 'content/crosscurrents/essay1'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'abstract', label: 'Abstarct', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - name: 'citation_download'
+        label: 'Citation Download' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'name', label: 'Title', widget: 'string', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'custom_icon'
+        label: 'Custom Icon' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'icon', label: 'Icon', widget: 'image', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'author'
+        label: 'Author' 
+        widget: 'list'
+        fields:
+        - { name: 'name', label: 'Author Name', widget: 'string', required:false}
+        - { name: 'sort', label: 'Author Sort ID', widget: 'number', required:false}
+        - { name: 'university', label: 'Author University', widget: 'string', required:false}
+        - name: 'profile_icon'
+          label: 'Profile Icon'
+          patern: "Fill in if using this features"
+          widget: 'object'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+        - { name: 'image', label: 'Author Image', widget: 'image', required:false}
+        - { name: 'about', label: 'About Author', widget: 'text', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+        - name: 'information'
+          label: 'Author Information'
+          widget: 'list'
+          fields: 
+          - {name: 'text', label: 'Text Information', widget: 'text', required:false}
+        - name: 'social'
+          label: 'Author Social Media'
+          patern: "Fill in if using this features"
+          widget: 'list'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+          - {name: 'title', label: 'Title', widget: 'string', required:false}
+      - { name: 'date', label: 'Publish Date', widget: 'datetime' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: 'crosscurrentstwo'
+    label: 'Cross Currents Essay 2'
+    folder: 'content/crosscurrents/essay2'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'abstract', label: 'Abstarct', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - name: 'citation_download'
+        label: 'Citation Download' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'name', label: 'Title', widget: 'string', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'custom_icon'
+        label: 'Custom Icon' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'icon', label: 'Icon', widget: 'image', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'author'
+        label: 'Author' 
+        widget: 'list'
+        fields:
+        - { name: 'name', label: 'Author Name', widget: 'string', required:false}
+        - { name: 'sort', label: 'Author Sort ID', widget: 'number', required:false}
+        - { name: 'university', label: 'Author University', widget: 'string', required:false}
+        - name: 'profile_icon'
+          label: 'Profile Icon'
+          patern: "Fill in if using this features"
+          widget: 'object'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+        - { name: 'image', label: 'Author Image', widget: 'image', required:false}
+        - { name: 'about', label: 'About Author', widget: 'text', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+        - name: 'information'
+          label: 'Author Information'
+          widget: 'list'
+          fields: 
+          - {name: 'text', label: 'Text Information', widget: 'text', required:false}
+        - name: 'social'
+          label: 'Author Social Media'
+          patern: "Fill in if using this features"
+          widget: 'list'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+          - {name: 'title', label: 'Title', widget: 'string', required:false}
+      - { name: 'date', label: 'Publish Date', widget: 'datetime' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: 'featuredone'
+    label: 'Featured Essay 1'
+    folder: 'content/featured/essay1'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'abstract', label: 'Abstarct', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - name: 'citation_download'
+        label: 'Citation Download' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'name', label: 'Title', widget: 'string', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'custom_icon'
+        label: 'Custom Icon' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'icon', label: 'Icon', widget: 'image', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'author'
+        label: 'Author' 
+        widget: 'list'
+        fields:
+        - { name: 'name', label: 'Author Name', widget: 'string', required:false}
+        - { name: 'sort', label: 'Author Sort ID', widget: 'number', required:false}
+        - { name: 'university', label: 'Author University', widget: 'string', required:false}
+        - name: 'profile_icon'
+          label: 'Profile Icon'
+          patern: "Fill in if using this features"
+          widget: 'object'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+        - { name: 'image', label: 'Author Image', widget: 'image', required:false}
+        - { name: 'about', label: 'About Author', widget: 'text', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+        - name: 'information'
+          label: 'Author Information'
+          widget: 'list'
+          fields: 
+          - {name: 'text', label: 'Text Information', widget: 'text', required:false}
+        - name: 'social'
+          label: 'Author Social Media'
+          patern: "Fill in if using this features"
+          widget: 'list'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+          - {name: 'title', label: 'Title', widget: 'string', required:false}
+      - { name: 'date', label: 'Publish Date', widget: 'datetime' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: 'featuredtwo'
+    label: 'Featured Essay 2'
+    folder: 'content/featured/essay2'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'abstract', label: 'Abstarct', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - name: 'citation_download'
+        label: 'Citation Download' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'name', label: 'Title', widget: 'string', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'custom_icon'
+        label: 'Custom Icon' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'icon', label: 'Icon', widget: 'image', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'author'
+        label: 'Author' 
+        widget: 'list'
+        fields:
+        - { name: 'name', label: 'Author Name', widget: 'string', required:false}
+        - { name: 'sort', label: 'Author Sort ID', widget: 'number', required:false}
+        - { name: 'university', label: 'Author University', widget: 'string', required:false}
+        - name: 'profile_icon'
+          label: 'Profile Icon'
+          patern: "Fill in if using this features"
+          widget: 'object'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+        - { name: 'image', label: 'Author Image', widget: 'image', required:false}
+        - { name: 'about', label: 'About Author', widget: 'text', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+        - name: 'information'
+          label: 'Author Information'
+          widget: 'list'
+          fields: 
+          - {name: 'text', label: 'Text Information', widget: 'text', required:false}
+        - name: 'social'
+          label: 'Author Social Media'
+          patern: "Fill in if using this features"
+          widget: 'list'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+          - {name: 'title', label: 'Title', widget: 'string', required:false}
+      - { name: 'date', label: 'Publish Date', widget: 'datetime' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: 'jcreorone'
+    label: 'JCREOR Essay 1'
+    folder: 'content/jcreor/essay1'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'abstract', label: 'Abstarct', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - name: 'citation_download'
+        label: 'Citation Download' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'name', label: 'Title', widget: 'string', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'custom_icon'
+        label: 'Custom Icon' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'icon', label: 'Icon', widget: 'image', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'author'
+        label: 'Author' 
+        widget: 'list'
+        fields:
+        - { name: 'name', label: 'Author Name', widget: 'string', required:false}
+        - { name: 'sort', label: 'Author Sort ID', widget: 'number', required:false}
+        - { name: 'university', label: 'Author University', widget: 'string', required:false}
+        - name: 'profile_icon'
+          label: 'Profile Icon'
+          patern: "Fill in if using this features"
+          widget: 'object'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+        - { name: 'image', label: 'Author Image', widget: 'image', required:false}
+        - { name: 'about', label: 'About Author', widget: 'text', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+        - name: 'information'
+          label: 'Author Information'
+          widget: 'list'
+          fields: 
+          - {name: 'text', label: 'Text Information', widget: 'text', required:false}
+        - name: 'social'
+          label: 'Author Social Media'
+          patern: "Fill in if using this features"
+          widget: 'list'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+          - {name: 'title', label: 'Title', widget: 'string', required:false}
+      - { name: 'date', label: 'Publish Date', widget: 'datetime' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+  - name: 'jcrerortwo'
+    label: 'JCREOR Essay 2'
+    folder: 'content/jcreor/essay2'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { name: 'title', label: 'Title', widget: 'string' }
+      - { name: 'description', label: 'Description', widget: 'text' }
+      - { name: 'abstract', label: 'Abstarct', widget: 'text' }
+      - { name: 'image', label: 'Image', widget: 'image' , required:false}
+      - { name: 'doi', label: 'DOI Permalink URL', widget: 'string' , required:false}
+      - { name: 'canoncial', label: 'Canoncial URL', widget: 'string', required:false }
+      - { name: 'how_to_cite', label: 'How to Cite', widget: 'text' , required:false}
+      - { name: 'pdf', label: 'PDF Download', widget: 'string', required:false }
+      - name: 'citation_download'
+        label: 'Citation Download' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'name', label: 'Title', widget: 'string', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'custom_icon'
+        label: 'Custom Icon' 
+        patern: "Fill in if using this features"
+        widget: 'object'
+        fields:
+        - { name: 'icon', label: 'Icon', widget: 'image', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+      - name: 'author'
+        label: 'Author' 
+        widget: 'list'
+        fields:
+        - { name: 'name', label: 'Author Name', widget: 'string', required:false}
+        - { name: 'sort', label: 'Author Sort ID', widget: 'number', required:false}
+        - { name: 'university', label: 'Author University', widget: 'string', required:false}
+        - name: 'profile_icon'
+          label: 'Profile Icon'
+          patern: "Fill in if using this features"
+          widget: 'object'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+        - { name: 'image', label: 'Author Image', widget: 'image', required:false}
+        - { name: 'about', label: 'About Author', widget: 'text', required:false}
+        - { name: 'link', label: 'Link URL', widget: 'string', required:false}
+        - name: 'information'
+          label: 'Author Information'
+          widget: 'list'
+          fields: 
+          - {name: 'text', label: 'Text Information', widget: 'text', required:false}
+        - name: 'social'
+          label: 'Author Social Media'
+          patern: "Fill in if using this features"
+          widget: 'list'
+          fields: 
+          - {name: 'icon', label: 'Fontawesome Icon', widget: 'string', required:false}
+          - {name: 'link', label: 'URL Link', widget: 'string', required:false}
+          - {name: 'title', label: 'Title', widget: 'string', required:false}
+      - { name: 'date', label: 'Publish Date', widget: 'datetime' }
+      - { name: 'show_toc', label: 'Show Table of Content', widget: 'boolean', default: true}
+      - { name: 'tags', label: 'Tags Keywords', widget: 'list' }
+      - { name: 'body', label: 'Body', widget: 'markdown' } 
+

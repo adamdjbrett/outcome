@@ -62,6 +62,7 @@ export default async function(eleventyConfig) {
 		execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
 	  })
 
+
 	  eleventyConfig.addPlugin(pluginPWA);
 
 	  eleventyConfig.amendLibrary("md", mdLib => {

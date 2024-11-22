@@ -1,0 +1,502 @@
+local_backend: true
+backend:
+  name: git-gateway
+#  repo: githubuser/repo
+#  branch: main 
+media_folder: 'public/assets'
+collections:
+
+  - name: "homes"
+    label: "Home Page"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/index.md"
+       label: "Update Home Page Area"
+       name: "home"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+          - { label: 'Image', name: 'image', widget: 'image' , required: false}
+          - name: 'header'
+            label: 'Header Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'intro', widget: 'string' }
+             - { label: 'Content', name: 'text', widget: 'text'}
+          - name: 'form'
+            label: 'Form Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'title', widget: 'string' }
+             - { label: 'Button Text', name: 'button', widget: 'text'}
+
+  - name: "infos"
+    label: "Info Page"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/info.md"
+       label: "Update Info Page Area"
+       name: "info"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+          - { label: 'Header', name: 'header', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' , required: false}
+          - name: 'folks'
+            label: 'Folks Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'intro', widget: 'string' }
+             - label: 'Content'
+               name: 'text'
+               widget: 'list'
+               fields: 
+                 - { label: 'Title', name: 'title', widget: 'string' }
+                 - { label: 'Icon image SVG', name: 'icon', widget: 'image' }
+          - name: 'findme'
+            label: 'Find Me Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'intro', widget: 'string' }
+             - label: 'Content'
+               name: 'text'
+               widget: 'list'
+               fields: 
+                 - { label: 'Title', name: 'title', widget: 'string' }
+                 - { label: 'Icon image SVG', name: 'icon', widget: 'image' }
+          - name: 'skilles'
+            label: 'Skill Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Skill' , name: 'text', widget: 'string' }
+          - { label: 'Email Contact', name: 'contact', widget: 'image' }
+          - name: 'experience'
+            label: 'Experience Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'intro', widget: 'string' }
+             - label: 'Content'
+               name: 'list'
+               widget: 'list'
+               fields: 
+                 - { label: 'Title', name: 'title', widget: 'string' }
+                 - label: 'Content'
+                   name: 'text'
+                   widget: 'list'
+                   fields: 
+                      - { label: 'Content', name: 'job', widget: 'string' }
+          - name: 'education'
+            label: 'Education Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'intro', widget: 'string' }
+             - label: 'Education Content'
+               name: 'list'
+               widget: 'list'
+               fields: 
+                 - { label: 'Title', name: 'title', widget: 'string' }
+                 - label: 'Content'
+                   name: 'text'
+                   widget: 'list'
+                   fields: 
+                      - { label: 'Content', name: 'edu', widget: 'string' }
+          - name: 'form'
+            label: 'Form Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'intro', widget: 'string' }
+             - { label: 'Button Text' , name: 'button', widget: 'string' }
+          - { label: 'Permalink', name: 'permalink', widget: 'string' }
+
+  - name: "galleris"
+    label: "Gallery Page"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/gallery.md"
+       label: "Update Info Page Area"
+       name: "gallery"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text'  , required: false}
+          - { label: 'Header', name: 'header', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' , required: false}
+          - name: 'galleries'
+            label: 'Gallery Image List' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'title', widget: 'string' }
+             - { label: 'Image' , name: 'image', widget: 'image' }
+             - { label: 'Position' , name: 'order', widget: 'number' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'pages'
+    label: 'Pages'
+    folder: 'content/pages'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' , required: false}
+      - { label: 'Image', name: 'image', widget: 'image' , required: false}
+      - { label: 'Permalink', name: 'permalink', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'blog'
+    label: 'Blog Article'
+    folder: 'content/blog'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' , required: false}
+      - { label: 'Image', name: 'image', widget: 'image' , required: false}
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Canoncial URL', name: 'canconcial_url', widget: 'string' , required: false }
+      - { label: 'Original Link', name: 'original_link', widget: 'string'  , required: false }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' , required: false }
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'project'
+    label: 'Projects Article'
+    folder: 'content/project'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' , required: false}
+      - { label: 'Image', name: 'image', widget: 'image' , required: false}
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Permalink', name: 'permalink', widget: 'string' , required: false}
+      - { label: 'Tags', name: 'tags', widget: 'list' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: "cvseo"
+    label: "CV Page"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/cv.md"
+       label: "Update SEO and CV Page"
+       name: "cvs"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text' }
+          - { label: 'Image', name: 'image', widget: 'image' , required: false}
+          - name: 'header'
+            label: 'Header Area' 
+            widget: 'list'
+            fields:
+             - { label: 'Title' , name: 'intro', widget: 'string' }
+             - { label: 'Content', name: 'text', widget: 'text'}
+          - { label: 'Contact Form', name: 'contact', widget: 'text' }
+
+  - name: "cvset"
+    label: "CV Page Setup"
+    extension: "yaml"
+    editor:
+      preview: false
+    files:
+     - file: "_data/data.yaml"
+       label: "CV Configuration Setup"
+       name: "cvs"
+       widget: list
+       fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'Tagline', name: 'tagline', widget: 'text' }
+          - { label: 'Image', name: 'image', widget: 'image' , required: false}
+          - { label: 'Email', name: 'email', widget: 'string' }
+          - { label: 'Email Bootstrap Icon', name: 'email_icon', widget: 'string' }
+          - { label: 'Phone', name: 'phone', widget: 'string' }
+          - { label: 'Phone Bootstrap Icon', name: 'phone_icon', widget: 'string' }
+          - { label: 'Website', name: 'website', widget: 'string' }
+          - { label: 'Website Bootstrap Icon', name: 'website_icon', widget: 'string' }
+          - { label: 'Location', name: 'location', widget: 'string' }
+          - { label: 'Location Bootstrap Icon', name: 'location_icon', widget: 'string' }
+          - name: 'data'
+            label: 'Data Area' 
+            widget: 'object'
+            fields:
+              - label: 'Education Area'
+                name: 'education'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Skills Area'
+                name: 'skills'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Exams Area'
+                name: 'exams'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Teaching Area'
+                name: 'teaching'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Experinence Area'
+                name: 'experience'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Activities Area'
+                name: 'activities'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Service Area'
+                name: 'service'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Publications Area'
+                name: 'publications'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Scholarship Area'
+                name: 'scholarship'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Collaborative Area'
+                name: 'collaborative'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Collaborative Area'
+                name: 'presentations'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Awards Area'
+                name: 'awards'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Languages Area'
+                name: 'languages'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Associations Area'
+                name: 'associations'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+              - label: 'Technical Area'
+                name: 'technical'
+                widget: 'object'
+                fields:
+                   - { label: 'Title' , name: 'title', widget: 'string' }
+
+  - name: 'cv'
+    label: 'CV Content List'
+    folder: 'content/cv'
+    slug: '{{slug}}'
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: "blogger"
+    label: "Blog List Setup"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/blog.md"
+       label: "Configuration Blog List Page"
+       name: "blog"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text'  , required: false}
+          - { label: 'Header', name: 'header', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' , required: false}
+          - name: 'pagination'
+            label: 'Post display to show' 
+            widget: 'object'
+            fields:
+             - { label: 'Show Posts' , name: 'size', widget: 'number' }
+
+  - name: "projects"
+    label: "Project List Setup"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/project.md"
+       label: "Configuration Project List Page"
+       name: "blog"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text'  , required: false}
+          - { label: 'Header', name: 'header', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' , required: false}
+          - name: 'pagination'
+            label: 'Project display to show' 
+            widget: 'object'
+            fields:
+             - { label: 'Show Project' , name: 'size', widget: 'number' }
+          - name: 'form'
+            label: 'Contact Form' 
+            widget: 'object'
+            fields:
+             - { label: 'Title' , name: 'title', widget: 'string' }
+             - { label: 'Button Text' , name: 'button', widget: 'string' }
+          - { label: 'Permalink', name: 'permalink', widget: 'string' }
+
+  - name: "hastag"
+    label: "Tags Page Setup"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/tag.md"
+       label: "Configuration Tags Page"
+       name: "tags"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text'  , required: false}
+          - { label: 'Header', name: 'header', widget: 'string' }
+          - { label: 'Image', name: 'image', widget: 'image' , required: false}
+
+  - name: "notfound"
+    label: "404 Page Setup"
+    extension: "md"
+    editor:
+      preview: false
+    files:
+     - file: "content/404.md"
+       label: "404 Page Configuration"
+       name: "404"
+       widget: list
+       fields:
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: "setups"
+    label: "Website Setup"
+    extension: "json"
+    editor:
+      preview: false
+    files:
+     - file: "_data/metadata.json"
+       label: "Website Configuration"
+       name: "metadata"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text'}
+          - { label: 'Icon', name: 'icon', widget: 'image'}
+          - { label: 'Favicon', name: 'favicon', widget: 'image'}
+          - { label: 'Cover', name: 'cover', widget: 'image'}
+          - { label: 'Image', name: 'image', widget: 'image'}
+          - { label: 'Language', name: 'language', widget: 'string' }
+          - { label: 'Locale', name: 'locale', widget: 'string' }
+          - { label: 'Formspree ID', name: 'formspree_id', widget: 'string' }
+          - { label: 'Site URL', name: 'url', widget: 'string' }
+          - { label: 'Navbar Title', name: 'nav_title', widget: 'string' }
+          - name: 'navbar'
+            label: 'Navbar Lists' 
+            widget: 'list'
+            fields:
+             - { label: 'Navbar Title' , name: 'nav', widget: 'string' }
+             - { label: 'Nav Access Key' , name: 'key', widget: 'string' }
+             - { label: 'URL Link' , name: 'link', widget: 'string' }
+          - { label: 'Navbar Dropdown Title', name: 'navbar_drop_down_title', widget: 'string' }
+          - name: 'navbar_dropdown'
+            label: 'Navbar Dropdown Lists' 
+            widget: 'list'
+            fields:
+             - { label: 'Navbar Title' , name: 'nav', widget: 'string' }
+             - { label: 'Nav Access Key' , name: 'key', widget: 'string' }
+             - { label: 'URL Link' , name: 'link', widget: 'string' }
+          - name: 'social'
+            label: 'Social Media max 3 social media' 
+            widget: 'list'
+            fields:
+             - { label: 'Navbar Social Title' , name: 'nav', widget: 'string' }
+             - { label: 'Nav Social Bootstrap Icon' , name: 'icon', widget: 'string' }
+             - { label: 'Nav Social Access Key' , name: 'key', widget: 'string' }
+             - { label: 'URL Link' , name: 'link', widget: 'string' }
+          - name: 'localbusiness'
+            label: 'Google GEO Location SEO' 
+            widget: 'object'
+            fields:
+             - { label: 'Company Address' , name: 'address', widget: 'string' }
+             - { label: 'Locality' , name: 'locality', widget: 'string' }
+             - { label: 'Region' , name: 'region', widget: 'string' }
+             - { label: 'Postal Code' , name: 'postalcode', widget: 'string' }
+             - { label: 'Country' , name: 'country', widget: 'string' }
+             - { label: 'Latitude' , name: 'latitude', widget: 'string' }
+             - { label: 'Longitude' , name: 'longitude', widget: 'string' }
+          - name: 'author'
+            label: 'Website Author' 
+            widget: 'object'
+            fields:
+             - { label: 'Name' , name: 'name', widget: 'string' }
+             - { label: 'Email' , name: 'email', widget: 'string' }
+             - { label: 'Website url' , name: 'url', widget: 'string' }
+          - name: 'company'
+            label: 'Company Profile for Google LD SEO' 
+            widget: 'object'
+            fields:
+             - { label: 'Founding' , name: 'founding', widget: 'string' }
+             - { label: 'Company Name' , name: 'name', widget: 'string' }
+             - { label: 'Company Address' , name: 'address', widget: 'string' }
+             - { label: 'City' , name: 'city', widget: 'string' }
+             - { label: 'Phone Call URL' , name: 'phonecall', widget: 'number' }
+             - { label: 'Phone Number' , name: 'phone', widget: 'string' }
+             - { label: 'Business Hours' , name: 'businesshours', widget: 'string' }
+             - { label: 'Google Review Page if have' , name: 'googlereview', widget: 'string' }
+             - { label: 'Map Link URL' , name: 'maplink', widget: 'string' }
+             - { label: 'Company Email' , name: 'email', widget: 'string' }
+          - name: 'project'
+            label: 'Project Widget Setup' 
+            widget: 'object'
+            fields:
+             - { label: 'Title' , name: 'title', widget: 'string' }
+             - { label: 'Breadcumb' , name: 'breadcumb', widget: 'string' }
+             - { label: 'Button Text' , name: 'button', widget: 'string' }
+             - { label: 'Link URL' , name: 'link', widget: 'string' }
+          - name: 'blog'
+            label: 'Blog Widget Setup' 
+            widget: 'object'
+            fields:
+             - { label: 'Title' , name: 'title', widget: 'string' }
+             - { label: 'Breadcumb' , name: 'breadcumb', widget: 'string' }
+             - { label: 'Button Text' , name: 'button', widget: 'string' }
+             - { label: 'Link URL' , name: 'link', widget: 'string' }
+          - name: 'footer'
+            label: 'Footer Setup' 
+            widget: 'object'
+            fields:
+             - { label: 'Text 1' , name: 'text1', widget: 'string' }
+             - { label: 'Text 2' , name: 'text2', widget: 'string' }
+             - { label: 'Link URL' , name: 'link', widget: 'string' }
