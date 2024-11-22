@@ -1,8 +1,8 @@
-local_backend: true
+#local_backend: true
 backend:
   name: git-gateway
-#  repo: adamdjbrett/outcome
-#  branch: main 
+  repo: adamdjbrett/outcome
+  branch: main 
 media_folder: 'public/img'
 collections:
   - name: "homes"
@@ -594,3 +594,87 @@ collections:
        widget: list
        fields:
           - { label: 'Content Article', name: 'body', widget: 'markdown' } 
+  - name: "setups"
+    label: "Website Setup"
+    extension: "json"
+    editor:
+      preview: false
+    files:
+     - file: "_data/metadata.json"
+       label: "Website Configuration"
+       name: "metadata"
+       widget: list
+       fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'text'}
+          - { label: 'Favicon', name: 'favicon', widget: 'image'}
+          - { label: 'Image', name: 'image', widget: 'image'}
+          - { label: 'Language', name: 'language', widget: 'string' }
+          - { label: 'Locale', name: 'locale', widget: 'string' }
+          - { label: 'Formspree ID', name: 'formspree_id', widget: 'string' }
+          - { label: 'Site URL', name: 'url', widget: 'string' }
+          - name: 'metasocial'
+            label: 'Metadata Social Media' 
+            widget: 'object'
+            fields:
+             - { label: 'Image' , name: 'image', widget: 'image' }
+             - { label: 'Facebook' , name: 'facebook', widget: 'string' }
+             - { label: 'Tweet User' , name: 'twitteruser', widget: 'string' }
+             - { label: 'Twitter', name: 'twitter', widget: 'string' }
+          - name: 'navbar'
+            label: 'Navbar Header' 
+            widget: 'list'
+            fields:
+             - { label: 'Navbar Title' , name: 'name', widget: 'string' }
+             - { label: 'Navbar Access Key' , name: 'key', widget: 'string' }
+             - { label: 'URL Link' , name: 'link', widget: 'string' }
+          - name: 'sidebar'
+            label: 'Sidebar Menu' 
+            widget: 'object'
+            fields:
+             - { label: 'Sidebar Logo' , name: 'logo', widget: 'image' }
+             - { label: 'Nav Header Logo' , name: 'logo_nav', widget: 'image' }
+             - label: 'Sidebar Menu Left'
+               name: 'left'
+               widget: 'list'
+               fields: 
+                - { label: "Title" , name: "title" , widget: "string"}
+                - name: "item"
+                  widget: "list"
+                  label: "Menu List"
+                  fields: 
+                  - {name: "name", label: "Title" , widget: "string"}
+                  - {name: "link", label: "Title" , widget: "string"}
+             - label: 'Sidebar Menu Right'
+               name: 'right'
+               widget: 'list'
+               fields: 
+                - { label: "Title" , name: "title" , widget: "string"}
+                - name: "item"
+                  widget: "list"
+                  label: "Menu List"
+                  fields: 
+                  - {name: "name", label: "Title" , widget: "string"}
+                  - {name: "link", label: "Title" , widget: "string"}
+             - label: 'Social Icon'
+               name: 'social_icon'
+               widget: 'list'
+               fields: 
+                - { name: "icon",label: "Fontawesome Icon" , widget: "string"}
+                - { name: "title",label: "Title" , widget: "string"}
+                - { name: "link",label: "Link URL" , widget: "string"}
+          - label: 'Search Widget'
+            name: 'search'
+            widget: 'object'
+            fields: 
+             - { name: "title",label: "Title" , widget: "string"}
+             - { name: "key",label: "Access Key" , widget: "string"}
+             - { name: "placeholder",label: "PlaceHolder" , widget: "string"}
+          - name: 'author'
+            label: 'Website Author Profile' 
+            widget: 'object'
+            fields:
+             - { label: 'Name' , name: 'name', widget: 'string' }
+             - { label: 'Email' , name: 'email', widget: 'string' }
+             - { label: 'URL Link' , name: 'url', widget: 'string' }
+
