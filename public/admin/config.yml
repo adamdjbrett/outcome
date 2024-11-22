@@ -1,8 +1,8 @@
-#local_backend: true
+local_backend: true
 backend:
   name: git-gateway
-  repo: adamdjbrett/outcome
-  branch: main 
+#  repo: adamdjbrett/outcome
+#  branch: main 
 media_folder: 'public/img'
 collections:
   - name: "homes"
@@ -621,6 +621,31 @@ collections:
              - { label: 'Facebook' , name: 'facebook', widget: 'string' }
              - { label: 'Tweet User' , name: 'twitteruser', widget: 'string' }
              - { label: 'Twitter', name: 'twitter', widget: 'string' }
+          - label: 'Search Widget'
+            name: 'search'
+            widget: 'object'
+            fields: 
+             - { name: "title",label: "Title" , widget: "string"}
+             - { name: "key",label: "Access Key" , widget: "string"}
+             - { name: "placeholder",label: "PlaceHolder" , widget: "string"}
+          - name: 'author'
+            label: 'Website Author Profile' 
+            widget: 'object'
+            fields:
+             - { label: 'Name' , name: 'name', widget: 'string' }
+             - { label: 'Email' , name: 'email', widget: 'string' }
+             - { label: 'URL Link' , name: 'url', widget: 'string' }
+  - name: "navis"
+    label: "Navbar Setup"
+    extension: "json"
+    editor:
+      preview: false
+    files:
+     - file: "_data/metadata.json"
+       label: "Navbar Configuration"
+       name: "metadata"
+       widget: list
+       fields:
           - name: 'navbar'
             label: 'Navbar Header' 
             widget: 'list'
@@ -628,6 +653,17 @@ collections:
              - { label: 'Navbar Title' , name: 'name', widget: 'string' }
              - { label: 'Navbar Access Key' , name: 'key', widget: 'string' }
              - { label: 'URL Link' , name: 'link', widget: 'string' }
+  - name: "sides"
+    label: "Sidebar Setup"
+    extension: "json"
+    editor:
+      preview: false
+    files:
+     - file: "_data/metadata.json"
+       label: "Sidebar Configuration"
+       name: "metadata"
+       widget: list
+       fields:
           - name: 'sidebar'
             label: 'Sidebar Menu' 
             widget: 'object'
@@ -663,18 +699,60 @@ collections:
                 - { name: "icon",label: "Fontawesome Icon" , widget: "string"}
                 - { name: "title",label: "Title" , widget: "string"}
                 - { name: "link",label: "Link URL" , widget: "string"}
-          - label: 'Search Widget'
-            name: 'search'
-            widget: 'object'
-            fields: 
-             - { name: "title",label: "Title" , widget: "string"}
-             - { name: "key",label: "Access Key" , widget: "string"}
-             - { name: "placeholder",label: "PlaceHolder" , widget: "string"}
-          - name: 'author'
-            label: 'Website Author Profile' 
+  - name: "footers"
+    label: "Footer Setup"
+    extension: "json"
+    editor:
+      preview: false
+    files:
+     - file: "_data/metadata.json"
+       label: "Footer Configuration"
+       name: "metadata"
+       widget: list
+       fields:
+          - name: 'footer'
+            label: 'Footer Menu' 
             widget: 'object'
             fields:
-             - { label: 'Name' , name: 'name', widget: 'string' }
-             - { label: 'Email' , name: 'email', widget: 'string' }
-             - { label: 'URL Link' , name: 'url', widget: 'string' }
-
+              - name: "copyrights"
+                label: "Copyrights Area"
+                widget: "object"
+                fields: 
+                  - {name: "logo" , label: "Copyrights Logo" , widget: "image"}
+                  - {name: "text1" , label: "Copyrights Text 1 Area" , widget: "string"}
+                  - {name: "text2" , label: "Copyrights Text 2 Area" , widget: "string"}
+                  - {name: "text2_link" , label: "Copyrights Text 2 Link URL" , widget: "string"}
+                  - {name: "text3" , label: "Copyrights Text 3 Area" , widget: "string"}
+                  - {name: "text4" , label: "Copyrights Text 4 Area" , widget: "string"}
+                  - {name: "text4_link" , label: "Copyrights Text 4 Link URL" , widget: "string"}
+              - name: "licency"
+                label: "Licency Area"
+                widget: "object"
+                fields: 
+                  - {name: "text1" , label: "Licency Text 1 Area" , widget: "string"}
+                  - {name: "text2" , label: "Licency Text 2 Area" , widget: "string"}
+                  - {name: "text2_link" , label: "Licency Text 2 Link URL" , widget: "string"}
+                  - {name: "text3" , label: "Licency Text 3 Area" , widget: "string"}
+                  - {name: "text3_link" , label: "Licency Text 3 Link URL" , widget: "string"}
+              - name: "privacy"
+                label: "Privacy Area"
+                widget: "object"
+                fields: 
+                  - {name: "text1" , label: "Licency Text 1 Area" , widget: "string"}
+                  - {name: "text2" , label: "Licency Text 2 Area" , widget: "string"}
+                  - {name: "text2_link" , label: "Licency Text 2 Link URL" , widget: "string"}
+                  - {name: "text3" , label: "Licency Text 3 Area" , widget: "string"}
+              - { label: 'Footer Menu 1 Title' , name: 'menu_title', widget: 'string' }
+              - name: "menu"
+                label: "Footer Menu 1 List"
+                widget: "list"
+                fields: 
+                  - {name: "name" , label: "Name" , widget: "string"}
+                  - {name: "url" , label: "URL Link" , widget: "string"}
+              - { label: 'Footer Menu 2 Title' , name: 'info_title', widget: 'string' }
+              - name: "info"
+                label: "Footer Menu 2 List"
+                widget: "list"
+                fields: 
+                  - {name: "name" , label: "Name" , widget: "string"}
+                  - {name: "url" , label: "URL Link" , widget: "string"}
