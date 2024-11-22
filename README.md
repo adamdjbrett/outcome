@@ -1,12 +1,14 @@
 # OUTCOME 🚀
-🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
-Still in development. The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v. M’Intosh (JvM): Indigenous Responses to the Religious Foundations of Racism.
 
-Project by 👩‍🚀 [Adam DJ Brett](https://www.adamdjbrett.com)
+![Outcome](outcome.jpg)
 
-Developer 👩‍🚀 [Adam DJ Brett](https://www.adamdjbrett.com)
+The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v. M’Intosh (JvM): Indigenous Responses to the Religious Foundations of Racism.
 
-JAMSTACK SSG 11ty aka Eleventy 🛰
+👩‍🚀 Project by [Adam DJ Brett](https://www.adamdjbrett.com)
+
+👩‍🚀 Developer [Adam DJ Brett](https://www.adamdjbrett.com)
+
+🛰 JAMSTACK SSG [11ty](https://11ty.dev) V.3 aka Eleventy
 
 Status 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a51b8236-196a-4da3-8ca8-21a4d9666ea5/deploy-status)](https://app.netlify.com/sites/outcomedocs/deploys)
@@ -51,6 +53,7 @@ Features ❤️
 + Tags
 + Multi Author
 + Author Profile
++ Contact Form
 + Abstract
 + Cite
 + Bib Download
@@ -59,6 +62,7 @@ Features ❤️
 + Author Link and Icon
 + Custom Icon
 + WSRV image CDN
++ Formspree
 + Headless Decap Netlify CMS Integration
 
 ---

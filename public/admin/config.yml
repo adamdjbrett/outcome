@@ -1,8 +1,7 @@
-local_backend: true
 backend:
   name: git-gateway
-#  repo: adamdjbrett/outcome
-#  branch: main 
+  repo: adamdjbrett/outcome
+  branch: main 
 media_folder: 'public/img'
 collections:
   - name: "homes"

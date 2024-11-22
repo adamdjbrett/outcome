@@ -1,0 +1,29 @@
+---
+layout: layouts/base.njk
+---
+<div class="col-md-12 p-3 p-md-5"></div>
+<div class="container-fluid">
+<div class="row mt-5 mb-3">
+<div class="col-md-10 mx-auto p-3 p-md-5">
+<nav style="--bs-breadcrumb-divider: '>';" aria-label="breadcrumb">
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="{{metadata.url}}">Home</a></li>
+<li class="breadcrumb-item active" aria-current="page">{{title}}</li>
+</ol>
+</nav>
+<div class="mb-3 mt-3">
+<h1>{{title}}</h1>
+<h2 class="lead mb-5">{{description}}</h2>
+</div>
+<div class="row mt-3 mb-3">
+<div class="col-md-9 p-3">
+{% if image %}<img class="img-fluid img-pages mb-3" alt="{{title}}" width="100%" height="100%" loading="eager" 
+src="https://wsrv.nl/?url={{metadata.url}}{{image}}&output=webp"/>{% endif %}
+{{ content | safe }}
+{% include "widgets/contact_form.njk" %}
+</div>
+{% include "widgets/rightbar.njk" %}
+</div>
+</div>
+</div>
+</div>

@@ -1,4 +1,5 @@
 ---
+layout: layouts/contact.njk
 title: Contact Outcome
 description: Contact Outcome project for doctrine of discovery org
 permalink: /contact/
