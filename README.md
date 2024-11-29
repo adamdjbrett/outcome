@@ -10,7 +10,7 @@ The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v
 
 🛰 JAMSTACK SSG [11ty](https://11ty.dev) V.3 aka Eleventy
 
-Status 
+## Status 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a51b8236-196a-4da3-8ca8-21a4d9666ea5/deploy-status)](https://app.netlify.com/sites/outcomedocs/deploys)
 
 
@@ -34,7 +34,7 @@ Desktop Peformance
 
 ---
 
-Features ❤️
+### Features ❤️
 
 + 11ty Eleventy
 + Header Anchor
@@ -92,10 +92,14 @@ On the CMS there is: `Fill if you use this feature or leave it blank if you do n
 
 You can use the feature by filling in the data, or leave it blank if you do not want to display it.
 
-Show Table of Content: 
+### Show Table of Contents: 
 
 You can click disable if you don't want to display the table of contents in the article sidebar.
 
-Custom Icon Author: 
+### Custom Icon Author: 
 
 If you want to use a custom icon for the author, then you can fill in the custom icon, upload the icon and enter your site url. By using a custom icon, you can empty the area on the author profile icon - because it has been replaced with a custom icon.
+
+## CHANGELOG
+- CMD+K should take one directly into search
+- homepage tweaks
