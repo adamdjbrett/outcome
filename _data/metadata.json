@@ -44,20 +44,24 @@
 				"item": 
 				[
 					{
-						"name": "Hello World",
+						"name": "Home Page",
 						"link": "/"
 					},
 					{
-						"name": "Apa Kabar Dunia",
-						"link": "/"
+						"name": "Cannopy",
+						"link": "/canopy/"
 					},
 					{
-						"name": "Lorep Ipsum",
-						"link": "/"
+						"name": "CrossCurrent",
+						"link": "/crosscurrent"
 					},
 					{
-						"name": "Dolor Siamet",
-						"link": "/"
+						"name": "JCREOR",
+						"link": "/jcreor/"
+					},
+					{
+						"name": "Featured",
+						"link": "/featured/"
 					}
 				]
 			},
@@ -126,6 +130,28 @@
 					{
 						"name": "For Publishers",
 						"link": "/"
+					}
+				]
+			},
+			{
+				"title": "Essay",
+				"item": 
+				[
+					{
+						"name": "Canopy",
+						"link": "/canopy/"
+					},
+					{
+						"name": "JCREOR",
+						"link": "/jcreor/"
+					},
+					{
+						"name": "CrossCurrent",
+						"link": "/crosscurrent/"
+					},
+					{
+						"name": "Featured",
+						"link": "/featured/"
 					}
 				]
 			},
@@ -226,18 +252,26 @@
 				"url": "/contact/"
 			}
 		],
-		"info_title": "Infromation",
+		"info_title": "Information",
 		"info": [
 			{
-				"name": "Esay",
-				"url": "/"
+				"name": "Canopy",
+				"url": "/canopy/"
+			},
+			{
+				"name": "JCREOR",
+				"url": "/jcreor/"
+			},
+			{
+				"name": "CrossCurrent",
+				"url": "/crosscurrent/"
+			},
+			{
+				"name": "Featured",
+				"url": "/featured/"
 			},
 			{
 				"name": "Readers",
-				"url": "/"
-			},
-			{
-				"name": "Blogs",
 				"url": "/"
 			},
 			{
@@ -246,10 +280,6 @@
 			},
 			{
 				"name": "Advertisers",
-				"url": "/"
-			},
-			{
-				"name": "Authors",
 				"url": "/"
 			}
 		]
