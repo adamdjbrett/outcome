@@ -1,7 +1,7 @@
 ---
-title: JCREOR Easy 1 - One
-description: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Courts landmark ruling in Johnson v. M’Intosh (1823) includes all these elements."
-abstract: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in Johnson v. M’Intosh (1823) includes all these elements. The Johnson decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples."
+title: "Editorial Address & Advisory Board"
+description: "The second issue of volume five of the Journal of the Council for Research on Religion (JCREOR) is a special issue,  From Indigenous ‘Religions’ to Indigenous Values. Planned and realized in collaboration with Philip P. Arnold (Syracuse University)"
+abstract: ""
 image: "/img/post/NARA.jpg"
 date: 2024-10-20
 doi:  "https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/"
