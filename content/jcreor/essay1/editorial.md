@@ -57,7 +57,7 @@ author:
  - name: "Aaron Ricker"
    sort: "4"
    image: 
-   university: "McGill University"
+   university: ""
    profile_icon: 
     icon: ""
     link: ""
