@@ -2,7 +2,7 @@
 title: "Editorial Address & Advisory Board"
 description: "The second issue of volume five of the Journal of the Council for Research on Religion (JCREOR) is a special issue,  From Indigenous ‘Religions’ to Indigenous Values. Planned and realized in collaboration with Philip P. Arnold (Syracuse University)"
 abstract: "The second issue of volume five of the Journal of the Council for Research on Religion (JCREOR) is a special issue,  From Indigenous ‘Religions’ to Indigenous Values. Planned and realized in collaboration with Philip P. Arnold (Syracuse University), the Indigenous Values Initiative (IVI), and the American Indian Law Alliance (AILA), this volume offers a collection of responses and articles that speak to the themes and tensions noted in the Report on Indigenous Religious Freedom or Belief, presented by the United Nation’s Office of the External Special Rapporteur on Religious Freedom or Belief, which we have gained special permission to republish here in full. This issue provides input on the report but also examines the restrictions and limitations imposed by the categories of religion and/or belief when working with Indigenous nations and communities."
-image: "/img/post/NARA.jpg"
+image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
 date: 2024-11-01
 doi:  "https://doi.org/10.26443/jcreor.v5i2.107"
 pdf: "/pdf/jcreor/Final_Editorial+Address+V.5+N.2.pdf"
