@@ -6,8 +6,8 @@
 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 </div>
 <div class="modal-body">
-{% if a.image %}
 <div class="col-md-12 p-3 text-center">
+{% if a.image %}
 <img class="img-fluid" alt="{{a.name}}" width="150" height="150" loading="lazy" src="https://wsrv.nl/?url={{metadata.url}}{{a.image}}&w=150&h=150&output=webp"
 style="border-radius:80px;object-fit:cover;"/>{% else %}
 <img class="img-fluid" alt="{{a.name}}" width="150" height="150" loading="lazy" src="https://wsrv.nl/?url={{metadata.url}}{{metadata.favicon}}&w=150&h=150&output=webp"
@@ -23,8 +23,8 @@ style="border-radius:80px;object-fit:cover;"/>
 {% endfor %}{% endif %}
 </div>
 <div class="col-md-12 p-3">
-<p>{{a.about}}</p>
-{% for j in a.information %}<p>{{j.text}}</p>{% endfor %}
+{% if a.about %}<p>{{a.about}}</p>{% endif %}
+{% if a.information %}{% for j in a.information %}<p>{{j.text}}</p>{% endfor %}{% endif %}
 </div>
 </div>
 </div>

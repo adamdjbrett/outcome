@@ -15,7 +15,9 @@ src="https://wsrv.nl/?url={{metadata.url}}{{item.data.image}}&w=500&output=webp"
 <div class="col-md-4 col-6 p-1">
 <p><small>
 {% if a.image %}<img class="me-3 rounded-circle img-author-main" alt="{{a.title}} {{metadata.title}}" loading="eager" 
-width="20" height="20" src="https://wsrv.nl/?url={{metadata.url}}{{a.image}}&w=20&output=webp"/>{% endif %}
+width="20" height="20" src="https://wsrv.nl/?url={{metadata.url}}{{a.image}}&w=20&output=webp"/>{% else %}
+<img class="me-3 rounded-circle img-author-main" alt="{{a.title}} {{metadata.title}}" loading="eager" 
+width="20" height="20" src="https://wsrv.nl/?url={{metadata.url}}{{metadata.favicon}}&w=20&output=webp"/>{% endif %}
 {{a.name}}
 </small></p>
 </div>

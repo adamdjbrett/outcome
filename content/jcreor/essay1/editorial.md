@@ -31,43 +31,43 @@ author:
    image: 
    university: "McGill University"
    profile_icon: 
-    icon: 
-    link: 
-   about: 
+    icon: ""
+    link: ""
+   about: ""
    information: 
-    - text: 
+    - text: ""
    social:
-    - icon: 
-      link: 
-      title: 
+    - icon: ""
+      link: ""
+      title: ""
  - name: "Elyse MacLeod"
    sort: "3"
    image: 
    university: "McGill University"
    profile_icon: 
-    icon: 
-    link: 
-   about: 
+    icon: ""
+    link: ""
+   about: ""
    information: 
-    - text: 
+    - text: ""
    social:
-    - icon: 
-      link: 
-      title: 
+    - icon: ""
+      link: ""
+      title: ""
  - name: "Aaron Ricker"
    sort: "4"
    image: 
-   university: 
+   university: "McGill University"
    profile_icon: 
-    icon: 
-    link: 
-   about: 
+    icon: ""
+    link: ""
+   about: ""
    information: 
-    - text: 
+    - text: ""
    social:
-    - icon: 
-      link: 
-      title: 
+    - icon: ""
+      link: ""
+      title: ""
 tags: 
  - Gerbern Oegema
  - Amanda Rosini
