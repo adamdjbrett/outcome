@@ -73,8 +73,8 @@ tags:
  - Amanda Rosini
  - Elyse MacLeod
  - Aaron Ricker
- - Native American Lands
- - series
+ - Editorial Address
+ - Advisory Board
 ---
 
 ### INTRODUCTION
