@@ -2,7 +2,7 @@
 title: "Weso?"
 description: "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they ‘discovered’ and lay claim to those lands for their Christian Monarchs."
 abstract: "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they ‘discovered’ and lay claim to those lands for their Christian Monarchs. Any land that was not inhabited by Christians was available to be ‘discovered’, claimed, and exploited. If the ‘pagan’ inhabitants could be converted, they might be spared. If not, they could be enslaved or killed."
-image: "/img/post/featured/colonial-contact.jpg"
+image: "/img/post/indian.jpg"
 date: 2024-12-12
 doi:  "dofd.fyi/what/"
 pdf: ""
