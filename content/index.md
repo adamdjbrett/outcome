@@ -18,4 +18,8 @@ widget:
  - title: JCREOR
    image: /img/post/legal.jpg
    url: /jcreor/
+ - title: Podcast
+   image: /img/post/podcast.webp
+   url: https://podcast.doctrineofdiscovery.org/
 ---
+
