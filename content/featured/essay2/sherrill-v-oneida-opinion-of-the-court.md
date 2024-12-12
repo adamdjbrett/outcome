@@ -4,7 +4,7 @@ description: "In March 2005, the U.S. Supreme Court handed down a decision in Ci
 abstract: "In March 2005, the U.S. Supreme Court handed down a decision in City of Sherrill, New York v. Oneida Indian Nation of New York. Sherrill is a case about land rights and sovereignty, and it raises the question what it means for an Indigenous nation to appeal to its colonizer to recognize its sovereignty over land that belonged to it before it was colonized."
 image: "/img/post/featured/colonial-contact.jpg"
 date: 2022-10-19
-doi:  "dofd.fyi/svo/"
+doi:  "https://dofd.fyi/svo/"
 pdf: "/pdf/featured/sheril.pdf"
 how_to_cite: "Dana Lloyd, 'City of Sherrill v. Oneida Indian Nation of New York,' Doctrine of Discovery Project (19 October 2022)"
 show_toc: true
