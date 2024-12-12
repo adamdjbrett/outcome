@@ -1,15 +1,15 @@
 ---
-title: "Feature Easy 1 - One"
-description: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Courts landmark ruling in Johnson v. M’Intosh (1823) includes all these elements."
-abstract: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in Johnson v. M’Intosh (1823) includes all these elements. The Johnson decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples."
-image: "/img/post/NARA.jpg"
-date: 2024-10-20
-doi:  "https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/"
-pdf: "/pdf/01-intro.pdf"
-how_to_cite: "Arnold, Philip P., Sandra L., Bigtree, and Adam D.J., Brett. 'Introduction to 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands.' (2023)."
+title: "Weso?"
+description: "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they ‘discovered’ and lay claim to those lands for their Christian Monarchs."
+abstract: "Papal Bulls of the 15th century gave Christian explorers the right to claim lands they ‘discovered’ and lay claim to those lands for their Christian Monarchs. Any land that was not inhabited by Christians was available to be ‘discovered’, claimed, and exploited. If the ‘pagan’ inhabitants could be converted, they might be spared. If not, they could be enslaved or killed."
+image: "/img/post/featured/colonial-contact.jpg"
+date: 2024-12-12
+doi:  "dofd.fyi/what/"
+pdf: ""
+how_to_cite: "Indigenous Values Initiative"
 citation_download: 
- name: Download Citation
- link: /bib/intro-arnold.bib
+ name: 
+ link: 
 show_toc: true
 author: 
  - name: "Philip P. Arnold"
