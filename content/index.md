@@ -19,7 +19,7 @@ widget:
    image: /img/post/legal.jpg
    url: /jcreor/
  - title: Podcast
-   image: /img/post/podcast.webp
+   image: /img/post/mapping-doctrine-of-discovery-favicon.png
    url: https://podcast.doctrineofdiscovery.org/
 ---
 
