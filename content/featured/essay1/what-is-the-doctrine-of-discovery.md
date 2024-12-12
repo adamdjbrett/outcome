@@ -5,7 +5,7 @@ abstract: "Papal Bulls of the 15th century gave Christian explorers the right to
 image: "/img/post/featured/colonial-contact.jpg"
 date: 2024-12-12
 doi:  "dofd.fyi/what/"
-pdf: ""
+pdf: 
 how_to_cite: "Indigenous Values Initiative, 'What is the Doctrine of Discovery?,' Doctrine of Discovery Project (30 July 2018)"
 show_toc: true
 tags: 
