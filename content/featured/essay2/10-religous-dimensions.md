@@ -4,7 +4,7 @@ description: "With issuance of 15th century Papal Bulls known as the Doctrine of
 abstract: "With issuance of 15th century Papal Bulls known as the Doctrine of Christian Discovery, religion has been used all over the world as a weapon against Indigenous Peoples and the land."
 image: "/img/post/featured/colonial-contact.jpg"
 date: 2022-09-26
-doi:  "dofd.fyi/10rel/"
+doi:  "https://dofd.fyi/10rel/"
 pdf: 
 how_to_cite: "Indigenous Values Initiative, 'Ten Religious Themes of the Doctrine of Christian Discovery (DoCD) that Contrast with Indigenous Values,' Doctrine of Discovery Project (26 September 2022)"
 citation_download: 

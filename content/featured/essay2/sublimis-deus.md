@@ -60,7 +60,7 @@ They were able to be cast as enemies of Christ because Pope Paul did NOT actuall
 
 The other argument offered by the church against rescinding the papal bulls is that they “mean nothing” and are irrelevant. Of course, if they mean nothing to the church but clearly mean something to Indigenous Peoples then rescinding them should be a simple matter, and not rescinding them is an abuse of privilege and power. So there, anyone raises Sublimis Deus to you, smack em with that.
 
-![an image of Sublimis Deus with the words so what super imposed over it. ]({{metadata.url}}/img/postfeatured/sublim.jpg)
+![an image of Sublimis Deus with the words so what super imposed over it. ]({{metadata.url}}/img/post/featured/sublim.jpg)
 
 [Sublimis Deus, Pastorale Officium and Non Indecens Videtur by Tina Ngata](/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/) [On the Papal Bull Sublimis Deus by Steven T. Newcomb](https://doctrineofdiscovery.org/blog/newcomb-sublimis-deus/)
 
