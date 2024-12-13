@@ -15,7 +15,7 @@ author:
    university: 
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://originalfreenations.com/about/"
+    link: "https://manuelmay.academia.edu/"
    about: "Manuel May Castillo is a Maya scholar. His work focuses on Maya heritage, neocolonialism, transnationalism, and Indigenous movements in Mexico and Guatemala."
    information: 
     - text: "Manuel’s research is aligned with postcolonial studies and decolonizing methodologies, and the reintegration of cultural memory for the empowerment of Indigenous communities."
@@ -28,7 +28,7 @@ author:
       title: "Manuel May Castillo Academia"
     - icon: "fa-brands fa-linkedin"
       link: "https://www.linkedin.com/in/manuel-may-castillo-332a8138/"
-      title: "Manuel May Castillo Academia"
+      title: "Manuel May Castillo Linked"
 tags: 
  - Manuel May Castillo
  - Law

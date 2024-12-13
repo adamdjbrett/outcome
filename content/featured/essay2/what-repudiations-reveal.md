@@ -15,7 +15,7 @@ author:
    university: 
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://originalfreenations.com/about/"
+    link: "https://ardenmahlberg.com/"
    about: "Psychologist applying psychology to living justly."
    social:
     - icon: "fa-solid fa-link"

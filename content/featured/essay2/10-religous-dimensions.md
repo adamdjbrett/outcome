@@ -18,7 +18,7 @@ author:
    university: "Massachusetts Amherst"
    profile_icon: 
     icon: "fa-brands fa-google-scholar"
-    link: "https://scholar.google.com/citations?user=W36SKGgAAAAJ&hl=en&oi=ao"
+    link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
    about: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
    information: 
     - text: "principal investigator for the Henry Luce Grant “200 Years of Johnson v. M’Intosh, the founding director of the Skä·noñh—Great Law of Peace Center, and president of the Indigenous Values Initiative."
