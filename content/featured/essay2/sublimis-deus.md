@@ -3,7 +3,7 @@ title: Sublimis Deus (Sublimis Dei)
 description: "On the limits of Sublimis Deus (also called Sublimis Dei)."
 abstract: "Every few years, when the Doctrine of Discovery gets traction, someone raises the old chestnut of Sublimis Deus as apparent proof that the Catholic church did already rescind the Doctrine and therefore it’s not necessary. I should probably do a blog post that I can just repost."
 image: "/img/post/featured/sublim.jpg"
-date: 2042-12-09
+date: 2024-12-09
 doi:  "https://dofd.fyi/sd/"
 pdf: 
 how_to_cite: "Tina Ngata, 'Sublimis Deus (Sublimis Dei),' Doctrine of Discovery Project (1 August 2022)"
