@@ -5,6 +5,7 @@ abstract: "In March 2005, the U.S. Supreme Court handed down a decision in City 
 image: "/img/post/featured/colonial-contact.jpg"
 date: 2024-12-10
 doi:  "https://dofd.fyi/svo/"
+canoncial:  "https://doctrineofdiscovery.org/sherrill-v-oneida-opinion-of-the-court/"
 pdf: "/pdf/featured/sheril.pdf"
 how_to_cite: "Dana Lloyd, 'City of Sherrill v. Oneida Indian Nation of New York,' Doctrine of Discovery Project (19 October 2022)"
 show_toc: true

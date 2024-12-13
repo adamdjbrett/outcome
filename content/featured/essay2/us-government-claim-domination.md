@@ -5,6 +5,7 @@ abstract: "Joseph Story is regarded as a genius and a giant in the legal profess
 image: "/img/post/featured/Joseph-Story-Antonin-Scalia.png"
 date: 2024-12-07
 doi:  "https://dofd.fyi/uscd/"
+canoncial:  "https://doctrineofdiscovery.org/blog/us-government-claim-domination/"
 pdf: 
 how_to_cite: "Steven T. Newcomb, 'The U.S. Government’s Claim of a Right of Domination,' Doctrine of Discovery Project (16 January 2023)"
 show_toc: true

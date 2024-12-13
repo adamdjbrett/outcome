@@ -5,6 +5,7 @@ abstract: "It was an ordinary evening on October 9, 2018 when, scrolling down my
 image: "/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg"
 date: 2024-12-05
 doi:  "https://dofd.fyi/maya/"
+canoncial:  "https://doctrineofdiscovery.org/blog/doctrine-discovery-maya-commentary/"
 pdf: 
 how_to_cite: "Manuel May Castillo, 'How we met the Doctrine of Discovery. A Maya commentary,' Doctrine of Discovery Project (2 February 2023)"
 show_toc: true

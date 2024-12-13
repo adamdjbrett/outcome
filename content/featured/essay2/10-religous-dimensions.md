@@ -5,6 +5,7 @@ abstract: "With issuance of 15th century Papal Bulls known as the Doctrine of Ch
 image: "/img/post/featured/colonial-contact.jpg"
 date: 2024-12-11
 doi:  "https://dofd.fyi/10rel/"
+canoncial: "https://doctrineofdiscovery.org/10-religous-dimensions/"
 pdf: 
 how_to_cite: "Indigenous Values Initiative, 'Ten Religious Themes of the Doctrine of Christian Discovery (DoCD) that Contrast with Indigenous Values,' Doctrine of Discovery Project (26 September 2022)"
 citation_download: 

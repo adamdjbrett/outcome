@@ -5,6 +5,7 @@ abstract: "This shameful, land mark decision by the Supreme Court was issued jus
 image: "/img/post/featured/honor-two-row-3-wampum-belts.jpg"
 date: 2024-12-04
 doi:  "https://dofd.fyi/svodcd/"
+canoncial:  "https://doctrineofdiscovery.org/blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/"
 pdf: 
 how_to_cite: "Joseph J. Heath, 'City of _Sherrill v. Oneida Indian Nation_, 544 U.S. 197 (2005): THE DOCTRINE OF CHRISTIAN DISCOVERY AND DOMINATION AND THE DENIAL OF TREATY RIGHTS,' Doctrine of Discovery Project (6 February 2023)"
 show_toc: true

@@ -5,6 +5,7 @@ abstract: "In our journey of dismantling the Doctrine of Discovery and its horri
 image: "/img/post/featured/sublims.png"
 date: 2024-12-08
 doi:  "https://dofd.fyi/sdpoi/"
+canoncial:  "https://doctrineofdiscovery.org/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/"
 pdf: 
 how_to_cite: "Tina Ngata, 'Sublimis Deus, Pastorale Officium and Non Indecens Videtur -- A Historical Dive Into the Vatican's Failure to Rescind the Doctrine of Discovery,' Doctrine of Discovery Project (24 October 2022)"
 show_toc: true

@@ -5,6 +5,7 @@ abstract: "Every few years, when the Doctrine of Discovery gets traction, someon
 image: "/img/post/featured/sublim.jpg"
 date: 2024-12-09
 doi:  "https://dofd.fyi/sd/"
+canoncial:  "https://doctrineofdiscovery.org/papal-bulls/sublimis-deus/"
 pdf: 
 how_to_cite: "Tina Ngata, 'Sublimis Deus (Sublimis Dei),' Doctrine of Discovery Project (1 August 2022)"
 show_toc: true

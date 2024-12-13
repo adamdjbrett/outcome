@@ -5,6 +5,7 @@ abstract: "Indians being the prior occupants, possess the right to the soil. It 
 image: "/img/post/featured/honor-two-row-3-wampum-belts.jpg"
 date: 2024-12-02
 doi:  "https://dofd.fyi/icr/"
+canoncial: "https://doctrineofdiscovery.org/blog/indigenous-consent-right-rooted-doctrine-discovery/"
 pdf: 
 how_to_cite: "Urszula Piasta-Mansfield, Ph.D., 'Indigenous Consent: A Right Rooted in the Doctrine of Discovery,' Doctrine of Discovery Project (24 February 2023)"
 show_toc: true

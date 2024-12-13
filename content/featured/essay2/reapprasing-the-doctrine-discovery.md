@@ -5,6 +5,7 @@ abstract: "Again, were we to inquire by what law or authority you set up a claim
 image: "/img/post/featured/richard-cohrs-DeRk8Mlnd78-unsplash.jpg"
 date: 2024-12-03
 doi:  "https://dofd.fyi/reapp/"
+canoncial:  "https://doctrineofdiscovery.org/blog/reapprasing-the-doctrine-discovery/"
 pdf: 
 how_to_cite: "David E. Wilkins, Ph.D. (Lumbee Nation), 'Reappraising the Doctrine of Discovery,' Doctrine of Discovery Project (15 February 2023)"
 show_toc: true

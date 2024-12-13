@@ -5,6 +5,7 @@ abstract: "Nations formulate doctrines that define and guide their relations tow
 image: "/img/post/featured/rod-long-VHS_CmxFBGI-unsplash.jpg"
 date: 2024-12-06
 doi:  "https://dofd.fyi/wrep/"
+canoncial:  "https://doctrineofdiscovery.org/blog/what-repudiations-reveal/"
 pdf: 
 how_to_cite: "Arden Mahlberg, Ph.D., 'What Doctrine of Discovery Statements of Religious Repudiation Reveal,' Doctrine of Discovery Project (31 January 2023)"
 show_toc: true
