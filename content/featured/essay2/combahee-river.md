@@ -13,15 +13,24 @@ author:
  - name: "Sarah Nahar"
    sort: "1"
    image: "/img/authors/sarah-nahar.jpeg"
-   university: 
+   university: "Syracuse University"
    about: "Sarah Nahar is a PhD student in Religion and Environmental Studies at Syracuse University and SUNY College of Environmental Science and Forestry, on unceded Onondaga land."
    social:
     - icon: "fa-solid fa-link"
-      link: "https://oakland.academia.edu/LilyMendoza"
-      title: "S. Lily Mendoza Website"
+      link: "https://syr.academia.edu/SarahNahar"
+      title: "Sarah Nahar Website"
+    - icon: "fa-solid fa-link"
+      link: "https://www.mennonitemission.net/resources/peace/stir-up-peace"
+      title: "Sarah Nahar Stir Up Peace"
+    - icon: "fa-solid fa-link"
+      link: "https://envirostorycny.com/"
+      title: "Sarah Nahar Envirostory"
+    - icon: "fa-brands fa-linkedin"
+      link: "https://www.linkedin.com/in/sarah-nahar-31996357/"
+      title: "Sarah Nahar Linkedin"
     - icon: "fa-brands fa-facebook"
-      link: "https://www.facebook.com/lily.mendoza.50"
-      title: "S. Lily Mendoza Facebook"
+      link: "https://www.facebook.com/sarah.elizabeth.2021/"
+      title: "Sarah Nahar Facebook"
 tags: 
  - Sarah Nahar
  - Christianty
@@ -45,7 +54,7 @@ In response to lived conditions, feminisms developed in various Black and Indige
 3.  Analyze how engaging the Doctrine of Discovery can be a way Black feminists incorporate an analysis of settler colonialism without de-centering the issues that are essential to Black feminist theory and practice.
 4.  Imagine a future in which Black and Indigenous Feminisms make common cause, for the purpose of healing our lineages, and practicing the liberatory politics we aspire.
 
-[Part 1](/https://doctrineofdiscovery.orgblog/river/combahee-river/) [Part 2](https://doctrineofdiscovery.org/blog/river/beginning-analysis-settler-colonialism/) [Part 3](https://doctrineofdiscovery.org/blog/river/settler-colonialism-analyized/) [Part 4](https://doctrineofdiscovery.org/blog/river/imagining-shared-futures/)
+[Part 1](https://doctrineofdiscovery.orgblog/river/combahee-river/) [Part 2](https://doctrineofdiscovery.org/blog/river/beginning-analysis-settler-colonialism/) [Part 3](https://doctrineofdiscovery.org/blog/river/settler-colonialism-analyized/) [Part 4](https://doctrineofdiscovery.org/blog/river/imagining-shared-futures/)
 
 - - -
 
