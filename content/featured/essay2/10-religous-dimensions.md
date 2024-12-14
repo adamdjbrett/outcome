@@ -16,7 +16,7 @@ author:
  - name: "Philip P. Arnold"
    sort: "1"
    image: "/img/authors/philips.jpg"
-   university: "Massachusetts Amherst"
+   university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-google-scholar"
     link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
@@ -30,7 +30,7 @@ author:
  - name: "Sandra Bigtree"
    sort: "2"
    image: "/img/authors/sandra.jpg"
-   university: "Syracuse University"
+   university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://indigenousvalues.org/about/our-team/"
