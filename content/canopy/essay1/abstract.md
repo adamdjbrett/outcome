@@ -4,7 +4,7 @@ description: "Produced through a partnership between Canopy Forum, the Indigenou
 abstract: "Produced through a partnership between Canopy Forum, the Indigenous Values Initiative (IVI), and Syracuse University, this series of essays brings together religion scholars, legal scholars, and Indigenous activists to explore the problematic legacy of Johnson v. M’Intosh (1823) and the 15th century Doctrine of (Christian) Discovery"
 image: "/img/post/scaled.jpg"
 date: 2024-10-21
-doi: dofd.fyi/c/abstract/
+doi: https://dofd.fyi/c/abstract/
 canoncial:  "https://canopyforum.org/200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands/"
 pdf: "/pdf/00-overview.pdf"
 show_toc: true

@@ -4,7 +4,7 @@ description: "This article is part of our “200 Years of Johnson v. M’Intosh:
 abstract: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. The International Law of Colonialism:Johnson v. M’Intosh and the Doctrine of Discovery Applied Worldwide"
 image: "/img/post/colonial.jpeg"
 date: 2023-03-30
-doi: dofd.fyi/c/miller/
+doi: https://dofd.fyi/c/miller/
 canoncial: "https://canopyforum.org/2023/03/30/the-international-law-of-colonialism-johnson-v-mintosh-and-the-doctrine-of-discovery-applied-worldwide/"
 pdf: "/pdf/05-Miller.pdf"
 how_to_cite: "Miller, Robert J. “The International Law of Colonialism: Johnson v. M’Intosh and the Doctrine of Discovery Applied Worldwide.” Canopy Forum, March 30, 2023."

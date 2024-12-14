@@ -4,7 +4,7 @@ description: "2023 is the bi-centennial year of Johnson v. McIntosh, the case th
 abstract: "2023 is the bi-centennial year of Johnson v. McIntosh, the case that put ‘Christian discovery’ into US property law in a way that simultaneously created ‘federal Indian law’: The 200th year since the imposition of domination on the basis of a religious and racist theory of humankind. A domination that two-hundred years later is still considered ‘law.’"
 image: "/img/post/federal.png"
 date: 2023-03-07
-doi: dofd.fyi/c/derrico/
+doi: https://dofd.fyi/c/derrico/
 canoncial: "https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/"
 pdf: "/pdf/12-dErrico.pdf"
 how_to_cite: "d’Errico, Peter. “Federal Anti-Indian Law: The Legal Entrapment of Indigenous Peoples.” Canopy Forum, March 7, 2023."

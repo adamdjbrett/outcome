@@ -4,7 +4,7 @@ description: "The George Washington Belt, the Two Row Wampum, and the Hiawatha B
 abstract: "The George Washington Belt, the Two Row Wampum, and the Hiawatha Belt. The Canandaigua, Two Row, and Haudenosaunee Confederacy Wampum Belts. Image by Lindsay Speer, 2008. This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series."
 image: "/img/post/extravagant.jpg"
 date: 2023-03-23
-doi: dofd.fyi/c/lyons/
+doi: https://dofd.fyi/c/lyons/
 canoncial: "https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh/"
 pdf: "/pdf/07-Lyons-Brett.pdf"
 how_to_cite: "Lyons, Betty and Adam DJ Brett. “However, Extravagant The Pretensions Of Johnson V. M’Intosh.” Canopy Forum, March 23, 2023."

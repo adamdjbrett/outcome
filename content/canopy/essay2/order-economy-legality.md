@@ -4,7 +4,7 @@ description: "Mother Earth is the wellspring of indigenous culture, religion, an
 abstract: "Mother Earth is the wellspring of indigenous culture, religion, and economic life. It forms the identity of Native Americans as indigenous peoples.rom the beginning, the appropriation and distribution of Indigenous land had to be orderly. Settler-colonists needed a system to avoid haphazard, disorganized tribal land transactions and achieve their goal of the private commodification of the expanding American frontier. "
 image: "/img/post/national.jpg"
 date: 2023-03-11
-doi: dofd.fyi/c/little/
+doi: https://dofd.fyi/c/little/
 canoncial: "https://canopyforum.org/2023/03/11/order-economy-and-legality-johnson-v-mintosh-after-two-hundred-years/"
 pdf: "/pdf/11-Little.pdf"
 how_to_cite: "Little, Andrew. 'Order, Economy, and Legality: Johnson v. M’Intosh after Two Hundred Years.' (2023)."

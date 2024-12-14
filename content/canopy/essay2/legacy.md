@@ -4,7 +4,7 @@ description: "This article is part of our “200 Years of Johnson v. M’Intosh:
 abstract: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. - Legacy embeds the actions and inactions of those before us into the current legal, political, and social processes. Reverberating through history are the echoes of words that canonized inequity in the systemic structures of federalism in the United States. In 1823,"
 image: "/img/post/legcay.jpg"
 date: 2023-04-01
-doi: dofd.fyi/c/malloy/
+doi: https://dofd.fyi/c/malloy/
 canoncial: "https://canopyforum.org/2023/04/01/the-legacy-of-the-right-to-control-land-and-dependency/"
 pdf: "/pdf/04-Malloy.pdf"
 how_to_cite: "Malloy, Kerri J. “The Legacy of the Right to Control Land and Dependency.” Canopy Forum. April 1, 2023."
