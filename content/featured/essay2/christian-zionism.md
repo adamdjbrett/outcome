@@ -7,7 +7,7 @@ date: 2024-11-28
 doi: "https://dofd.fyi/cz/"
 canoncial: "https://doctrineofdiscovery.org/blog/christian-zionism/"
 pdf: 
-how_to_cite: "Jonathan Brenneman, 'The Doctrine of Discovery and Christian Zionism," Doctrine of Discovery Project (13 March 2023)'
+how_to_cite: "Jonathan Brenneman, 'The Doctrine of Discovery and Christian Zionism,' Doctrine of Discovery Project (13 March 2023)"
 show_toc: true
 author: 
  - name: "Jonathan Brenneman"
