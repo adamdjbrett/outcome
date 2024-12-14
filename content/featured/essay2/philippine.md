@@ -7,7 +7,7 @@ date: 2024-11-22
 doi:  "https://dofd.fyi/ph/"
 canoncial:  "https://doctrineofdiscovery.org/blog/philippine-doctrine-discovery/"
 pdf: 
-how_to_cite: "Telma Alencar, 'Uncovering the Invisible: The Doctrine of Discovery, its Impact on the Brazilian Indigenous Peoples, on the environment and how it continues to shape the Brazilian landscape today: English,' Doctrine of Discovery Project (3 April 2023)"
+how_to_cite: "S. Lily Mendoza, 'The Regalian Doctrine: The Philippine Case,' Doctrine of Discovery Project (24 April 2023)"
 show_toc: true
 author: 
  - name: "S. Lily Mendoza"
@@ -27,7 +27,7 @@ author:
       link: "https://www.facebook.com/lily.mendoza.50"
       title: "S. Lily Mendoza Facebook"
 tags: 
- - Telma Alencar
+ - S Lily Mendoza
  - Philippines
  - Christianty
  - Law
