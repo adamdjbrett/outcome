@@ -26,7 +26,7 @@ author:
       link: "mailto:hburnam23@gmail.com"
       title: "Hugh Burnam E-Mail"
 tags: 
- - Manuel May Castillo
+ - Hugh Burnam
  - Haudenosaunee
  - Higher Education
  - Indigenous
