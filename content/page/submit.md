@@ -1,9 +1,10 @@
 ---
 title: How to Submit
-description: Gow to submit your article on Outcome project for doctrine of discovery org
+description: How to add your contribution on this site
 permalink: /how-to-submit/
 show_toc: true
 ---
-### Submit
+Were you inspired by our conference in 2023? Did you write something or do a podcast or a video refelction on the conference? Would you like us to include it here? If so please see below.
 
-How to submit your easy on outcome
+### Submit
+Please email your submissions to <info@indigenousvalues.org>
