@@ -58,7 +58,7 @@ export default function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "canopyt", "cocor" , "fifi", "jc" , 
 			"canopys" ,"esaysones" , "esaystwos" , "jcreors" , "jcesaysones" , "jcesaystwos" , 
 			"crosscurrentss" , "croesaysones" , "croesaystwos" ,"features" , "fesaysones" , 
-			"fesaystwos" ,"author" , "authors"].indexOf(tag) === -1);
+			"fesaystwos" ,"podsones" , "podsstwos" , "pods"].indexOf(tag) === -1);
 	});
 
 };

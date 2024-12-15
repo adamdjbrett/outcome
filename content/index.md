@@ -20,6 +20,6 @@ widget:
    url: /jcreor/
  - title: Podcast
    image: /img/post/mapping-doctrine-of-discovery-favicon.png
-   url: https://podcast.doctrineofdiscovery.org/
+   url: /podcast
 ---
 
