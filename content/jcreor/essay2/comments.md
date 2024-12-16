@@ -3,7 +3,7 @@ title: "Comments Delivered to the UN Special Rapporteur on Freedom of Religion o
 description: 'Comments delivered as part of the “Virtual Consultation on Legal Framework: Indigenous Peoples and the Right to Freedom of Religion or Belief,” held June 22, 2022'
 abstract: 'Comments delivered as part of the “Virtual Consultation on Legal Framework: Indigenous Peoples and the Right to Freedom of Religion or Belief,” held June 22, 2022. For details on the Special Rapporteur’s report, see Ahmed Shaheed, “Interim Report of the Special Rapporteur on Freedom of Religion or Belief. Indigenous Peoples and the Right to Freedom of Religion or Belief” (New York: United Nations, October 10, 2022), https://www.ohchr.org/en/ documents/thematic-reports/a77514-interim-report-special-rapporteur-freedom-religion-or-belief.'
 image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
-date: 2024-09-13
+date: 2024-09-11
 doi: https://doi.org/10.26443/jcreor.v5i2.114
 pdf: /pdf/jcreor/McNally+Comments_FINAL+upload+w+correct+spacingpagination_Dec+13th.pdf
 how_to_cite: 'McNally, Michael. 2024. “Comments Delivered to the UN Special Rapporteur on Freedom of Religion or Belief”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:46-53.'
