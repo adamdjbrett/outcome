@@ -4,7 +4,7 @@ title: "Podcast"
 image: "/img/post/mapping-doctrine-of-discovery-favicon.png"
 description: "Produced through a partnership between Canopy Forum, the Indigenous Values Initiative (IVI), and Syracuse University"
 abstract: "Produced through a partnership between Canopy Forum, the Indigenous Values Initiative (IVI), and Syracuse University, this series of essays brings together religion scholars, legal scholars, and Indigenous activists to explore the problematic legacy of Johnson v. M’Intosh (1823) and the 15th century Doctrine of (Christian) Discovery – a legal and religious rationale by which European powers claimed the right to discover and claim lands inhabited by non-Christian peoples."
-breadcumb: CrossCurrent
+breadcumb: Podcast
 show_toc: true
 pdf_download: /pdf/00-overview.pdf
 pagination:
