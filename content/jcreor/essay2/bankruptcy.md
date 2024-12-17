@@ -28,14 +28,21 @@ author:
       title: "Dana Lloyd Orcid"
  - name: "Cecilia Titizano"
    sort: "2"
+   image: "/img/authors/cecilia.png"
    university: "Santa Clara University"
+   about: "Cecilia Titizano La Fuente - Director of Latina/o Theology and Ministry Leadership Network"
+   social:
+    - icon: "fa-solid fa-link"
+      link: "https://www.scu.edu/jst/about/staff/cecilia-titizano-la-fuente/"
+      title: "Cecilia Titizano Profile"
+    - icon: "fa-solid fa-envelope"
+      link: "mailto:mtitizanolafuente@scu.edu"
+      title: "Message Cecilia Titizano"
 tags: 
- - Indigenous
- - Belief
- - Comments Delivered
+ - Bankruptcy
  - Religion
- - Remarks
- - Betty Hill
+ - Dana Lloyd
+ - Cecilia Titizano
 ---
 ## Author Biographies
 
