@@ -28,7 +28,6 @@ author:
       title: "Dana Lloyd Orcid"
  - name: "Cecilia Titizano"
    sort: "2"
-   image: "/img/authors/betty.jpg"
    university: "Santa Clara University"
 tags: 
  - Indigenous
