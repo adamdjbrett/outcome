@@ -23,6 +23,6 @@ tags:
  - Indigenous spirituality
  - Ahmed Shaheed
 ---
-## INTRODUCTION
+### INTRODUCTION
 
 Dr. Shaheed is Professor of International Human Rights Law in the School of Law and Human Rights Centre at the University of Essex. He directs the Human Rights Centre's Religion and Equality Project, Project on Mobilising A Global Alliance to Counter islamophobia, and the Essex Summer School on Human Rights Research and Practice. He serves as an adviser on 'hate speech' to the United Nations Office on Genocide Prevention and is a member of the Panel of Experts on Freedom of Religion or Belief convened by the Office for Democratic Institutions and Human Rights of the Organisation for Security and Cooperation in Europe. He served as the United Nations Special Rapporteur on Freedom of Religion or Belief from 2016 to 2022 having previously served as the UN Special Rapporteur on human rights in Iran from 2011 to 2016. Hailing from the Maldives, Ahmed served as Foreign Minister of Maldives between 2005 and 2010, member of the Constitutional Assembly from 2004 to 2007, and led the government’s efforts to fast-track human rights and governance reforms between 2003 and 2007, which led to the transition to democracy in 2008. He is the founding chair of the Geneva-based think-tank, Universal Rights Group and is a Senior Fellow of the Raoul Wallenberg Centre for Human Rights in Montreal.

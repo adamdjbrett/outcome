@@ -77,25 +77,25 @@ tags:
  - No 2
 ---
 
-## INTRODUCTION
+### INTRODUCTION
 
 The Office of the External Special Rapporteur on Religious Freedom or Belief contacted Philip P. Arnold, the Indigenous Values Initiative (IVI), and the American Indian Law Alliance (AILA), and asked us to join a call to give input on a new report on Indigenous Religious Freedom or Belief. Numerous Indigenous NGOs, Indigenous nations, and leaders were on the call. The Special Rapporteur Ahmed Shaheed and his staff were most receptive to the feedback given and received. In this special issue, you will find a copy of the report and a copy of the input provided by the IVI and AILA, as well as from our friends and colleagues Michael McNally, Lars Pharo, Dana Lloyd and Cecilia Titizano. This is a representative sample of the inputs collected for the report.
 
-## Author Biographies
+### Author Biographies
 
-### Philip P. Arnold , Syracuse University
+#### Philip P. Arnold , Syracuse University
 
 Philip P. Arnold is an Associate Professor of the Department of Religion at Syracuse University, as well as a core faculty member of Native American and Indigenous Studies. He is the Founding Director of the [Skä·noñh—Great Law of Peace Center](http://www.skanonhcenter.org/), which repurposes the site that formerly celebrated the Jesuits coming to Onondaga Nation Territory in 1656-58. The new Center now tells the ancient story of the formation of the Longhouse tradition known as the Great Law of Peace at Onondaga Lake and its influences on American culture. The Skä·noñh—Great Law of Peace Center is a collaborative enterprise between the Onondaga Nation, Onondaga County, the Onondaga Historical Association, Syracuse University and 4 other educational institutions in the Syracuse area. His books are _Eating Landscape: Aztec and European Occupation of Tlalocan_ (1999); _Sacred Landscapes and Cultural Politics: Planting a Tree_ (2001); _The Gift of Sports: Indigenous Ceremonial Dimensions of the Games We Love_ (2012) and _Urgency of Indigenous Religions_ (University of New Mexico Press, forthcoming). He is a member of [**NOON (Neighbors of the Onondaga Nation)**](http://www.peacecouncil.net/NOON/index.html)**,** an organization of the Syracuse Peace Council. In 2007 he organized the [**Doctrine of Discovery Study Group**](http://www.doctrineofdiscovery.org/) to discuss the legacy of Christianity in the destruction of Indigenous peoples. He is the President of the [**Indigenous Values Initiative**](https://indigenousvalues.org/), which is a non-profit organization to support the work of the Skä·noñh—Great Law of Peace Center and other organizations and initiatives to educate the general public about the indigenous values of the Haudenosaunee.
 
-### Sandra Bigtree, Indigenous Values Initiative
+#### Sandra Bigtree, Indigenous Values Initiative
 
 Sandy Bigtree, Bear Clan, is a citizen of the Mohawk Nation at Akwesasne. She is a founding board member of the Indigenous Values Initiative, (501C3) which fosters collaborative educational work between the academic community and the Haudenosaunee to promote the message of peace that was brought to Onondaga Lake thousands of years ago. It is this message that continues to influence American Democracy, the Women’s Rights Movement, and the Environmental Justice Movement. She helped organize the: “Roots of Peacemaking” educational festivals in 2006 and 2007; the “Doctrine of Discovery Conference” in 2014; and co-edited the Neighbors of the Onondaga Nation (NOON) educational booklet. She was an original Planning Committee member of Skä•noñh: the Great Law of Peace Center and currently sits on the Educational Collaborative Committee. In 1984-85, she was the Administrative Assistant to the American Indian Law Support Center at the Native American Rights Fund in Boulder, CO.\* In 1980-82 she performed with Native Americans in the Arts theatre troupe (an affiliate of the American Indian Community House) at LaMama, NYC, and toured the northeastern US. From age 1-30, Sandy performed weekly on radio, TV and other venues around Central New York. The Sandy Bigtree Band was well known throughout the 1970s. In 2008, Sandy was the recipient of the Syracuse New Times “Hall of Fame” Sammy Award. Show business is a “tradition” that began with her grandfather Mitchell Bigtree’s escape from Thomas Indian Boarding School to join Buffalo Bill’s Wild West Show in Europe. His most memorable performance was at Queen Victoria’s Golden Jubilee.
 
-### Adam DJ Brett, Syracuse University
+#### Adam DJ Brett, Syracuse University
 
 Adam DJ Brett earned his PhD in Religious Studies from Syracuse University. He is an Operations Manager and International Research Associate with the American Indian Law Alliance (AILA). Additionally, he is the grant and event coordinator for the Doctrine of Discovery Project at Syracuse University with Professor Philip P. Arnold, who is the Principal Investigator. The project is funded in part by the Henry Luce Grant “200 Years of Johnson v. McIntosh.”
 
-## References
+### References
 
 Acosta, Tupac Enrique. “Superseding the Doctrine of Discovery: World Water One.” Doctrine of Discovery Project (blog), March 29, 2023. [https://doctrineofdiscovery.org/blog/1CEMANAHUAC/](https://doctrineofdiscovery.org/blog/1CEMANAHUAC/).
 
