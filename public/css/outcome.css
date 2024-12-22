@@ -94,7 +94,8 @@ select option:checked{
 }
 .img_canopyt {width:400px; height:280px; object-fit:cover;}
 .zoom:hover {  transform: scale(1.05)}.zoom {transition: transform 0.6s;}
-
+::selection {color: white; background: #d0290b;} 
+html{scrollbar-color: #cf371c transparent;}
 
 [data-bs-theme=light] {
 a.nav-link {color:#bf2d13; font-weight:bold;}
