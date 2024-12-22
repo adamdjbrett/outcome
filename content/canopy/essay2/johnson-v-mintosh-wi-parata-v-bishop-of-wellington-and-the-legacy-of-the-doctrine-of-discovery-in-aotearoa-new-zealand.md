@@ -42,7 +42,7 @@ Cook has often been heralded as “the last of the great explorers” of the so-
 
 The doctrine of discovery was referenced by William Hobson in his proclamation of sovereignty “on the grounds of Discovery” over Te Wai Pounamu (South Island). While sovereignty over Te Ika a Māui (the North Island) was said at the time to be expressed based upon cession to the Queen, it is now widely accepted that the “discovery” of Te Tiriti o Waitangi was not the result of a treaty of cession. This has been confirmed by the Waitangi Tribunal (the Crown judicial body which rules on treaty matters). As sovereignty was never ceded, the assertion of Crown sovereignty over Aotearoa-New Zealand cannot be said to be legitimized by Te Tiriti o Waitangi, and is thus, in its entirety, an expression of the doctrine of discovery. Hobson’s proclamation of sovereignty over Aotearoa-New Zealand became the basis of the 1852 Aotearoa-New Zealand Constitution Act which established the Aotearoa-New Zealand government; this therefore makes the Aotearoa-New Zealand Constitution Act and the government it established a violation of the treaty upon which its existence is based. 
 
-## The doctrine of discovery and Te Tiriti o Waitangi
+#### The doctrine of discovery and Te Tiriti o Waitangi
 
 One of the dominant justifications for dismissing the relevance of the doctrine of discovery in Aotearoa-New Zealand is the Crown’s insistence that it was made redundant by Te Tiriti o Waitangi, and in turn by the Treaty of Waitangi Act 1975 which established the Waitangi Tribunal as the Crown-appointed judicial authority on treaty matters. In the opening dialogues of the 9th session of the Permanent Forum on Indigenous Issues, then-Minister for Māori Affairs Hon. Pita Sharples affirmed Aotearoa-New Zealand’s support of the Declaration on the Rights of Indigenous Peoples; however, he qualified that support by noting the constraints imposed by the Treaty of Waitangi, which is, he noted, the primary instrument for managing the relationship between the Crown and Māori, and providing redress for colonial injustice. 
 
@@ -56,7 +56,7 @@ The presentation of the settlements process as a means for settling the grievanc
 
 The logic of the doctrine of discovery was embedded within Aotearoa-New Zealand’s legal, political, and economic framework through numerous acts of Crown malfeasance from the 1840s to the 1870s. The 1877 case of [_Wi Parata v. Bishop of Wellington_](http://www.nzlii.org/cgi-bin/sinodisp/nz/cases/NZJurRp/1877/183.html) is of particular relevance. In that decision, Chief Justice James Prendergast drew from _Johnson v. M’intosh_ (which utilized the doctrine of discovery as the basis for the extinguishment of Indigenous title), and in doing so explicitly embedded the doctrine of discovery into Aotearoa-New Zealand’s judicial precedent history.
 
-## _Wi Parata v. Bishop of Wellington_ 
+#### _Wi Parata v. Bishop of Wellington_ 
 
 The Wi Parata case is centered upon a block of land at Porirua on Te Ika a Māui (North Island) which the resident iwi Ngāti Toa had gifted to the Anglican church in 1848 for the express purpose of building a school for Ngāti Toa youth. No school was built, but in 1850 the Crown issued a grant allowing the land to remain with the church, rather than having it returned to Ngāti Toa, who sued for the land back. In his findings, Chief Justice Prendergast drew heavily from doctrine of discovery logic, denying that “savage barbarians” could have any pre-existing proprietary rights, and stating: 
 

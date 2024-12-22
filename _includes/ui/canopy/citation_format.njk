@@ -1,7 +1,6 @@
-{% if citation_download %}
 <div class="dropdown">
-<a href="{{citation_download.link}}" class="btn btn-orange col-12 btn-sm" type="button" download>
+{% if citation_download %}<a href="{{citation_download.link}}" class="btn btn-orange col-12 btn-sm" type="button" download>
 <small>{{citation_download.name}}</small>
-</a>
+</a>{% endif %}
 </div>
-{% endif %}
+
