@@ -63,6 +63,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Arial, Helvetica, sans-serif;}
 .darklight:hover,.darklight:active{background-color:#e84c31; color:#fff;}
 .dropdown-menu .active{background-color:#bf2d13; color:#fff;}
 .navis:hover {border-bottom: 1px solid;}
+.neva:hover,.neva:focus {border: #bf2d13 1px solid;}
 .form-control:focus,
 .form-select:focus {
   outline: none !important;
