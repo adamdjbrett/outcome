@@ -22,7 +22,7 @@ tags:
  - Law
  - Religion
 ---
-## Introduction
+### Introduction
 
 The Doctrine of Discovery has long been used for colonization and imperialism worldwide, yet its importance and influence have been largely overlooked in Brazilian studies.
 
@@ -98,7 +98,7 @@ There is, nevertheless, a piece of Art that deserves special attention as it has
 
 The 1860 oil on canvas by famous artist Victor Meirelles, currently on display at Museu Nacional de Belas Artes in São Paulo, Brazil, tells a chapter of the Doctrine that is hidden at first glance.
 
-### ‘First Mass in Brazil’ by Victor Meirelles (1860) - Museu Nacional de Belas Artes, SP, Brazil.
+#### ‘First Mass in Brazil’ by Victor Meirelles (1860) - Museu Nacional de Belas Artes, SP, Brazil.
 
 [![](/img/post/featured/Meirelles-primeiramissa2.jpg)](/img/post/featured/Meirelles-primeiramissa2.jpg)
 
@@ -198,7 +198,7 @@ Indigenous people in Brazil, among them the Yanomami, have been on the brink of 
 
 The invasion of the Yanomami’s land and the allegedly deliberate destruction of their ability to feed themselves, the contamination of the waters and the spread of disease are a repetition of manifestations of the Doctrine of Discovery, a topic totally out of sight in most of this prominent Catholic country.
 
-## Conclusion
+### Conclusion
 
 The Doctrine of Discovery has had a long and devastating history in Brazil. From enslavement, exploitation and the denial of Indigenous sovereignty to the genocide of the Yanomami in the Amazon, this legacy continues today with the ongoing struggle for Indigenous rights.
 
@@ -208,7 +208,7 @@ To create a more positive and equal future for all Brazilians, it is essential t
 
 It is time to make common knowledge the fact that behind the Yanomami oppression and appropriation of land are the principles of the Doctrine. It is as if they always retained power over the region’s first inhabitants, even when the Doctrine remains hidden from common knowledge.
 
-## REFERENCES
+### REFERENCES
 
 *   Bell, J., Sterett, S., & Young, M. (2018). Editors’ Note. Law & Society Review, 52(3), 559.
     

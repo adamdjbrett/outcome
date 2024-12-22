@@ -124,7 +124,7 @@ Christians who have been looking skyward for our salvation have wrestled Mother 
 
 Women, who the Bible placed under the authority of men as punishment from God for bringing evil into the world, are now rising to take leadership. Survival of life on the planet requires us to renew our pre-Christian reciprocal relationship with Mother Earth and all living beings and return women to their sacred position as the creators of life. Appropriately, it is Indigenous women who are leading this process of “rematriation,” returning the sacred to the mother.[28](#fn:28)
 
-## Footnotes
+### Footnotes
 
 1.  Italics are the author’s. Innocent VIII: BULL _Summis desiderantes_, Dec. 5th, 1484 _Bullarium Romanum (Taurinensis editio), sub, anno 1484. The Bull is also printed in full at the head of the_ Malleus maleficarum. [https://sourcebooks.fordham.edu/source/witches1.asp](https://sourcebooks.fordham.edu/source/witches1.asp) [↩](#fnref:1)
     

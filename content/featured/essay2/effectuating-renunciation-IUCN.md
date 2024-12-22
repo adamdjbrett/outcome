@@ -32,7 +32,7 @@ On September 8, 2021 [the International Union for Conservation of Nature (IUCN)]
 
 Apart from its significance in conserving nature, the IUCN’s rejection of the DoD makes the organization among the first and largest secular organization to reject the DoD.[4](#fn:5) Consequently, the IUCN is tasked with establishing a framework of repudiation in this space. With the support of its members, and in accordance with the IUCN Resolution 119, one anticipated pathway is for the IUCN to build a Truth and Reconciliation Working Group to repudiate the DoD and rediscover care for Mother Earth.
 
-## II. DoD as International Law and Policy
+### II. DoD as International Law and Policy
 
 The DoD is first and foremost a product of globalization, and therefore is firmly a doctrine of international law and policy. The [doctrine](/what-is-the-doctrine-of-discovery/) established early norms for how Christians, who were organized under religious and a secular banners, colonized non-Christian places and peoples. The Church relied on the concept of Natural Law which provided non-Christians a qualified sovereignty, subject to the Church’s own spiritual directives.[5](#fn:6) The Church employed this principle through its influence over monarchs who sought governing and colonizing authority from the Church.[6](#fn:7)
 
@@ -44,7 +44,7 @@ However, since the DoD is also a principle that is entrenched in secular society
 
 While international policy in the past has been established by the Church and independent governments that negotiated trade and military agreements, since the end of the First World War and the establishment of the League of Nations, international organizations have served as the primary platform to establish globalized norms on global security, trade, the environment, and many other transboundary issues. The United Nations, the World Trade Organization, and the IUCN are all examples of such international organizations. These international organizations exist to organize a set of norms on human rights standards, trade practices, and biodiversity.
 
-## III. IUCN Repudiation
+### III. IUCN Repudiation
 
 Today’s environmental issues provide opportunities to concentrate on significant, but often overlooked injustices. The rise in global temperatures, increase in natural disasters and the consequences on nature and people attracts close scrutiny. This is the primary theory behind the proposal for the IUCN to renounce the DoD, to repudiate a principle that is incompatible with the pressing need to conserve nature. If the IUCN as “the global authority on the status of the natural world and the measures needed to safeguard it” adopted a resolution renouncing the DoD, then it would be the first time the principle would be rejected by an international authority in the context of one of the most critical issues of today, climate change.[11](#fn:12)
 
@@ -58,7 +58,7 @@ Resultingly, leading up to the 2020 IUCN WCC, GCELS drafted a motion similar to 
 
 In Resolution 119, the IUCN expressly renounces the DoD in all its manifestations, requests the establishment of a truth and reconciliation working group to develop best practices of environmental co-stewardship in the context of DoD renunciation, urges all states to embrace DoD repudiation, and invites religious institutions to repeal DoD proclamations.[19](#fn:20) Simply, Resolution 119, has accomplished what other secular international organizations have been slow to achieve, the repudiation of the DoD. As such, the IUCN has become the first secular international organization to establish the DoD’s repudiation as a global norm.
 
-## IV. Repudiation and Reconciliation
+### IV. Repudiation and Reconciliation
 
 Repudiation of the DoD through an IUCN resolution, however, is of course meaningless without action. The IUCN Council now has the responsibility of implementing Resolution 119 in its practices, further defining the new norm of DoD repudiation in the secular space. Likewise it is the responsibility of the resolution’s sponsors to ensure that the IUCN Council act. The anticipated method of action by the co-sponsors is through the establishment of a truth and reconciliation working group. The main purpose of a truth and reconciliation working group is to provide a space to investigate, record, acknowledge, and allocate responsibility for injustices.[20](#fn:21)
 
@@ -68,7 +68,7 @@ The IUCN’s passage of Resolution 119 is not the end of a decades-long attempt 
 
 - - -
 
-## Footnotes
+### Footnotes
 
 1.  IUCN, _List of Motions_, https://www.iucncongress2020.org/assembly/motions (last visited Dec. 30, 2022). [↩](#fnref:1)
     

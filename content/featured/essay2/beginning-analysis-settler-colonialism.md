@@ -39,7 +39,7 @@ tags:
  - Environment
  - River Series
 ---
-## **Introduction**
+### **Introduction**
 
 In the 1600s when enslaved Africans disembarked _en masse_ and travel weary to this _land mass_, they arrived in a place where hundreds of Indigenous groups lived since time immemorial.[\[1\]](#_ftn1) Since that moment The majority of the interactions between Black people and Indigenous Peoples living in the so-called United States occur(red) in the bloody context of settler colonial imperialism. Black people were kidnapped, trafficked, enslaved, segregated, imprisoned, and assassinated by individuals and a system that did not value our personhood, but sought to exploit our bodies and souls.[\[2\]](#_ftn2) Indigenous peoples were (and continue to be) exploited, infected, schooled, silenced, relegated, and murdered by individuals and a system that did not (and does not) value their personhood, but sought (and seeks) to erase their bodies and souls.[\[3\]](#_ftn3) In the 21st century, both remain tolerated but targeted, appropriated, and tokenized.[\[4\]](#_ftn4)
 
@@ -54,7 +54,7 @@ In response to lived conditions, feminisms developed in various Black and Indige
 
 - - -
 
-## **The beginning of an Analysis of Settler Colonialism Emerges at AMC 2022**
+### **The beginning of an Analysis of Settler Colonialism Emerges at AMC 2022**
 
 Indigenous women from around Africa arrived to traditionally Native land bases that were often in turmoil. If the Indigenous nations of the place were able to escape genocidal attempts by European-Americans, they were being violently forced to relocate and under immense pressure to give up their sovereignty. The vast majority of Black women arrived enslaved (mostly laboring for whites and to a much less extent Indigenous slavers); a structure that sought to strip them of their specific nation, culture, and heritage and force into a social position devoid of structural agency within the context of the settler colonial contestation–that is to make them ‘Black slaves’. Black and Indigenous Feminist Futures Institute co-director Tiffany Lethabo King’s work reminds that in the ferocious porosity of the earth-cum-plantation, the genocide that happened on the plantation grounds could be felt by the Indigenous Africans as they recalibrated to the new, tragic vibrations of the soil… and that this feeling “shaped their experience of enslavement and Blackness.”[1](#fn:5) They knew land and agroecology well, and could tell the land was disturbed.
 
@@ -72,7 +72,7 @@ As often happens on panels, panelists’ comments are influenced by what they he
 
 The work Black feminists have done and continue to do is tremendous. Yet there remains a key missing piece in both the Combahee River Collective and the AMC AfroFeministFutures panel: a robust analysis of settler colonialism. This elision replicates settler colonial erasure of indigenous peoples, their lives, and theorizations. Indigenous feminist theorizing was not completely invisible, but more than a land acknowledgment and more than a mention emerging between official questions is necessary to address the conditions we seek to ameliorate and the oppression we work to destroy. In addition to solidarity, the ability to articulate what’s at stake for us as Black folks living in a settler colonial context is imperative for many reasons, the next section of this paper will discuss five.
 
-## **Reasons to Integrate an Analysis of Settler Colonialism in Black Feminist Theory**
+### **Reasons to Integrate an Analysis of Settler Colonialism in Black Feminist Theory**
 
 Incorporating an analysis of settler colonialism in Black feminist theory will increase shared language and conceptual frameworks between it and Indigenous feminist theory. This sharing can create resonance powerful enough to cut through the colonial cacophony and help us, as Frazier articulated her desire, to braid our human experiences together. What follows are five reasons why I think this is important.
 
@@ -94,7 +94,7 @@ Fifth, settler colonialism impacts Black women as well. In _The White Possessive
 
 - - -
 
-## References
+### References
 
 *   AfroFeministFutures For the World We Want. _Allied Media Conference,_ Allied Media Project, 2022. [https://www.youtube.com/watch?v=iYM0Jf4mWjE](https://www.youtube.com/watch?v=iYM0Jf4mWjE)
     
@@ -135,7 +135,7 @@ Fifth, settler colonialism impacts Black women as well. In _The White Possessive
 *   Doctrine of Disovery Papal Bulls: Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1455 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494, the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. [https://doctrineofdiscovery.org/](https://doctrineofdiscovery.org/).
     
 
-## Footnotes
+### Footnotes
 
 For more on the Black and Indigenous Feminist Futures Institute see [http://www.biffinstitute.com/about-us/](http://www.biffinstitute.com/about-us/)
 

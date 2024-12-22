@@ -46,7 +46,7 @@ At the same time we began to reflect on the meaning of this Lament for Mayan com
 
 Today, after four years of co-labour with the Mennonite Coalition, we wish to report on some of this collective learning. Due to space constraints, I will only focus on the connections between DD and the Mayan heritage, i.e. sacred sites.
 
-## Mexico’s Colonial Legacy
+### Mexico’s Colonial Legacy
 
 As we are aware, the colonial ideologies that served the purposes of colonization in the Americas such as the DD did not vanish with independence and the formation of modern States, but rather laid the foundations for the strong asymmetrical dependencies and power relations that remain in place[1](#fn:1) between States and Indigenous Peoples.
 
@@ -62,7 +62,7 @@ As this is the case in Mexico due to a narrow interpretation of Article 27 of th
 
 As we can see, it is not only the narrow interpretation of Article 27, but the impacts of DD and _terra nullius_ in juridical principles that leads the Mexican State to self-legitimize as administrator, owner, and the ultimate decision-making authority over Indigenous territories and heritage.
 
-## The Doctrine of Discovery, _terra nullius_ and the Other in motion.
+### The Doctrine of Discovery, _terra nullius_ and the Other in motion.
 
 The extent to which the DD impacts heritage practice and policy-making in Mexico require more scrutiny since DD’s linkage with other doctrines-ideologies is not obvious at first glance. The historical criticism below helps to uncover the links that set in motion a racist and supremacist ideological machinery that ends up impacting the Maya heritage management.
 
@@ -78,7 +78,7 @@ In Mesoamerica the idea of _Nullus Persona_ is underpinned by paganism-barbarism
 
 Figure 1. The ideological assemblage of the Doctrine of Discovery, \*terra nullius\* and paganism-barbarism
 
-## The Doctrine of Discovery in colonial Yucatan
+### The Doctrine of Discovery in colonial Yucatan
 
 As mentioned above, Diego de Landa’s Relacion[8](#fn:8) draws a “barbarian” image of the Mayas of the Yucatan Peninsula by alluding to human sacrifice and cannibalism. In Chapter III, the friar cites the Spanish shipwrecked sailors Aguilar and Guerrero, who arrived in the Maya region before him:
 
@@ -94,7 +94,7 @@ The sacrifice, as a ritual act, that Landa attributes to the Maya is linked with
 
 Landa’s account does not allude to _terra nullius_, even though it is an essential link to the Doctrine of Discovery because his case before the Council of the Indies was about the abuses committed in his inquisitorial enterprise rather than land disputes. While _terra nullius_ does not play an important role in Landa’s argument, it did for both the Spanish crown at the beginning of colonization and for the ‘encomenderos’ who settled in Maya lands over the next three centuries, as we will see below.
 
-## The Doctrine of Discovery and Maya heritage in the 17th - 19th centuries
+### The Doctrine of Discovery and Maya heritage in the 17th - 19th centuries
 
 [![Uxmal, main facade of the Governor's Palace in 1842](/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg)](/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg)
 
@@ -112,13 +112,13 @@ Despite this, a local inhabitant, Juan Can, claims his right to these lands base
 
 At present, Sacred Sites such as Uxmal, Chichen Itza, Calakmul, etc., are banned to the Maya. The Mayas have to pay a fee to access these sites just like any national tourist. In 2018 Ka’ Kuxtal had to ask for permission from INAH, the state heritage institution, to be able to perform a ritual at the Sacred Site of Dzibilnocac (Dzibil Noh Ak), in Hopelchen. In terms of Self-Determination, this means that Maya peoples do not enjoy the right to self-manage our heritage. The State, self-legitimized as owner, dispossesses us of it with its laws and policies, which in turn, perpetuate the notion of _nullius persona_ by legally disabling contemporary Maya from (our own) heritage managenment.
 
-## Closing words
+### Closing words
 
 No celebration in 21st century Mexico better reflects the legacy of the DD than the celebrations of 12 October. According to the official narrative, it commemorates the “encounter” that “gave rise to a fusion of cultures and the birth of a Hispano-American civilization”.[15](#fn:15) Although Mexico recognizes that other countries in the Americas have chosen to vindicate the position of Indigenous Peoples and commemorate the “Day of Indigenous Resistance” on 12 October, in its official discourse it finds a greater affinity with a romantic narrative around the “meeting of two worlds”.
 
 Although the word “discovery” is disappearing from the official vocabulary, heritage policies in particular are still permeated by the DD as we have discussed in this article. We are still far from triggering a collective lament from educational and Christian institutions in Mexico. The future, however, looks hopeful, as we continue walking the path of joyful rebellion initiated by Ka’ Kuxtal in alliance with the Mennonite Coalition to confront and dismantle the Doctrine of Discovery.
 
-## Bibliography
+### Bibliography
 
 *   Abbott, J. (2020) ‘Outrage as Guatemalan Maya spiritual guide is tortured and burned alive’, _the Guardian_, 10 June. Available at: [http://www.theguardian.com/world/2020/jun/10/guatemalan-maya-spiritual-guide-tortured-burned-alive](http://www.theguardian.com/world/2020/jun/10/guatemalan-maya-spiritual-guide-tortured-burned-alive) (Accessed: 3 September 2021).
     
@@ -171,7 +171,7 @@ Although the word “discovery” is disappearing from the official vocabulary, 
 
 - - -
 
-## Footnotes
+### Footnotes
 
 1.  On colonialism, internal colonialism, global colonialism and the complex social, cultural, political, military and economic dependencies in independent Mexico see Bonfil Batalla 1987; Casanova 1991, 2006 and 2017; and Stavenhagen 1963. [↩](#fnref:1)
     

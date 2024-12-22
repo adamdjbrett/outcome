@@ -37,7 +37,7 @@ Over the past three decades, there has been a consistent effort to reclaim the p
 
 As a powerful tool in Indigenous hands, FPIC has predictably faced numerous challenges in its conceptualization and application. This article seeks to shed light on some of the entrenched settler colonial practices that left deep-rooted legacies of misuse of Indigenous consent, or outright denial of their option to withdraw consent, to legitimize settler nation building on Indigenous territories. I will start this article by laying out the contemporary formulations of FPIC, followed by the discussion of the ongoing impact of the Doctrine of Discovery, which once implemented through preemption rights, continues to pose challenges to FPIC.
 
-## FPIC in the Era of UNDRIP
+### FPIC in the Era of UNDRIP
 
 FPIC, as a consent-based framework, was specifically developed in relation to Indigenous peoples in the mid-1980s[2](#fn:2), as the UN Working Group on Indigenous Populations (UNWGIP) began to assert Indigenous inherent rights in the process of drafting UNDRIP. Adopted by the UN General Assembly in 2007, UNDRIP, though a non-binding international instrument, established a minimum standard for the protection of Indigenous rights, accompanied by corresponding duties for the States engaging with Indigenous nations based on cooperation and mutual respect.
 
@@ -64,7 +64,7 @@ Since there is no accepted definition of ‘consent,’ it proves most difficult
 
 The application of FPIC, understandably, seeks to raise the standards for engaging with Indigenous peoples. This need emerges from the lessons of history that continue to pose challenges to Indigenous peoples’ full enjoyment of their rights.
 
-## Doctrine of Discovery and the Function of Indigenous Consent:
+### Doctrine of Discovery and the Function of Indigenous Consent:
 
 FPIC was hardly the framework that European States relied on, when, in the 15th, and 16th centuries, they began carving up the Americas into their exclusive spheres of influence. At best, proclamations were read in foreign languages to empty shores, missing the mark on _informed consent_. Even when more direct consent was attempted, it was hardly _prior_.\[^4\] A theologically-derived international law guided by the Doctrine of Discovery, vested European States with absolute dominion and ownership in Indigenous territories, even before they set foot there. Crucially, under this legal framework, a State could preempt other European States from interfering with their territorial claims and trade monopolies solely on the basis of first discovery; hence, without any regard for Indigenous peoples already living there.[4](#fn:5)
 
@@ -80,7 +80,7 @@ Finally, preemption is inscribed into U.S. law as a complementary, though not eq
 
 Consequently, this manipulation and erosion of Indigenous consent rights as a mere function of this fabricated land tenure system leads the Supreme Court in [_Cherokee Nation v Georgia_ (1831)](https://www.law.cornell.edu/supremecourt/text/30/1) to proclaim Indigenous peoples as “domestic dependent nations,” which, in turn, leads Congress to unilaterally end Indigenous-U.S. treaty relations in 1871, eradicating the nearly 100-year-old tradition of sovereign-to-sovereign, consent-based diplomacy.[12](#fn:13)
 
-## Doctrine of Discovery’s Long Shadow over FPIC:
+### Doctrine of Discovery’s Long Shadow over FPIC:
 
 Deep asymmetries of power, where preemption, though an incomplete right, redefined Indigenous land relations into a subordinate ‘Indian title,’ continue to pose barriers to Indigenous full and meaningful participation in decisions impacting their sovereign and territorial rights. When power imbalance is built into political relations, consent can hardly be free, hence failing to meet the first principle of FPIC. Even when coercion, manipulation or intimidation are absent, Indigenous nations are left to contend with greater risks than benefits of proposed actions, measures, or projects. This is especially true of development projects, seeking to extract natural resources from Indigenous territories. Compared to the States and industry, Indigenous nations operate with more limited access to technical expertise and financial resources or are subject to restrictive timelines that make it difficult to reach informed, collective decisions. Neither are there established processes for conducting fair consultations, accepting Indigenous decisions to withhold consent, or submitting grievances to mitigate adverse by-products of proposed actions.[13](#fn:14)
 
@@ -94,13 +94,13 @@ Simply put, full recognition of Indigenous consent rights, the very rights that 
 
 Consequently, both international instruments are only partially successful in their advocacy of Indigenous consent rights, as neither makes it an unnegotiable requirement. This trend points to a broader failure in respecting and upholding Indigenous rights, which was on full display in the 2016 Dakota Access Pipeline (DAPL) protests. Energy Transfer LP refused to respect the Standing Rock Sioux Tribe’s decision to withdraw their consent from the project, let alone, include them in a meaningful consultation process. Those non-consensual practices, together with a lack of federal oversight of the company’s actions, left the citizens of the Tribe and their supporters exposed to harassment, intimidation, and violence. [This case](https://earthjustice.org/features/faq-standing-rock-litigation) also revealed that U.S. courts, which litigated this case, lacked the understanding of ‘meaningful and good faith consultations,’ much less FPIC, by accepting a mere transfer of partial information as such. Today, extractive industries together with legislation and legal decisions of the United States government pose the most serious challenges to FPIC. It is also where UNDRIP’s language in Articles 19 and 32 was significantly compromised to diminish the requirement of Indigenous consent. Even though DAPL was eventually ordered to cease, the oil was left to flow through the pipelines without further repercussions.[20](#fn:21)
 
-## Conclusions:
+### Conclusions:
 
 Indigenous consent rights are critical to the full realization of Indigenous right to self-determination. Therefore, it is important that FPIC is not treated as a blanket agreement and includes a meaningful range of choices that are consistent with each Indigenous nation’s priorities and values. It should insist on consensus, rather than compromise-seeking procedures among equally empowered decision-makers.[21](#fn:22) These are precisely the terms of a centuries old [Two Row Wampum Treaty](https://www.onondaganation.org/culture/wampum/two-row-wampum-belt-guswenta/), entered between the Haudenosaunee and each of the colonial powers, where each party were considered as equals, promising not to interfere with each other’s affairs but rather respect each other’s sovereign and territorial rights.
 
 Understanding how Indigenous consent was captured and redefined to fit the purposes of the colonial powers can serve as one of many steps towards reclaiming this power in relations with settler states, the power that already exists in these nations and communities but is impacted by those historical roadblocks on their way to being fully realized.
 
-### Bibliography:
+#### Bibliography:
 
 Banner, Stuart. _How the Indians Lost their Land: Law and Power on the Frontier_. Cambridge, Mass.: The Belknap Press of Harvard University Press, 2005
 
@@ -155,7 +155,7 @@ Williams, Robert A. “Jefferson, the Norman Yoke, and American Indian Lands.”
 
 Wolfe, Patrick. “Settler Colonialism and the Elimination of the Native.” _Journal of Genocide Research_ 8, no. 4 (2006): 387-409
 
-### Court Rulings, Declarations, Conventions, and other Government Documents:
+#### Court Rulings, Declarations, Conventions, and other Government Documents:
 
 _Cherokee Nation v. Georgia_, 30 U.S. 1 (1831). Accessed at: [https://supreme.justia.com/cases/federal/us/30/1/](https://supreme.justia.com/cases/federal/us/30/1/)
 
@@ -187,7 +187,7 @@ U.S. Laws, States, Etc. “An Act to Regulate Trade and Intercourse with the Ind
 
 - - -
 
-## Footnotes
+### Footnotes
 
 1.  \[1\] in Prucha 2000, 12. [↩](#fnref:1)
     

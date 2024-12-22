@@ -35,7 +35,7 @@ tags:
  - Settler Colonialism
  - Syracuse
 ---
-## Introduction
+### Introduction
 
 In this article, I examine ways in which Syracuse University, a higher education institution located in Central New York, was founded from settler colonialism vis-à-vis the Doctrine of Discovery. I provide three historical moments in which campus leaders, legal constituents, and religious actors associated with the private interests of Syracuse University have enacted fraudulent treaty making, land theft, assimilation efforts, and forced religious conversion of Indigenous Peoples. The three key historical moments are as follows:
 
@@ -48,11 +48,11 @@ In this article, I examine ways in which Syracuse University, a higher education
 
 This paper shows how higher education institution were founded from settler colonialism. I situate Indigenous resiliency in this paper by showing how the Onondaga Nation navigated political tensions and economic sovereignty through use of valuable raw materials. I intentionally examine these historical instances through the lens of settler colonialism in higher education, which I define in the next section.
 
-### Defining “Settler Colonialism” in Higher Education
+#### Defining “Settler Colonialism” in Higher Education
 
 Settler colonialism has shaped the education system throughout the world. In _Decolonization is not a metaphor_, Tuck and Yang (2012) describe settler colonialism as both external and internal modes—_external,_ seizing for personal gain (e.g., forced removal of Indigenous peoples from homelands onto reservations for extraction of uranium and/ or oil) and _internal,_ enacting control or maintenance (e.g., residential boardings schools). Tuck and Yang define settler colonialism as, settlers who arrive with “the intention of making a new home on the land, a homemaking that insists on settler sovereignty over all things in their new domain” (5). Yellow Bird (2020) provides that Indigenous scholars of higher education often define institutions of higher education as “colonial institutions” to mean institutions, situated on Indigenous lands, who provide an education from a White, Eurocentric framework. Higher education institutions fulfill both internal and external definitions of settler colonialism (Yellow Bird, 13). The following will explore ways in which Syracuse University enacted settler colonialism at its founding.
 
-### “The Shining City on the Hill”: The Doctrine of Discovery and Higher Education
+#### “The Shining City on the Hill”: The Doctrine of Discovery and Higher Education
 
 In 1452, a Papal Bull from Pope Nicholas V bestowed “special graces . . . to invade, search out, capture, vanquish, and subdue all Saracens and pagans whatsoever” (Mudimbe, 2005) all over the world initiated what is known as the Doctrine of Discovery, the “special graces” to steal Indigenous lands and subjugate Indigenous peoples. In 1493 Pope Alexander VI introduced “Inter Caetera” which validated Christian conquest over non-Christians all over the world including “the New World”, classifying Indigenous peoples among the “flora and fauna” and later as “sub-human” and so too, labelling Indigenous intellect as “savage” or “barbarous” (Adams, 1988). Christopher Columbus wrote in his diaries about his encounters with Indigenous Peoples (Taino) that they would be, according to Calloway (2016) “good and intelligent servants” who would “become Christians very easily, for it seemed to me that they had no religion” (p. 73).
 
@@ -64,7 +64,7 @@ Centuries later, in 1823, the Doctrine of Discovery was adopted into US law thro
 
 The context of this paper is situated right _before_ the Dawes Act (1887) or “the General Allotment Act” was signed into law, which authorized the federal government to allot or break up Tribal lands, sell them to American citizens, and encourage Native peoples to become US citizens. Higher education institutions at their founding were directly influenced by Termination Era policies, where Indigenous Peoples were disbanded from their homelands and their lands were bought and sold to benefit American citizens and racism about Indigenous Peoples surged.
 
-### “Land Grab Beginnings”
+#### “Land Grab Beginnings”
 
 In the early 19th century, groups of economically disadvantaged populations were all too often excluded from higher education entirely— specifically farmers and blue-collar workers. In the late 1830’s a political movement swept through the United States, calling for the creation of agricultural colleges for the education of working-class people (Zimdahl, 2018). In 1857 the Morrill Act was proposed, passed in 1859, and the Morrill Land Grant College Act of 1862 was enacted. The act was passed the start of the residential boarding school era, to which the federal government sought lands to finance the founding of college and university campuses, which dispossessed Indigenous Peoples of almost one million acres of their lands (Anderson, 2022).
 
@@ -76,7 +76,7 @@ Two colleges in direct opposition to Cornell University were the Peoples College
 
 After Cornell had secured their founding as the primary university to be founded from Land Grant Funds, according to Halliday (1905), Ezra Cornell had paid “$25,000 to Genesee College… which showed that the requirements laid down in the charter had been complied with, and that Cornell University had become entitled to the proceeds from the land grant fund” (p. 19). After seeking Land Grant funding and being denied, Syracuse University was founded from Ezra Cornell’s contributions to Genesee College of Lima from his own money, in lieu of Genessee College’s requests and denial for Land Grant funding.
 
-### “The Campus on the Hill”
+#### “The Campus on the Hill”
 
 In 1870 the Methodist church held its state convention in Syracuse. During the convention a Methodist school located in Lima, NY passed a resolution towards the founding of a new university, “where Methodism had thrived for decades” (Syracuse.com). No doubt the school’s ability to charter a university was directly related to Ezra Cornell’s donation from the Morill Act, but there were several others who were interested in helping to fund such a university. Judge George Comstock of Syracuse was one such person, who offered the “the hill” on which Syracuse University now stands, which were then just 50 acres of farmland (1870) and he also donated $75,000, to contribute towards the establishment of Syracuse University. Not much is recorded about how Judge Comstock came to acquire that land.
 
@@ -84,7 +84,7 @@ According to Greene (2000), the first building built on campus was the Hall of L
 
 Attorney for the Onondaga Nation, Joe Heath, explains that Syracuse University’s founding and how they acquired the land is a mystery, but “how Onondaga lost it is simple: it was stolen” (para 3, Rivera, 2021). Of course, Joe Heath is referring to over 100 years prior, in which New York State illegally interfered with federal treaties to acquire lands from the Onondaga Nation and other Haudenosaunee nations through illegal deeds and treaties made with New York State officials (Graymont, 1976). New York State’s illegal dealings foreshadow much of the ways in which Syracuse University and its leadership attempted to completely undermine and eradicate the Onondaga people, which is discussed in the next section.
 
-### “The Onondaga Indian Problem”
+#### “The Onondaga Indian Problem”
 
 The Indian Removal Policy was most favored by settler society, but while Indian land was being stolen, bought, then resold through the Allotment Act (or the Dawes Act, 1887), subsequently the “Indian problem” became much more prominent and politicized as land became available (Otis, 2014). Much of these attitudes about Indigenous Peoples were documented and well known.
 
@@ -118,13 +118,13 @@ Local politicians and people of power were constantly meeting about “what to d
 
 The non-Native man who leased the quarry on the south end from the Onondaga Nation paid members of the nation to mine what is known as “Onondaga limestone,” the same type of limestone which helped to build the Brooklyn Bridge, and Genesse County Courthouse, and The Hall of Languages at Syracuse University.
 
-### Conclusion
+#### Conclusion
 
 In this paper, I discussed several historical moments in which Syracuse University followed in the long dark legacy of settler “discovery.” After the Doctrine of Discovery was adopted into US law, Indigenous lands were thought to be fair game for most of the general American public, especially those in power positions in institutions of higher education. In 1862 the Morrill Land Grant College Act was passed through the Supreme Court which funded the founding land-grant-colleges, directly from the sales of federally “owned” lands obtained from seizure of Indigenous lands during the allotment era. In 1865, Cornell University donated $25,000 from Morrill grant aid, towards Syracuse University’s founding (this amount is worth approximately $500,000 today). In early 1870’s Judge Comstock offered Syracuse University a mysterious 50 acres of farmland on the hill. In 1870 Syracuse University was founded. In 1883 Chancellor Charles Sims created a fraudulent treaty, which Onondaga Chiefs voted unanimously against. In 1889 the Whipple Report was published about New York State’s years of efforts to completely seize all Indigenous lands in New York State, an effort which ultimately failed. Precious limestone in Onondaga quarries, later named “Onondaga Limestone” contributed to the production of salt in the City of Syracuse (Smith, 1904, p. 199). The limestone quarries offered the Onondaga Nation some level of economic advantage and political sovereignty during a period of Indigenous termination.
 
 [![Map of Onondaga Territory](/img/post/featured/onondaga-reservation.png)](/img/post/featured/onondaga-reservation.png)
 
-## References
+### References
 
 *   Adams, K. B. (1988). Order in the Courts: Resolution of Tribal/State Criminal Jurisdictional Disputes. Tulsa LJ, 24, 89.
     
@@ -163,7 +163,7 @@ In this paper, I discussed several historical moments in which Syracuse Universi
 *   Zimdahl, R. L. (2003). The mission of land grant colleges of agriculture. American journal of alternative agriculture, 18(2), 103-115.
     
 
-### Endnotes
+#### Endnotes
 
 1.  Cornell University sits on stolen Cayuga (Gayogo̱hó:nǫɁ) lands. The Cayuga Nation, a member of the Haudenosaunee Confederacy, lost over 1,200 acres of land after New York State violated the 1794 Canandaigua treaty. [↩](#fnref:1)
     

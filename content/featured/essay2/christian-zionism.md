@@ -23,9 +23,9 @@ tags:
  - Law
 ---
 
-# The Doctrine of Discovery and Christian Zionism
+### The Doctrine of Discovery and Christian Zionism
 
-## Introduction
+#### Introduction
 
 The [Doctrine of Discovery (DoD)](https://doctrineofdiscovery.org/what-is-the-doctrine-of-discovery/) has a well-documented and researched connection to the colonization of Turtle Island. Its ideology, however, reaches far beyond the continent’s bounds. What is less researched is the DoD’s connection to European colonialism in the rest of the world. In this paper, I will explore how the settler logic, clearly articulated in the Doctrine of Discovery, was and continues to be an animating factor of the colonization of Palestine through Christian Zionist political thought and action.
 
@@ -37,7 +37,7 @@ One often overlooked example is how the trans-Atlantic trafficking of African pe
 
 The colonization of Palestine has been backed heavily by the theology of Christian Zionism, an ideology that draws heavily on the Doctrine of Discovery to justify colonization, particularly the concept of _terra nullius_ and white Christian dominance. Understanding these connections helps situation the Palestinian struggle for self-determination as part of the global decolonization movement.
 
-## Christian Zionism’s rise to political power
+### Christian Zionism’s rise to political power
 
 Britain came to political power in Palestine after World War One, but its influence on the region goes back much further. As transportation technology allowed Brits to travel more in the early 1800s, Palestine became a major destination, and British theological theories about the “Holy Land” began to boom. This is also at a time when Britain was at the height of its colonial expansion. The theology mimicked the imperial mindset. British Christians thought of themselves as “Christian Soldiers” enacting God’s battle plans from the Bible into the modern era, or “dispensation,” to use the term that would define this form of theology. With an eye on Palestine, they believed that Jewish rule in Palestine was part of God’s strategy for winning the universal battle of good vs evil. God’s strategy also included converting Jews to Christianity, sending everyone who wasn’t a Protestant to hell, and bringing on the apocalypse. It was a Christian Zionist, [Rev. Alexander Keith](https://en.wikipedia.org/wiki/A_land_without_a_people_for_a_people_without_a_land), who, in the 1850s is credited with coining the term, “A land without a people for a people without a land” to describe the political and theological underpinnings of his desire to send Britain’s Jewish population to Palestine.
 
@@ -49,7 +49,7 @@ The United States is considered Israel’s most stalwart ally. It is no coincide
 
 Today it is estimated that [20% of the US population believes that the State of Israel is a fulfillment of biblical prophecy](http://research.lifeway.com/wp-content/uploads/2017/12/Evangelical-Attitudes-Toward-Israel-Research-Study-Report.pdf), a key tenet of Christian Zionist thought. This constitutes a huge, organized voting bloc. The largest lobby supporting Israel’s attempts to displace Palestinians is [Christians United for Israel](https://cufi.org/). The largest groups [giving money directly to Israeli settlements](https://www.aljazeera.com/economy/2015/8/26/us-christian-charities-bankroll-israeli-settlements) are Christian Zionist. Christian Zionists support Israel’s most repressive, colonial, and potentially genocidal policies. Christian Zionists are a major force behind the United States’ continued financial, military, and ideological support for the apartheid Israeli regime. As a former [Israeli ambassador](https://twitter.com/LeviYonit/status/1391484622039625734?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1391484622039625734%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.breitbart.com%2Fmiddle-east%2F2021%2F05%2F12%2Fformer-israeli-ambassador-ron-dermer-evangelical-christians-backbone-israels-support-us%2F) put it the “Backbone of Israeli support in the US is Evangelical Christians.”
 
-## Connecting Christian Zionism and the Doctrine of Discovery
+### Connecting Christian Zionism and the Doctrine of Discovery
 
 The colonial theology of Christian Zionism is deeply tied to the ideology of the Doctrine of Discovery. Take for instance the rallying cry of the Christian Zionist – and later Jewish Zionist – movement “A Land without a People for a people without a Land.” Anyone who went to Palestine in the mid-1800s would have seen a thriving Palestinian community made up of indigenous Muslims, Christians, and Jews. It wasn’t that there weren’t people there. The phrase came from the idea that the people were “no people” because they weren’t European and didn’t practice European Christianity. This is a redeployment of the concept of _Terra Nullius_, created by the Doctrine of Discovery.
 

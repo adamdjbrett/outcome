@@ -23,7 +23,7 @@ tags:
 ---
 Less than three months _Sherrill_, the 2nd Circuit used that decision as the basis to dismiss the pending Cayuga land claim and in so doing, declared that _Sherrill_ “_has dramatically altered the legal landscape_”[1](#fn:1) for Indigenous nations’ land right cases. The Circuit used this new “equitable” rationale to also dismiss the Oneida Nation land claim in 2010 and the Onondaga Nation land rights action in 2012.
 
-## FACTUAL AND LEGAL BACKGROUND:
+### FACTUAL AND LEGAL BACKGROUND:
 
 After earlier District Court rulings that illegally taken homelands could not be reclaimed in the US court system, the Oneida Nation, purchased properties from willing sellers, within the boundaries of its reservation recognized by the [1794 Treaty of Canandaigua](https://aila.ngo/issues/canandaigua-treaty-of-1794/). Since this land had been under the sovereign jurisdiction of the Nation before New York knowingly violated the three treaties, the Constitution and the Trade and Intercourse Act when it took the lands, the Oneidas took the position that any properties which they obtained on the open market, should be sovereign and under their jurisdiction once again.
 
@@ -39,7 +39,7 @@ Consistent with two centuries of blatantly unfair rulings for Indigenous peoples
 
 The United States could not have been created and then expanded across Turtle Island without the colonial seizure of Indigenous lands, the genocide of Indigenous peoples and the concentrated efforts to “kill the Indian and save the man”, via never- ending programs of forced assimilation.
 
-## SHERRILL’S RELIANCE ON THE DOCTRINE OF DISCOVERY:
+### SHERRILL’S RELIANCE ON THE DOCTRINE OF DISCOVERY:
 
 The first footnote in _Sherrill_ removes all doubt about the illegitimacy of its holding, and the clear re-affirmation of the doctrine of Christian discovery and domination, as it states that:
 
@@ -53,7 +53,7 @@ Further, she recognizes that many of the illegal takings occurred AFTER the Cons
 
 None of these historic realities seem to matter to the court, as she rushed to concoct this new “equitable” defense, which only applies to Indigenous nations land rights actions. This attempt to bury inconvenient historic facts in the process of creating such an inequitable result, fails all tests of intellectual integrity and must be addressed and corrected.
 
-## DIRECT CONNECTION: DOCTRINE OF DISCOVERY RESULTS IN DISMISSALS OF HAUDENOSAUNEE LAND RIGHTS ACTIONS:
+### DIRECT CONNECTION: DOCTRINE OF DISCOVERY RESULTS IN DISMISSALS OF HAUDENOSAUNEE LAND RIGHTS ACTIONS:
 
 The _Sherrill_ decision came down on March 29, 2005 and less than three months later, on June 28, 2005, the 2nd Circuit used that deeply flawed decision as the basis to dismiss the [Cayuga Nation land claim](https://doctrineofdiscovery.org/cayuga-v-pataki/). There is a direct progression from the invocation of the doctrine of Christian discovery and domination 200 years ago and the dismissals of the Haudenosaunee land rights cases.
 
@@ -91,7 +91,7 @@ It’s time for justice, time for peace.
 
 Joe Heath Onondaga Nation General Counsel
 
-### Resources
+#### Resources
 
 *   [City of Sherrill v. Oneida Indian Nation of New York 544 U.S. 197 (⤓ PDF Download)](https://doctrineofdiscovery.org/assets/pdfs/sherrill-v-oneida-opinion-of-the-court.pdf)
 *   [City of Sherrill v. Oneida Indian Nation of New York 544 U.S. 197 via Cornell Legal Information Institute](https://www.law.cornell.edu/supct/html/03-855.ZO.html)
@@ -103,7 +103,7 @@ Joe Heath Onondaga Nation General Counsel
 
 - - -
 
-## Footnotes
+### Footnotes
 
 1.  [_Cayuga Indian Nation v. Pataki_, 413 F. 3d 266, 273 (2nd Cir, 2005).](https://casetext.com/case/cayuga-indian-nation-of-ny-v-pataki) [↩](#fnref:1)
     

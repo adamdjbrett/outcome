@@ -39,7 +39,7 @@ tags:
  - Environment
  - River Series
 ---
-## **Introduction**
+### **Introduction**
 
 > “Asia, Africa, and Europe all meet in the Americas to labor over the dialectics of free and unfree, but what of the Americas themselves and the prior peoples upon whom that labor took place?” ~Jodi Byrd, _Transit of Empire: Indigenous Critiques of Colonialism_
 
@@ -58,7 +58,7 @@ In response to lived conditions, feminisms developed in various Black and Indige
 
 - - -
 
-## **The Origins of the Combahee River Collective Statement**
+### **The Origins of the Combahee River Collective Statement**
 
 50 miles from Charleston, South Carolina, is the mouth of the Combahee River, named for the Indigenous people of the place. It was home to numerous plantations where Black people were forced into the institution of slavery. Just after the Revolutionary war battles fought in the area, this fecund place supplied vast amounts of water for some of the new country’s largest rice plantations, producing immense wealth for European-Americans (who now understood themselves to be white); returning none to the Indigenous Peoples, lands, and trafficked African laborers (now categorized as Black people) there. Indigenous and Black people repeatedly rebelled against the coercion, despite the punishing violence white people perpetuated upon them in order to maintain possession and build the US nation-state. Some of the early interactions between Black and Indigenous people happened in captivity in military forts–shared cells of incarceration for resistance to white possession of land, labor, and life.[5](#fn:5) It was at the Combahee River that Harriet Tubman led a Union Army regiment in a raid that destroyed millions of dollars of supplies going to the Confederate Army and freed over 750 enslaved Africans. This rebellion would be an inspiration to a quintessential Black feminist group over a century later.
 
@@ -109,7 +109,7 @@ Their answers reflected issues on which they specialize, even as they make commo
 
 Destroying settler colonialism, or noting it as one of the interlocking systems of oppression did not happen in direct response to any question. The word decolonization was used only twice during the panel: once emphasizing the need to decolonize the spirit, and another time in reference to the mind. While critical thinking and spiritual agency are important, these uses do not refer to the return of land to indigenous people. Tuck and Wang, authors of _Decolonization is Not a Metaphor_ have cautioned against using the word decolonization in North America when speaking about anything other than the distinct project of disordering the colonial world.[16](#fn:16) When used as metaphor, it often functions as signaling “both an awareness of the significance of Indigenous and decolonizing theorizations” but to include them in another struggle. This can downplay the incommensurability of efforts for recognition and/or sovereignty with those of civil and/or human rights struggles. Following Arvin, Tuck, and Morrill, it is important to craft alliances that directly address differences.”[17](#fn:17)
 
-## Resources
+### Resources
 
 References ———-
 
@@ -152,7 +152,7 @@ References ———-
 *   Doctrine of Disovery Papal Bulls: Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1455 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494, the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. [https://doctrineofdiscovery.org/](https://doctrineofdiscovery.org/).
     
 
-## Footnotes
+### Footnotes
 
 1.  There are numerous timeframes in which to locate the beginning of settler-colonialism. Tarren Andrews, for example, dates it to the Medieval era. 1492 represents a particular type of rupture as well. I choose 1600 because of the sheer volume of “commerce” moving across the Atlantic in toxic triangles and quadrilaterals by this point in time. Furthermore, there are numerous ways to name both Indigenous connections to place while recognizing shared evolutionary history, without destabilizing Indigenous connections. Indigenous Peoples are connected to their homelands in an indissoluble, irreducible way, and in ways very different than European settler-colonists. I do not see this as a contradiction to the shared human evolutionary history of ancient migration of everyone from the Great Rift Valley in what is now called eastern Africa. People walked from there all over the world, and became some of the first humans to relate to all sorts of different lands and waters, to become indigenous to those places. As the timescales are vastly different (10,000 years ago vs. 1000 years ago), and “time immemorial” refers to “the time we collectively remember”. Numerous indigenous groups on Turtle Island, for example, do not have a collective memory of the trek from Africa and their stories begin with them located en situ. Though the collective trek happened, sharing that information with Indigenous Peoples whose origin stories state otherwise should not be used to displace their claim of being aboriginal to their homelands, instead, only used to recognize the ultimate kinship among humans (homo sapiens) making all people deserving of mutual recognition as persons. Personhood, and relatedly, belonging through kinship or social circumstances, has not always been afforded to people of African descent, both within and outside of some Indigenous communities. [↩](#fnref:1)
     

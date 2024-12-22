@@ -79,7 +79,7 @@ Both then and now, livestock farming pushes everything in its way aside, leaving
 
 Some of the species that Indigenous cultures feel the closest kinship with and hold most sacred are the same ones Western science defines as keystone species. Like the name implies, these species play an outsized role in maintaining the health of ecosystems. The Gwich’in of the Arctic are deeply connected to caribou. To the Plains Indians, it is the buffalo. The Tlingit, Chinook, Haida and many more Pacific Northwest tribal nations have such strong bonds with salmon they call themselves, and the fish, Salmon People. According to many Native traditions, if these sacred relationships are destroyed, the world falls out of balance. Perhaps that’s where we are now — living in a world that has fallen seriously out of balance.
 
-## Beaver
+### Beaver
 
 [![](/img/post/featured/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp)](/img/post/featured/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp)
 
@@ -91,7 +91,7 @@ The beaver’s story is a difficult one. It is often told to highlight how Nativ
 
 Today, the beaver is making a comeback. As a keystone species beaver create freshwater wetlands, improve water quality and salmon habitat, and mitigate the effects of drought and flooding. The Confederated Tribes of the Umatilla Indian Reservation, the Tulalip Tribe, the Cowlitz Indian Tribe, and the Yurok Tribe are all currently working to restore beaver populations. Tribal members recognize these sites as “sacred centers,” their ancestors’ name for the beavers’ home, because it is a place where fish, heron, turtles, otters, frogs, insects, owls, and ducks all live together, restoring balance to the world.
 
-## Sturgeon
+### Sturgeon
 
 [![](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.png)](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.png)
 
@@ -101,7 +101,7 @@ Sturgeon have been here long before the dinosaurs. They have proven their resili
 
 From early colonial history to today, the sacred ties between sturgeon and Native people have been broken. To white fishermen who were after trout, herring and whitefish, the sturgeon were pests, a “trash fish” whose barbels and bony plates ripped through their nets. So they slaughtered them. In the 19th century, tens of thousands were killed by commercial fishermen. Their dried but oily carcasses were stacked like logs of firewood along the shores to be later used for fuel on steamships. When the lucrative business of selling sturgeon roe as caviar took off in the late 1800s, it wasn’t long before populations of this ancient fish were in catastrophic decline. Today, all 26 species are slipping towards extinction due to pollution, dams, overfishing, and habitat loss.
 
-## California Condor
+### California Condor
 
 [![](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg)](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg)
 
@@ -113,7 +113,7 @@ With a wingspan of over 9 feet, condors fly the highest of all birds and for thi
 
 Settlers in search of gold first rushed into Yurok territory around 1849. Logging followed, devastating the forests. Miners committed massacres that were genocidal in scale. Missionaries and government agencies forced Yurok children into residential boarding schools. During this war of extermination, both Yurok and condors were close to being eliminated. In 1910 the Yurok population was under 700. Today, they are the largest tribe in California with more than 5,500 members. In 1982 only 22 condors were left. Today, their population is 537 with more than half living in the wild.
 
-## Buffalo
+### Buffalo
 
 [![](/img/post/featured/bison.webp)](/img/post/featured/bison.webp)
 
@@ -139,10 +139,10 @@ Healing these broken bonds requires the will of strong hearts. Such ways are not
 
 > _“Sometimes our truth makes others uncomfortable. But it’s never ok to make anyone feel less than because of it. Nobody is higher or better than anyone else.”_ — _Issac Murdoch, Ojibwe First Nations artist and educator_
 
-### Copyright Notice
+#### Copyright Notice
 
 © 2023 Tracy Basile
 
-### Biography
+#### Biography
 
 _Tracy Basile is writing a book about the lives of animals in American history. Her articles have been published in The Village Voice, Orion Afield, ASPCA Animal Watch, and more. She teaches writing at Saint Thomas Aquinas College and lives in Lenapehoking in the Hudson Valley of New York._

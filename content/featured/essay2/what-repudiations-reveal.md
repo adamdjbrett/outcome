@@ -36,7 +36,7 @@ Nations formulate doctrines that define and guide their relations toward other n
 
 In this essay I will explore the religious components of the Doctrine through the lens of what official statements of repudiation reveal, avoid, and deny as a type of risk assessment. Just as legal outcomes of the Doctrine remain in effect, so do the religious components, contributing to the ongoing risk of Christians violating human rights.
 
-## What Statements of Repudiation Reveal
+### What Statements of Repudiation Reveal
 
 Many Christians have moved along the moral learning curve to recognize some errors in its ways, from slavery and the treatment of women, to inequalities of all sorts, and the injustices of Christian conquest, colonization, and domination.
 
@@ -54,13 +54,13 @@ The [statement from the World Council of Churches](https://doctrineofdiscovery.o
 
 > “Denounces the Doctrine of Discovery as fundamentally opposed to the gospel of Jesus Christ and as a violation of the inherent human rights that all individuals and peoples have received from God.” They do not identify specifically which parts of the Gospel are in fundamental opposition or which human rights received by God the Doctrine violates. The vow to do better does not make the non-Christian world safer from Christian domination.
 
-## The Gospel’s Great Commission
+### The Gospel’s Great Commission
 
 The Presbyterian Church in Canada does make direct reference to the role of the [key Gospel basis](https://presbyterian.ca/justice/doctrine-of-discovery/) for the Doctrine, the Great Commission. (p. 7 of the full report) The [United Methodist Church statement](/assets/pdfs/Trail-of-Repentance-and-Healing.pdf) refers to it only obliquely. (p.1) Yet Pope Paul III cites it directly in [_Sublimus Dei_](https://web.archive.org/web/20221130075829/https://www.papalencyclicals.net/paul03/p3subli.htm), “_On the Enslavement and Evangelization of Indians_,” When Christian nations had the technological and financial means to explore and exploit the world, the popes recognized this as an opportunity to expand the fulfillment of Christ’s order to his followers to “go into all the world…,” which was now well beyond the scope of the world that Jesus knew. Followers of Jesus understandably saw this as something they were obligated to do.
 
 The purpose of going into all the world was to “[make disciples](https://www.biblegateway.com/passage/?search=Matthew%2028%3A19-20&version=NRSVUE) of all nations.” This means to cause it to happen, not simply to invite nations to convert. To not convert, according to Christ, would lead to [condemnation](https://www.biblegateway.com/passage/?search=Mark%2016%3A15-16&version=NRSVUE).
 
-## Go and Occupy; Go and Convert
+### Go and Occupy; Go and Convert
 
 [The Evangelical Covenant Church statement](/assets/pdfs/Evangelical-Covenant-Church-35.-Resolution-to-Repudiate-the-Doctrine-of-Discovery.pdf) points to the Old Testament theme of a [chosen people with a promised land](https://birchbarkbooks.com/products/pagans-in-the-promised-land) as being present in the Doctrine and in the belief in manifest destiny. (p.3) While this is true, it is subordinate to the Great Commission. This is clear when Pope Paul III learned that some of the conquerors were no longer fulfilling the requirement to teach and convert. [_Sublimus Dei_](https://web.archive.org/web/20221130075829/https://www.papalencyclicals.net/paul03/p3subli.htm), _was meant to bring them in line,_ citing the Great Commission. Go, occupy, and exploit, yes, but only if they also went and attempted to teach and convert.
 
@@ -80,7 +80,7 @@ In 1819, the influential clergyman and educator, Rev. Heman Humphrey delivered a
 
 Jesus gave his own twist to the Old Testament command. God told Abram that whoever blessed him, God would bless and whoever cursed him, God would curse. Jesus reversed that. He said to his followers, in effect, whoever you bless, heaven will bless. Whoever you curse, heaven will curse. ([Matthew 16:19](https://www.biblegateway.com/passage/?search=matthew%2016:19&version=NRSVUE), NRSVUE)
 
-## All Power in Heaven and on Earth
+### All Power in Heaven and on Earth
 
 None of the statements call out this most decisive assertion of domination. After Jesus rose from the dead, he proclaimed that all power in heaven and on earth had been given to him. [(Mathew 28:18, NRSVUE)](https://www.biblegateway.com/passage/?search=Matthew+28%3A18&version=NRSVUE) This is quite the turnabout.
 
@@ -94,13 +94,13 @@ The Native peoples were informed that they were invited to voluntarily convert t
 
 > “With the help of God, we shall powerfully enter into your country, and shall make war against you in all ways and manners that we can, and shall subject you to the yoke and obedience of the Church and of their Highnesses; we shall take you and your wives and your children, and shall make slaves of them, and as such shall sell and dispose of them as their Highnesses may command; and we shall take away your goods, and shall do you all the mischief and damage that we can, as to vassals who do not obey, and refuse to receive their lord, and resist and contradict him; and we protest that the deaths and losses which shall accrue from this are your fault, and not that of their Highnesses, or ours, nor of these cavaliers who come with us.”
 
-## Enemies of Christ
+### Enemies of Christ
 
 The Doctrine of Discovery thus contains a declaration of war against non-Christians, a war Christians had by then been waging for some time against Muslims and other non-Christians in Europe they referred to as pagans or heathens. In [_Dum Diversas_](https://doctrineofdiscovery.org/dum-diversas/), Pope Nicholas V referred to such people as “enemies of Christ” as if there can be no neutrality toward Christ.
 
 Though none of our statements acknowledge it, this position is Gospel based. In [Matt 12:30](https://www.biblegateway.com/passage/?search=Matthew+12%3A30&version=NRSVUE) (NRSVUE) and [Luke 11:23](https://www.biblegateway.com/passage/?search=Luke+11%3A23&version=NRSVUE), (NRSVUE) Jesus uses the polarizing binary that people who are not with him are against him. He may have learned this from his Jewish roots. The God of Israel had declared war against all other Gods. The Canaanites, for example, were routinely characterized as enemies of God. Their very existence was perceived to be a threat. One papal bull related to the Doctrine is called, [_Unam Sanctam_](https://web.archive.org/web/20221216162518/https://www.papalencyclicals.net/bon08/b8unam.htm) (_One God, One Faith, One Spiritual Authority_)_._ From the declaration that there is only one God, the very fact that people worship another God would be felt to be a threat that must be [stamped out](https://www.biblegateway.com/passage/?search=Deuteronomy%2017%3A2-5&version=NRSVUE). Otherwise, believers are at risk of being led astray, as the followers of Moses were. The land had to be made empty of non-believers. There could be no spiritual authority from within Indigenous traditions separate from their God-given capacity to accept Christ.
 
-## Love Your Neighbor How? The Colonization of Consciousness
+### Love Your Neighbor How? The Colonization of Consciousness
 
 To believe that the Doctrine is fundamentally opposed to the Gospel presumably refers to the Great Commandment to love your neighbor as yourself. [Mark Charles and the CRCNA task force](https://www.crcna.org/sites/default/files/doctrine_of_discovery.pdf) (p.18) explicitly state so. Many regard the Great Commandment to be the heart of the Gospel. So why did it not stop more ordinary Christians, teachers, and clergy from engaging in domination?
 
@@ -108,7 +108,7 @@ To believe that the Doctrine is fundamentally opposed to the Gospel presumably r
 
 A related notion in the New Testament and elsewhere is the [Golden Rule](https://www.biblegateway.com/passage/?search=matthew+7%3A12&version=NRSVUE), do unto others as you would have them do unto you. This also has me at the center. This weakness is now understood, and a [new alternative](https://blog.peoplefirstps.com/connect2lead/the-platinum-rule-2) is being used, do unto others as they would have you do unto them. This would more reliably put the brakes on committing injustice. Love your neighbor as they wish to be loved. Many Indigenous peoples wished to be free to worship as their ancestors did. Parents and children wished to live together without the presence of colonizers or missionaries.
 
-## If Not the Gospel, what is the Doctrine at Odds With?
+### If Not the Gospel, what is the Doctrine at Odds With?
 
 \*\*Far from being at odds with the Gospel, then, the Doctrine is based on identifiable parts of it. It is, however, at odds with innate human rights, as the statements of repudiation recognize. What these statements do not do is connect the dots that the Bible led ordinary Christians to violate those innate human rights and still does so today.
 
@@ -126,7 +126,7 @@ The [right to live in peace,](https://doctrineofdiscovery.org/assets/pdfs/UUofP-
 
 The Doctrine conflicts with the human right to freedom, autonomy, and liberty. These are consistent with the Indigenous value of non-domination. (See value #5 in [Arnold & Bigtree](https://doctrineofdiscovery.org/10-religous-dimensions/)) Being kind, it should be noted, is not the equivalent. In the art of domination, kindness plays the role of helping prevent rebellion.
 
-## The Doctrine as Lived Today by Christian Churches
+### The Doctrine as Lived Today by Christian Churches
 
 The United Church in Australia takes the important step of having its repudiation include that of the “[theological foundations](https://doctrineofdiscovery.org/repudiations/faith-communities/uniting-church-in-australia/)” of the Doctrine, though those foundations are not identified, nor are the Biblical bases for them. To acknowledge in detail the religious components of the Doctrine leaves some challenging work ahead. Each component needs to be repudiated and corrective action taken. For example, if are no chosen people with a promised land, and there never were, then what?
 

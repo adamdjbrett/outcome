@@ -31,9 +31,9 @@ tags:
  - US-Indian-Law
  - Indigenous-Knowledges
 ---
-## The U.S. Government’s Claim of a Right of Domination
+### The U.S. Government’s Claim of a Right of Domination
 
-### Justice Joseph Story (1779-1845)
+#### Justice Joseph Story (1779-1845)
 
 Justice Joseph Story was born in Marblehead, Massachusetts on September 18, 1779, and died on September 10, 1845, at the age of sixty-four. On February 3, 1812, during the presidency of James Madison, Story was appointed to the U.S. Supreme Court at the age of thirty-two. He is the youngest person in history to be appointed to that position. He served for thirty-three years and six months as an Associate Justice of the U.S. Supreme Court.
 
@@ -41,7 +41,7 @@ Story’s father-in-law was a major investor in the massive 1795 Yazoo land frau
 
 When one of the lawyers working for the land speculation companies became ill, Story was hired to replace him on the case. He was only thirty years old at the time. It was during the _Fletcher_ case that Story and Chief Justice John Marshall became friends, and not long thereafter Marshall recommended that Story be seated on the Court.
 
-### Story and Justice Antonin Scalia
+#### Story and Justice Antonin Scalia
 
 Story is regarded as a genius and a giant in the legal profession. His continuing influence on American law was demonstrated for me some years ago when I attended a talk that Justice Antonin Scalia (1936-2016) delivered at the University of San Diego (USD) School of Law. It was August 30, 2006, and the evening’s theme was “Constitutional Interpretation.” The occasion was the opening of the Center for the Study of Constitutional Originalism at the USD law school.
 
@@ -49,7 +49,7 @@ Scalia made Joseph Story’s [_Commentaries on the Constitution of the United St
 
 The _Johnson_ ruling was issued three hundred and thirty years after Pope Alexander VI issued the [_Inter Caetera_](https://doctrineofdiscovery.org/inter-caetera/) papal bull. The connection that Story made in his _Commentaries_ between the papal bull and the _Johnson_ ruling enables us to see that he and other members of the government were fully aware of the historical, legal, and political continuity between the property law of their era and the patterns of domination called “property” found in those ancient Vatican documents. The connection provides a little-understood context for the Supreme Court’s interpretation of the U.S. Constitution with regard to the U.S. government’s treatment of Native nations.
 
-### My Brief Conversation with Justice Scalia
+#### My Brief Conversation with Justice Scalia
 
 After Justice Scalia’s talk, the law school’s director of communications walked with me to a reception at the Camino Shiley Courtyard. She told me I should feel free to go over and speak with Scalia. I got in line, waited patiently, and before long was standing in front of him. He was holding a beer, though I don’t recall what brand. Our conversation revealed to me the lack of knowledge at least some members of the court have about the significance of the _Johnson_ ruling, the papal bulls, and the legal history of federal anti-Indian law.
 
@@ -67,7 +67,7 @@ Instead of responding to what I’d said, he began talking about the difference 
 
 At that point I could tell the conversation was over. I thanked him for taking the time to speak with me and walked away. I was amazed at what I had just experienced. Scalia had been on the Supreme Court for nearly two decades, and yet he claimed to have never heard of the landmark decision [_Johnson_ v. _McIntosh_](https://doctrineofdiscovery.org/johnson-v-mcintosh/), which property law scholars cite as the cornerstone of U.S. property law in the United States. I found it bizarre. Either he was oblivious to one of the most important legal decisions in U.S. legal history or he was blatantly lying to me, which was quite possible if he didn’t want to disclose any of his views to me.
 
-### My Letter to Justice Scalia
+#### My Letter to Justice Scalia
 
 The day after my conversation with him, I wrote Scalia a one-page thank you letter, starting with Story’s discussion of the “right of discovery” and [_Johnson_ v. _McIntosh_](https://doctrineofdiscovery.org/johnson-v-mcintosh/) in his _Commentaries_. I included citations throughout the letter. I briefly explained the connections that I had mentioned during our conversation. I emailed my letter and a copy of my 1993 law review article to the communications director of the law school. She forwarded it to Justice Scalia’s staff at the court.
 
@@ -75,7 +75,7 @@ Several months later, in 2007, I had a phone conversation with Professor Lindsay
 
 My conversation with Justice Scalia demonstrates an important point. Whenever possible, we as Native people ought to attend public events or lectures that would give us the opportunity to have conversations with members of the U.S. Supreme Court or other members of the U.S. government, so that we can discuss the role that the _Johnson_ ruling and the doctrine of Christian domination play in the anti-Indian area of U.S. law typically called “federal Indian law.” Our conversations may ripple far beyond the moment.
 
-### Property: Another Word for Domination
+#### Property: Another Word for Domination
 
 As mentioned above, Justice Scalia claimed he’d never heard of the _Johnson_ ruling or the doctrine of Christian discovery. I found this odd particularly because of his references to Story’s _Commentaries_ during his talk. The opening chapter of Story’s _Commentaries_ includes a at lengthy analysis of Chief Justice Marshall’s language in the _Johnson_ ruling, and also reproduces nearly the entire ruling. Had Scalia actually not bothered to read Story’s opening chapter, which sets a wide historical context for an “originalist” interpretation of the U.S. Constitution?
 
@@ -93,7 +93,7 @@ Blackstone’s definition of property enables us to accurately interpret the tit
 
 Johnathon Havercroft’s [_Captives of Sovereignty_](https://www.worldcat.org/title/captives-of-sovereignty/oclc/1105491911) (2014) points to the arguments of Hannah Arendt, Michel Foucault, and Georgio Agamben that “sovereignty” is “an unjust form of political domination that limits human freedom.” Havercroft devotes his book to developing a critique of sovereign domination. The next section will use Story’s words to explain how ancient Christian thinking about “heathens” and “infidels” serves as a key part of the context for the U.S. Constitution.
 
-### More Evidence of the Claim of a Right of Christian Domination
+#### More Evidence of the Claim of a Right of Christian Domination
 
 Story’s _Commentaries_ provides the following explanation of what he calls the “right of discovery”:
 
@@ -125,7 +125,7 @@ Story continues as follows:
 
 If any Christian nation, monarch, or potentate had _already_ claimed a right of domination over some geographical area and put up markers to communicate their intention to establish themselves there, then, from the religious, legalistic viewpoint of Christendom, that area was considered “off limits” to any _other_ Christian monarch or nation. More specifically, if non-Christian nations and peoples were the only peoples existing in the “discovered” area and no _prior_ claim of _Christian domination_ had been asserted, then it was the policy of the Christian powers separately and of Christendom as a whole to agree that the Christian “discoverer” could claim a right of domination over that place. Story’s narrative shows that the _Johnson_ v. _McIntosh_ ruling followed this pattern, claiming that the United States became the successor to the British claim of a Christian right of domination over lands labeled “heathen” and “infidel.” The _Johnson_ v. _McIntosh_ ruling uses the phrase “ultimate dominion” as a euphemistic way of expressing the theme of domination.
 
-### The Hidden Dimension of “Christian” and “Heathen, Pagan, and Infidel”
+#### The Hidden Dimension of “Christian” and “Heathen, Pagan, and Infidel”
 
 By differentiating between “Christian people” and “heathens, pagans, and infidels,” Story and Marshall were following a reasoning process from the Bible. The word “heathen,” for example, is a word “of Christian origin,” so says the Oxford English Dictionary. And the phrase “Christian people” is a category that includes all the main features of domination in relation to non-Christians. The Idealized Mental Model of a “Christian” monarch from the Age of Discovery includes the features listed below:
 
@@ -161,7 +161,7 @@ These above features constitute the hidden dimension of the categorical differen
 
 Non-Christian Native peoples are, in other words, automatically understood to have no right of domination over Christians, only an incomplete ‘sovereignty’, no title of property to their lands, no right to exclude Christians from their lands and territories, and no ability to prevent the Christian Europeans from claiming a right of domination over them and their lands. The difference between those properties is tacitly (silently) invoked every time the _Johnson_ v. _McIntosh_ ruling is referenced or mentioned.
 
-### Searching the Historical Record and Challenging the Claim of a Right of Domination
+#### Searching the Historical Record and Challenging the Claim of a Right of Domination
 
 As scholars, we need to closely examine the ideas that the most elite non-Native thinkers of the United States have written about Native nations and peoples. We need to avoid accepting the view that we as Native people are obligated in our time to adopt and follow the same ways of thinking about Native issues that the intellectuals of the United States developed generations ago. There is nothing that obligates us as Native people to accept the U.S. government’s claim of a right of domination over Native nations. If anything, we are obligated by our original free existence to figure out how to oppose such claims.
 
@@ -173,7 +173,7 @@ First-in-Time, First-in-Right is one potential argument, not First-Invader-in-Ti
 
 Lastly, “Anything Wrong From the Beginning Can Never Be Made Right, Because It Was Wrong From Its Inception.” The passage of time does not make something wrongful become rightful. The claim of a right of domination can never be made right because it was wrong from the moment it was made and it will forever continue to be wrong.
 
-### The Mental World of Christian Europe is the Origin of the Claim of a Right of Domination
+#### The Mental World of Christian Europe is the Origin of the Claim of a Right of Domination
 
 Upon reflection, it is easy to comprehend a key point: Not one Native person alive back when the Vatican papal bulls or royal charters were drafted played any role in the creation of those documents. Likewise, we seem to never notice that only non-Native thinkers developed the ideas that serve today as the foundation of federal anti-Indian law. Not one native person participated in the development of those ideas. What is the significance of this observation?
 
@@ -185,7 +185,7 @@ We can imagine a thick book called _The Book of the Dominator_. Whenever a quest
 
 In one scenario the lawyer answers: “Based on what the Dominator has said about this sort of thing, I’d say you ought to feel confident going in that direction.” Or the lawyer might say: “Well, unfortunately based on what it says here in _The Book of the Dominator_, I’d recommend against taking that course of action.” Law has been defined as, “the habit of obedience,” to which, in our case, we need to add, “a habit of obedience to the ideas and arguments of ‘the Dominator’.” One of the most recent versions of The Book of the Dominator is titled, for example, “Federal Indian Law, 2012 Edition.”
 
-### Conclusion
+#### Conclusion
 
 It is not possible for us to question or challenge something we know nothing about. This is why an acknowledgment of the claim of a right of domination is so critically important. After all, we cannot question or challenge the U.S. government’s claim of a right of domination over Native nations if we don’t recognize that this claim is intrinsic to federal anti-Indian law. So long as the United States government’s claim remains hidden from view, it will remain unchallenged by the name _domination_.
 

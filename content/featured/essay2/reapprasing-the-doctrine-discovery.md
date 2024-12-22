@@ -27,7 +27,7 @@ Although this bizarre doctrine has come under increasing and well-deserved scrut
 
 However, and to use Chief Justice John Marshall’s phrase, when we view the “actual state of things” that developed during the colonial and early American period, discovery was actually understood as doing nothing more than granting exclusive and preemptive rights to the discovering nation. And the exclusive right the U.S. gained was the right to be first purchaser of Indigenous land should a Native nation decide to sell any of its territory. It is this “actual state of affairs” that this essay recalls and elaborates on.
 
-## The Pope “Discovers” Discovery
+### The Pope “Discovers” Discovery
 
 Originally, the concept of “discovery” was a theological fiction first produced in the late 1400s by the Catholic Pope. It was later transformed into a political fiction by European heads of state, and then into a legal fiction by Chief Justice John Marshall in his first major Indian law case, [_Johnson v. McIntosh_](https://doctrineofdiscovery.org/johnson-v-mcintosh/) in 1823. In present-day parlance discovery has been dangerously re-purposed as popular fiction that serves to revise neo-colonial history, fuel oppressive legal decisions, and assuage majority culture guilt. Left unchallenged, the myth-making associated with the way discovery is currently defined–that it completely eradicated or at a minimum diluted Indigenous title–poses grave threats to Indigenous legal, political, and cultural identity because such definitions wrongly deny the inalienable sovereign rights of Native peoples to governance and full title to their own territories.
 
@@ -43,7 +43,7 @@ So, in fact, the original no-holds barred papal doctrine of the discovery was di
 
 Had Pope Alexander’s original sweeping decree of unlimited Christian domination held sway, there would have been no reason for colonizers to engage in complex diplomatic relations with Native nations. Furthermore, contrary to common assumptions that ultimate legal title to occupied Native lands passed upon discovery to European states or the U.S. as successor, the historical record, both written and oral, shows that legal ownership remained with Tribal nations. And for the most part, Native peoples retained legal ownership of their respective territories until such time as they formally ceded their claims to lands in consensual treaty arrangements with one of the competing European states or, later, the American government.
 
-## The Confirmation of Indigenous Land Rights in Treaties, Laws, and Cases
+### The Confirmation of Indigenous Land Rights in Treaties, Laws, and Cases
 
 Three classes of evidence—1) the actual political and diplomatic relations between Native nations and Spain, France, Great Britain; 2) the record of the federal government in its dealing with Native peoples as evidenced in treaties, policies, and statutes; and 3) a number of relevant Supreme Court decisions that have addressed the doctrine of discovery–affirm that ownership of the North American continent rested in the hands of Indigenous peoples.
 

@@ -100,9 +100,9 @@ This proposal was supported by the elders of the Council of Popular and Indigeno
 
 Since 2020, in the fall and the spring, these actions of cultural indigenous self- determination have continued to mature and develop. Now, in 2023, with this foundation, the **Izcalli Abya Yala** echoes the call of the original Continental Encounter of 1990 in Quito, Ecuador and all of the subsequent summits and diverse initiatives of the Original Nations of Indigenous Peoples to proclaim the **Superseding of the Doctrine of Discovery** of Christendom as the objective of the next cycle of the work of the Continental Commission Abya Yala.
 
-## CEMANAHUAC
+### CEMANAHUAC
 
-### Superseding the Doctrine of Discovery
+#### Superseding the Doctrine of Discovery
 
 _The world is not flat, it never was._
 
@@ -126,15 +126,15 @@ This nefarious international policy of impunity in violation of the right of sel
 
 - - -
 
-## Superseding the Doctrine of Discovery
+### Superseding the Doctrine of Discovery
 
-### World Water One
+#### World Water One
 
-### CONTEXT
+#### CONTEXT
 
 Today, just as there is no valid legal, moral, religious or ethical case to be made in defense of the Doctrine of Discovery of Christendom as the theological premise for the continued normalization of the ongoing colonization and genocide of Indigenous Peoples of the Great Turtle Island Abya Yala, operating with purported privileged of territorial claims of jurisdiction over Indigenous Nations territories, neither is there a valid presumption to continue to prescribe and officialize the temporal aspects of the regimes of domination that originate from the same cultural pathology of the “Western World”.
 
-### TIME is NOW: Territorial Integrity of Mother Earth
+#### TIME is NOW: Territorial Integrity of Mother Earth
 
 The celebration of the fulfillment of the **13th Baktun** of the **Maya Calendar** on the winter solstice of 2012 has as its measurement of cyclical proportion a fundamental set unit of 20 days which is marked by the Maya Long Count starting on August 13, 3114 BCE. Known today in Izkaloteka tradition as the Cicitlalmina, the original date has correspondence to the annual appearance of the Perseid Meteor Shower every year in mid-August. Today, the Tolteka Izkaloteka continue to celebrate the annual arrival of the _cicitlalmina_. The active imagery of this astronomical phenomena symbolically depicts the falling of rain upon the original _milpa_ (cornfield) of the ancestral nations of Anáhuac.
 
@@ -150,15 +150,15 @@ After Cochabamba, the conceptual and political disconnect between the rhetoric o
 
 In Cochabamba at the World Conference on Climate Change and the Rights of Mother Earth, these principles were hailed as the **Cochabamba Protocols**.
 
-### The Cochabamba Protocols
+#### The Cochabamba Protocols
 
-#### Respect
+###### Respect
 
-#### Inclusion
+###### Inclusion
 
-#### Complementarity
+###### Complementarity
 
-#### Self Determination and Interdependence
+###### Self Determination and Interdependence
 
 Today in 2023, in the wake of the recent failures of the UN systems to competently address the climate crisis impacting the planet and all humanity, the call is now for the invocation of the defense of the **Territorial Integrity of Mother Earth** as a fundamental and complementary principle and strategic framework in order to interconnect, interrelate and move forward outside of the fractured and competing agendas of the states, and the economic interests of supra-national corporate dominion and exploitation that control and define the terms of the climate change crisis in terms of “development”.
 
@@ -176,7 +176,7 @@ corrective actions to ensure the well-being of all humanity and the future gener
 
 The issue is not about what we want. It is about what we WILL.
 
-#### Self Determination of Original Nations of Indigenous Peoples of Mother Earth
+###### Self Determination of Original Nations of Indigenous Peoples of Mother Earth
 
 _In a moment’s time_ _There is a place._ _Where all that came to be_ _Arrives_ _In grace then-_ _there_ _Here-Now_ _Nican Tlacah_ _Cemanahuac_
 
@@ -190,7 +190,7 @@ www.www.www
 
 - - -
 
-### Contact Information
+#### Contact Information
 
 Continental Commission Abya Yala
 

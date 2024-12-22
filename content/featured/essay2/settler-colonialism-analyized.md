@@ -39,7 +39,7 @@ tags:
  - Environment
  - River Series
 ---
-## **Introduction**
+### **Introduction**
 
 In the 1600s when enslaved Africans disembarked _en masse_ and travel weary to this _land mass_, they arrived in a place where hundreds of Indigenous groups lived since time immemorial.[1](#fn:1) Since that moment The majority of the interactions between Black people and Indigenous Peoples living in the so-called United States occur(red) in the bloody context of settler colonial imperialism. Black people were kidnapped, trafficked, enslaved, segregated, imprisoned, and assassinated by individuals and a system that did not value our personhood, but sought to exploit our bodies and souls.[2](#fn:2) Indigenous peoples were (and continue to be) exploited, infected, schooled, silenced, relegated, and murdered by individuals and a system that did not (and does not) value their personhood, but sought (and seeks) to erase their bodies and souls.[3](#fn:3) In the 21st century, both remain tolerated but targeted, appropriated, and tokenized.[4](#fn:4)
 
@@ -54,7 +54,7 @@ In response to lived conditions, feminisms developed in various Black and Indige
 
 - - -
 
-## **Using the Doctrine of Discovery to Foreground an Analysis of Settler Colonialism**
+### **Using the Doctrine of Discovery to Foreground an Analysis of Settler Colonialism**
 
 The Doctrine of Discovery (DoD, sometimes called the Doctrine of Christian Domination) is considered a major root of settler colonialism globally. The DoD is a set of 15th-century Catholic Papal Bulls that condoned the invasion, capture, murder, kidnapping and enslavement of anyone non-Christian.[5](#fn:5) Even before wreaking massive havoc on the peoples and ecosystems of the so-called Americas, the Doctrine of Discovery justified the Christian conquest over and mistreatment of Muslims (Saracens) and invasion of the lands of African peoples (pagans) and all of their lands. African countries and communities continue to suffer due to colonization and imperialism. And this set of religious documents that made their way into so-called secular legal frameworks in the US and elsewhere govern the lives of millions of Black people. There isn’t an area of life untouched by the DoD. It influences the legal, carceral, educational, health care, and economic system, to name a few of the interlocking systems of oppressions it legitimizes.
 
@@ -92,7 +92,7 @@ There are more reasons to use the DoD as a way to integrate an analysis of settl
 
 - - -
 
-## References
+### References
 
 *   AfroFeministFutures For the World We Want. _Allied Media Conference,_ Allied Media Project, 2022. [https://www.youtube.com/watch?v=iYM0Jf4mWjE](https://www.youtube.com/watch?v=iYM0Jf4mWjE)
     
@@ -133,7 +133,7 @@ There are more reasons to use the DoD as a way to integrate an analysis of settl
 *   Doctrine of Disovery Papal Bulls: Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1455 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494, the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. [https://doctrineofdiscovery.org/](https://doctrineofdiscovery.org/).
     
 
-## Footnotes
+### Footnotes
 
 1.  There are numerous timeframes in which to locate the beginning of settler-colonialism. Tarren Andrews, for example, dates it to the Medieval era. 1492 represents a particular type of rupture as well. I choose 1600 because of the sheer volume of “commerce” moving across the Atlantic in toxic triangles and quadrilaterals by this point in time. Furthermore, there are numerous ways to name both Indigenous connections to place while recognizing shared evolutionary history, without destabilizing Indigenous connections. Indigenous Peoples are connected to their homelands in an indissoluble, irreducible way, and in ways very different than European settler-colonists. I do not see this as a contradiction to the shared human evolutionary history of ancient migration of everyone from the Great Rift Valley in what is now called eastern Africa. People walked from there all over the world, and became some of the first humans to relate to all sorts of different lands and waters, to become indigenous to those places. As the timescales are vastly different (10,000 years ago vs. 1000 years ago), and “time immemorial” refers to “the time we collectively remember”. Numerous indigenous groups on Turtle Island, for example, do not have a collective memory of the trek from Africa and their stories begin with them located en situ. Though the collective trek happened, sharing that information with Indigenous Peoples whose origin stories state otherwise should not be used to displace their claim of being aboriginal to their homelands, instead, only used to recognize the ultimate kinship among humans (homo sapiens) making all people deserving of mutual recognition as persons. Personhood, and relatedly, belonging through kinship or social circumstances, has not always been afforded to people of African descent, both within and outside of some Indigenous communities. [↩](#fnref:1)
     

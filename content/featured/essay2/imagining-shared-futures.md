@@ -39,7 +39,7 @@ tags:
  - Environment
  - River Series
 ---
-## **Introduction**
+### **Introduction**
 
 In the 1600s when enslaved Africans disembarked _en masse_ and travel weary to this _land mass_, they arrived in a place where hundreds of Indigenous groups lived since time immemorial.[1](#fn:1) Since that moment The majority of the interactions between Black people and Indigenous Peoples living in the so-called United States occur(red) in the bloody context of settler colonial imperialism. Black people were kidnapped, trafficked, enslaved, segregated, imprisoned, and assassinated by individuals and a system that did not value our personhood, but sought to exploit our bodies and souls.[2](#fn:2) Indigenous peoples were (and continue to be) exploited, infected, schooled, silenced, relegated, and murdered by individuals and a system that did not (and does not) value their personhood, but sought (and seeks) to erase their bodies and souls.[3](#fn:3) In the 21st century, both remain tolerated but targeted, appropriated, and tokenized.[4](#fn:4)
 
@@ -54,7 +54,7 @@ In response to lived conditions, feminisms developed in various Black and Indige
 
 - - -
 
-## **Making Common Cause: Imagining Shared Futures**
+### **Making Common Cause: Imagining Shared Futures**
 
 Creating spaces like that of the AMC AfroFeministFutures panel will allow Black feminists to reflect on the legacy of Black feminism, and what futures can look like. They are a place to practice articulating a Black feminist analysis of settler colonialism as one of the interlocking systems of oppression. No doubt in the future other oppressions will be explicitly added to the list of race, class, gender, and sexuality. These panels are also spaces to reflect on how the liberal multicultural settler state is trying to entice us. As we expand our vision to unapologetically and enthusiastically also center indigenous women and land we actualize Frazier’s vision of braiding our human experiences together as Black and Indigenous feminists. Frazier here uses the image of braiding as a metaphor, but it is also a material fact and practice that is precious to both Black and Indigenous cultures. Braiding each other’s hair or other organic material are key sites of knowledge sharing, laughter, and affirmation between women, girls, grandmothers, etc.
 
@@ -62,7 +62,7 @@ Building on Frazier, Ransby-Sporn interpreted the Combahee River Collective’s 
 
 This work is necessary as the state becomes simultaneously more violent and more diffuse, offering green capitalist techno-solutions to the climate crisis of its own making (while the poor, Black, Indigenous, and other people bare the disproportionate burden of the crisis others created in attempts to endlessly benefit themselves at the expense of everyone and everything else). What leaps into revolutionary action will emerge from this generation of Indigenous and Black feminists being in rigorous conversation with one another? There are other methods in addition to using the DoD that have created generative relationship and have nurtured Black and Indigenous feminist collaborations.[8](#fn:8) These include creating ceremonial spaces and remembering joint projects of rebellion, enjoying sacred laughter and honoring grief in the process of creating rituals, sharing stories, and conversing together. Academic, activist, spiritualist, and internet-media savvy communication approaches are all important for building the friendships of understanding and embodied solidarity that we need for our collective future.
 
-## **Return to Combahee**
+### **Return to Combahee**
 
 Though the Collective members never went to the site of the Combahee River raid together, the place itself would be a significant one to re-Source the Black feminist and Indigenous feminist movements and help us to relate to one another as relatives.[9](#fn:9) A return to Combahee in 2027, the 50th anniversary of its writing, provides an opportunity to bring the people working on these multiple approaches together. As an exercise in futurity, I conclude with a visualization.
 
@@ -76,7 +76,7 @@ Bats, mycelium, and stars observe. B. Anderson, Kailea Frederick, Sister Sadada 
 
 - - -
 
-## References
+### References
 
 *   AfroFeministFutures For the World We Want. _Allied Media Conference,_ Allied Media Project, 2022. [https://www.youtube.com/watch?v=iYM0Jf4mWjE](https://www.youtube.com/watch?v=iYM0Jf4mWjE)
     
@@ -117,7 +117,7 @@ Bats, mycelium, and stars observe. B. Anderson, Kailea Frederick, Sister Sadada 
 *   Doctrine of Disovery Papal Bulls: Dum Diversas 18 June, 1452, The Bull Romanus Pontifex (Nicholas V), January 8, 1455 and The Bull Inter Caetera (Alexander VI), May 4, 1493. Later expansions of these bulls include the Treaty of Tordesillas, June 7, 1494, the Patent Granted by King Henry VII to John Cabot and his Sons, March 5, 1496, The Requerimiento, 1514. [https://doctrineofdiscovery.org/](https://doctrineofdiscovery.org/).
     
 
-## Footnotes
+### Footnotes
 
 1.  There are numerous timeframes in which to locate the beginning of settler-colonialism. Tarren Andrews, for example, dates it to the Medieval era. 1492 represents a particular type of rupture as well. I choose 1600 because of the sheer volume of “commerce” moving across the Atlantic in toxic triangles and quadrilaterals by this point in time. Furthermore, there are numerous ways to name both Indigenous connections to place while recognizing shared evolutionary history, without destabilizing Indigenous connections. Indigenous Peoples are connected to their homelands in an indissoluble, irreducible way, and in ways very different than European settler-colonists. I do not see this as a contradiction to the shared human evolutionary history of ancient migration of everyone from the Great Rift Valley in what is now called eastern Africa. People walked from there all over the world, and became some of the first humans to relate to all sorts of different lands and waters, to become indigenous to those places. As the timescales are vastly different (10,000 years ago vs. 1000 years ago), and “time immemorial” refers to “the time we collectively remember”. Numerous indigenous groups on Turtle Island, for example, do not have a collective memory of the trek from Africa and their stories begin with them located en situ. Though the collective trek happened, sharing that information with Indigenous Peoples whose origin stories state otherwise should not be used to displace their claim of being aboriginal to their homelands, instead, only used to recognize the ultimate kinship among humans (homo sapiens) making all people deserving of mutual recognition as persons. Personhood, and relatedly, belonging through kinship or social circumstances, has not always been afforded to people of African descent, both within and outside of some Indigenous communities. [↩](#fnref:1)
     

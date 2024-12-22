@@ -30,7 +30,7 @@ tags:
  - paypal-bus
 ---
 
-## A Brief overview
+### A Brief overview
 
 Every few years, when the Doctrine of Discovery gets traction, someone raises the old chestnut of Sublimis Deus as apparent proof that the Catholic church _did already_ rescind the Doctrine and therefore it’s not necessary. I should probably do a blog post that I can just repost.
 

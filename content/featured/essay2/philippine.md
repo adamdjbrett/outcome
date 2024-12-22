@@ -33,7 +33,7 @@ tags:
  - Law
  - Religion
 ---
-## Introduction
+### Introduction
 
 The Philippines has over 14-17 million remaining Indigenous peoples belonging to an estimated 110 ethnolinguistic communities (between 10-20% of the total population). It also boasts of some of the most progressive legislation in the world when it comes to protecting the rights of Indigenous Peoples. One such law is the Indigenous Peoples Rights Act (IPRA) of 1997 with the National Commission on Indigenous Peoples (NCIP) as its implementing arm. Yet despite such legislation, the Philippines is notorious for having one of the highest rates of murder of Indigenous land protectors in the world (alongside Brazil), not to mention, the incidence of dispossession and displacement of tribes that happen to be “in the right of way” of mining, dam-building, tourism, and other development projects. In previous writing (Mendoza, 2020), I have noted how the only relation imagined by the Philippine state with its Indigenous populations is that of assimilation, never recognition of their autonomous rights or sovereignty. I have tracked how the government-sanctioned imperative to “keep up” with the rest of the civilized world actively (re)produces such populations as wards of the state, in need of incorporation into the national polity, celebrating their otherness only for tourism purposes. And even among well-meaning and justice-oriented Filipino academics wishing to “indigenize” the schools’ curriculum, the prevailing sentiment tends still to be that of patronage, with the driving impetus being that of “helping rescue our exploited tribal kin” out of their impoverished conditions that, perchance, they, too, might benefit from the fruits of progress and technological advancement “just like the rest of us modernized Filipinos.” And as the nation-state presses forward—climate chaos notwithstanding—in its determined drive to achieve economic growth and development at all cost,[1](#fn:1) Indigenous dispossession becomes expedient and necessary “for the sake of the greater good.”
 
@@ -51,7 +51,7 @@ The institution of such a legal fiction of possession and ownership by the subte
 
 I submit that such demystificatory work, particularly in the public discourse, is an absolute necessity if more just and equitable modes of relation were ever to be opened up and reimagined (between the state and the country’s assimilated majorities, on the one hand, and the nation’s unassimiliated minoritized Indigenous populations, on the other). And therein lie the stakes in this revisitation: for the State to repudiate its role as a successor colonial power and for Indigenous communities to be restored their right to their ancestral domains, there has to be a thoroughgoing recognition of the “undemocratic origins, evolution, and effects of many contemporary laws and legal concepts” (Lynch, 2011, p. 18) as rooted in the Regalian Doctrine. For as long as its colonialist oeuvre remains entrenched and operating in capillaric fashion within the country’s state institutions (and in the popular imagination), any progressive legislation pertaining to Indigenous peoples is likely to simply multiply the complexities and contradictions.
 
-## Philippine Indigenous Life Against the Grain
+### Philippine Indigenous Life Against the Grain
 
 The discourse of the Regalian Doctrine, as is the case with the DOCD, presents an interesting — if damning and distorting — counter-mirror to Indigenous life. When Spain first came to what are now known as the Philippine islands,[3](#fn:3) it found diverse ethnic groups of people already living in loosely-federated coastal village settlements called _barangay_ (a word for a traditional boat), numbering anywhere from 50 to 100 families and aggregating mostly through kinship relationships. But as well, numerous nomadic hunter-gatherer tribes[4](#fn:4) believed to be the lands’ original inhabitants were known to have thrived across the islands, although increasingly driven inland into the mountains by the influx of Malay farming settlers (Steere, 1898). Although inter-island trading was not uncommon among the former communities, the Spanish conquerors found scandalous the total absence of private ownership even among the settled farming native communities, to wit:
 
@@ -73,7 +73,7 @@ There is not enough space here for a more nuanced recounting of the countless co
 
 > You ask if we own the land. And mock us. “Where is your title?” When we query the meaning of your words, you answer with taunting arrogance. “Where are the documents to prove that you own the land?” Title. Documents. Proof (of ownership). Such arrogance to speak of owning the land, when you shall be owned by it. How can you own that which outlive\[s\] you?…(In Baleva, 2019, p. 141)
 
-## Redefining Human _Being:_ Christian and Civilizational Re-engineering
+### Redefining Human _Being:_ Christian and Civilizational Re-engineering
 
 In perusing the wrenching legal convolutions stemming from the anomalous Regalian Doctrine across both colonial and postcolonial regimes, one finds that the imposition of a property regime is not only productive of the colonial project of wealth extraction and imperialist expansion but constitutive of a new mode of human _being_ that would be compatible with the vision of a more prosperous, progressive, ever-advancing, ever-improving new world populated by highly-evolved human “subjects,” shaped by and aspiring to the entire agenda of what we now call Modernity first beginning to marshal its novelties on the world stage after 1492. Such subjectivity is mandatorily Christian; ruled by a form of rationality detachable from, and unconcerned with feelings, passions, and intuition; acquisitive, with a “natural desire to accumulate wealth, enjoy a life of material comforts, and master nature, (based on the biblical understanding that the end of human life is the exercise of mastery and dominion over the earth); “inherently calculating, utilitarian, result-oriented…, concerned with maximizing possible advantages from a given unit of human effort; individualistic, not beholden to relationships of interdependency” with either human or more-than-human others; and finally, invested in the notion of private ownership, according to Locke’s own words, “‘God gave the world to man in common, but…it cannot be supposed he meant it should always remain common and uncultivated. He gave it to the use of the Industrious and Rational…’” (in Mendoza, 2013, pp. 11-12).
 
@@ -95,7 +95,7 @@ Lamentably, in the Philippine case, the situation in this regard is no more hope
 
 Ultimately, if we truly understood the stakes, we would endeavor to make the fight of our Indigenous kin our own (because ultimately it is!) and face our own profound culpability. For those of us no longer living indigenously and now occupying land stolen by fiat from other people, our relationship is not abstract but concrete. We, the modernized, urbanized, assimilated subjects of empire living well-resourced lifestyles stand as beneficiaries of this ongoing dispossession and, in regard to the reality of our collective planetary predicament, it is now becoming irrepressibly clear that “\[t\]he fight against mass extinction and the fight of Indigenous communities for survival and sovereignty is one and the same” (Sebastian in Maentz, 2022, p. 5).
 
-## Bibliography
+### Bibliography
 
 *   AIISP (Jan. 4, 2021). Ruth Bader Ginsburg’s notoriety in Indian country and Cornell’s campus landscape. [https://blogs.cornell.edu/cornelluniversityindigenousdispossession/2021/01/04/ruth-bader-ginsburgs-notoriety-in-indian-country-and-cornells-campus-landscape/](https://blogs.cornell.edu/cornelluniversityindigenousdispossession/2021/01/04/ruth-bader-ginsburgs-notoriety-in-indian-country-and-cornells-campus-landscape/) Last accessed: 2/26/2023.
     
@@ -142,7 +142,7 @@ Ultimately, if we truly understood the stakes, we would endeavor to make the fig
 
 - - -
 
-## Footnotes
+### Footnotes
 
 1.  As in the much-touted “Build, Build, Build” program of former President Duterte and now, the “Build, Better, More’ infrastructure program” of the newly-elected President Bong Bong Marcos, son of the former dictator, Ferdinand Marcos (Quismorio, Aug. 23, 2022). [↩](#fnref:1)
     
