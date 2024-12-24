@@ -29,7 +29,7 @@ author:
       title: "Manuel May Castillo Academia"
     - icon: "fa-brands fa-linkedin"
       link: "https://www.linkedin.com/in/manuel-may-castillo-332a8138/"
-      title: "Manuel May Castillo Linked"
+      title: "Manuel May Castillo Linkedin"
 tags: 
  - Manuel May Castillo
  - Law

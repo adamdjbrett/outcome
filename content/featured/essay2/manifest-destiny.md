@@ -24,7 +24,7 @@ author:
       title: "Robert Michael Ruehl Site"
     - icon: "fa-brands fa-linkedin"
       link: "https://www.linkedin.com/in/robert-michael-ruehl-01a60817/"
-      title: "Robert Michael Ruehl Linked"
+      title: "Robert Michael Ruehl Linkedin"
 tags: 
  - Robert Michael Ruehl
  - Christianity

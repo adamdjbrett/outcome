@@ -21,7 +21,7 @@ author:
    social:
     - icon: "fa-brands fa-linkedin"
       link: "https://www.linkedin.com/in/christophersudol/"
-      title: "Christopher Sudol Linked"
+      title: "Christopher Sudol Linkedin"
 tags: 
  - Christopher Sudol
  - IUCN

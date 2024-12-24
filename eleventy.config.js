@@ -126,7 +126,7 @@ export default async function(eleventyConfig) {
 			subtitle: "Outcome Project",
 			base: "https://outcome.podcastdoctrineofdiscovery.com/",
 			author: {
-				name: "Adam Dj Brett"
+				name: "Adam DJ Brett"
 			}
 		}
 	});

@@ -15,21 +15,21 @@ author:
  - name: "Philip P. Arnold"
    sort: "1"
    image: "/img/authors/philips.jpg"
-   university: "Massachusetts Amherst"
+   university: "Syracuse University"
    profile_icon: 
-    icon: "fa-brands fa-google-scholar"
+    icon: "fa-brands fa-orcid"
     link: "https://scholar.google.com/citations?user=W36SKGgAAAAJ&hl=en&oi=ao"
-   about: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
+   about: "Philip P. Arnold is Professor of Religion in the Department of Religion at Syracuse University"
    information: 
     - text: "principal investigator for the Henry Luce Grant “200 Years of Johnson v. M’Intosh, the founding director of the Skä·noñh—Great Law of Peace Center, and president of the Indigenous Values Initiative."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Philip P Arnold Google Schollar"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0009-0008-1224-5714"
+      title: "Philip P Arnold ORCID"
  - name: "Sandra Bigtree"
    sort: "2"
    image: "/img/authors/sandra.jpg"
-   university: "Syracuse University"
+   university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://indigenousvalues.org/about/our-team/"
@@ -40,7 +40,7 @@ author:
     - icon: "fa-solid fa-link"
       link: "https://indigenousvalues.org/about/our-team/"
       title: "Sandra Bigtree URL Link"
- - name: "Adam Dj Brett"
+ - name: "Adam DJ Brett"
    sort: "3"
    image: "/img/authors/adam.jpeg"
    university: "Syracuse University"
@@ -54,22 +54,22 @@ author:
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Adam Dj Brett Google Schollar"
+      title: "Adam DJ Brett Google Schollar"
     - icon: "fa-solid fa-school"
       link: "https://nabpr.org/officers/"
-      title: "Adam Dj Brett Social"
+      title: "Adam DJ Brett Social"
     - icon: "fa-solid fa-globe"
       link: "https://www.adamdjbrett.com/"
-      title: "Adam Dj Brett Social Media"
+      title: "Adam DJ Brett Social Media"
     - icon: "fa-brands fa-github"
       link: "https://github.com/adamdjbrett"
-      title: "Adam Dj Brett Github"
+      title: "Adam DJ Brett Github"
     - icon: "fa-regular fa-envelope"
       link: "mailto:info@adamdjbrett.com"
-      title: "Message Adam Dj Brett"
+      title: "Message Adam DJ Brett"
 tags: 
  - Philip P Arnold
- - Adam Dj Brett
+ - Adam DJ Brett
  - Sandra Bigtree
  - Preface and Introduction
  - From Indigenous Religions to Indigenous Values

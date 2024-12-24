@@ -24,7 +24,7 @@ author:
     - icon: "fa-brands fa-orcid"
       link: "https://orcid.org/0009-0009-9244-7857"
       title: "Betty Lyons Google Schollar"
- - name: "Adam Dj Brett"
+ - name: "Adam DJ Brett"
    sort: "2"
    image: "/img/authors/adam.jpeg"
    university: "Syracuse University"
@@ -38,25 +38,25 @@ author:
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Adam Dj Brett Google Schollar"
+      title: "Adam DJ Brett Google Schollar"
     - icon: "fa-solid fa-school"
       link: "https://nabpr.org/officers/"
-      title: "Adam Dj Brett Social"
+      title: "Adam DJ Brett Social"
     - icon: "fa-brands fa-orcid"
       link: "https://orcid.org/0009-0004-6725-8425"
-      title: "Adam Dj Brett Orcid"
+      title: "Adam DJ Brett Orcid"
     - icon: "fa-solid fa-globe"
       link: "https://www.adamdjbrett.com/"
-      title: "Adam Dj Brett Website"
+      title: "Adam DJ Brett Website"
     - icon: "fa-brands fa-github"
       link: "https://github.com/adamdjbrett"
-      title: "Adam Dj Brett Github"
+      title: "Adam DJ Brett Github"
     - icon: "fa-regular fa-envelope"
       link: "mailto:info@adamdjbrett.com"
-      title: "Message Adam Dj Brett"
+      title: "Message Adam DJ Brett"
 tags: 
  - Betty Lyons
- - Adam Dj Brett
+ - Adam DJ Brett
  - Law
  - Religion
  - Environment

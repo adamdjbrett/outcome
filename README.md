@@ -25,7 +25,7 @@ The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v
 
 ## 💫 Test URL 
 
-[https://outcomedocs.netlify.app](https://outcomedocs.netlify.app)
+[https://outcome.doctrineofdiscovery.org](https://outcome.doctrineofdiscovery.org)
 
 ---
 
@@ -112,3 +112,6 @@ If you want to use a custom icon for the author, then you can fill in the custom
 ## CHANGELOG 📝
 - CMD+K should take one directly into search
 - homepage tweaks
+- possible alt colors
+    - Outcome Red: #FF4136
+    - Outocme Orange: #FF851B

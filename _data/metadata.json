@@ -1,7 +1,7 @@
 {
 	"title": "Outcome",
-	"description": "Outcome podcast doctrine discrovery",
-	"url": "https://outcomedocs.netlify.app",
+	"description": "Outcome podcast doctrine discovery",
+	"url": "https://outcome.doctrineofdiscovery.org",
 	"favicon": "/img/logo.png",
 	"image": "/img/logo.png",
 	"language": "en",
@@ -9,29 +9,25 @@
 	"formspree_id": "mdobawgz",
 	"metasocial": {
 		"image": "/img/logo-ls.png",
-		"facebook": "https://www.facebook.com/adamdjbrett/",
-		"twitteruser": "@__adjb",
-		"twitter": "https://x.com/__adjb"
+		"facebook": "https://www.facebook.com/doctrineofdiscovery",
+		"twitteruser": "@indigenousVI",
+		"twitter": "https://x.com/indigenousVI"
 	},
 	"navbar": [
 		{
 			"name": "Home",
-			"key": "H",
 			"link": "/"
 		},
 		{
 			"name": "About",
-			"key": "A",
 			"link": "/about"
 		},
 		{
 			"name": "Submit",
-			"key": "S",
 			"link": "/how-to-submit/"
 		},
 		{
 			"name": "Contact",
-			"key": "C",
 			"link": "/contact/"
 		}
 	],
@@ -56,12 +52,16 @@
 						"link": "/crosscurrent"
 					},
 					{
+						"name": "Featured",
+						"link": "/featured/"
+					},
+					{
 						"name": "JCREOR",
 						"link": "/jcreor/"
 					},
 					{
-						"name": "Featured",
-						"link": "/featured/"
+						"name": "Podcasts",
+						"link": "/podcast/"
 					}
 				]
 			},
@@ -220,11 +220,11 @@
 			"text1": "Except where otherwise noted, the content on The Doctrine of Discovery Project is released under a",
 			"text2": "Creative Commons Attribution 4.0 International license (CC BY 4.0)",
 			"text2_link": "https://creativecommons.org/licenses/by/4.0/deed.en",
-			"text3": "sitemap",
+			"text3": "Sitemap",
 			"text3_link": "https://outcome.doctrineofdiscovery.org/sitemap.xml"
 		},
 		"privacy": {
-			"text1": "This project is administered by the Indigenous Values Initiative. Please help support our work. View our",
+			"text1": "This project is administered by the Indigenous Values Initiative. View our",
 			"text2": "Privacy Policy",
 			"text2_link": "https://outcome.doctrineofdiscovery.org/"
 		},
@@ -241,10 +241,6 @@
 			{
 				"name": "Submit",
 				"url": "/how-to-submit/"
-			},
-			{
-				"name": "Contributor",
-				"url": "/"
 			},
 			{
 				"name": "Contact",
@@ -271,20 +267,16 @@
 			},
 			{
 				"name": "Readers",
-				"url": "/"
+				"url": "/readers/"
 			},
 			{
 				"name": "Librarians",
-				"url": "/"
-			},
-			{
-				"name": "Advertisers",
-				"url": "/"
+				"url": "/librarians/"
 			}
 		]
 	},
 	"author": {
-		"name": "Adam Dj Brett",
+		"name": "Adam DJ Brett",
 		"email": "info@adamdjbrett.com",
 		"url": "https://www.adamdjbrett.com/"
 	}
