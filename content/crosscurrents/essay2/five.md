@@ -48,14 +48,14 @@ author:
    profile_icon: 
     icon: "fa-brands fa-orcid"
     link: "https://orcid.org/0009-0004-6725-8425"
-   about: "I’M A EDUCATOR, RESEARCHER, OPERATIONS MANAGER, AND A WEB DEVELOPER."
+   about: "Adjunct Instructor, and Grant and Event Coordinator"
    information: 
     - text: "Adam DJ Brett is the grant and event coordinator for the Doctrine of Discovery Project, funded by the Henry Luce Grant “200 Years of Johnson v. M’Intosh” and supported by the Indigenous Values Initiative and Syracuse University."
     - text: "He is also an International Research Associate with the American Indian Law Alliance and an adjunct professor of religion at Syracuse University."
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Adam DJ Brett Google Schollar"
+      title: "Adam DJ Brett Google Scholar"
     - icon: "fa-solid fa-school"
       link: "https://nabpr.org/officers/"
       title: "Adam DJ Brett Social"

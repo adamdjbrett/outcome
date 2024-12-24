@@ -54,7 +54,7 @@ author:
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Adam DJ Brett Google Schollar"
+      title: "Adam DJ Brett Google Scholar"
     - icon: "fa-solid fa-school"
       link: "https://nabpr.org/officers/"
       title: "Adam DJ Brett Social"

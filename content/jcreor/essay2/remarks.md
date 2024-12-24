@@ -25,7 +25,7 @@ author:
    social:
     - icon: "fa-brands fa-orcid"
       link: "https://orcid.org/0009-0009-9244-7857"
-      title: "Betty Lyons Google Schollar"
+      title: "Betty Lyons Google Scholar"
 tags: 
  - Indigenous
  - Belief

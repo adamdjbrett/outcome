@@ -26,7 +26,7 @@ author:
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=Glzgi-IAAAAJ&hl=en"
-      title: "Andrew Little Google Schollar"
+      title: "Andrew Little Google Scholar"
 tags: 
  - Andrew Little
  - Order

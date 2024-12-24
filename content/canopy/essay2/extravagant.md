@@ -13,7 +13,7 @@ citation_download:
  link: /bib/brett-lyons.bib
 show_toc: true
 author: 
- - name: "Betty Lyons"
+ - name: "Betty Hill (Lyons)"
    sort: "1"
    image: "/img/authors/betty.jpg"
    university: "American Indian Law Alliance"
@@ -22,11 +22,11 @@ author:
     link: "https://orcid.org/0009-0009-9244-7857"
    about: "President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation. Betty has worked for the Onondaga Nation for over 20 years."
    information: 
-    - text: "Ms. Lyons serves as a member of the Haudenosaunee External Relations Committee and has been an active participant at the annual United Nations Permanent Forum on Indigenous Issues (UNPFII) since the first session in 2001 as a delegate of the Onondaga Nation. Betty attended Cazenovia College and is a Bryant Stratton College Graduate of the Paralegal Program."
+    - text: "Betty Hill (LYons) serves as a member of the Haudenosaunee External Relations Committee and has been an active participant at the annual United Nations Permanent Forum on Indigenous Issues (UNPFII) since the first session in 2001 as a delegate of the Onondaga Nation. Betty attended Cazenovia College and is a Bryant Stratton College Graduate of the Paralegal Program."
    social:
     - icon: "fa-brands fa-orcid"
       link: "https://orcid.org/0009-0009-9244-7857"
-      title: "Betty Lyons Google Schollar"
+      title: "Betty Hill (Lyons) Google Scholar"
  - name: "Adam DJ Brett"
    sort: "2"
    image: "/img/authors/adam.jpeg"
@@ -41,7 +41,7 @@ author:
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Adam DJ Brett Google Schollar"
+      title: "Adam DJ Brett Google Scholar"
     - icon: "fa-solid fa-school"
       link: "https://nabpr.org/officers/"
       title: "Adam DJ Brett Social"
@@ -58,8 +58,8 @@ author:
       link: "mailto:info@adamdjbrett.com"
       title: "Message Adam DJ Brett"
 tags: 
- - Betty Lyons
  - Adam DJ Brett
+ - Betty Hill
  - Federal Indian Law
  - History
  - series

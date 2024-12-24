@@ -26,7 +26,7 @@ author:
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Philip P Arnold Google Schollar"
+      title: "Philip P Arnold Google Scholar"
  - name: "Sandra Bigtree"
    sort: "2"
    image: "/img/authors/sandra.jpg"

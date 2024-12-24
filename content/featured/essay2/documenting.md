@@ -23,7 +23,7 @@ author:
    social:
     - icon: "fa-brands fa-orcid"
       link: "https://orcid.org/0009-0009-9244-7857"
-      title: "Betty Lyons Google Schollar"
+      title: "Betty Lyons Google Scholar"
  - name: "Adam DJ Brett"
    sort: "2"
    image: "/img/authors/adam.jpeg"
@@ -38,7 +38,7 @@ author:
    social:
     - icon: "fa-brands fa-google-scholar"
       link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Adam DJ Brett Google Schollar"
+      title: "Adam DJ Brett Google Scholar"
     - icon: "fa-solid fa-school"
       link: "https://nabpr.org/officers/"
       title: "Adam DJ Brett Social"
