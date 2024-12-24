@@ -10,7 +10,7 @@ pdf:
 how_to_cite: "Arden Mahlberg, Ph.D., 'What Doctrine of Discovery Statements of Religious Repudiation Reveal,' Doctrine of Discovery Project (31 January 2023)"
 show_toc: true
 author: 
- - name: "Arden Mahlberg, Ph.D"
+ - name: "Arden Mahlberg"
    sort: "1"
    image: "/img/authors/mahlberg.jpg"
    university: 

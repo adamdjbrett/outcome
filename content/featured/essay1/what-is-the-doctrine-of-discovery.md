@@ -13,15 +13,15 @@ author:
    image: "/img/authors/philips.jpg"
    university: "Syracuse University"
    profile_icon: 
-    icon: "fa-brands fa-google-scholar"
-    link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-   about: "Philip P. Arnold is an Associate Professor in the Department of Religion at Syracuse University,"
+    icon: "fa-brands fa-orcid"
+    link: "https://scholar.google.com/citations?user=W36SKGgAAAAJ&hl=en&oi=ao"
+   about: "Philip P. Arnold is Professor of Religion in the Department of Religion at Syracuse University"
    information: 
     - text: "principal investigator for the Henry Luce Grant “200 Years of Johnson v. M’Intosh, the founding director of the Skä·noñh—Great Law of Peace Center, and president of the Indigenous Values Initiative."
    social:
-    - icon: "fa-brands fa-google-scholar"
-      link: "https://scholar.google.com/citations?user=RDtqciQAAAAJ"
-      title: "Philip P Arnold Google Scholar"
+    - icon: "fa-brands fa-orcid"
+      link: "https://orcid.org/0009-0008-1224-5714"
+      title: "Philip P Arnold ORCID"
  - name: "Sandra Bigtree"
    sort: "2"
    image: "/img/authors/sandra.jpg"

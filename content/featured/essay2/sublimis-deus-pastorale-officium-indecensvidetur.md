@@ -13,7 +13,7 @@ author:
  - name: Tina Ngata
    sort: "1"
    image: "/img/authors/tina.png"
-   university: "Manaaki Matakaoa"
+   university: "Ngāti Porou"
    profile_icon: 
     icon: "fa-brands fa-orcid"
     link: "https://orcid.org/0000-0002-5852-3627"

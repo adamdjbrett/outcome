@@ -13,7 +13,7 @@ author:
  - name: Tina Ngata
    sort: "1"
    image: "/img/authors/tina.png"
-   university: "Manaaki Matakaoa"
+   university: "Ngāti Porou"
    profile_icon: 
     icon: "fa-brands fa-orcid"
     link: "https://orcid.org/0000-0002-5852-3627"
@@ -63,6 +63,6 @@ The other argument offered by the church against rescinding the papal bulls is t
 
 ![an image of Sublimis Deus with the words so what super imposed over it. ]({{metadata.url}}/img/post/featured/sublim.jpg)
 
-[Sublimis Deus, Pastorale Officium and Non Indecens Videtur by Tina Ngata](/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/) [On the Papal Bull Sublimis Deus by Steven T. Newcomb](https://doctrineofdiscovery.org/blog/newcomb-sublimis-deus/)
+[Sublimis Deus, Pastorale Officium and Non Indecens Videtur by Tina Ngata](https://doctrineofdiscovery.org/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/) [On the Papal Bull Sublimis Deus by Steven T. Newcomb](https://doctrineofdiscovery.org/blog/newcomb-sublimis-deus/)
 
 `original published on Facebook.`
