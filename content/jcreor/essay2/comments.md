@@ -15,17 +15,17 @@ author:
  - name: "Michael McNally"
    sort: "1"
    image: ""
-   university: "Carleton University"
+   university: "Carleton College"
 tags: 
+ - Michael McNally
  - Indigenous peoples
  - Belief
  - Comments Delivered
  - Religion
- - Michael McNally
 ---
 ### INTRODUCTION
 
-#### Michael McNally, Carleton University
+#### Michael McNally, Carleton College
 
-**Michael D. McNally** (Carleton, B.A.; Harvard, M.Div., M.A., Ph.D.), 2001-, teaches on American religion and culture and Native American traditions. Special interests include Indigenous traditions and the law, tradition and history of Minnesota’s Anishinaabe/Ojibwe people, and Indigenized Christianities. He is author of three books: [Defend the Sacred: Native American Religious Freedom beyond the 1st Amendment](https://press.princeton.edu/books/paperback/9780691190907/defend-the-sacred) (Princeton, 2020); [_Honoring Elders: Aging, Authority, and Ojibwe Religion_](http://cup.columbia.edu/search-results?keyword=michael+d.+mcnally&bisac_heading=combined&order=super_relevance&from=advanced) (2009), and _[Ojibwe Singers: Hymns, Grief, and a Native Culture in Motion](http://shop.mnhs.org/products/ojibwe-singers)_ (2000), as well as book chapters, law review, and academic journal articles. At Carleton he is Director of the American Studies Program and Co-Director of Carleton’s 3-yr Mellon-funded [_Indigenous Engagement in Place Initiative_](https://www.carleton.edu/indigenous-engagement/). He was awarded a Guggenheim Fellowship in 2017 for his work on Native religions and law.
+[**Michael D. McNally**](https://www.carleton.edu/directory/mmcnally/) (Carleton, B.A.; Harvard, M.Div., M.A., Ph.D.), 2001-, teaches on American religion and culture and Native American traditions. Special interests include Indigenous traditions and the law, tradition and history of Minnesota’s Anishinaabe/Ojibwe people, and Indigenized Christianities. He is author of three books: [Defend the Sacred: Native American Religious Freedom beyond the 1st Amendment](https://press.princeton.edu/books/paperback/9780691190907/defend-the-sacred) (Princeton, 2020); [_Honoring Elders: Aging, Authority, and Ojibwe Religion_](http://cup.columbia.edu/search-results?keyword=michael+d.+mcnally&bisac_heading=combined&order=super_relevance&from=advanced) (2009), and _[Ojibwe Singers: Hymns, Grief, and a Native Culture in Motion](http://shop.mnhs.org/products/ojibwe-singers)_ (2000), as well as book chapters, law review, and academic journal articles. At Carleton he is Director of the American Studies Program and Co-Director of Carleton’s 3-yr Mellon-funded [_Indigenous Engagement in Place Initiative_](https://www.carleton.edu/indigenous-engagement/). He was awarded a Guggenheim Fellowship in 2017 for his work on Native religions and law.
 
