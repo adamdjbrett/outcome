@@ -12,7 +12,6 @@ citation_download:
  link: /bib/intro-arnold.bib
 show_toc: true
 author: 
-author: 
  - name: "Philip P. Arnold"
    sort: "1"
    image: "/img/authors/philips.jpg"
