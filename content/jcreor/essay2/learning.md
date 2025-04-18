@@ -24,7 +24,6 @@ author:
     - text: "Ahmed Shaheed is Professor of International Human Rights Law and Global Practice in the School of Law and Human Rights Centre at the University of Essex."
     - text: "He directs the Religion and Equality Project at the Human Rights Centre and the Essex Summer School on Human Rights Research and Practice. He is currently the United Nations Special Rapporteur on Freedom of Religion or Belief having previously served as the UN Special Rapporteur on human rights in Iran. Hailing from the Maldives, Shaheed served as Foreign Minister of Maldives between 2005 and 2010, member of the Constitutional Assembly from 2004 to 2007, and led the government’s efforts to fast-track human rights and governance reforms between 2003 and 2007, which led to the transition to democracy in 2008. He is the founding chair of the Geneva-based think-tank, Universal Rights Group. Shaheed's areas of research are human rights implementation, UN’s human rights mechanisms, religious freedom, human rights and emerging technologies, and progressive Islam. His reports to the UN have covered the freedom of thought, combatting Antisemitism and Islamophobia, upholding gender equality while promoting religious freedom, mainstreaming religious freedom in the sustainable development agenda, defending religious freedom while countering terrorism, and promoting freedom of expression."
    social:
-      title: "Adam DJ Brett Social"
     - icon: "fa-solid fa-school"
       link: "https://www.essex.ac.uk/people/SHAHE11409/Ahmed-Shaheed"
       title: "faculty page"
