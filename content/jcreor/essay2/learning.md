@@ -6,7 +6,7 @@ image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
 date: 2025-04-17
 doi: https://doi.org/10.26443/jcreor.v5i2.126
 pdf: /pdf/jcreor/Shaheed+and+Tridgell_Learning+From+Reflection_UPLOAD+VERSION_April+11_[94].pdf
-how_to_cite: 'Shaheed, Ahmed, and Jennifer Tridgell. 2025. “Learning From Reflection and Looking to the Future: Two Years on from the UN Report on Freedom of Religion or Belief and Indigenous Peoples”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:111–131. https://doi.org/10.26443/jcreor.v5i2.126.'
+how_to_cite: 'Shaheed, Ahmed, and Jennifer Tridgell. 2025. “Learning From Reflection and Looking to the Future: Two Years on from the UN Report on Freedom of Religion or Belief and Indigenous Peoples”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:111–131.'
 citation_download: 
  name: Download Citation
  link: /bib/jcreor/learning.bib
@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Ahmed Shaheed"
    sort: "1"
-   image: "/img/authors/aAhmed_Shaheed.jpg"
+   image: "/img/authors/Ahmed_Shaheed.jpg"
    university: "University of Essex"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -32,7 +32,7 @@ author:
    image: "/img/authors/jennifer_tridgell-headshot.png"
    university: "University of Cambridge"
    profile_icon: 
-    icon: ""
+    icon: "fa-brands fa-orcid"
     link: "https://orcid.org/0009-0000-8319-6640"
    about: "Jennifer is a experienced Australian-qualified public international lawyer with particular expertise in international dispute settlement, human rights, diplomacy and technology policy. She is a PhD Candidate (International Law x Computer Science) at the University of Cambridge as a Ramsay World Postgraduate Scholar, where she focuses on global governance of free and open-source software. Until recently, she was Senior Project Lead at the University of Essex for a complex human rights project on countering hate speech within domestic and multilateral spheres."
    information: 
