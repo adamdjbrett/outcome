@@ -3,7 +3,7 @@ title: "Remarks on the Freedom of Religion or Belief Report"
 description: 'Remarks delivered at the forum “Freedom of Religion or Belief for Indigenous Peoples: The 2022 UN Report,” at the Center for Earth Ethics at Union Theological Seminary on October 26, 2022.'
 abstract: 'Remarks delivered at the forum “Freedom of Religion or Belief for Indigenous Peoples: The 2022 UN Report,” at the Center for Earth Ethics at Union Theological Seminary on October 26, 2022. This forum discussed human rights questions, including alternative approaches for improving the effective enjoyment of human rights and fundamental freedoms.'
 image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
-date: 2024-09-10
+date: 2024-09-19
 doi: https://doi.org/10.26443/jcreor.v5i2.115
 pdf: /pdf/jcreor/remarks.pdf
 how_to_cite: 'Hill (Lyons), Betty. 2024. “Remarks on the Freedom of Religion or Belief Report”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:54-57.'

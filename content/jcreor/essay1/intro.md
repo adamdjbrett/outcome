@@ -3,7 +3,7 @@ title: "Preface and Introduction: From Indigenous Religions to Indigenous Values
 description: "The Office of the External Special Rapporteur on Religious Freedom or Belief contacted Philip P. Arnold, the Indigenous Values Initiative (IVI), and the American Indian Law Alliance (AILA)"
 abstract: "The Office of the External Special Rapporteur on Religious Freedom or Belief contacted Philip P. Arnold, the Indigenous Values Initiative (IVI), and the American Indian Law Alliance (AILA), and asked us to join a call to give input on a new report on Indigenous Religious Freedom or Belief. Numerous Indigenous NGOs, Indigenous nations, and leaders were on the call."
 image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
-date: 2024-11-01
+date: 2025-06-23
 doi:  "https://doi.org/10.26443/jcreor.v5i2.108"
 pdf: "/pdf/jcreor/Introduction_Indigenous+Religions+or+Indigenous+Values_FINAL.pdf"
 how_to_cite: "Arnold , Philip P., Sandra Bigtree, and Adam DJ Brett. 2024. “Preface and Introduction: From Indigenous Religions to Indigenous Values Vol. 5 No. 2”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:ii-x."
