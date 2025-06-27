@@ -48,8 +48,8 @@
 						"link": "/canopy/"
 					},
 					{
-						"name": "CrossCurrent",
-						"link": "/crosscurrent"
+						"name": "CrossCurrents",
+						"link": "/crosscurrents"
 					},
 					{
 						"name": "Featured",
@@ -146,8 +146,8 @@
 						"link": "/jcreor/"
 					},
 					{
-						"name": "CrossCurrent",
-						"link": "/crosscurrent/"
+						"name": "CrossCurrents",
+						"link": "/crosscurrents/"
 					},
 					{
 						"name": "Featured",
@@ -258,8 +258,8 @@
 				"url": "/jcreor/"
 			},
 			{
-				"name": "CrossCurrent",
-				"url": "/crosscurrent/"
+				"name": "CrossCurrents",
+				"url": "/crosscurrents/"
 			},
 			{
 				"name": "Featured",
