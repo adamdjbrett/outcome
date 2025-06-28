@@ -115,3 +115,9 @@ If you want to use a custom icon for the author, then you can fill in the custom
 - possible alt colors
     - Outcome Red: #FF4136
     - Outocme Orange: #FF851B
+
+28 June 2025
++ Fix crosscurrent list url to be crosscurrents
++ Add functions to see error about duplication tags
++ Fix breadcumb link crosscurrents
++ Add Content for Crosscurrent

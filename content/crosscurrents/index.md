@@ -1,12 +1,12 @@
 ---
 layout: layouts/canopy/main.njk
-title: "CrossCurrent"
-image: "/img/post/mains.jpg"
+title: "Volume 74, Number 4, December 2024"
+image: "/img/post/9781469683744.jpg"
 description: "Produced through a partnership between Canopy Forum, the Indigenous Values Initiative (IVI), and Syracuse University"
 abstract: "Produced through a partnership between Canopy Forum, the Indigenous Values Initiative (IVI), and Syracuse University, this series of essays brings together religion scholars, legal scholars, and Indigenous activists to explore the problematic legacy of Johnson v. M’Intosh (1823) and the 15th century Doctrine of (Christian) Discovery – a legal and religious rationale by which European powers claimed the right to discover and claim lands inhabited by non-Christian peoples."
-breadcumb: CrossCurrent
+breadcumb: CrossCurrents
 show_toc: true
-pdf_download: /pdf/00-overview.pdf
+#pdf_download: /pdf/00-overview.pdf
 pagination:
   data: collections.cocor
   size: 6
@@ -16,7 +16,7 @@ testdata:
  - item2
  - item3
  - item4
-permalink: "crosscurrent/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
+permalink: "crosscurrents/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---
 
 ### INTRODUCTION
