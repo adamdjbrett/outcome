@@ -6,7 +6,7 @@
 {% if item.data.abstract %}
 {% if item.data.image %}<a href="{{item.url}}" title="{{item.data.title}}"><img class="img-fluid float-start me-3"
 style="width:120px; height:80px; object-fit:cover;" alt="{{item.data.title}}" loading="lazy" 
-src="https://wsrv.nl/?url={{metadata.url}}{{item.data.image}}&w=500&output=webp"/></a>{% endif %}    
+src="https://wsrv.nl/?url={{metadata.url}}{{item.data.thumbnail or item.data.image}}&w=500&output=webp"/></a>{% endif %}    
 <p class="abstract-post">{{item.data.abstract}}</p>
 {% endif %}
 <div class="row">
