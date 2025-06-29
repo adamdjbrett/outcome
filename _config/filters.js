@@ -55,7 +55,7 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-		return (tags || []).filter(tag => ["all", "canopyt", "cocor" , "fifi", "jc" , 
+		return (tags || []).filter(tag => ["all", "posts","posting","canopyt", "cocor" , "fifi", "jc" , 
 			"canopys" ,"esaysones" , "esaystwos" , "jcreors" , "jcesaysones" , "jcesaystwos" , 
 			"crosscurrentss" , "croesaysones" , "croesaystwos" ,"features" , "fesaysones" , 
 			"fesaystwos" ,"podsones" , "podsstwos" , "pods"].indexOf(tag) === -1);

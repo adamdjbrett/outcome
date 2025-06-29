@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"esaysones" , "canopyt"
+		"posts","esaysones" , "canopyt"
 	],
 	"layout": "layouts/canopy/essay.njk",
 };

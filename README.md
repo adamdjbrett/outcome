@@ -96,6 +96,7 @@ The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v
 + Navbar Setup: To set the navbar header
 + Sidebar Setup: To set the sidebar widget
 + Footer Setup: To set the footer area
++ Easy 2 Posts automaticly showd on homepage **NEW**
 
 On the CMS there is: `Fill if you use this feature or leave it blank if you do not use this feature.`.
 
@@ -121,3 +122,9 @@ If you want to use a custom icon for the author, then you can fill in the custom
 + Add functions to see error about duplication tags
 + Fix breadcumb link crosscurrents
 + Add Content for Crosscurrent
+
+29 June 2025
++ Fix all posts fetch on home page 
++ Add functions to fetch all posts data on home page
++ Change Index Start Themes
++ Split easy 2 posts to display on homepage

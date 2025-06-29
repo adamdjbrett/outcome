@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"jcreors"
+		"posts","jcreors"
 	],
 	"layout": "layouts/jcreor/essay.njk",
 };

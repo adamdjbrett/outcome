@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"fesaysones", "fifi"
+		"posts","fesaysones", "fifi"
 	],
 	"layout": "layouts/featured/essay.njk",
 };

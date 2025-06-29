@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"podstwos" , "pods"
+		"posts","posting","podstwos" , "pods"
 	],
 	"layout": "layouts/podcast/essay.njk",
 };

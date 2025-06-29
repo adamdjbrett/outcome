@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"features"
+		"posts","features"
 	],
 	"layout": "layouts/featured/essay.njk",
 };

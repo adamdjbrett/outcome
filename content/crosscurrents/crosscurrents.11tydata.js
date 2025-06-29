@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"crosscurrentss"
+		"posts","crosscurrentss"
 	],
 	"layout": "layouts/crosscurrenty/essay.njk",
 };

@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"croesaystwos" , "cocor"
+		"posts","posting","croesaystwos" , "cocor"
 	],
 	"layout": "layouts/crosscurrent/essay.njk",
 };
