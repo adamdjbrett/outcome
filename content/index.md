@@ -12,8 +12,8 @@ widget:
  - title: Featured
    image: /img/post/legal.jpg
    url: /featured/
- - title: CrossCurrent
-   image: /img/post/indian.jpg
+ - title: CrossCurrents
+   image: /img/post/crosscurrents-thumbnail.png
    url: /crosscurrents/
  - title: JCREOR
    image: /img/post/honor-two-row-3-wampum-belts.jpg
