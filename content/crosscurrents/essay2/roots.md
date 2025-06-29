@@ -15,14 +15,15 @@ show_toc: true
 author: 
  - name: "Robert P. Jones"
    sort: "1"
-   university: "The University of North Carolina Press"
+   image: /img/authors/robert-p-jones.png
+   university: "Public Religion Research Institute (PRRI)"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
+    link: "https://prri.org/staff/robert-p-jones-ph-d/"
    about: "Robert P. Jones"
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
+      link: "https://prri.org/staff/robert-p-jones-ph-d/"
       title: "Robert P. Jones URL Link"
 tags: 
  - Robert P Jones 

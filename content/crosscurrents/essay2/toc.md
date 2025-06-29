@@ -12,8 +12,9 @@ citation_download:
  link: /bib/crosscurrents/table-of-contents.bib
 show_toc: true
 author: 
- - name: "Anonymous"
+ - name: "APRIL"
    sort: "1"
+   image: /img/authors/April-logo02.png
 tags: 
  - Table of Content
 ---

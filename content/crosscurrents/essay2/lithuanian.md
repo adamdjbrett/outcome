@@ -15,17 +15,18 @@ show_toc: true
 author: 
  - name: "Eglutė Trinkauskaitė"
    sort: "1"
-   university: "The University of North Carolina Press"
+   image: /img/authors/Eglute-Trinkauskaite.jpeg
+   university: "Maryland Institute College of Arts"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
+    link: "https://www.mica.edu/undergraduate-majors-minors/humanistic-studies-major/eglute-trinkauskaite/"
    about: "Eglutė Trinkauskaitė"
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
+      link: "https://www.mica.edu/undergraduate-majors-minors/humanistic-studies-major/eglute-trinkauskaite/"
       title: "Eglutė Trinkauskaitė URL Link"
 tags: 
- - Eglutė Trinkauskaitė
+ - Eglute Trinkauskaite
  - Psychology
  - Nationalism
  - Religion

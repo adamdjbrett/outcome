@@ -15,14 +15,15 @@ show_toc: true
 author: 
  - name: "James W. Perkinson"
    sort: "1"
-   university: "The University of North Carolina Press"
+   image: /img/authors/jameswperkinson.jpg
+   university: "Ecumenical Theological Seminary"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
+    link: "https://jameswperkinson.com/"
    about: "James W. Perkinson"
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
+      link: "https://jameswperkinson.com/"
       title: "James W. Perkinson URL Link"
 tags: 
  - James W Perkinson

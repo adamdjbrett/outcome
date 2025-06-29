@@ -13,19 +13,20 @@ citation_download:
  link: /bib/crosscurrents/toward-a-kinder-future.bib
 show_toc: true
 author: 
- - name: "Freida J. Jacques"
+ - name: "Whatweni:neh Freida J. Jacques"
    sort: "1"
-   university: "The University of North Carolina Press"
+   image: /img/authors/
+   university: "Onondaga Nation Turtle Clan Mother"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
-   about: "Freida J Jacques"
+    link: "https://www.youtube.com/watch?v=zNEDSXVN8Xw"
+   about: "Freida Jacques is a respected leader of the Onondaga Nation and within the Haudenosaunee Confederacy. She has served the Turtle Clan for more than 40 years as a Haudenosaunee cultural liaison within educational institutions across New York State. She continues to help educate audiences about the Haudenosaunee Confederacy, the oldest living government founded upon the principles of Peace and Democracy."
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
-      title: "Freida J Jacques URL Link"
+      link: "https://www.youtube.com/watch?v=zNEDSXVN8Xw"
+      title: "Whatweni:neh Freida J. Jacques URL Link"
 tags: 
- - Freida J Jacques
+ - Freida Jacques
  - SUSTAINABILITY
  - Psychology
  - Emotions

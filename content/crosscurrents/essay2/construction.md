@@ -15,14 +15,14 @@ show_toc: true
 author: 
  - name: "Isabel V. Maine-Torres"
    sort: "1"
-   university: "The University of North Carolina Press"
+   university: "Syracuse University"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
+    link: "http://syracuse.edu/"
    about: "Isabel V. Maine-Torres"
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
+      link: "http://syracuse.edu/"
       title: "Isabel V. Maine-Torres URL Link"
 tags: 
  - Isabel V. Maine-Torres

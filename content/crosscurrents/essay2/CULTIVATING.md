@@ -13,16 +13,17 @@ citation_download:
  link: /bib/crosscurrents/cultivating-a-g.r.a.c.e.-mindset.bib
 show_toc: true
 author: 
- - name: "Lee M. Miller II"
+ - name: "Rev Lee M. Miller II"
    sort: "1"
-   university: "The University of North Carolina Press"
+   image: /img/authors/lee-miller.jpg
+   university: "Bishop, Upstate New York Synod of the ELCA"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
+    link: "https://upstatenysynod.org/synod-staff/rev-lee-miller"
    about: "Lee M. Miller II"
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
+      link: "https://upstatenysynod.org/synod-staff/rev-lee-miller"
       title: "Lee M. Miller II URL Link"
 tags: 
  - Lee M Miller II 

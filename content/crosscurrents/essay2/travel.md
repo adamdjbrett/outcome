@@ -15,14 +15,15 @@ show_toc: true
 author: 
  - name: "Oren Lyons"
    sort: "1"
-   university: "The University of North Carolina Press"
+   image: /img/authors/oren-lyons-traditional-640.jpg
+   university: "Onondaga Nation Turtle Clan Faithkeeper"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
-   about: "Oren Lyons"
+    link: "https://www.onebowlproductions.com/testimonials-1"
+   about: "Oren Lyons is a founding member and principal partner in One Bowl Productions. He is a Faithkeeper of the Turtle Clan and serves as a member Chief of the Onondaga Council of Chiefs and the Grand Council of the Haudenosaunee Confederacy, the Haudenosaunee Peoples."
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
+      link: "https://www.onebowlproductions.com/testimonials-1"
       title: "Oren Lyons URL Link"
 tags: 
  - Oren Lyons
@@ -31,6 +32,5 @@ tags:
  - SUSTAINABILITY
  - Inequality
  - Racism
- - Gore
- - Albert Jr
+ - Albert Gore Jr
 ---

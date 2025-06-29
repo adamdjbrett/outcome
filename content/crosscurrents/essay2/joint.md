@@ -13,7 +13,7 @@ citation_download:
  link: /bib/crosscurrents/joint-statement.bib
 show_toc: true
 author: 
- - name: "Anonymous"
+ - name: "Holy See Press Office"
    sort: "1"
 tags: 
  - Psychology

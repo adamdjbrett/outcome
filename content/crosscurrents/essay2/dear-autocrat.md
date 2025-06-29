@@ -15,15 +15,15 @@ show_toc: true
 author: 
  - name: "Sawatis Frushell"
    sort: "1"
-   university: "The University of North Carolina Press"
+   university: "(Mohawk, Bear Clan) is a Haudenosaunee Poet."
    profile_icon: 
-    icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
+  icon: "fa-solid fa-link"
+  link: "https://indigenousvalues.org/"
    about: "Sawatis Frushell"
    social:
-    - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
-      title: "Sawatis Frushell URL Link"
+  - icon: "fa-solid fa-link"
+    link: "https://indigenousvalues.org/"
+    title: "Sawatis Frushell URL Link"
 tags: 
  - Sawatis Frushell
  - Poetry

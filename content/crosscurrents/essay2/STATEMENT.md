@@ -15,14 +15,15 @@ show_toc: true
 author: 
  - name: "Bishop Dede Duncan-Probe"
    sort: "1"
-   university: "The University of North Carolina Press"
+   image: /img/authors/bishop-dede-duncan-probe.jpg
+   university: "The Episcopal Diocese of Central New York"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
+    link: "https://cnyepiscopal.org/about/bishop-xi/"
    about: "Bishop Dede Duncan-Probe"
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
+      link: "https://cnyepiscopal.org/about/bishop-xi/"
       title: "Bishop Dede Duncan-Probe URL Link"
 tags: 
  - Bishop Dede 

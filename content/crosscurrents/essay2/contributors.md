@@ -6,14 +6,15 @@ thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-09
 doi:  "https://doi.org/10.1353/cro.2024.a963644"
 #pdf: "/pdf/01-intro.pdf"
-how_to_cite: 'Anonymous. 2024a. “Credits.” Cross Currents 74 (4): 7.'
+how_to_cite: 'APRIL. 2024a. “Credits.” Cross Currents 74 (4): 7.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/credits-contributors.bib
 show_toc: true
 author: 
- - name: "Anonymous"
+ - name: "APRIL"
    sort: "1"
+   image: /img/authors/April-logo02.png
 tags: 
  - Contributors
 ---

@@ -15,14 +15,15 @@ show_toc: true
 author: 
  - name: "Jake Haiwhagai'i Edwards"
    sort: "1"
-   university: "The University of North Carolina Press"
+   image: "/img/authors/jake-edwards.webp"
+   university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"
-    link: "https://uncpress.org/"
+    link: "https://indigenousvalues.org/"
    about: "Jake Haiwhagai'i Edwards"
    social:
     - icon: "fa-solid fa-link"
-      link: "https://uncpress.org/"
+      link: "https://indigenousvalues.org/"
       title: "Jake Haiwhagai'i Edwards URL Link"
 tags: 
  - Jake Haiwhagai Edwards
