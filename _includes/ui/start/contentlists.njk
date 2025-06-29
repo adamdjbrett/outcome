@@ -14,9 +14,9 @@ src="https://wsrv.nl/?url={{metadata.url}}{{post.data.image}}&w=400&h=280&output
 {% for s in post.data.author %}
 <div class="col-md-4 col-6">
 <p><small>
-<img class="img-fluid me-3 rounded-circle" alt="{{s.name}}{{title}}" width="30" height="30" loading="eager" 
-src="https://wsrv.nl/?url={{metadata.url}}{{s.image}}&w=30&output=webp"/>
-{{s.name}}
+<img class="img-fluid me-3 rounded-circle" alt="{{s.name}} {{title}}" width="30" height="30" loading="eager" 
+src="https://wsrv.nl/?url={{metadata.url}}{{s.image or metadata.image}}&w=30&output=webp"/>
+{{s.name or metadata.title}}
 </small></p>
 </div>
 {% endfor %}
