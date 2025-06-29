@@ -1,0 +1,35 @@
+<div class="row">
+<h3 class="col-md-9 col-8 p-3">{{canopy.title}}</h3>
+</div>
+{% for post in pagination.items %}
+<div class="row shadow-sm p-1 mt-3 mb-5 bg-body-tertiary zoom">
+  <div class="col-md-4 p-3">
+{% if post.data.image %}<a href="{{post.url}}"><img class="img-fluid img_canopyt" alt="{{canopy.title}} {{metadata.title}}" 
+src="https://wsrv.nl/?url={{metadata.url}}{{post.data.image}}&w=400&h=280&output=webp"/></a>{% endif %}
+</div>
+<div class="col-md-8 p-3 p-md-5">
+<h3><strong><a href="{{post.url}}" class="no-deco">{{post.data.title}}</a></strong></h3>
+<p class="abstract-post">{{post.data.abstract}} </p>
+<div class="row">
+{% for s in post.data.author %}
+<div class="col-md-4 col-6">
+<p><small>
+<img class="img-fluid me-3 rounded-circle" alt="{{s.name}}{{title}}" width="30" height="30" loading="eager" 
+src="https://wsrv.nl/?url={{metadata.url}}{{s.image}}&w=30&output=webp"/>
+{{s.name}}
+</small></p>
+</div>
+{% endfor %}
+</div>
+</div>
+</div>
+{%- endfor -%}
+<div class="row p-3 mt-3 mb-3">
+<div class="col-md-6 p-3">
+{% if pagination.href.previous %}<a class="btn btn-orange text-uppercase col-12 p-3" href="{{ pagination.href.previous }}">← Previous</a>{% endif %}
+</div>
+<div class="col-md-6 p-3 text-end">
+{% if pagination.href.next %}<a class="btn btn-orange text-uppercase col-12 p-3" href="{{ pagination.href.next }}">Next →</a>{% endif %}
+</div>
+</div>
+</div>

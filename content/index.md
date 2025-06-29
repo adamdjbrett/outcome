@@ -21,6 +21,16 @@ widget:
  - title: Podcast
    image: /img/post/mapping-doctrine-of-discovery-favicon.png
    url: /podcast
+pagination:
+  data: collections.posting
+  size: 4
+  reverse: true
+testdata:
+ - item1
+ - item2
+ - item3
+ - item4
+permalink: "/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---
 This website is the official archive of the outcome publications from the Henry J. Luce Foundation Grant Funded project **“200 Years of Johnson v. M’Intosh (JvM): Indigenous Responses to the Religious Foundations of Racism"**. Professor [Philip P. Arnold](https://artsandsciences.syracuse.edu/people/faculty/arnold-philip-p/) was the PI on this project which ran from 2022-2024. Project activities included a [conference](https://doctrineofdiscovery.org/blog/conference-schedule/), [podcasts](/podcasts), and various types of publications. 
 

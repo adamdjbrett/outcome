@@ -128,3 +128,4 @@ If you want to use a custom icon for the author, then you can fill in the custom
 + Add functions to fetch all posts data on home page
 + Change Index Start Themes
 + Split easy 2 posts to display on homepage
++ Pagination All Article List on home page
