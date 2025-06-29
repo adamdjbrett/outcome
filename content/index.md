@@ -14,7 +14,7 @@ widget:
    url: /featured/
  - title: CrossCurrent
    image: /img/post/indian.jpg
-   url: /crosscurrent/
+   url: /crosscurrents/
  - title: JCREOR
    image: /img/post/honor-two-row-3-wampum-belts.jpg
    url: /jcreor/
