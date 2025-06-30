@@ -1,7 +1,7 @@
 ---
 title: "Things We Already Knew Before the Prophecy of I Am"
-description: "I am the meadowAnd the tall grassesI am the stoneThat rolled awayI am the waterThat flows through all life possibleI am the treeThat shades"
-abstract: "I am the meadowAnd the tall grassesI am the stoneThat rolled awayI am the waterThat flows through all life possibleI am the treeThat shades, warms, and reaches deep and highI am the bee hiveThat ensures pollinationI am the saltOf the earth and the teardrops of relativesI am the rafter and foundationOf a place called homeI am the birdThat flies without propellingI am the chipmunkWho wears the Two Row on its back I am the sandThat bears the footprints of timeI am the earthThat quakes with no apologiesI am the seed"
+description: "I am the meadow And the tall grasses I am the stone That rolled away I am the water That flows through all life possible I am the tree That shades"
+abstract: "I am the meadow And the tall grasses.."
 image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-10
@@ -17,13 +17,13 @@ author:
    sort: "1"
    university: "(Mohawk, Bear Clan) is a Haudenosaunee Poet."
    profile_icon: 
-  icon: "fa-solid fa-link"
-  link: "https://indigenousvalues.org/"
+    icon: "fa-solid fa-link"
+    link: "https://indigenousvalues.org/"
    about: "Sawatis Frushell"
    social:
-  - icon: "fa-solid fa-link"
-    link: "https://indigenousvalues.org/"
-    title: "Sawatis Frushell URL Link"
+    - icon: "fa-solid fa-link"
+      link: "https://indigenousvalues.org/"
+      title: "Sawatis Frushell URL Link"
 tags: 
  - Sawatis Frushell
  - Poetry
@@ -31,7 +31,7 @@ tags:
 
 ### INTRODUCTION
 
-I am the meadowAnd the tall grassesI am the stoneThat rolled awayI am the waterThat flows through all life possibleI am the treeThat shades, warms, and reaches deep and highI am the bee hiveThat ensures pollinationI am the saltOf the earth and the teardrops of relativesI am the rafter and foundationOf a place called homeI am the birdThat flies without propellingI am the chipmunkWho wears the Two Row on its backI am the sandThat bears the footprints of timeI am the earthThat quakes with no apologiesI am the seed [End Page 551] That the womb protectedI am a small strandIn the Web of All Life Possible [End Page 552]
+I am the meadow And the tall grasses I am the stone That rolled away I am the water That flows through all life possible I am the tree That shades, warms, and reaches deep and high I am the bee hive That ensures pollination I am the salt Of the earth and the teardrops of relatives I am the rafter and foundationOf a place called homeI am the bird That flies without propelling I am the chipmunk Who wears the Two Row on its back I am the sand That bears the footprints of time I am the earth That quakes with no apologiesI am the seed [End Page 551] 
 
 #### Sawatis Frushell
 Sawatis Frushell (Mohawk, Bear Clan) is a Haudenosaunee Poet.

@@ -21,30 +21,30 @@ tags:
 
 ### Contributors
 
-Philip P. Arnold is Professor in the Department of Religion, and a core faculty member of Native American and Indigenous Studies at Syracuse University.
+- Philip P. Arnold is Professor in the Department of Religion, and a core faculty member of Native American and Indigenous Studies at Syracuse University.
 
-Sandra Bigtree (Mohawk, Bear Clan), is a citizen of the Mohawk Nation at Akwesasne.
+- Sandra Bigtree (Mohawk, Bear Clan), is a citizen of the Mohawk Nation at Akwesasne.
 
-Adam DJ Brett works with the American Indian Law Alliance and Indigenous Values Initiative.
+- Adam DJ Brett works with the American Indian Law Alliance, Indigenous Values Initiative, and Syracuse University.
 
-Sawatis Frushell (Mohawk, Bear Clan) is a Haudenosaunee Poet.
+- Sawatis Frushell (Mohawk, Bear Clan) is a Haudenosaunee Poet.
 
-Jake Haiwhagai'i Edwards (Onondaga, Eel Clan) grew up among his elders of the Onondaga Nation learning and sharing the messages from the original instructions, passing on history and knowledge of the natural world.
+- Jake Haiwhagai'i Edwards (Onondaga, Eel Clan) grew up among his elders of the Onondaga Nation learning and sharing the messages from the original instructions, passing on history and knowledge of the natural world.
 
-Betty Hill (Lyons) (Onondaga Nation, Snipe Clan), is Executive Director American Indian Law Alliance.
+- Betty Hill (Lyons) (Onondaga Nation, Snipe Clan), is Executive Director American Indian Law Alliance.
 
-Whatweni:neh Freida J. Jacques (Onondaga, Turtle Clan) has served the Turtle Clan for over 40 years as a Haudenosaunee cultural liaison within educational institutions across New York State.
+- Whatweni:neh Freida J. Jacques (Onondaga, Turtle Clan) has served the Turtle Clan for over 40 years as a Haudenosaunee cultural liaison within educational institutions across New York State.
 
-Robert Jones is the president and founder of PRRI and the New York Times bestselling author of the The Hidden Roots of White Supremacy and the Path to a Shared American Future.
+- Robert Jones is the president and founder of PRRI and the New York Times bestselling author of the The Hidden Roots of White Supremacy and the Path to a Shared American Future.
 
-Isabel V. Maine-Torres recently graduated from Syracuse University with distinctions in Art History.
+- Isabel V. Maine-Torres recently graduated from Syracuse University with distinctions in Art History.
 
-S. Lily Mendoza is Professor of Culture and Communication, Oakland University.
+- S. Lily Mendoza is Professor of Culture and Communication, Oakland University.
 
-Steven Newcomb (Shawnee/Lenape) is the co-founder and co-director of the Indigenous Law Institute.
+- Steven T. Newcomb (Shawnee/Lenape) is the co-founder and co-director of the Indigenous Law Institute.
 
-James W. Perkinson is Professor of Social Ethics at the Ecumenical Theological Seminary.
+- James W. Perkinson is Professor of Social Ethics at the Ecumenical Theological Seminary.
 
-Eglutė Trinkauskaitė is a faculty member in the department of Humanistic Studies at the Maryland Institute College of Art.
+- Eglutė Trinkauskaitė is a faculty member in the department of Humanistic Studies at the Maryland Institute College of Art.
 
 Copyright © 2025 Association for Public Religion and Intellectual Life
