@@ -123,8 +123,8 @@ export default async function(eleventyConfig) {
 		metadata: {
 			language: "en",
 			title: "Outcome",
-			subtitle: "Outcome Project",
-			base: "https://outcome.podcastdoctrineofdiscovery.com/",
+			subtitle: "Outcome Documents for 200 Years of Johnson v. M’Intosh",
+			base: "outcome.doctrineofdiscovery.org",
 			author: {
 				name: "Adam DJ Brett"
 			}
