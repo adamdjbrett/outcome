@@ -2,8 +2,8 @@
 	"title": "Outcome",
 	"description": "Outcome podcast doctrine discovery",
 	"url": "https://outcome.doctrineofdiscovery.org",
-	"favicon": "/img/logo.png",
-	"image": "/img/logo.png",
+	"favicon": "/img/logo.svg",
+	"image": "/img/logo.svg",
 	"language": "en",
 	"locale": "en_US",
 	"formspree_id": "mdobawgz",
@@ -33,7 +33,7 @@
 	],
 	"sidebar": {
 		"logo": "/img/outcome.svg",
-		"logo_nav": "/img/logo.png",
+		"logo_nav": "/img/logo.svg",
 		"left": [
 			{
 				"title": "Esay",
