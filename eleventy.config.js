@@ -124,7 +124,7 @@ export default async function(eleventyConfig) {
 			language: "en",
 			title: "Outcome",
 			subtitle: "Outcome Documents for 200 Years of Johnson v. M’Intosh",
-			base: "outcome.doctrineofdiscovery.org",
+			base: "https://outcome.doctrineofdiscovery.org",
 			author: {
 				name: "Adam DJ Brett"
 			}
