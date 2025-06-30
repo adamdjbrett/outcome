@@ -20,7 +20,7 @@ author:
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://www.mica.edu/undergraduate-majors-minors/humanistic-studies-major/eglute-trinkauskaite/"
-   about: "Eglutė Trinkauskaitė"
+   about: "Eglutė Trinkauskaitė is full-time faculty in the department of Humanistic Studies at the Maryland Institute College of Art. Her field of teaching and research is the History of Religions, with a focus on Native American and other Indigenous traditions, ecology, and the materiality of religion."
    social:
     - icon: "fa-solid fa-link"
       link: "https://www.mica.edu/undergraduate-majors-minors/humanistic-studies-major/eglute-trinkauskaite/"

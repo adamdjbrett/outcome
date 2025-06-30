@@ -20,7 +20,7 @@ author:
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://jameswperkinson.com/"
-   about: "James W. Perkinson"
+   about: "James W. (Jim) Perkinson is a long-time activist and educator who has lived for 35 years as a settler on Three Fires land in inner city Detroit.  He is currently teaching as Professor of Social Ethics at the Ecumenical Theological Seminary and lecturing in Intercultural Communication Studies at the University of Oakland (Michigan). He holds a Ph.D. in theology from the University of Chicago, is the author of five books on theology/spirituality and two poetry chap books. He has also written extensively in both academic and popular journals on questions of race, class and colonialism in connection with religion and urban culture.  He is in demand as a speaker on a wide variety of topics related to his interests and a recognized artist on the spoken-word poetry scene in the inner city."
    social:
     - icon: "fa-solid fa-link"
       link: "https://jameswperkinson.com/"
