@@ -21,6 +21,10 @@ author:
     icon: "fa-solid fa-link"
     link: "https://www.onebowlproductions.com/testimonials-1"
    about: "Oren Lyons is a founding member and principal partner in One Bowl Productions. He is a Faithkeeper of the Turtle Clan and serves as a member Chief of the Onondaga Council of Chiefs and the Grand Council of the Haudenosaunee Confederacy, the Haudenosaunee Peoples."
+   information:
+    - text: "Oren holds the title of Professor Emeritus at SUNY Buffalo, has a Doctor of Law Degree from his Alma Mater, Syracuse University and Lyons Hall at SU is named in his honor. Chief Lyons is an All-American Lacrosse Hall of Famer and Honorary Chairman of the Haudenosaunee Nationals Lacrosse Team. He is an accomplished artist, environmentalist, and author."
+    - text: "Oren is a leading voice at the UN Permanent Forum on Human Rights for Indigenous Peoples, serves on the Executive Committee of Spiritual and Parliamentary Leaders for Human Survival, acts as Chairman of the Board for both the Harvard Project on American Indian Economic Development and Plantagon, a world leader in Green House Innovation."
+    - text: "Recipient of several prestigious awards including; The United Nations NGO World Peace Prize, the Ellis Island Congressional Medal of Honor, The Rosa Parks and George Arent Award for environmental and social activism and recently receiving Sweden’s prestigious Friends of the Children Award with his colleague the late Nelson Mandela. Recipient of Green Cross International Environmental Icon Award 2019."
    social:
     - icon: "fa-solid fa-link"
       link: "https://www.onebowlproductions.com/testimonials-1"

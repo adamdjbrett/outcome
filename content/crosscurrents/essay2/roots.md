@@ -20,7 +20,7 @@ author:
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://prri.org/staff/robert-p-jones-ph-d/"
-   about: "Robert P. Jones"
+   about: "Robert P. Jones is the president and founder of Public Religion Research Institute (PRRI). He is the author of the New York Times bestseller The Hidden Roots of White Supremacy and the Path to a Shared American Future (published September 5, 2023), as well as White Too Long: The Legacy of White Supremacy in American Christianity, which won a 2021 American Book Award. He is also the author of The End of White Christian America, which won the 2019 Grawemeyer Award in Religion."
    social:
     - icon: "fa-solid fa-link"
       link: "https://prri.org/staff/robert-p-jones-ph-d/"

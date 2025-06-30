@@ -15,11 +15,11 @@ show_toc: true
 author: 
  - name: "Sawatis Frushell"
    sort: "1"
-   university: "(Mohawk, Bear Clan) is a Haudenosaunee Poet."
+   university: "(Mohawk, Bear Clan) and Haudenosaunee Poet"
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://indigenousvalues.org/"
-   about: "Sawatis Frushell"
+   about: "Sawatis Frushell (Mohawk, Bear Clan) is a Haudenosaunee Poet."
    social:
     - icon: "fa-solid fa-link"
       link: "https://indigenousvalues.org/"

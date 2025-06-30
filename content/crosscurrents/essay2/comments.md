@@ -20,7 +20,7 @@ author:
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://indigenousvalues.org/"
-   about: "Jake Haiwhagai'i Edwards"
+   about: "Jake Haiwhagai’i (He speaks with strong voice) Edwards, Onondaga Eel Clan, lives on the Onondaga Nation Territory. He maintains the continuity of the Longhouse oral teachings. The Onondaga govern and teach within an oral tradition that is over a thousand years old. Jake is the 11th child in a family of twelve children. He grew up among his elders of the Onondaga Nation learning and sharing the messages from the original instructions, passing on history and knowledge of the natural world."
    social:
     - icon: "fa-solid fa-link"
       link: "https://indigenousvalues.org/"

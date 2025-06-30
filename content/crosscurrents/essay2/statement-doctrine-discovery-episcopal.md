@@ -20,7 +20,7 @@ author:
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://cnyepiscopal.org/about/bishop-xi/"
-   about: "Bishop Dede Duncan-Probe"
+   about: "The Rt. Rev. Dr. DeDe Duncan-Probe was elected on August 6, 2016, and consecrated as the 11th Bishop of Central New York on December 3, 2016. The Diocese of Central New York comprises nearly 80 parishes and stretches from Canada in the north to Pennsylvania in the south and from Utica in the east to Elmira in the West."
    social:
     - icon: "fa-solid fa-link"
       link: "https://cnyepiscopal.org/about/bishop-xi/"

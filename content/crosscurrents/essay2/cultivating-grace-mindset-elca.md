@@ -20,7 +20,7 @@ author:
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://upstatenysynod.org/synod-staff/rev-lee-miller"
-   about: "Lee M. Miller II"
+   about: "The Rev. Lee M. Miller II was elected on June 5, 2021 by the Synod Assembly of the Upstate New York Synod to serve as the fifth bishop in the synod’s history. Pr. Miller begins a six-year term on September 1, 2021. Pr. Miller succeeds The Rev. John S. Macholz and is the son of former synod bishop, The Rev. Lee Miller, Ed.D., (1992-2002)."
    social:
     - icon: "fa-solid fa-link"
       link: "https://upstatenysynod.org/synod-staff/rev-lee-miller"
