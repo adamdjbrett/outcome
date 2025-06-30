@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Whatweni:neh Freida J. Jacques"
    sort: "1"
-   image: /img/authors/
+   image: /img/authors/freida-jacques.png
    university: "Onondaga Nation Turtle Clan Mother"
    profile_icon: 
     icon: "fa-solid fa-link"
