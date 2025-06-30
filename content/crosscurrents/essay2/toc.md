@@ -1,5 +1,5 @@
 ---
-title: "Table of Content"
+title: "Table of Contents"
 description: "Article Table of Content"
 image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"

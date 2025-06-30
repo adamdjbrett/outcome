@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Bishop Dede Duncan-Probe"
    sort: "1"
-   image: "/img/authors/bishop-dede-duncan-probe.jpg"
+   image: "/img/authors/bishop-dede-duncan-probe2.webp"
    university: "The Episcopal Diocese of Central New York"
    profile_icon: 
     icon: "fa-solid fa-link"
