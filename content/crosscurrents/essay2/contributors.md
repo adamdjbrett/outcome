@@ -15,7 +15,14 @@ author:
  - name: "The Association for Public Religion and Intellectual Life (APRIL)"
    sort: "1"
    image: /img/authors/April-logo02.png
+   profile_icon: 
+    icon: "fa-solid fa-link"
+    link: "https://www.aprilonline.org/"
    about: "The Association for Public Religion and Intellectual Life (APRIL) is a global network of leaders, scholars, and social change agents who explore religious life, engage in intellectual inquiry, and lead ethical action in the world today."
+   social:
+    - icon: "fa-solid fa-link"
+      link: "https://www.aprilonline.org/"
+      title: "APRIL Online URL Link"
 tags: 
  - Contributors
 ---

@@ -8,7 +8,7 @@
 	"locale": "en_US",
 	"formspree_id": "mdobawgz",
 	"metasocial": {
-		"image": "/img/logo-ls.png",
+		"image": "/img/outcome.svg",
 		"facebook": "https://www.facebook.com/doctrineofdiscovery",
 		"twitteruser": "@indigenousVI",
 		"twitter": "https://x.com/indigenousVI"
@@ -32,7 +32,7 @@
 		}
 	],
 	"sidebar": {
-		"logo": "/img/logo-ls.png",
+		"logo": "/img/outcome.svg",
 		"logo_nav": "/img/logo.png",
 		"left": [
 			{
@@ -208,7 +208,7 @@
 	},
 	"footer": {
 		"copyrights": {
-			"logo": "/img/logo-ls.png",
+			"logo": "/img/outcome.svg",
 			"text1": "© 2024 Outcome Doctrine of Discovery, Powered by",
 			"text2": "Eleventy",
 			"text2_link": "https://11ty.dev/",
