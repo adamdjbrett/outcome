@@ -5,7 +5,7 @@ abstract: "The Onondaga Nation is petitioning the Organization of American State
 image: "/img/post/ijr-cover.jpg"
 thumbnail: "/img/post/ijr-cover-thumbnail.jpg"
 date: 2025-09-01
-doi:  "https://doi.org/10.1353/cro.2024.a963625"
+doi:  "https://doi.org/10.62365/2576-0955.1133"
 how_to_cite: "Brett, Adam DJ and Hill, Betty Lyons (2026) 'Healing the Sacred: The Fight to Restore Onondaga Lake and Honor Indigenous Land', International Journal on Responsibility: Vol. 9: Iss. 1, Article 2. DOI: https://doi.org/10.62365/2576-0955.1133."
 citation_download: 
  name: Download Citation
