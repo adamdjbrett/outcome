@@ -57,5 +57,7 @@ Recommended Citation
 --------------------
 
 Nahar, Sarah Elizabeth (2026) "Religious Moral Suasion and Material Support for the Environmental Justice Movement," International Journal on Responsibility: Vol. 9: Iss. 1, Article 1.
+
 DOI: <https://doi.org/10.62365/2576-0955.1129>.
+
 Available at: <https://commons.lib.jmu.edu/ijr/vol9/iss1/1>

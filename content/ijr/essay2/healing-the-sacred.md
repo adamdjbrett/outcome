@@ -82,5 +82,7 @@ Recommended Citation
 --------------------
 
 Brett, Adam DJ and Hill, Betty Lyons (2026) "Healing the Sacred: The Fight to Restore Onondaga Lake and Honor Indigenous Land," *International Journal on Responsibility*: Vol. 9: Iss. 1, Article 2.
+
 DOI: <https://doi.org/10.62365/2576-0955.1133>.
+
 Available at: <https://commons.lib.jmu.edu/ijr/vol9/iss1/2>
