@@ -122,6 +122,12 @@ If you want to use a custom icon for the author, then you can fill in the custom
 + Add Pagination Article for IJR
 + Add UI for IJR
 + integration IJR into Headless CMS
++ Custom index headless cms jcreor
++ Custom index headless cms featured
++ Custom index headless cms crosscurrents
++ Custom index headless cms canpoy
++ Custom index headless cms ijr
++ Custom index headless cms podcast
 
 - CMD+K should take one directly into search
 - homepage tweaks
