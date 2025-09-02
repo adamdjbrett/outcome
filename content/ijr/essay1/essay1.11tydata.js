@@ -1,6 +1,6 @@
 export default {
 	tags: [
-		"posts","ijrones" , "ijrall"
+		"posts","posting", "ijrones" , "ijrall"
 	],
 	"layout": "layouts/ijr/essay.njk",
 };
