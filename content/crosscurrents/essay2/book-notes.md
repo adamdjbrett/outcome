@@ -53,7 +53,7 @@ author:
    social:
     - icon: "fa-brands fa-orcid"
       link: "https://orcid.org/0009-0009-9244-7857"
-      title: "Betty Hil (Lyons) Google Scholar"
+      title: "Betty Hill (Lyons) Google Scholar"
 tags: 
  - Adam DJ Brett
  - Betty Lyons
