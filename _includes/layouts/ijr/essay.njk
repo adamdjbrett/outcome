@@ -1,0 +1,37 @@
+---
+layout: layouts/essay.njk
+---
+{%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
+{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+<div class="col-md-12 p-3 p-md-5"></div>
+<div class="container-fluid">
+<div class="row mt-5 mb-3">
+<div class="col-md-10 mx-auto p-3 p-md-5">
+{% include "ui/ijr/breadcumb_post.njk" %}
+{% include "ui/canopy/header_post.njk" %}
+{% include "ui/canopy/author_post.njk" %}
+<div class="row mt-3 mb-3 border-top">
+<div class="col-md-9">
+<div class="row">
+{% include "ui/canopy/content_post.njk" %}
+<div class="col-md-4 p-3">
+{% include "ui/canopy/pdf_download.njk" %}
+{% include "ui/canopy/publish_date.njk" %}
+{% include "ui/canopy/tagging.njk" %}
+<div class="border-top mt-3">
+{% include "ui/canopy/how_to_cite.njk" %}
+{% include "ui/canopy/citation_format.njk" %}
+</div>
+<!-- tambahan test -->
+</div>
+{% include "ui/canopy/shared.njk" %}
+</div>
+</div>
+{% include "ui/ijr/pagination_post.njk" %}
+</div>
+{% include "ui/canopy/right_bar.njk" %}
+</div>
+</div>
+</div>
+</div>
+{% include "ui/canopy/profile.njk" %}

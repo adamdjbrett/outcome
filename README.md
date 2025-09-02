@@ -111,6 +111,18 @@ You can click disable if you don't want to display the table of contents in the 
 If you want to use a custom icon for the author, then you can fill in the custom icon, upload the icon and enter your site url. By using a custom icon, you can empty the area on the author profile icon - because it has been replaced with a custom icon.
 
 ## CHANGELOG 📝
+02 Sep 2029
++ Add IJR Page
++ Add IJR Content
++ Add IJR into footer information
++ Add IJR into sidebar
++ Add List Templating for IJR
++ Add Article Templating for IJR
++ Add Pagination List IJR
++ Add Pagination Article for IJR
++ Add UI for IJR
++ integration IJR into Headless CMS
+
 - CMD+K should take one directly into search
 - homepage tweaks
 - possible alt colors
@@ -129,3 +141,4 @@ If you want to use a custom icon for the author, then you can fill in the custom
 + Change Index Start Themes
 + Split easy 2 posts to display on homepage
 + Pagination All Article List on home page
+

@@ -52,6 +52,10 @@
 						"link": "/crosscurrents/"
 					},
 					{
+						"name": "IJR",
+						"link": "/ijr/"
+					},
+					{
 						"name": "Featured",
 						"link": "/featured/"
 					},
@@ -148,6 +152,10 @@
 					{
 						"name": "CrossCurrents",
 						"link": "/crosscurrents/"
+					},
+					{
+						"name": "IJR",
+						"link": "/ijr/"
 					},
 					{
 						"name": "Featured",
@@ -260,6 +268,10 @@
 			{
 				"name": "CrossCurrents",
 				"url": "/crosscurrents/"
+			},
+			{
+				"name": "IJR",
+				"url": "/ijr/"
 			},
 			{
 				"name": "Featured",
