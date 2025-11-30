@@ -10,8 +10,20 @@
 <script src="/pagefind/pagefind-ui.js"></script>
 <div id="search"></div>
 <script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search", showSubResults: true });
+    // Only initialize Pagefind UI when the modal is shown
+    let pagefindInstance = null;
+    document.addEventListener('shown.bs.modal', function(event) {
+        if (event.target && event.target.id === 'searchModal') {
+            // Remove previous instance if any
+            const searchDiv = document.getElementById('search');
+            if (searchDiv) searchDiv.innerHTML = '';
+            pagefindInstance = new PagefindUI({ element: "#search", showSubResults: true });
+            // Focus the input after rendering
+            setTimeout(() => {
+                const input = document.querySelector('#search input');
+                if (input) input.focus();
+            }, 100);
+        }
     });
 </script>
 </div>
