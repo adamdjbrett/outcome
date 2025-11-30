@@ -6,8 +6,8 @@ image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-25
 doi:  "https://doi.org/10.1353/cro.2024.a963628"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: 'Miller, Lee M, II. 2024. “CULTIVATING A C.R.A.C.E. MINDSET.” Cross Currents 74 (4): 404–5.'
+pdf: "https://muse.jhu.edu/pub/12/article/963628/pdf"
+how_to_cite: 'Miller, Lee M, II. 2024. “CULTIVATING A C.R.A.C.E. MINDSET.” Cross Currents 74 (4): 404–5. https://doi.org/10.1353/cro.2024.a963628.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/cultivating-a-g.r.a.c.e.-mindset.bib

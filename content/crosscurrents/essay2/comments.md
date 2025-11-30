@@ -6,8 +6,8 @@ image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-19
 doi:  "https://doi.org/10.1353/cro.2024.a963634"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: 'Edwards, Jake Haiwhagai’i. 2024. “COMMENTS ON THE BISHOP’S PANEL.” Cross Currents 74 (4): 428–30.'
+pdf: "https://muse.jhu.edu/pub/12/article/963634/pdf"
+how_to_cite: 'Edwards, Jake Haiwhagai’i. 2024. “COMMENTS ON THE BISHOP’S PANEL.” Cross Currents 74 (4): 428–30. https://doi.org/10.1353/cro.2024.a963634.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/comments-on-the-bishop's-panel.bib

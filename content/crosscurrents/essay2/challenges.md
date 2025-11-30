@@ -6,8 +6,8 @@ image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-18
 doi:  "https://doi.org/10.1353/cro.2024.a963635"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: 'Newcomb, Steven. 2024. “THE CHALLENGES OF REVOKING THE PAPAL BULLS.” Cross Currents 74 (4): 431–57.'
+pdf: "https://muse.jhu.edu/pub/12/article/963635/pdf"
+how_to_cite: 'Newcomb, Steven. 2024. “THE CHALLENGES OF REVOKING THE PAPAL BULLS.” Cross Currents 74 (4): 431–57. https://doi.org/10.1353/cro.2024.a963635.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/the-challenges-of-revoking-the-papal-bulls.bib

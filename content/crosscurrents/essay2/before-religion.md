@@ -6,8 +6,8 @@ image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-27
 doi:  "https://doi.org/10.1353/cro.2024.a963643"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: 'Frushell, Sawatis. 2024a. “BEFORE RELIGION.” Cross Currents 74 (4): 400–401.'
+pdf: "https://muse.jhu.edu/pub/12/article/963643/pdf"
+how_to_cite: 'Frushell, Sawatis. 2024a. “BEFORE RELIGION.” Cross Currents 74 (4): 400–401. https://doi.org/10.1353/cro.2024.a963643.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/before-religion.bib

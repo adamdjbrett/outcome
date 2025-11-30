@@ -5,8 +5,8 @@ abstract: "The primary visual sources depicting the treatment of Indigenous peop
 image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-16
-doi:  "https://dx.doi.org/10.1353/cro.2024.a963636"
-pdf: "https://muse.jhu.edu/pub/12/article/963636/pdf"
+doi:  https://dx.doi.org/10.1353/cro.2024.a963636
+pdf: https://muse.jhu.edu/pub/12/article/963636/pdf
 how_to_cite: 'Maine-Torres, Isabel V. 2024. “THE CONSTRUCTION OF INDIGENOUS AMERICANS AND SPANISH CONQUISTADORS IN THEODORE DE BRY’S ENGRAVINGS.” Cross Currents 74 (4): 458–64. https://dx.doi.org/10.1353/cro.2024.a963636'
 citation_download: 
  name: Download Citation

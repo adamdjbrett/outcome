@@ -6,8 +6,8 @@ image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-24
 doi:  "https://doi.org/10.1353/cro.2024.a963629"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: '2024b. “JOINT STATEMENT OF THE DICASTERIES FOR CULTURE AND EDUCATION AND FOR PROMOTING INTEGRAL HUMAN DEVELOPMENT ON THE ‘DOCTRINE OF DISCOVERY.’” Cross Currents 74 (4): 406–8.'
+pdf: "https://muse.jhu.edu/pub/12/article/963629/pdf"
+how_to_cite: '2024b. “JOINT STATEMENT OF THE DICASTERIES FOR CULTURE AND EDUCATION AND FOR PROMOTING INTEGRAL HUMAN DEVELOPMENT ON THE ‘DOCTRINE OF DISCOVERY.’” Cross Currents 74 (4): 406–8. https://doi.org/10.1353/cro.2024.a963629.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/joint-statement.bib

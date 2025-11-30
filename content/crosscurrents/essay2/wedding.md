@@ -5,9 +5,9 @@ abstract: "An often-heard truism among homeland Filipinos in conversations with 
 image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-15
-doi:  "https://doi.org/10.1353/cro.2024.a963636"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: 'Mendoza, S Lily. 2024. “AN UNHOLY WEDDING.” Cross Currents 74 (4): 465–82.'
+doi:  "https://doi.org/10.1353/cro.2024.a963637"
+pdf: "https://muse.jhu.edu/pub/12/article/963637/pdf"
+how_to_cite: 'Mendoza, S Lily. 2024. “AN UNHOLY WEDDING.” Cross Currents 74 (4): 465–82. https://doi.org/10.1353/cro.2024.a963637.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/an-unholy-wedding.bib

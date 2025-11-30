@@ -6,8 +6,8 @@ image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-13
 doi:  "https://doi.org/10.1353/cro.2024.a963639"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: 'Perkinson, James W. 2024. “ROUTING OUT SUPREMACY’S RELIGIOUS ROOTS.” Cross Currents 74 (4): 501–18.'
+pdf: "https://muse.jhu.edu/pub/12/article/963639/pdf"
+how_to_cite: 'Perkinson, James W. 2024. “ROUTING OUT SUPREMACY’S RELIGIOUS ROOTS.” Cross Currents 74 (4): 501–18. https://doi.org/10.1353/cro.2024.a963639.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/routing-out-supremacy's-religious-roots.bib

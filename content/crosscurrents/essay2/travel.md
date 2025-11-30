@@ -6,8 +6,8 @@ image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-21
 doi:  "https://doi.org/10.1353/cro.2024.a963632"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: 'Lyons, Oren. 2024. “TRAVELLING ALONG THE RIVER OF LIFE.” Cross Currents 74 (4): 418–23.'
+pdf: "https://muse.jhu.edu/pub/12/article/963632/pdf"
+how_to_cite: 'Lyons, Oren. 2024. “TRAVELLING ALONG THE RIVER OF LIFE.” Cross Currents 74 (4): 418–23. https://doi.org/10.1353/cro.2024.a963632.'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/travelling-along-the-river-of-life.bib

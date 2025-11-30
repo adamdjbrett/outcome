@@ -6,8 +6,8 @@ image: "/img/post/9781469683744.jpg"
 thumbnail: "/img/post/crosscurrents-thumbnail.png"
 date: 2025-06-10
 doi:  "https://doi.org/10.1353/cro.2024.a963643"
-#pdf: "/pdf/01-intro.pdf"
-how_to_cite: '2024c. “THINGS WE ALREADY KNEW BEFORE THE PROPHECY OF I AM.” Cross Currents 74 (4): 551–52.'
+pdf: "https://muse.jhu.edu/pub/12/article/963643/pdf"
+how_to_cite: '2024c. “THINGS WE ALREADY KNEW BEFORE THE PROPHECY OF I AM.” Cross Currents 74 (4): 551–52. https://doi.org/10.1353/cro.2024.a963643'
 citation_download: 
  name: Download Citation
  link: /bib/crosscurrents/things-we-already-knew-before-the-prophecy-of-i-am.bib
