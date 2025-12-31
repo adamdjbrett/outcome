@@ -86,3 +86,7 @@ Brett, Adam DJ and Hill, Betty Lyons (2026) "Healing the Sacred: The Fight to Re
 DOI: <https://doi.org/10.62365/2576-0955.1133>.
 
 Available at: <https://commons.lib.jmu.edu/ijr/vol9/iss1/2>
+
+**Download Citation:**
+- [RIS Format](/bib/ijr/healing-the-sacred.ris)
+- [CSL JSON Format](/bib/ijr/healing-the-sacred.csl.json)

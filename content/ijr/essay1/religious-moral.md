@@ -61,3 +61,7 @@ Nahar, Sarah Elizabeth (2026) "Religious Moral Suasion and Material Support for 
 DOI: <https://doi.org/10.62365/2576-0955.1129>.
 
 Available at: <https://commons.lib.jmu.edu/ijr/vol9/iss1/1>
+
+**Download Citation:**
+- [RIS Format](/bib/ijr/religious-moral.ris)
+- [CSL JSON Format](/bib/ijr/religious-moral.csl.json)

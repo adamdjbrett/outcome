@@ -59,6 +59,7 @@ export default function(eleventyConfig) {
 			"canopys" ,"esaysones" , "esaystwos" , "jcreors" , "jcesaysones" , "jcesaystwos" , 
 			"crosscurrentss" , "croesaysones" , "croesaystwos" ,"features" , "fesaysones" , 
 			"fesaystwos" ,"podsones" , "podsstwos" , "ijrs",  "ijrall","ijrones", "ijrtwos" ,
+			"compassall", "compassone",
 			"pods"].indexOf(tag) === -1);
 	});
 

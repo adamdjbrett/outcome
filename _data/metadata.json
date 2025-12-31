@@ -44,6 +44,10 @@
 						"link": "/"
 					},
 					{
+						"name": "Compass",
+						"link": "/compass/"
+					},
+					{
 						"name": "Canopy",
 						"link": "/canopy/"
 					},
@@ -141,6 +145,10 @@
 				"title": "Essay",
 				"item": 
 				[
+					{
+						"name": "Compass",
+						"link": "/compass/"
+					},
 					{
 						"name": "Canopy",
 						"link": "/canopy/"
@@ -257,6 +265,10 @@
 		],
 		"info_title": "Information",
 		"info": [
+			{
+				"name": "Compass",
+				"link": "/compass/"
+},
 			{
 				"name": "Canopy",
 				"url": "/canopy/"

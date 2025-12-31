@@ -58,9 +58,10 @@ export default async function(eleventyConfig) {
 		return content.replace('<!-- INLINE CSS-->', '<style>' + purgeCSSResults[0].css + '</style>');
 	  });
 
-	  eleventyConfig.on('eleventy.after', () => {
-		execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
-	  })
+	  // Pagefind disabled due to darwin-arm64 compatibility issues
+	  // eleventyConfig.on('eleventy.after', () => {
+		// execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
+	  // })
 
 
 	  eleventyConfig.addPlugin(pluginPWA);
