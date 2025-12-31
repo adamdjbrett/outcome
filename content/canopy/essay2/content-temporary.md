@@ -10,7 +10,7 @@ pdf: "/pdf/10-Tremblay.pdf"
 how_to_cite: "Tremblay, Mark. 'The Contemporary Presence of Discovery’s Assertion in Canada.' (2023)."
 citation_download: 
  name: Download Citation
- link: /bib/Tremblay.bib
+ link: /bib/tremblay.bib
 show_toc: true
 author: 
  - name: "Mark Tremblay"
