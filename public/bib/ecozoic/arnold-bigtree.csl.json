@@ -1,0 +1,30 @@
+[
+	{
+		"id": "http://zotero.org/users/2764967/items/UMAKNCPU",
+		"type": "article-journal",
+		"container-title": "The New Ecozoic Reader",
+		"issue": "9",
+		"journalAbbreviation": "TNER",
+		"title": "The Haudenosaunee (Iroquois) Great Binding Peace",
+		"URL": "https://ecozoicstudies.org/new_ecozoic_reader/the-haudenosaunee-iroquois-great-binding-peace/",
+		"author": [
+			{
+				"family": "Arnold",
+				"given": "Philip P."
+			},
+			{
+				"family": "Bigtree",
+				"given": "Sandra L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2025",
+					9,
+					1
+				]
+			]
+		}
+	}
+]
