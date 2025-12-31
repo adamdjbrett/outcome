@@ -37,3 +37,6 @@ I am the meadow And the tall grasses I am the stone That rolled away I am the wa
 Sawatis Frushell (Mohawk, Bear Clan) is a Haudenosaunee Poet.
 
 Copyright © 2025 Association for Public Religion and Intellectual Life
+### Download Citation
+- [RIS Format](/bib/crosscurrents/things-we-already-knew-before-the-prophecy-of-i-am.ris)
+- [CSL JSON Format](/bib/crosscurrents/things-we-already-knew-before-the-prophecy-of-i-am.csl.json)

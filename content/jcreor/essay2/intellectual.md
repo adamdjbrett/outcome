@@ -9,7 +9,7 @@ pdf: "/pdf/jcreor/interm.pdf"
 how_to_cite: "Pharo, Lars Kirkhusmo. 2025. “Intellectual Acknowledgement in Favour of Religious Freedom and Justice: Comparative History of Religions and Ideas As Methodology for Education”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:97-110."
 citation_download: 
  name: Download Citation
- link: /bib/jcreor/pharo.bib
+ link: /bib/jcreor/intellectual-acknowledgement-religious-freedom.bib
 show_toc: true
 author: 
  - name: "Lars Kirkhusmo Pharo"
@@ -27,3 +27,6 @@ tags:
 ## Author Biography
 ### Lars Kirkhusmo Pharo, Nord University
 Lars Kirkhusmo Pharo (Magister Artium and Doctor Artium) is a historian of religions and ideas with special interests in the American continent. He is professor of religions and ethics at Nord University and Research Associate at The Raphael and Fletcher Lee Moses Mesoamerican Archive and Research Project (MMARP), under the direction of Professor Davíd Carrasco, currently residing at Harvard University.
+### Download Citation
+- [RIS Format](/bib/jcreor/intellectual-acknowledgement-religious-freedom.ris)
+- [CSL JSON Format](/bib/jcreor/intellectual-acknowledgement-religious-freedom.csl.json)

@@ -31,3 +31,7 @@ tags:
  - Francis
  - Pope
 ---
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/joint-statement.ris)
+- [CSL JSON Format](/bib/crosscurrents/joint-statement.csl.json)

@@ -41,3 +41,7 @@ tags:
  - Francis
  - Pope
 ---
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/toward-a-kinder-future.ris)
+- [CSL JSON Format](/bib/crosscurrents/toward-a-kinder-future.csl.json)

@@ -58,3 +58,7 @@ Innocent IV granted religious indulgences in 1244 to those who fought in Livonia
 The intentions behind the papal bulls in the context of Lithuania sets the stage for the rhetorical pattern followed by later prelates in the Roman Catholic realm. In 1452, Pope Julius III issued the Bull Dum Diversas that authorized Alfonso V of Portugal "to invade, search out, capture, vanquish, and subdue all Saracens and pagans whatsoever, and other enemies of Christ wheresoever placed, and the kingdoms, dukedoms, principalities, dominions, possessions, and all movable and immovable goods whatsoever held and possessed by them."3
 
 As the remote, densely forested, non-Christian territory in Europe, Lithuania was a continuous target for Christian conversion. The bull Romanus Pontifex issued by Nicholas V (r.1447–1455) on January 8, 1454, reflected the ongoing difficulty of Christianizing Lithuania. He wrote that the Church must "restrain the savage excesses of the Saracens and of other infidels, enemies of the Christian name, but also for the defense and increase of the faith vanquish them and their kingdoms and habitations, though situated in the remotest parts unknown to us"4 (italics by the author). Even two hundred years after the baptism of Mindaugas, a significant part of the Lithuanian population still adhered to pagan practices.
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/christian-nationalism-in-the-lithuanian-context.ris)
+- [CSL JSON Format](/bib/crosscurrents/christian-nationalism-in-the-lithuanian-context.csl.json)

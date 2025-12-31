@@ -38,3 +38,6 @@ Sawatis Frushell
 Sawatis Frushell (Mohawk, Bear Clan) is a Haudenosaunee Poet.
 
 Copyright © 2025 Association for Public Religion and Intellectual Life
+### Download Citation
+- [RIS Format](/bib/crosscurrents/before-religion.ris)
+- [CSL JSON Format](/bib/crosscurrents/before-religion.csl.json)

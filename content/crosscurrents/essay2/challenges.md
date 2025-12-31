@@ -52,3 +52,7 @@ After thirty years10 of effort11 and momentum, the Vatican Dicastery for Culture
 The opening sentence of the Vatican's March 30, 2023 statement refers to a "mandate received from Christ." Matthew 28:18–20, in the Bible, expresses a mandate to baptize all nations. That, and the mandate of Genesis 1:28, are traced to a number of Papal Bulls issued during the fifteenth century. That mandate is sometimes known as "the faith-sharing mandate" and "The Great Commission." In that biblical passage from the Vulgate Bible,13 Jesus is quoted as saying, "All authority [potestas, in Latin] in heaven and on earth has been given to me [Jesus Christ]. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit" (emphasis added). In other words, baptize them and make them followers of Christ. This has been described as "the Lord's world-wide commission."14
 
 Some Vatican officials might say that the reference to a "mandate" in the March 30 Statement is not "reducible to a single text" from the Bible, otherwise that specific text would have been quoted. They might say that the reference to "the mandate received from Christ" is "a general summary mandate that reflects Scripture, as well as the evolving understanding of the Church's mission." Nonetheless, the word "mandate" is accurately interpreted as...
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/the-challenges-of-revoking-the-papal-bulls.ris)
+- [CSL JSON Format](/bib/crosscurrents/the-challenges-of-revoking-the-papal-bulls.csl.json)

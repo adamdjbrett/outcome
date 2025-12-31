@@ -9,7 +9,7 @@ pdf: /pdf/jcreor/remarks.pdfTitizano+and+Lloyd_Final+upload+version_Dec+16th.pdf
 how_to_cite: 'Titizano, Cecilia, and Dana Lloyd. 2024. “The Bankruptcy of the Category of Religion: A Decolonizing Approach”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:58-74. '
 citation_download: 
  name: Download Citation
- link: /bib/jcreor/bankruptcy.bib
+ link: /bib/jcreor/bankruptcy-category-religion.bib
 show_toc: true
 author: 
  - name: "Dana Lloyd"
@@ -148,3 +148,7 @@ Wilcox, Joan Parisi. Masters of the Living Energy: The Mystical World of the Q�
 
 Yurok Tribal Council. Resolution 19–40: “Resolution to Extend the Rights of the Klamath River.” May 9, 2019. [http://files.harmonywithnatureun.org/uploads/upload833.pdf](http://files.harmonywithnatureun.org/uploads/upload833.pdf).
 
+
+### Download Citation
+- [RIS Format](/bib/jcreor/bankruptcy-category-religion.ris)
+- [CSL JSON Format](/bib/jcreor/bankruptcy-category-religion.csl.json)

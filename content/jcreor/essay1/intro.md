@@ -9,7 +9,7 @@ pdf: "/pdf/jcreor/Introduction_Indigenous+Religions+or+Indigenous+Values_FINAL.p
 how_to_cite: "Arnold , Philip P., Sandra Bigtree, and Adam DJ Brett. 2024. “Preface and Introduction: From Indigenous Religions to Indigenous Values Vol. 5 No. 2”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:ii-x."
 citation_download: 
  name: Download Citation
- link: /bib/jcreor/preface.bib
+ link: /bib/jcreor/preface-introduction.bib
 show_toc: true
 author: 
  - name: "Philip P. Arnold"
@@ -136,3 +136,7 @@ The Doctrine of Discovery: Unmasking the Domination Code. Streaming, Documentary
 Tonatierra. “Tupac Huehuecoyotl.” NGO. Tonatierra (blog), 2023. [https://www.tonatierra.org/tupachuehuecoyotl](https://www.tonatierra.org/tupachuehuecoyotl).
 
 Two Row Wampum Renewal Campaign. “Two Row Wampum Renewal Campaign,” 2013. [https://honorthetworow.org/](https://honorthetworow.org/).
+
+### Download Citation
+- [RIS Format](/bib/jcreor/preface-introduction.ris)
+- [CSL JSON Format](/bib/jcreor/preface-introduction.csl.json)

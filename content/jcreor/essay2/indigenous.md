@@ -9,7 +9,7 @@ pdf: /pdf/jcreor/indigenous.pdf
 how_to_cite: 'Indigenous Values Initiative, and American Indian Law Alliance. 2024. “Indigenous Values Initiative Together With the American Indian Law Alliance Submits This Report: The Territorial Integrity of Mother Earth, Indigenous Peoples, and the Right to Freedom of Religion or Belief”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:40-45. https://creor-ejournal.library.mcgill.ca/article/view/113.'
 citation_download: 
  name: Download Citation
- link: /bib/jcreor/indigenous.bib
+ link: /bib/jcreor/indigenous-values-initiative-territorial-integrity.ris
 show_toc: true
 author: 
  - name: "Indigenous Values Initiative"
@@ -45,3 +45,7 @@ tags:
  - Religion
 ---
 
+
+### Download Citation
+- [RIS Format](/bib/jcreor/indigenous-values-initiative-territorial-integrity.ris)
+- [CSL JSON Format](/bib/jcreor/indigenous-values-initiative-territorial-integrity.csl.json)

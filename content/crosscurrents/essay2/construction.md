@@ -49,3 +49,7 @@ In Tzvetan Todorov's The Conquest of America, he posits that for Las Casas, a Ch
 De Bry engraved a number of works that depicted the customs and daily lives of indigenous peoples in the Americas. These portrayals were based on the work of other engravers or explorers and formed an odd game of telephone for the perceptions of indigenous peoples in Europe.4 Those encountering indigenous peoples most likely encountered them with preconceived notions in mind and relayed their biased experiences back to Europe, where engravers like de Bry transformed their accounts into visual representations, which were further skewed by their own preconceptions.
 
 In this work (figure 1) by de Bry from 1584, we see a triumphant Columbus, posed and proper, encountering the Taínos of Hispaniola,5 who are unclothed, while others flee from the Spanish ships in the background. Columbus' men follow behind him, raising a cross, and are the visual representation of civilization arriving in the Americas—a Spanish and Catholic one at that. The Taínos in the foreground are offering Columbus large amounts of treasure, most likely gold, in a display of their perceived stupidity. The depiction of the Taínos falls into contemporary stereotypes for Native Americans; unclothed, uncivilized, in awe of European civilization, cowardly, and ignorant. These traits, while grossly untrue...
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/the-construction-of-indigenous-americans.ris)
+- [CSL JSON Format](/bib/crosscurrents/the-construction-of-indigenous-americans.csl.json)

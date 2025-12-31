@@ -41,3 +41,7 @@ tags:
  - Alaska
  - Turtle Island
 ---
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/cultivating-a-g.r.a.c.e.-mindset.ris)
+- [CSL JSON Format](/bib/crosscurrents/cultivating-a-g.r.a.c.e.-mindset.csl.json)

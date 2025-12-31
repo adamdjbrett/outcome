@@ -28,3 +28,6 @@ tags:
 ---
 
 {% include "ui/crosscurrent/toc.njk" %}
+### Download Citation
+- [RIS Format](/bib/crosscurrents/table-of-contents.ris)
+- [CSL JSON Format](/bib/crosscurrents/table-of-contents.csl.json)

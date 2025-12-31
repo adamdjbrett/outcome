@@ -9,7 +9,7 @@ pdf: /pdf/jcreor/limits.pdf
 how_to_cite: 'Brett, Adam DJ, and Betty Hill (Lyons). 2024. “On the Limits of the Concept of Religious Freedom in Indigenous Communities”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:75-96. https://doi.org/10.26443/jcreor.v5i2.117.'
 citation_download: 
  name: Download Citation
- link: /bib/jcreor/limits.bib
+ link: /bib/jcreor/limits-concept-religious-freedom.bib
 show_toc: true
 author: 
  - name: "Adam DJ Brett"
@@ -67,3 +67,7 @@ tags:
 
 Betty Hill (Lyons), President & Executive Director of the American Indian Law Alliance (AILA), is an Indigenous and environmental activist and citizen of the Onondaga Nation. Betty has worked for the Onondaga Nation for over 20 years. Ms. Hill serves as a member of the Haudenosaunee External Relations Committee and has been an active participant at the annual United Nations Permanent Forum on Indigenous Issues (UNPFII) since the first session in 2001 as a delegate of the Onondaga Nation. Betty attended Cazenovia College and is a Bryant Stratton College Graduate of the Paralegal Program. In 2023 she received an honorary degree from Onondaga Community College (OCC) in honor of her advocacy. In 2024 she received a lifetime achievement award from the NYC Bar Association for her work advocating for Indigenous nations and peoples.
 
+
+### Download Citation
+- [RIS Format](/bib/jcreor/limits-concept-religious-freedom.ris)
+- [CSL JSON Format](/bib/jcreor/limits-concept-religious-freedom.csl.json)

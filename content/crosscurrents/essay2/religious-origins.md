@@ -98,3 +98,7 @@ First, we hope to continue to collaborate on joint publishing ventures like this
 
 #### Translation Project
 Another focus of our work moving forward is providing a single contemporary volume of modern translations of the papal bulls that are concomitant within the DOCD. Not all the bulls have contemporary translations, and the ones that do these translations are scattered around and there is no single volume which includes digital image surrogates of the originals with transcription and side by side translations. We wish to provide exactly such a volume with the help of our friend and colleagues Dr. Sebastian Modrow and Melissa Smith. As proof of concept he has already transcribed, translated, and provided a scholarly footnote apparatus for Inter Caetera.2 [End Page 538]
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/the-religious-origins-of-white-supremacy-and-the-doctrine-of-christian-discovery.ris)
+- [CSL JSON Format](/bib/crosscurrents/the-religious-origins-of-white-supremacy-and-the-doctrine-of-christian-discovery.csl.json)

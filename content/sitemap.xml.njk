@@ -5,165 +5,25 @@ eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-{%- for page in collections.posts %}
+{%- for page in collections.all %}
+	{%- if page.url and page.data.eleventyExcludeFromCollections != true %}
 	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
 	<url>
 		<loc>{{ absoluteUrl }}</loc>
+		{%- if page.date %}
 		<lastmod>{{ page.date | htmlDateString }}</lastmod>
+		{%- endif %}
 	</url>
+	{%- endif %}
 {%- endfor %}
-{%- for page in collections.posting %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
+	<!-- Specialized Sitemap References -->
 	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
+		<loc>{{ metadata.url }}/sitemaps/citation-sitemap.xml</loc>
 	</url>
-{%- endfor %}
-{%- for page in collections.posting %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
 	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
+		<loc>{{ metadata.url }}/sitemaps/images-sitemap.xml</loc>
 	</url>
-{%- endfor %}
-{%- for page in collections.canopyt %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
 	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
+		<loc>{{ metadata.url }}/sitemaps/document-sitemap.xml</loc>
 	</url>
-{%- endfor %}
-{%- for page in collections.cocor %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.fifi %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.jc %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.canopys %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.esaysones %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.esaystwos %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.jcreors %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.jcesaysones %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.jcesaystwos %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.crosscurrentss %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.croesaysones %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.croesaysones %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.croesaystwos %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.features %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.fesaysones %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.fesaystwos %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.podsones %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.podsstwos %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
-{%- for page in collections.pods %}
-	{% set absoluteUrl %}{{ page.url | htmlBaseUrl(metadata.url) }}{% endset %}
-	<url>
-		<loc>{{ absoluteUrl }}</loc>
-		<lastmod>{{ page.date | htmlDateString }}</lastmod>
-	</url>
-{%- endfor %}
 </urlset>

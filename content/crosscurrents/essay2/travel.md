@@ -38,3 +38,7 @@ tags:
  - Racism
  - Albert Gore Jr
 ---
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/travelling-along-the-river-of-life.ris)
+- [CSL JSON Format](/bib/crosscurrents/travelling-along-the-river-of-life.csl.json)

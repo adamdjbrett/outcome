@@ -1,0 +1,19 @@
+[
+  {
+    "type": "article-journal",
+    "title": "Editorial Address & Advisory Board",
+    "container-title": "Journal of the Council for Research on Religion",
+    "volume": "5",
+    "issue": "2",
+    "page": "i",
+    "DOI": "10.26443/jcreor.v5i2.107",
+    "URL": "https://creor-ejournal.library.mcgill.ca/article/view/107",
+    "author": [
+      {"given": "Gerbern", "family": "Oegema"},
+      {"given": "Amanda", "family": "Rosini"},
+      {"given": "Elyse", "family": "MacLeod"},
+      {"given": "Aaron", "family": "Ricker"}
+    ],
+    "issued": {"date-parts": [[2024, 11]]}
+  }
+]

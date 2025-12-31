@@ -38,3 +38,7 @@ tags:
  - Pennsylvania
  - New York
 ---
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/statement-on-the-doctrine-of-discovery.ris)
+- [CSL JSON Format](/bib/crosscurrents/statement-on-the-doctrine-of-discovery.csl.json)

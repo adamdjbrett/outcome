@@ -41,3 +41,7 @@ tags:
  - United States
  - US
 ---
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/the-roots-of-christian-nationalism-go-back-further-than-you-think.ris)
+- [CSL JSON Format](/bib/crosscurrents/the-roots-of-christian-nationalism-go-back-further-than-you-think.csl.json)

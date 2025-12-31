@@ -9,7 +9,7 @@ pdf: "/pdf/jcreor/Final_Editorial+Address+V.5+N.2.pdf"
 how_to_cite: "Oegema, Gerbern, Amanda Rosini, Elyse MacLeod, and Aaron Ricker. 2024. “Editorial Address & Advisory Board”. Journal of the Council for Research on Religion 5 (2). Montreal, QC, Canada:i."
 citation_download: 
  name: Download Citation
- link: /bib/jcreor/editorial.bib
+ link: /bib/jcreor/editorial-address-advisory-board.bib
 show_toc: true
 author: 
  - name: "Gerbern Oegema"
@@ -80,3 +80,7 @@ tags:
 ### INTRODUCTION
 
 The responses to Special Rapporteur Ahmed Shaheed’s report discuss not only the usefulness of the categories of religion and belief but also their limitations, which hinder much-needed discussions about Indigenous values and sovereignty. The articles address the historical injustices faced by Indigenous nations and communities in the name of religious freedom, the need for decolonial approaches to the study of religion, and the colonial tensions created by the categories of religious freedom and belief and their relationship to the Doctrine of Christian Discovery. The issue concludes with a reflection by the Special Rapporteur.
+
+### Download Citation
+- [RIS Format](/bib/jcreor/editorial-address-advisory-board.ris)
+- [CSL JSON Format](/bib/jcreor/editorial-address-advisory-board.csl.json)

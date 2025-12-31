@@ -58,3 +58,7 @@ Although by no means unique to the Philippine situation—since virtually every 
 Such a conundrum appears to have been a historical set up for the Philippines right from the get-go—a situation in which anti-colonialist resistance quickly ends up mirroring the very face of the enemy, with the racial animus now directed towards its own internal others. Resisting foreign rule but not its civilizing oeuvre, the nascent nation-state—post-independence—was compelled to accede to the requisites of modern nation state-building to prove its own "civilizational worthiness." Along with economic development, American-style modern education became the centerpiece of such a nation-building project, enshrining the ideals of "progress" and modern "advancement" in the country's ideological state apparatuses—in the schools, churches, media outlets, and, most importantly, in public policy.
 
 The fledgling nation, still reeling from nearly four centuries of colonial indoctrination...
+
+### Download Citation
+- [RIS Format](/bib/crosscurrents/an-unholy-wedding.ris)
+- [CSL JSON Format](/bib/crosscurrents/an-unholy-wedding.csl.json)

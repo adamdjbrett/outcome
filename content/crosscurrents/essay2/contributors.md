@@ -56,3 +56,6 @@ tags:
 - Eglutė Trinkauskaitė is a faculty member in the department of Humanistic Studies at the Maryland Institute College of Art.
 
 Copyright © 2025 Association for Public Religion and Intellectual Life
+### Download Citation
+- [RIS Format](/bib/crosscurrents/credits-contributors.ris)
+- [CSL JSON Format](/bib/crosscurrents/credits-contributors.csl.json)
