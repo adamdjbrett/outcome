@@ -25,11 +25,11 @@ author:
       link: "https://originalfreenations.com/about/"
       title: "Steven T. Newcomb Profile"
 tags: 
- - Steven T Newcomb
- - Law
- - US-Law
- - US-Indian-Law
- - Indigenous-Knowledges
+  - Steven T Newcomb
+  - Law
+  - US-Law
+  - US-Indian-Law
+  - Indigenous-Knowledges
 ---
 ### The U.S. Government’s Claim of a Right of Domination
 
