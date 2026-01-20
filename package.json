@@ -6,12 +6,15 @@
 	"scripts": {
 		"build": "npx @11ty/eleventy",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
+		"build-prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/outcome/",
+		"build-ghpages-prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy --pathprefix=/outcome/",
 		"start": "npx @11ty/eleventy --serve --quiet",
 		"start-ghpages": "npx @11ty/eleventy --pathprefix=/outcome/ --serve --quiet",
 		"debug": "cross-env DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "cross-env DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
-		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"
+		"benchmark": "cross-env DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+		"prebuild-prod": "rm -rf _site && rm -rf .cache"
 	},
 	"repository": {
 		"type": "git",
@@ -33,9 +36,13 @@
 		"@11ty/eleventy-navigation": "^0.3.5",
 		"@11ty/eleventy-plugin-rss": "^2.0.2",
 		"@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+		"clean-css": "^5.3.3",
 		"cross-env": "^7.0.3",
+		"cssnano": "^7.1.1",
+		"csso-cli": "^3.0.0",
 		"luxon": "^3.5.0",
 		"purgecss": "^6.0.0",
+		"terser": "^5.31.1",
 		"zod": "^3.23.8",
 		"zod-validation-error": "^3.3.1"
 	},

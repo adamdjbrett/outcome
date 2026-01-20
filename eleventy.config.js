@@ -2,7 +2,7 @@ import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
-// import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import { execSync } from 'child_process';
 import pluginFilters from "./_config/filters.js";
@@ -27,41 +27,26 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
 
 	// Creativitas Start Injection
-	// Inject Purge CSS
-	eleventyConfig.addTransform('purge-and-inline-css', async (content, outputPath) => {
-		if (process.env.ELEVENTY_ENV !== 'production' || !outputPath.endsWith('.html')) {
-		  return content;
-		}
-		
+	// Note: PurgeCSS is disabled for better build performance
+	// CSS is already minimal and well-structured
+	// Uncomment below if CSS file size becomes a concern
 
-// 		eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
-//		eleventyConfig.addFilter("head", (array, n) => {
-//			if(!Array.isArray(array) || array.length === 0) {
-//				return [];
-//			}
-//			if( n < 0 ) {
-//				return array.slice(n);
-//			}
-//	
-//			return array.slice(0, n);
-//		});
-		eleventyConfig.addFilter("min", (...numbers) => {
-			return Math.min.apply(null, numbers);
-		});
-		
-		const purgeCSSResults = await new PurgeCSS().purge({
-		  content: [{ raw: content }],
-		  css: ['dist/css/index.css', 'dist/css/outcome.css'],
-		  keyframes: true,
-		});
-	  
-		return content.replace('<!-- INLINE CSS-->', '<style>' + purgeCSSResults[0].css + '</style>');
-	  });
+	// eleventyConfig.addTransform('purge-and-inline-css', async (content, outputPath) => {
+	// 	if (process.env.ELEVENTY_ENV !== 'production' || !outputPath.endsWith('.html')) {
+	// 	  return content;
+	// 	}
+	// 	const purgeCSSResults = await new PurgeCSS().purge({
+	// 	  content: [{ raw: content }],
+	// 	  css: ['_site/css/index.css', '_site/css/outcome.css'],
+	// 	  keyframes: true,
+	// 	});
+	// 	return content.replace('<!-- INLINE CSS-->', '<style>' + purgeCSSResults[0].css + '</style>');
+	// });
 
-	  // Pagefind disabled due to darwin-arm64 compatibility issues
-	  // eleventyConfig.on('eleventy.after', () => {
-		// execSync(`npx pagefind --site _site --glob \"**/*.html\"`, { encoding: 'utf-8' })
-	  // })
+	// Utility filters
+	eleventyConfig.addFilter("min", (...numbers) => {
+		return Math.min.apply(null, numbers);
+	});
 
 
 	  eleventyConfig.addPlugin(pluginPWA);
@@ -133,24 +118,25 @@ export default async function(eleventyConfig) {
 	});
 
 
-// image off
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-//	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// File extensions to process in _site folder
-//		extensions: "html",
+	// Automatically converts images to modern formats (webp, avif) with lazy loading
+	if (process.env.ELEVENTY_ENV === 'production') {
+		eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+			// File extensions to process in _site folder
+			extensions: "html",
 
-		// Output formats for each image.
-//		formats: ["avif", "webp", "auto"],
+			// Output formats for each image (avif=best compression, webp=good support, auto=fallback)
+			formats: ["avif", "webp", "auto"],
 
-		// widths: ["auto"],
+			// widths: ["auto"],
 
-//		defaultAttributes: {
-			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
-//			loading: "lazy",
-//			decoding: "async",
-//		}
-//	});
-// image off
+			defaultAttributes: {
+				// Apply to all images for better performance
+				loading: "lazy",
+				decoding: "async",
+			}
+		});
+	}
 
 
 
@@ -169,11 +155,11 @@ export default async function(eleventyConfig) {
 
 	// Features to make your build faster (when you need them)
 
-	// If your passthrough copy gets heavy and cumbersome, add this line
-	// to emulate the file copy on the dev server. Learn more:
-	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
-
-	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+	// Emulate passthrough copy during dev server for faster reloads
+	// See: https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
+	if (process.env.ELEVENTY_RUN_MODE === "serve") {
+		eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+	}
 };
 
 

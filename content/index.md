@@ -23,7 +23,7 @@ widget:
    url: /podcast
 pagination:
   data: collections.posting
-  size: 4
+  size: 10
   reverse: true
 testdata:
  - item1

@@ -9,7 +9,7 @@ image: "/img/post/ecozoic-header-xl.png"
 show_toc: true
 pagination:
   data: collections.ecozoicall
-  size: 6
+  size: 10
   reverse: true
 testdata:
  - item1

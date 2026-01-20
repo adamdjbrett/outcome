@@ -9,7 +9,7 @@ pdf_download: /pdf/00-overview.pdf
 show_toc: true
 pagination:
   data: collections.canopyt
-  size: 6
+  size: 10
   reverse: true
 testdata:
  - item1

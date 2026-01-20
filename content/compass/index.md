@@ -9,7 +9,7 @@ image: "/img/post/religion-compass.png"
 show_toc: true
 pagination:
   data: collections.compassall
-  size: 6
+  size: 10
   reverse: true
 testdata:
  - item1

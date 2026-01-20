@@ -10,7 +10,7 @@ image: "/img/post/ijr-cover.jpg"
 show_toc: true
 pagination:
   data: collections.ijrall
-  size: 6
+  size: 10
   reverse: true
 testdata:
  - item1

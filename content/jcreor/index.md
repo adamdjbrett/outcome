@@ -10,7 +10,7 @@ image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
 show_toc: true
 pagination:
   data: collections.jc
-  size: 6
+  size: 10
   reverse: true
 testdata:
  - item1

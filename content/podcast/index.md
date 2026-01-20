@@ -9,7 +9,7 @@ show_toc: true
 #pdf_download: /pdf/00-overview.pdf
 pagination:
   data: collections.pods
-  size: 6
+  size: 10
   reverse: true
 testdata:
  - item1
