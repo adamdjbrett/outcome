@@ -92,6 +92,12 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
+	// Generate Pagefind search index after build completes
+	eleventyConfig.on('eleventy.after', () => {
+		execSync(`npx pagefind --site _site --glob "**/*.html"`, { encoding: 'utf-8' })
+	});
+
+
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "atom", // or "rss", "json"
 		outputPath: "/feed/feed.xml",
