@@ -29,7 +29,7 @@ author:
       title: "Betty Hill (Lyons) Google Scholar"
  - name: "Adam DJ Brett"
    sort: "2"
-   image: "/img/authors/adam.jpeg"
+   image: "/img/authors/adam.jpg"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

@@ -20,11 +20,11 @@ export default async function(eleventyConfig) {
 		}
 	});
 	
-	// Publishing control: published: false excludes pages from build
+	// Publishing control: published: false excludes pages from build and serve
 	// Default to true if not specified
 	eleventyConfig.addPreprocessor("published", "*", (data, content) => {
-		// If published is explicitly set to false, exclude from build
-		if(data.published === false && process.env.ELEVENTY_RUN_MODE === "build") {
+		// If published is explicitly set to false, exclude from build and serve
+		if(data.published === false) {
 			return false;
 		}
 	});
@@ -101,11 +101,14 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
 
-	// Generate Pagefind search index after build completes
+	// Generate Pagefind search index only on production build (skip dev/serve for speed)
 	eleventyConfig.on('eleventy.after', () => {
+		if (process.env.ELEVENTY_ENV !== 'production') {
+			return;
+		}
 		try {
 			console.log('[Pagefind] Building search index...');
-			const result = execSync(`npx pagefind`, { 
+			execSync(`npx pagefind`, {
 				encoding: 'utf-8',
 				cwd: process.cwd(),
 				stdio: 'inherit'

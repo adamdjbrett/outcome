@@ -1,6 +1,7 @@
 # Mac
 .DS_Store
 _site
+.py
 # Logs
 logs
 *.log

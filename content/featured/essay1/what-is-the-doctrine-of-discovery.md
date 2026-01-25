@@ -10,7 +10,7 @@ how_to_cite: "Indigenous Values Initiative, 'What is the Doctrine of Discovery?,
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "/img/authors/philips.jpg"
+   image: "/img/authors/pparnold.jpg"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

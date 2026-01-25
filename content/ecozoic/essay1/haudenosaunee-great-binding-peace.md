@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "/img/authors/philips.jpg"
+   image: "/img/authors/pparnold.jpg"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

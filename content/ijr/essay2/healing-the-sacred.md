@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Adam DJ Brett"
    sort: "1"
-   image: "/img/authors/adam.jpeg"
+   image: "/img/authors/adam.jpg"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

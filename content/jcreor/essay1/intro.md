@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "/img/authors/philips.jpg"
+   image: "/img/authors/pparnold.jpg"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -42,7 +42,7 @@ author:
       title: "Sandra Bigtree URL Link"
  - name: "Adam DJ Brett"
    sort: "3"
-   image: "/img/authors/adam.jpeg"
+   image: "/img/authors/adam.jpg"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
