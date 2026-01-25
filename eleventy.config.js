@@ -94,7 +94,17 @@ export default async function(eleventyConfig) {
 
 	// Generate Pagefind search index after build completes
 	eleventyConfig.on('eleventy.after', () => {
-		execSync(`npx pagefind --site _site --glob "**/*.html"`, { encoding: 'utf-8' })
+		try {
+			console.log('[Pagefind] Building search index...');
+			const result = execSync(`npx pagefind`, { 
+				encoding: 'utf-8',
+				cwd: process.cwd(),
+				stdio: 'inherit'
+			});
+			console.log('[Pagefind] Search index built successfully');
+		} catch (error) {
+			console.error('[Pagefind] Error building search index:', error.message);
+		}
 	});
 
 

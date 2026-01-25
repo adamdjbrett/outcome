@@ -1,0 +1,12 @@
+{
+  "site": "_site",
+  "glob": "**/*.html",
+  "exclude_selectors": [
+    ".no-index",
+    "nav",
+    "footer",
+    ".sidebar",
+    ".rightbar"
+  ],
+  "force_language": "en"
+}
