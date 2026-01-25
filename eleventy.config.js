@@ -19,6 +19,15 @@ export default async function(eleventyConfig) {
 			return false;
 		}
 	});
+	
+	// Publishing control: published: false excludes pages from build
+	// Default to true if not specified
+	eleventyConfig.addPreprocessor("published", "*", (data, content) => {
+		// If published is explicitly set to false, exclude from build
+		if(data.published === false && process.env.ELEVENTY_RUN_MODE === "build") {
+			return false;
+		}
+	});
 	eleventyConfig
 		.addPassthroughCopy({
 			"./public/": "/"
