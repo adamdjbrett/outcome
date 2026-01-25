@@ -1,4 +1,5 @@
 <div class="row mt-1">
+{% if author %}
 {% for a in author %}
 <div class="col-md-4 col-6 p-3">
 <div class="row bg-body-tertiary p-1">
@@ -39,4 +40,5 @@ src="https://wsrv.nl/?url={{metadata.url}}{{custom_icon.icon}}&w=24&output=webp"
 </div>
 </div>
 {% endfor %}
+{% endif %}
 </div>
