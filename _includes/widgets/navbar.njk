@@ -4,22 +4,22 @@
 <div class="container">
 <div class="row p-2">
 <div class="col-md-1 col-2">
-<a href="#" tabindex="0" aria-selected="true" class="btn mt-1 neva" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu">
+<button tabindex="0" aria-label="Toggle navigation menu" class="btn mt-1 neva" type="button" data-bs-toggle="offcanvas" data-bs-target="#sidebarMenu" aria-controls="sidebarMenu">
 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
 <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5m0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5"/>
 <title>Menu</title></svg>
-</a>
+</button>
 </div>
 <div class="col-md-9 col-7 p-2 navbar-brand">
 <img class="img-fluid img-logo" alt="{{metadata.title}}" src="{{metadata.url}}{{metadata.sidebar.logo_nav}}">
 <strong><a class="no-deco" href="{{metadata.url}}">{{metadata.title}}</a></strong>
 </div>
 <div class="col-md-2 col-3 text-end">
-<a href="#" aria-selected="true" tabindex="0" class="btn ms-1 neva" aria-label="search" title="{{metadata.search.title}}" accesskey="{{metadata.search.key}}" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa-solid fa-magnifying-glass" title="{{metadata.search.title}}"></i></a>
-<a href="#" aria-selected="true" tabindex="0" class="btn no-bd py-2 neva" id="bd-theme" type="button" aria-expanded="false" data-bs-toggle="dropdown" aria-label="Toggle theme (auto)">
+<button aria-label="Search" tabindex="0" class="btn ms-1 neva" title="{{metadata.search.title}}" accesskey="{{metadata.search.key}}" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fa-solid fa-magnifying-glass" title="{{metadata.search.title}}"></i></button>
+<button aria-expanded="false" tabindex="0" class="btn no-bd py-2 neva" id="bd-theme" type="button" data-bs-toggle="dropdown" aria-label="Toggle theme (auto)">
 <svg class="bi my-1 theme-icon-active" width="1em" height="1em"><use href="#circle-half"></use></svg>
 <span class="visually-hidden" id="bd-theme-text">Toggle theme</span>
-</a>
+</button>
 <ul class="dropdown-menu dropdown-menu-end shadow" aria-labelledby="bd-theme-text">
 <li>
 <button type="button" class="dropdown-item darklight d-flex align-items-center" data-bs-theme-value="light" aria-pressed="false">
