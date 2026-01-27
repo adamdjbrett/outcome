@@ -58,8 +58,12 @@ export default async function(eleventyConfig) {
 		return Math.min.apply(null, numbers);
 	});
 
-
-	  eleventyConfig.addPlugin(pluginPWA);
+	// PWA service worker (skip for fast builds)
+	if (process.env.SKIP_SERVICE_WORKER !== 'true') {
+		eleventyConfig.addPlugin(pluginPWA);
+	} else {
+		console.log('🚀 Skipping PWA service worker for faster build');
+	}
 
 	  eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
