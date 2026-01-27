@@ -10,7 +10,7 @@ image:
 widget_title: Featured Content
 widget:
  - title: Featured
-   # image: /img/post/legal.jpg
+   image: /img/post/legal.jpg
    url: /featured/
  - title: CrossCurrents
    image: /img/post/crosscurrents-thumbnail.png
