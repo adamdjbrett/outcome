@@ -14,6 +14,7 @@ citation_download:
 custom_icon: 
  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=354803
  icon: /img/ssrn.png
+ alt: "SSRN Author Profile"
 show_toc: true
 author: 
  - name: "Robert J. Miller"

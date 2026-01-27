@@ -15,6 +15,7 @@ show_toc: true
 custom_icon: 
  link: https://www.researchgate.net/profile/Peter-Derrico
  icon: /img/ResearchGate_icon_SVG.svg
+ alt: "ResearchGate Profile"
 author: 
  - name: "Peter d’Errico"
    sort: "1"

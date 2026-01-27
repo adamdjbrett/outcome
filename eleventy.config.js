@@ -11,7 +11,6 @@ import PurgeCSS from 'purgecss';
 import markdownIt from 'markdown-it';
 import markdownItAnchor from "markdown-it-anchor";
 import pluginTOC from 'eleventy-plugin-toc';
-import pluginPWA from "eleventy-plugin-pwa-v2";
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
 	// Drafts, see also _data/eleventyDataSchema.js
@@ -58,12 +57,7 @@ export default async function(eleventyConfig) {
 		return Math.min.apply(null, numbers);
 	});
 
-	// PWA service worker (skip for fast builds)
-	if (process.env.SKIP_SERVICE_WORKER !== 'true') {
-		eleventyConfig.addPlugin(pluginPWA);
-	} else {
-		console.log('🚀 Skipping PWA service worker for faster build');
-	}
+	// PWA service worker removed for faster builds
 
 	  eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
