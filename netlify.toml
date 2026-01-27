@@ -1,9 +1,3 @@
 [build]
     publish = "_site" 
     command = "npm run build-prod"
-
-# Disable plugins
-[[plugins]]
-  package = "@netlify/plugin-lighthouse"
-  [plugins.inputs]
-    disabled = true
