@@ -5,7 +5,7 @@ description: "The New Ecozoic Reader contains essays, poetry, and art concerning
 abstract: "The New Ecozoic Reader contains essays, poetry, and art concerning the transition to an ecological age, and we publish it bi-monthly. ecozoicstudies.org."
 breadcumb: compass
 #pdf_download: "/pdf/compass/"
-image: "/img/post/ecozoic-header-xl.png"
+image: "/img/post/ecozoic-header-xl.webp"
 show_toc: true
 pagination:
   data: collections.ecozoicall

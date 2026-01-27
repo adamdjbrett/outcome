@@ -2,8 +2,8 @@
 title: "Religious Moral Suasion and Material Support for the Environmental Justice Movement"
 description: "The Environmental Justice (EJ) movement in the United States is comprised of diverse groups of people with a variety of environmental grievances and interests coming together to obtain equal distribution of pollution burdens across communities, reduce environmental hazards, and ensure fair enforcement of laws and policies meant to safeguard the environment for all."
 abstract: "The Environmental Justice (EJ) movement in the United States is comprised of diverse groups of people with a variety of environmental grievances and interests coming together to obtain equal distribution of pollution burdens across communities, reduce environmental hazards, and ensure fair enforcement of laws and policies meant to safeguard the environment for all. The 17 Principles of Environmental Justice developed in 1991 at the First National People of Color Environmental Leadership Summit remains a touchstone document today"
-image: "/img/post/ijr-cover.jpg"
-thumbnail: "/img/post/ijr-cover-thumbnail.jpg"
+image: "/img/post/ijr-cover.webp"
+thumbnail: "/img/post/ijr-cover-thumbnail.webp"
 date: 2025-09-02
 doi:  "https://doi.org/10.62365/2576-0955.1129"
 how_to_cite: "Sarah Elizabeth Nahar (2026) 'Religious Moral Suasion and Material Support for the Environmental Justice Movement', International Journal on Responsibility: Vol. 9: Iss. 1, Article 1. DOI: https://doi.org/10.62365/2576-0955.1129."
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Sarah Nahar"
    sort: "1"
-   image: "/img/authors/sarah-nahar.jpeg"
+   image: "/img/authors/sarah-nahar.webp"
    university: "Syracuse University"
    about: "Sarah Nahar is a PhD student in Religion and Environmental Studies at Syracuse University and SUNY College of Environmental Science and Forestry, on unceded Onondaga land."
    social:

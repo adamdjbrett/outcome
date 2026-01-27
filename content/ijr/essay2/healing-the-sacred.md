@@ -2,8 +2,8 @@
 title: "Healing the Sacred: The Fight to Restore Onondaga Lake and Honor Indigenous Land"
 description: "This article examines the history of the lake, its significance to the Haudenosaunee Confederacy, and the consequences of its desecration through industrial pollution. By juxtaposing Haudenosaunee teachings with the European Christian Doctrine of Discovery, we reveal how clashing worldviews led to violence, land theft, and genocide against the Haudenosaunee and other Indigenous Nations."
 abstract: "The Onondaga Nation is petitioning the Organization of American States (OAS) for land rights to Onondaga Lake, a notoriously polluted body of water in Central New York State. The Onondaga Nation is one of six nations of the Haudenosaunee Confederacy (Iroquois), and Onondaga Lake is the sacred site where Gayanashagowa, the Great Law of Peace, was established. As Keepers of the Central Fire, the Onondaga Nation bears the responsibility of maintaining unity and peace within the Haudenosaunee Confederacy. This article examines the history of the lake, its significance to the Haudenosaunee Confederacy, and the consequences of its desecration through industrial pollution. By juxtaposing Haudenosaunee teachings with the European Christian Doctrine of Discovery, we reveal how clashing worldviews led to violence, land theft, and genocide against the Haudenosaunee and other Indigenous Nations. Specifically, we apply Steven T. Newcomb’s Domination Code to analyze the settler-colonial justification for resource extraction, which left behind ecological and social devastation. We argue that returning Onondaga Lake to the Onondaga Nation is a vital step toward restoring this sacred place, bringing long-overdue healing to its people, the surrounding communities, and the natural world. The protection and restoration of Onondaga Lake is not only essential for its future but for the well-being of all. The restoration of Indigenous sacred spaces is a catalyst for meaningful social and ecological change."
-image: "/img/post/ijr-cover.jpg"
-thumbnail: "/img/post/ijr-cover-thumbnail.jpg"
+image: "/img/post/ijr-cover.webp"
+thumbnail: "/img/post/ijr-cover-thumbnail.webp"
 date: 2025-09-01
 doi:  "https://doi.org/10.62365/2576-0955.1133"
 how_to_cite: "Brett, Adam DJ and Hill, Betty Lyons (2026) 'Healing the Sacred: The Fight to Restore Onondaga Lake and Honor Indigenous Land', International Journal on Responsibility: Vol. 9: Iss. 1, Article 2. DOI: https://doi.org/10.62365/2576-0955.1133."
@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Adam DJ Brett"
    sort: "1"
-   image: "/img/authors/adam.jpg"
+   image: "/img/authors/adam.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -41,7 +41,7 @@ author:
       title: "Message Adam DJ Brett"
  - name: "Betty Hill (Lyons)"
    sort: "2"
-   image: "/img/authors/betty.jpg"
+   image: "/img/authors/betty.webp"
    university: "American Indian Law Alliance"
    profile_icon: 
     icon: ""

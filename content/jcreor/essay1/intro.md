@@ -2,7 +2,7 @@
 title: "Preface and Introduction: From Indigenous Religions to Indigenous Values Vol. 5 No. 2"
 description: "The Office of the External Special Rapporteur on Religious Freedom or Belief contacted Philip P. Arnold, the Indigenous Values Initiative (IVI), and the American Indian Law Alliance (AILA)"
 abstract: "The Office of the External Special Rapporteur on Religious Freedom or Belief contacted Philip P. Arnold, the Indigenous Values Initiative (IVI), and the American Indian Law Alliance (AILA), and asked us to join a call to give input on a new report on Indigenous Religious Freedom or Belief. Numerous Indigenous NGOs, Indigenous nations, and leaders were on the call."
-image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
+image: "/img/post/jcreor/cover_issue_12_en_US.webp"
 date: 2025-06-23
 doi:  "https://doi.org/10.26443/jcreor.v5i2.108"
 pdf: "/pdf/jcreor/Introduction_Indigenous+Religions+or+Indigenous+Values_FINAL.pdf"
@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "/img/authors/pparnold.jpg"
+   image: "/img/authors/pparnold.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -28,7 +28,7 @@ author:
       title: "Philip P Arnold ORCID"
  - name: "Sandra Bigtree"
    sort: "2"
-   image: "/img/authors/sandra.jpg"
+   image: "/img/authors/sandra.webp"
    university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"
@@ -42,7 +42,7 @@ author:
       title: "Sandra Bigtree URL Link"
  - name: "Adam DJ Brett"
    sort: "3"
-   image: "/img/authors/adam.jpg"
+   image: "/img/authors/adam.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

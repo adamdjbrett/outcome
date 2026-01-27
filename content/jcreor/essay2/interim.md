@@ -2,7 +2,7 @@
 title: "Interim Report of the Special Rapporteur on Freedom of Religion or Belief"
 description: "The second issue of volume five of the Journal of the Council for Research on Religion (JCREOR) is a special issue,  From Indigenous ‘Religions’ to Indigenous Values. "
 abstract: "In the present report, the Special Rapporteur on freedom of religion or belief, Ahmed Shaheed, initiates a critical conversation within the United Nations system and beyond on obstacles and opportunities facing indigenous peoples’ freedom of religion or belief – a largely overlooked subject."
-image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
+image: "/img/post/jcreor/cover_issue_12_en_US.webp"
 date: 2024-09-22
 doi:  "https://doi.org/10.26443/jcreor.v5i2.110"
 pdf: "/pdf/jcreor/interm.pdf"

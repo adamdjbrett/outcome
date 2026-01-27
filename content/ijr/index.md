@@ -6,7 +6,7 @@ abstract: "IJR publishes scholarship and creative works on responsibility. The c
 date: 2025-09-02
 breadcumb: ijr
 #pdf_download: "/pdf/ijr/Introduction_Indigenous+Religions+or+Indigenous+Values_FINAL.pdf"
-image: "/img/post/ijr-cover.jpg"
+image: "/img/post/ijr-cover.webp"
 show_toc: true
 pagination:
   data: collections.ijrall

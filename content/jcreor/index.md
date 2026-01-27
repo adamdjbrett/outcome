@@ -6,7 +6,7 @@ abstract: "The second issue of volume five of the Journal of the Council for Res
 date: 2024-11-14
 breadcumb: Jcreor
 pdf_download: "/pdf/jcreor/Introduction_Indigenous+Religions+or+Indigenous+Values_FINAL.pdf"
-image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
+image: "/img/post/jcreor/cover_issue_12_en_US.webp"
 show_toc: true
 pagination:
   data: collections.jc

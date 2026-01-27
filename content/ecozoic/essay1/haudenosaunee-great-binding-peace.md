@@ -2,8 +2,8 @@
 title: "The Haudenosaunee (Iroquois) Great Binding Peace"
 description: "A profound exploration of the Haudenosaunee (Iroquois) Great Binding Peace, this essay by Philip P. Arnold & Sandra L. Bigtree in The New Ecozoic Reader examines Indigenous democratic traditions, matrilineal governance, and the enduring protocol of peace that models reciprocal relationships with the natural world."
 abstract: "The Haudenosaunee (Iroquois) Great Binding Peace investigates the ancient democratic and spiritual traditions of the Haudenosaunee Confederacy and their relevance for addressing contemporary ecological and social crises. Arnold and Bigtree foreground the Great Binding Peace—a protocol rooted in matrilineal clan systems and a philosophy of reciprocal relationship with all beings—as a living tradition preserved by the Onondaga Nation and its role as the Central Fire of the confederacy.The essay challenges modern frameworks that have contributed to planetary degradation, arguing that many such systems originate from religious and colonial worldviews that undermine regenerative reciprocity. It traces the Peacemaker’s founding of the Great Binding Peace through figures like Jikonhsaseh, Hiawatha, and Tadodaho, emphasizing how these teachings embed peace, equity, and responsibility across human and non-human communities. The authors also highlight the Haudenosaunee influence on early Western democratic thought and critique the historical marginalization of Indigenous governance by colonial institutions. By advocating for a religious recalibration toward Indigenous values of mutual care and ecological balance, the essay suggests that revisiting the Great Binding Peace offers a transformative pathway for healing the rift between humanity and the natural world."
-image: "/img/post/ecozoic.jpg"
-thumbnail: "/img/post/ecozoic_tn.jpg"
+image: "/img/post/ecozoic.webp"
+thumbnail: "/img/post/ecozoic_tn.webp"
 date: 2025-09-05
 doi:  "https://ecozoicstudies.org/new_ecozoic_reader/the-haudenosaunee-iroquois-great-binding-peace/"
 pdf: /pdf/ecozoic/Arnold.P.Bigtree.Haudenosaunee-Great-Binding-Peace.NER9_.2025.pdf
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "/img/authors/pparnold.jpg"
+   image: "/img/authors/pparnold.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -29,7 +29,7 @@ author:
       title: "Philip P Arnold ORCID"
  - name: "Sandra Bigtree"
    sort: "2"
-   image: "/img/authors/sandra.jpg"
+   image: "/img/authors/sandra.webp"
    university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"

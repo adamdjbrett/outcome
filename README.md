@@ -1,6 +1,6 @@
 # OUTCOME 🚀
 
-![Outcome](outcome.jpg)
+![Outcome](outcome.webp)
 
 The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v. M’Intosh (JvM): Indigenous Responses to the Religious Foundations of Racism.
 
@@ -31,11 +31,11 @@ The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v
 
 ### 🏎️ Peformance
 
-![Mobile Test](mobile.png)
+![Mobile Test](mobile.webp)
 
 📱 Mobile Peformance
 
-![Desktop Test](desktop.png)
+![Desktop Test](desktop.webp)
 
 🖥️ Desktop Peformance
 
@@ -76,7 +76,7 @@ The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v
 
 ---
 
-![Decap](decap.png)
+![Decap](decap.webp)
 
 ### 📖 HOW TO 📌
 
