@@ -8,6 +8,8 @@
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
 		"build-search": "npx @11ty/eleventy && npx pagefind --site _site --force-language unknown",
 		"build-prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site --force-language unknown",
+		"build-prod-fast": "cross-env ELEVENTY_ENV=production SKIP_IMAGE_TRANSFORM=true npx @11ty/eleventy && npx pagefind --site _site --force-language unknown",
+		"prebuild-images": "node scripts/prebuild-images.js",
 		"dev:search": "npm run build-search && npx pagefind --site _site --serve",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/outcome/",
 		"build-ghpages-prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy --pathprefix=/outcome/ && npx pagefind --site _site --force-language unknown",
