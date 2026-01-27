@@ -2,7 +2,7 @@
 title: "Tee Hit Ton Indians v. United States (1955) - Domination Translator Series - Part 9"
 description: "Tee Hit Ton v. U.S. (1955) denied Native peoples compensation for lands taken by the U.S. government under the Doctrine of Discovery."
 abstract: "Part 09 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. Tee Hit Ton v. U.S. (1955) denied Native peoples compensation for lands taken by the U.S. government under the Doctrine of Discovery."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-09
 doi: "https://doctrineofdiscovery.org/blog/domination/tee-hit-ton/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'Tee Hit Ton Indians v. United States (1955) - 
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

@@ -2,7 +2,7 @@
 title: "Johnson v. M’Intosh and the Missing Cover of the Jigsaw Puzzle"
 description: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series."
 abstract: "February 28, 2023 marked 200 years since Chief Justice John Marshall delivered a unanimous decision for the U.S. Supreme Court in the case Johnson & Graham’s Lessee v. M’Intosh. This decision enshrined into the system of ideas and arguments called “U.S. law,” the assertion that the Christian nations of Europe, and their political successors, had a right of discovery and domination (“ultimate dominion”) against the original nations and peoples of this continent. At one point, the Court used the phrase “natives who were heathens,” language which is traced to the Bible and to Vatican documents from the fifteenth century."
-image: "/img/post/puzzle.jpg"
+image: "/img/post/puzzle.webp"
 date: 2023-04-13
 doi: https://dofd.fyi/c/newcomb/
 canoncial: "https://canopyforum.org/2023/04/13/johnson-v-mintosh-and-the-missing-cover-of-the-jigsaw-puzzle/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Steven T. Newcomb"
    sort: "1"
-   image: "/img/authors/steven.png"
+   image: "/img/authors/steven.webp"
    university: "Indigenous Law Institute"
    profile_icon: 
     icon: "fa-solid fa-link"

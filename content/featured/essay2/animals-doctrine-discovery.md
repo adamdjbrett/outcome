@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Tracy Basile"
    sort: "1"
-   image: "/img/authors/tracy-basile2.jpg"
+   image: "/img/authors/tracy-basile2.webp"
    university: 
    profile_icon: 
     icon: "fa-solid fa-link"
@@ -57,7 +57,7 @@ What sort of animals did the Spanish and Portuguese bring to these “lands with
 > **_Colonus:_** _Latin for farmer, cultivator, tiller, inhabitant. Root of the words colonization, colonial, and colonist._
 
 <!-- Missing image: Andaman Pig illustration from vintage book -->
-<!-- [![](/img/post/featured/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg)](/img/post/featured/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg) -->
+<!-- [![](/img/post/featured/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.webp)](/img/post/featured/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.webp) -->
 
 An illustration of the Andaman Pig. This illustration was extracted from the vintage book : [Zoological sketches](https://freevintageillustrations.com/vintage-book-illustrations/zoological-sketches)  
 Illustrations by : [Wolf, Joseph](https://freevintageillustrations.com/illustrator/wolf-joseph "View all illustrations by: Wolf, Joseph").
@@ -96,7 +96,7 @@ Today, the beaver is making a comeback. As a keystone species beaver create fres
 ### Sturgeon
 
 <!-- Missing image: Common Sturgeon Fish Vintage Illustration -->
-<!-- [![](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.png)](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.png) -->
+<!-- [![](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.webp)](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.webp) -->
 
 This illustration was extracted from the vintage book: [A history of the fishes of the British islands.](https://freevintageillustrations.com/vintage-book-illustrations/a-history-of-the-fishes-of-the-british-islands) Illustrations by: [Couch, Jonathan](https://freevintageillustrations.com/illustrator/couch-jonathan "View all illustrations by: Couch, Jonathan").
 
@@ -107,7 +107,7 @@ From early colonial history to today, the sacred ties between sturgeon and Nativ
 ### California Condor
 
 <!-- Missing image: California Condor photo by Jeffrey Eisen -->
-<!-- [![](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg)](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg) -->
+<!-- [![](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.webp)](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.webp) -->
 
 A condor flying over the water. Photo by [Jeffrey Eisen](https://unsplash.com/@jeisen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/N6Iw5TB2FL8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

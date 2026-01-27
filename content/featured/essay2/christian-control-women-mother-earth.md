@@ -2,7 +2,7 @@
 title: "Christian Control Of Women And Mother Earth: The Doctrine Of Discovery And The Doctrine Of Male Domination"
 description: "How did the world come to be? How did humans come to be? What is the origin of all living beings? The myth-history of who we are begins with the creation stories we tell."
 abstract: "How did the world come to be? How did humans come to be? What is the origin of all living beings? The myth-history of who we are begins with the creation stories we tell. These stories guide us on the path to who we will become and how we understand ourselves and our relation to the planet and the other life on Earth. We settler colonialists have our origin story in the Christian Bible, the fiction that set our Western worldview on the path to Christian male domination of the earth and women. It set us spiritually, politically, economically and socially in a trajectory toward destruction. This is the best knowledge I can share with you after over 50 years of learning from Indigenous people, studying their history and examining my own settler colonialist world view."
-image: "/img/post/featured/mark-tegethoff-NbgQfUvKFE0-unsplash.jpg"
+image: "/img/post/featured/mark-tegethoff-NbgQfUvKFE0-unsplash.webp"
 date: 2024-11-26
 doi:  "https://dofd.fyi/ccwme/"
 canoncial:  "https://doctrineofdiscovery.org/blog/christian-control-women-mother-earth/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Sally Roesch Wagner"
    sort: "1"
-   image: "/img/authors/sally-roesch-wagner.jpg"
+   image: "/img/authors/sally-roesch-wagner.webp"
    university: 
    profile_icon: 
     icon: "fa-solid fa-link"

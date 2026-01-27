@@ -2,7 +2,7 @@
 title: "The Monroe Doctrine (1823) - Domination Translator Series - Part 6"
 description: "The Monroe Doctrine (1823) extended U.S. claims of 'ultimate dominion' over the Western Hemisphere, following the Doctrine of Discovery."
 abstract: "Part 06 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. The Monroe Doctrine (1823) extended U.S. claims of 'ultimate dominion' over the Western Hemisphere, following the Doctrine of Discovery."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-06
 doi: "https://doctrineofdiscovery.org/blog/domination/monroe-doctrine/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'The Monroe Doctrine (1823) - Domination Transl
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

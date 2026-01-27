@@ -2,14 +2,14 @@
 title: "The Domination Translator Series - Complete Index"
 description: "A comprehensive 15-part extended essay by Steven T. Newcomb examining how the Doctrine of Discovery has shaped U.S. Supreme Court rulings and American law."
 abstract: "The Domination Translator Series is a comprehensive 15-part extended essay examining the historical and ongoing impact of the Doctrine of Discovery on United States legal jurisprudence. Trace the evolution of how medieval principles of Christian supremacy became embedded in American constitutional law from 1810 to the present."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-01
 doi: "https://doctrineofdiscovery.org/blog/domination/"
 how_to_cite: "Steven T. Newcomb, 'The Domination Translator Series: An Extended Essay on Various U.S. Supreme Court Rulings and Other Topics,' Doctrine of Discovery Project (2026)"
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

@@ -2,7 +2,7 @@
 title: "The Legacy of the Right to Control Land and Dependency"
 description: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. - The Legacy of the Right to Control Land and Dependency"
 abstract: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. - Legacy embeds the actions and inactions of those before us into the current legal, political, and social processes. Reverberating through history are the echoes of words that canonized inequity in the systemic structures of federalism in the United States. In 1823,"
-image: "/img/post/legcay.jpg"
+image: "/img/post/legcay.webp"
 date: 2023-04-01
 doi: https://dofd.fyi/c/malloy/
 canoncial: "https://canopyforum.org/2023/04/01/the-legacy-of-the-right-to-control-land-and-dependency/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Kerri J. Malloy"
    sort: "1"
-   image: "/img/authors/malloy.jpg"
+   image: "/img/authors/malloy.webp"
    university: "San José State University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -44,9 +44,9 @@ _Johnson v. M’Intosh_ established the precedent that the federal government of
 
 The opinion reinforced the contractual nature of the treaties and supremacy over indigenous nations in [_Lone Wolf v. Hitchcock_](https://thorpe.law.ou.edu/treatises/cases/hitchcock.html) (1903). The Supreme Court reinforced the precedent in _Johnson v. M’Intosh,_ employing the language “of the contracting Indians and the relation of dependency they bore and continue to bear towards the government of the United States.” Standing out in the legal opinions that have shaped federal Indian law is the legacy of _Johnson v. M’Intosh_ and the direct relationship between land and dependency that formed the basis of the [federal trust relationship](https://www.bia.gov/faqs/what-federal-indian-trust-responsibility) between the [domestic dependent nations](https://www.justice.gov/enrd/timeline-event/federal-trust-doctrine-first-described-supreme-court) conjured up by Chief Justice Marshall in _Cherokee v. Georgia_ and the federal government. 
 
-<!-- ![{{title}}](/img/post/legal.jpg) -->
+<!-- ![{{title}}](/img/post/legal.webp) -->
 
-United States Department of the Interior advertisement offering ‘Indian Land for Sale’. [Wikimedia](https://commons.wikimedia.org/wiki/File:Indian_Land_for_Sale.jpg).
+United States Department of the Interior advertisement offering ‘Indian Land for Sale’. [Wikimedia](https://commons.wikimedia.org/wiki/File:Indian_Land_for_Sale.webp).
 
 The treaties negotiated between indigenous nations and the United States established the borders of reserved lands and prescribed how the sovereigns would interact. In [_United States v. Winans_](https://supreme.justia.com/cases/federal/us/198/371/) (1905), the Supreme Court recognized that the treaties were not only a reservation of lands and rights of indigenous nations but, at their core, the treaties were real estate contracts. Though the entirety of “[Indian Country”](https://www.epa.gov/pesticide-applicator-certification-indian-country/definition-indian-country#definition) was not secured through treaties. In the case of the Pueblos peoples, lands had been guaranteed to the communities through Spanish land grants. It would take the Supreme Court to affirm the plenary power of Congress to recognize such grants and dependency of indigenous nations – affirming a [trust responsibility](https://www.doi.gov/sites/doi.gov/files/migrated/news/pressreleases/upload/Signed-SO-3335.pdfhttps://www.doi.gov/sites/doi.gov/files/migrated/news/pressreleases/upload/Signed-SO-3335.pdf) between the United States and indigenous nations until such time as extinguished by Congress. In [_United States v. Sandoval_](https://supreme.justia.com/cases/federal/us/231/28/) (1913), the court held that the Pueblo peoples were an “inferior people…requiring special consideration and protection like other Indian communities.” _Johnson v. M’Intosh_’s legacy looms heavily in the Supreme Court’s application of [_stare decisis_](https://www.law.cornell.edu/wex/stare_decisis) as it develops federal Indian law around the concept of land and dependency.
 

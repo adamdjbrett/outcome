@@ -2,8 +2,8 @@
 title: "The Construction of Indigenous Americans and Spanish Conquistadors in Theodore de Bry's Engravings"
 description: "The primary visual sources depicting the treatment of Indigenous peoples by conquerors, particularly the works of Protestant engraver Theodore de Bry, offer valuable insights into the interactions between European explorers and Indigenous Americans. De Bry's illustrations, influenced by Bartolomé de Las Casas's accounts of Spanish atrocities, serve as a condemnation of Spanish Catholic colonization in the Americas"
 abstract: "The primary visual sources depicting the treatment of Indigenous peoples by conquerors, particularly the works of Protestant engraver Theodore de Bry, offer valuable insights into the interactions between European explorers and Indigenous Americans. De Bry's illustrations, influenced by Bartolomé de Las Casas's accounts of Spanish atrocities, serve as a condemnation of Spanish Catholic colonization in the Americas. Through his engravings, de Bry politicizes and weaponizes Indigenous bodies, portraying them as deserving of conquest and civilizing, albeit by Protestant conquerors. His depictions of Indigenous peoples, based on biased accounts relayed from explorers, perpetuate stereotypes used to justify colonization. De Bry's Protestant vision, evident in his works, advocates for Protestant colonization as a preferable alternative to Spanish Catholic conquest. Despite condemning Spanish abuses, de Bry's ultimate goal is not to end colonialism but to promote Protestant colonization in the Americas."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-16
 doi:  https://dx.doi.org/10.1353/cro.2024.a963636
 pdf: https://muse.jhu.edu/pub/12/article/963636/pdf

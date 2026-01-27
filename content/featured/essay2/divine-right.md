@@ -2,7 +2,7 @@
 title: "The Myth of Divine Right and the Doctrine of Discovery"
 description: "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
 abstract: "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.So God created man in his own image, in the image of God created he him; male and female created he them."
-image: "/img/post/featured/richard-cohrs-DeRk8Mlnd78-unsplash.jpg"
+image: "/img/post/featured/richard-cohrs-DeRk8Mlnd78-unsplash.webp"
 date: 2024-11-21
 doi:  "https://dofd.fyi/dr/"
 canoncial:  "https://doctrineofdiscovery.org/blog/divine-right/"

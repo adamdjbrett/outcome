@@ -2,7 +2,7 @@
 title: "City of Sherrill v. Oneida Indian Nation, 544 U.S. 197 (2005): THE DOCTRINE OF CHRISTIAN DISCOVERY AND DOMINATION AND THE DENIAL OF TREATY RIGHTS"
 description: "This shameful, land mark decision by the Supreme Court was issued just three weeks after the filing of the Onondaga Nation’s Land Rights Action."
 abstract: "This shameful, land mark decision by the Supreme Court was issued just three weeks after the filing of the Onondaga Nation’s Land Rights Action. It was a remarkable decision in several ways and although it was not a land claim or a land rights action, it resulted in negative impacts on the Haudenosaunee land cases, as it has been used as the excuse to dismiss the then pending Oneida, Onondaga and Cayuga land rights cases."
-image: "/img/post/featured/honor-two-row-3-wampum-belts.jpg"
+image: "/img/post/featured/honor-two-row-3-wampum-belts.webp"
 date: 2024-12-04
 doi:  "https://dofd.fyi/svodcd/"
 canoncial:  "https://doctrineofdiscovery.org/blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/"

@@ -2,7 +2,7 @@
 title: "The Haudenosaunee Cases: Cayuga Indian Nation v. Pataki (2nd Cir. June 28, 2005) - Domination Translator Series - Part 11"
 description: "Cayuga Nation v. Pataki (2005) explored Haudenosaunee land claims and the suppressed 1922 Everett Report on Native treaty rights."
 abstract: "Part 11 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. Cayuga Nation v. Pataki (2005) explored Haudenosaunee land claims and the suppressed 1922 Everett Report on Native treaty rights."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-11
 doi: "https://doctrineofdiscovery.org/blog/domination/cayuga-pataki/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'The Haudenosaunee Cases: Cayuga Indian Nation 
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

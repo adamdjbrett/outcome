@@ -2,7 +2,7 @@
 title: "The Haudenosaunee Cases: Oneida Indian Nation v. County of Oneida (Aug. 9th 2010) - Domination Translator Series - Part 12"
 description: "Oneida Indian Nation v. County of Oneida (2010) examined equitable defenses used to bar Native land claims spanning centuries."
 abstract: "Part 12 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. Oneida Indian Nation v. County of Oneida (2010) examined equitable defenses used to bar Native land claims spanning centuries."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-12
 doi: "https://doctrineofdiscovery.org/blog/domination/oneida-county/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'The Haudenosaunee Cases: Oneida Indian Nation 
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

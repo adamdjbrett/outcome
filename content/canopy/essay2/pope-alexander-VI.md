@@ -2,7 +2,7 @@
 title: "Did Pope Alexander VI Authorize England’s Colonization of North America?"
 description: "Archbishop Adrian Tync. Wikimedia CC BY-SA 4.0 This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series.If you’d like to check out other articles in this series"
 abstract: "Shortly before Thanksgiving 2016, Episcopalian priest John Floberg held up a copy of Pope Alexander VI’s 1493 papal bull Inter caetera before a crowd of hundreds of protesters and clerics at North Dakota’s Oceti Sakowin Camp. He asked a committee of Indigenous elders to authorize its burning. They did, the paper went up in flames, and the crowd erupted in applause."
-image: "/img/post/pope.jpg"
+image: "/img/post/pope.webp"
 date: 2023-03-21
 doi: https://dofd.fyi/c/cavedon/
 canoncial: "https://canopyforum.org/2023/03/21/did-pope-alexander-vi-authorize-englands-colonization-of-north-america/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Matthew Cavedon"
    sort: "1"
-   image: "/img/authors/matthew.png"
+   image: "/img/authors/matthew.webp"
    university: "Emory University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

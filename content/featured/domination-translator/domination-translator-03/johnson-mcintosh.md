@@ -2,7 +2,7 @@
 title: "The Marshall Trilogy: Johnson v. McIntosh, 21 U.S. (8 Wheat.) 543 (1823) - Domination Translator Series - Part 3"
 description: "The 1823 landmark Johnson v. McIntosh case established the Doctrine of Discovery as U.S. law, denying Native nations' property rights."
 abstract: "Part 03 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. The 1823 landmark Johnson v. McIntosh case established the Doctrine of Discovery as U.S. law, denying Native nations' property rights."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-03
 doi: "https://doctrineofdiscovery.org/blog/domination/johnson-mcintosh/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'The Marshall Trilogy: Johnson v. McIntosh, 21 
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

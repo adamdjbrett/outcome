@@ -2,7 +2,7 @@
 title: "President 'Teddy' Roosevelt's Monroe Doctrine Corollary - Domination Translator Series - Part 8"
 description: "Teddy Roosevelt's 1904 Monroe Doctrine Corollary asserted U.S. imperial dominion over the Western Hemisphere and its indigenous peoples."
 abstract: "Part 08 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. Teddy Roosevelt's 1904 Monroe Doctrine Corollary asserted U.S. imperial dominion over the Western Hemisphere and its indigenous peoples."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-08
 doi: "https://doctrineofdiscovery.org/blog/domination/roosevelt-corollary/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'President 'Teddy' Roosevelt's Monroe Doctrine 
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

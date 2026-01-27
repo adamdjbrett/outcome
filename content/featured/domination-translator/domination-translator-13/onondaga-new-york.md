@@ -2,7 +2,7 @@
 title: "The Haudenosaunee Cases: Onondaga Nation v. N.Y. (Argued Oct. 12, 2012, decided October 19, 2012) - Domination Translator Series - Part 13"
 description: "Onondaga Nation's lawsuit to recover ancestral lands was dismissed using federal Indian law doctrines based on discovery and domination."
 abstract: "Part 13 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. Onondaga Nation's lawsuit to recover ancestral lands was dismissed using federal Indian law doctrines based on discovery and domination."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-13
 doi: "https://doctrineofdiscovery.org/blog/domination/onondaga-new-york/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'The Haudenosaunee Cases: Onondaga Nation v. N.
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

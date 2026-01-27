@@ -2,8 +2,8 @@
 title: "Comments on the Bishop's Panel: Transcription of Conference Presentation"
 description: "Greetings to you all. I'm Haiwhagai'i, Onondaga Nation, Eel Clan. I have to start off with gratitude for seeing all of your faces here. It is a bit awkward for me to be sitting here on a panel with 3 bishops. It's true there is plenty of sin like was mentioned and more of it has come to the surface."
 abstract: "Greetings to you all. I'm Haiwhagai'i, Onondaga Nation, Eel Clan. I have to start off with gratitude for seeing all of your faces here. It is a bit awkward for me to be sitting here on a panel with 3 bishops. It's true there is plenty of sin like was mentioned and more of it has come to the surface. We hear about the promises today and we heard about the confessions. We have to stick with the truth, and the truth of the matter is there is no trust. "
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-19
 doi:  "https://doi.org/10.1353/cro.2024.a963634"
 pdf: "https://muse.jhu.edu/pub/12/article/963634/pdf"

@@ -2,7 +2,7 @@
 title: "Part 2: The beginning of an Analysis of Settler Colonialism Emerges at AMC 2022"
 description: "In the 1600s when enslaved Africans disembarked en masse and travel weary to this land mass, they arrived in a place where hundreds of Indigenous groups lived since time immemorial."
 abstract: "In the 1600s when enslaved Africans disembarked en masse and travel weary to this land mass, they arrived in a place where hundreds of Indigenous groups lived since time immemorial. Since that moment The majority of the interactions between Black people and Indigenous Peoples living in the so-called United States occur(red) in the bloody context of settler colonial imperialism."
-image: "/img/post/featured/Screen-Shot-2023-03-23at12.50.45AM.png"
+image: "/img/post/featured/Screen-Shot-2023-03-23at12.50.45AM.webp"
 date: 2024-11-19
 doi:  "https://dofd.fyi/basc/"
 canoncial:  "https://doctrineofdiscovery.org/blog/river/beginning-analysis-settler-colonialism/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Sarah Nahar"
    sort: "1"
-   image: "/img/authors/sarah-nahar.jpeg"
+   image: "/img/authors/sarah-nahar.webp"
    university: "Syracuse University"
    about: "Sarah Nahar is a PhD student in Religion and Environmental Studies at Syracuse University and SUNY College of Environmental Science and Forestry, on unceded Onondaga land."
    social:

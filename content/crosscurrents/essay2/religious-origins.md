@@ -2,8 +2,8 @@
 title: "The Religious Origins of White Supremacy and The Doctrine of Christian Discovery"
 description: "As we wrap up this volume and grant period we would like to express our deepest gratitude to S.B. Rodriguez-Plate and the entire team of CrossCurrents for helping to make this special issue a success."
 abstract: "As we wrap up this volume and grant period we would like to express our deepest gratitude to S.B. Rodriguez-Plate and the entire team of CrossCurrents for helping to make this special issue a success. Again, we would like to extend our gratitude to all of our sponsors, funders, friends, colleagues, and of course conference attendees. Together we rise and work together to challenge and combat the Doctrine of Christian Discovery and Johnson V. M'Intosh. As we bring this issue to a close we would like to outline the scope of future work and next steps, inviting all of you to join us in the furtherance of this work. However, our research is going to be going in four main directions moving forward."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-12
 doi:  "https://doi.org/10.1353/cro.2024.a963641"
 pdf: "https://muse.jhu.edu/pub/12/article/963641/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "/img/authors/pparnold.jpg"
+   image: "/img/authors/pparnold.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -29,7 +29,7 @@ author:
       title: "Philip P Arnold ORCID"
  - name: "Sandra Bigtree"
    sort: "2"
-   image: "/img/authors/sandra.jpg"
+   image: "/img/authors/sandra.webp"
    university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"
@@ -43,7 +43,7 @@ author:
       title: "Sandra Bigtree URL Link"
  - name: "Adam DJ Brett"
    sort: "3"
-   image: "/img/authors/adam.jpg"
+   image: "/img/authors/adam.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

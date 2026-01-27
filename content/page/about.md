@@ -1,7 +1,7 @@
 ---
 title: About Us
 description: About the Outcome documentation project
-image: "/img/post/christmas-background-1659717_1920.jpg"
+image: "/img/post/christmas-background-1659717_1920.webp"
 permalink: /about/
 show_toc: true
 ---

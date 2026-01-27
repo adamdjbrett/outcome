@@ -2,7 +2,7 @@
 title: "Federal Anti-Indian Law: The Legal Entrapment of Indigenous Peoples"
 description: "2023 is the bi-centennial year of Johnson v. McIntosh, the case that put ‘Christian discovery’ into US property law in a way that simultaneously created ‘federal Indian law’: The 200th year since the imposition of domination on the basis of a religious and racist theory of humankind. A domination that two-hundred years later is still considered ‘law.’"
 abstract: "2023 is the bi-centennial year of Johnson v. McIntosh, the case that put ‘Christian discovery’ into US property law in a way that simultaneously created ‘federal Indian law’: The 200th year since the imposition of domination on the basis of a religious and racist theory of humankind. A domination that two-hundred years later is still considered ‘law.’"
-image: "/img/post/federal.png"
+image: "/img/post/federal.webp"
 date: 2023-03-07
 doi: https://dofd.fyi/c/derrico/
 canoncial: "https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/"
@@ -19,7 +19,7 @@ custom_icon:
 author: 
  - name: "Peter d’Errico"
    sort: "1"
-   image: "/img/authors/peter.png"
+   image: "/img/authors/peter.webp"
    university: "University of Massachusetts Amherst"
    about: "Peter d’Errico graduated from Yale Law School, was an attorney at Dinébe’iiná Náhiiłna be Agha’diit’ahii, Navajo Legal Services, and a founding professor of Legal Studies at the University of Massachusetts Amherst."
    information: 
@@ -44,7 +44,7 @@ Chief Justice Marshall constructed federal anti-Indian law in three early ninete
 
 As the legal historian Paul Finkelman explained, “Marshall’s years on the court . . . coincided with a relentless push to remove Indians from the eastern part of the United States. Thomas Jefferson developed the idea of Indian removal. Under James Madison and James Monroe, the nation’s policy of war and removal devastated the southeastern Indians. President Andrew Jackson continued these policies. Marshall’s decisions in _Johnson and Graham’s Lessee v. M’Intosh_, . . . _Cherokee Nation v. Georgia_, . . . and _Worcester v. Georgia_ . . . provided the legal basis for taking all land from Indians.”
 
-![{{title}}](/img/post/indian.jpg)
+![{{title}}](/img/post/indian.webp)
 
 _[Federal Anti-Indian Law: The Legal Entrapment of Indigenous Peoples](https://www.abc-clio.com/products/A6462C/)_, (Bloomsbury, September 2022).
 

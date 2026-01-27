@@ -1,7 +1,7 @@
 ---
 title: Readers
 description: A note to our reaaders
-image: "/img/post/christmas-background-1659717_1920.jpg"
+image: "/img/post/christmas-background-1659717_1920.webp"
 permalink: /readers/
 show_toc: true
 ---

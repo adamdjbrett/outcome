@@ -2,7 +2,7 @@
 title: "Ten Religious Themes of the Doctrine of Christian Discovery (DoCD) that Contrast with Indigenous Values"
 description: "With issuance of 15th century Papal Bulls known as the Doctrine of Christian Discovery, religion has been used all over the world as a weapon against Indigenous Peoples and the land."
 abstract: "With issuance of 15th century Papal Bulls known as the Doctrine of Christian Discovery, religion has been used all over the world as a weapon against Indigenous Peoples and the land.With issuance of 15th century Papal Bulls known as the Doctrine of Christian Discovery, religion has been used all over the world as a weapon against Indigenous Peoples and the land."
-image: "/img/post/featured/colonial-contact.jpg"
+image: "/img/post/featured/colonial-contact.webp"
 date: 2024-12-11
 doi:  "https://dofd.fyi/10rel/"
 canoncial: "https://doctrineofdiscovery.org/10-religous-dimensions/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "/img/authors/pparnold.jpg"
+   image: "/img/authors/pparnold.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -29,7 +29,7 @@ author:
       title: "Philip P Arnold ORCID"
  - name: "Sandra Bigtree"
    sort: "2"
-   image: "/img/authors/sandra.jpg"
+   image: "/img/authors/sandra.webp"
    university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"

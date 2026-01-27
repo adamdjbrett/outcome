@@ -2,8 +2,8 @@
 title: "Routing Out Supremacy's Religious Roots: From Skin Color Back Through Bible Code to City-State Coercion"
 description: "Perkinson discusses the origins of colonialism and white supremacy, tracing it back to the relationship with the land. He explores the shift from pastoral-nomad lifeways to city-state agriculture, leading to a myth of cultivar sovereignty and Christian supremacy."
 abstract: "Perkinson discusses the origins of colonialism and white supremacy, tracing it back to the relationship with the land. He explores the shift from pastoral-nomad lifeways to city-state agriculture, leading to a myth of cultivar sovereignty and Christian supremacy. He argues that white supremacy is rooted in a myth of mastery over the non-human world, with a focus on urban-centered control of land. He highlights the resistance of pastoral nomad traditions against city-state coercion and the importance of a respectful land-based symbiosis. Furthermore, he stresses that the deep historical taproot of white supremacy implies a particular relationship to land centered in cities, supported by farmlands, and ultimately leading to the enslavement of both land and non-humankind."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-13
 doi:  "https://doi.org/10.1353/cro.2024.a963639"
 pdf: "https://muse.jhu.edu/pub/12/article/963639/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "James W. Perkinson"
    sort: "1"
-   image: /img/authors/jameswperkinson.jpg
+   image: /img/authors/jameswperkinson.webp
    university: "Ecumenical Theological Seminary"
    profile_icon: 
     icon: "fa-solid fa-link"

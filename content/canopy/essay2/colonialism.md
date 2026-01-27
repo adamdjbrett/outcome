@@ -2,7 +2,7 @@
 title: "The International Law of Colonialism:Johnson v. M’Intosh and the Doctrine of Discovery Applied Worldwide"
 description: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series."
 abstract: "This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. The International Law of Colonialism:Johnson v. M’Intosh and the Doctrine of Discovery Applied Worldwide"
-image: "/img/post/colonial.jpeg"
+image: "/img/post/colonial.webp"
 date: 2023-03-30
 doi: https://dofd.fyi/c/miller/
 canoncial: "https://canopyforum.org/2023/03/30/the-international-law-of-colonialism-johnson-v-mintosh-and-the-doctrine-of-discovery-applied-worldwide/"
@@ -13,13 +13,13 @@ citation_download:
  link: /bib/miller.bib
 custom_icon: 
  link: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=354803
- icon: /img/ssrn.png
+ icon: /img/ssrn.webp
  alt: "SSRN Author Profile"
 show_toc: true
 author: 
  - name: "Robert J. Miller"
    sort: "1"
-   image: "/img/authors/miller.png"
+   image: "/img/authors/miller.webp"
    university: "Sandra Day O’Connor College of Law"
    about: "Robert J. Miller is a professor at the Sandra Day O’Connor College of Law where he is also the Willard H. Pedrick Distinguished Research Scholar and the Director of the Rosette LLP American Indian Economic Development Program."
    information: 
@@ -45,10 +45,10 @@ Understanding these elements is crucial to understanding [worldwide colonization
 
 2\. Actual occupancy and possession. England’s Queen Elizabeth I added this element to the emerging international law of colonialism in 1550-1587. She and her attorneys set forth the proposition stating that to create an internationally recognized title to newly discovered lands a European country had to do more than just see or sail past it. England and France began demanding that a colonizing country had to actually occupy and physically possess any newly discovered lands within a reasonable amount of time after a first discovery to create a recognizable title for that European country. England enforced this principle by granting charters to its explorers and settlers who were dispatched to what is now the United States. Elizabeth and her successor King James I directed their explorers and settlers to go to lands “[unknown to all Christians](https://www.nebraskapress.unl.edu/bison-books/9780803215986/).” European countries usually established occupation by building forts, trading posts, or settlements. This is one of the primary reasons Lewis & Clark built Fort Clatsop in 1805 at the mouth of the Columbia River in the Oregon Country. They were trying to solidify the United States’ first discovery claims to this territory. 
 
-<!-- ![{{title}}](/img/post/cols.jpg) -->
+<!-- ![{{title}}](/img/post/cols.webp) -->
 
 <!-- The canoe landing area along the [Lewis and Clark River](https://en.wikipedia.org/wiki/Lewis_and_Clark_River) at the Fort Clatsop National Memorial southwest of Astoria.  
-[Wikimedia Commons.](https://en.wikipedia.org/wiki/Fort_Clatsop#/media/File:2018-01-14_Fort_Clatsop_-09.jpg) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) -->
+[Wikimedia Commons.](https://en.wikipedia.org/wiki/Fort_Clatsop#/media/File:2018-01-14_Fort_Clatsop_-09.webp) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) -->
 
 3\. Preemption/European title. Euro-American countries were deemed to have automatically acquired property and sovereign rights over Indigenous nations merely by arriving at a location and planting their flags and religious emblems in the soil. One of these claimed rights was the power of preemption: the sole right to buy the lands of native nations if they ever chose to sell. The United States [expressly claimed](https://pages.uoregon.edu/mjdennis/courses/hist469_trade.htm) this property right of “preemption” in its first Trade and Intercourse Act of 1790, and it insisted on this right against Indian nations in [numerous treaties](https://www.nebraskapress.unl.edu/bison-books/9780803215986/). This Discovery principle is still United States law today and is reflected in the existence of tribal and individual Indian lands that are held “in trust.” [Indian trust lands](https://www.ncsl.org/quad-caucus/trust-land#:~:text=Placing%20tribal%20land%20into%20trust,tribe%20or%20individual%20tribal%20members.) are owned by the United States as the legal owner and the tribe or individual Indian is the beneficial owner. Indian nations and individual Indians cannot usually sell, lease, or develop their trust lands without the permission of the United States. This is one of the living embodiments of the Doctrine of Discovery, and it is still [federal law](https://www.law.cornell.edu/uscode/text/25/177) today.
 
@@ -60,9 +60,9 @@ Understanding these elements is crucial to understanding [worldwide colonization
 
 7\. _Terra nullius_. This Latin phrase means an empty or vacant land. Under the Doctrine, if lands were not possessed or occupied by any person when a Euro-American country made a first discovery then the lands were available for Discovery claims. England, for example, claimed all of [Australia](https://en.wikipedia.org/wiki/Mabo_v_Queensland_(No_2)) due to _terra nullius_ although Aboriginal peoples had lived there for tens of thousands of years. In 1992, the Australian Supreme Court rejected that Discovery justification as a falsehood in [_Mabo v. Regina_](https://en.wikipedia.org/wiki/Mabo_v_Queensland_(No_2)). Euro-Americans were very liberal in defining Indigenous lands as being “empty” and they often included areas that were actually populated by Indigenous nations and peoples. Euro-Americans also considered lands to be “empty” and available for Discovery claims if the native peoples living there were using or governing their territories in a fashion that [Euro-American legal systems disapproved](https://www.nebraskapress.unl.edu/bison-books/9780803215986/) or did not recognize.
 
-![{{title}}](/img/post/scetch.jpg)
+![{{title}}](/img/post/scetch.webp)
 
-Drawing of the participants in the [Berlin co](https://en.wikipedia.org/wiki/Berlin_conference)n[ference](https://en.wikipedia.org/wiki/Berlin_conference) in 1884. [Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Kongokonferenz.jpg)
+Drawing of the participants in the [Berlin co](https://en.wikipedia.org/wiki/Berlin_conference)n[ference](https://en.wikipedia.org/wiki/Berlin_conference) in 1884. [Wikimedia Commons.](https://commons.wikimedia.org/wiki/File:Kongokonferenz.webp)
 
 8\. Christianity. Euro-Americans always used their religion as a sign of their alleged superiority over Indigenous peoples and cultures. This is unsurprising, as the Catholic Church was heavily involved with Spain and Portugal’s development of this international law in the early 1400s. The papal bulls of [1436](https://www.nebraskapress.unl.edu/bison-books/9780803215986/) and the [1450s](https://www.nebraskapress.unl.edu/bison-books/9780803215986/) that granted the Canary Islands and portions of Africa to Portugal, and the bulls in [1493](https://www.nebraskapress.unl.edu/bison-books/9780803215986/) that divided the world for Spanish and Portuguese colonization, declared that [Christian conversion](https://www.nebraskapress.unl.edu/bison-books/9780803215986/) was the goal of colonization. Non-Christians were not recognized as having the same rights to land, sovereignty, humanity, and self-determination as Christians. In addition, the papal bulls authorized and justified colonization on the “need” to convert natives to increase the Christian religion. The United States, and all colonizing countries, justified their empires for centuries by the fact that they converted Indigenous peoples to Christianity. In the [Berlin Conference](https://heinonline.org/HOL/LandingPage?handle=hein.journals/djcil32&div=4&id=&page=) of 1884-85 and the resulting [Berlin Act of 1885](https://heinonline.org/HOL/LandingPage?handle=hein.journals/djcil32&div=4&id=&page=), thirteen European countries legally justified carving up Africa for colonies based on the express justifications of converting Africans to Christianity and “civilizing” them. 
 

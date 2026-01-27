@@ -2,7 +2,7 @@
 title: "Haaland v. Brackeen and the Logic of Discovery"
 description: "In 1823, the U.S. Supreme Court handed down a decision in Johnson v M’Intosh, the first of the Marshall trilogy, infamous for its attack on Indigenous sovereignty. Two hundred years later, it seems as if things are different — indeed, it seems as if things are better — for Indigenous peoples in the United States."
 abstract: "In 1823, the U.S. Supreme Court handed down a decision in Johnson v M’Intosh, the first of the Marshall trilogy, infamous for its attack on Indigenous sovereignty. Two hundred years later, it seems as if things are different — indeed, it seems as if things are better — for Indigenous peoples in the United States. We have a Laguna Pueblo woman Secretary of the Interior, an investigation into the horrors of Native American boarding schools has resulted in a report for the first time in U.S. history, and the government has even acknowledged the genocide of Indigenous peoples (8). However, some argue that Haaland v. Brackeen, which the Supreme Court is getting ready to decide this term, is threatening to inflict the biggest blow to Indigenous sovereignty since Johnson. What are they worried about?"
-image: "/img/post/supreme.jpg"
+image: "/img/post/supreme.webp"
 date: 2023-03-18
 doi: https://dofd.fyi/c/lloyd/
 canoncial: "https://canopyforum.org/2023/03/18/haaland-v-brackeen-and-the-logic-of-discovery/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Dana Lloyd"
    sort: "1"
-   image: "/img/authors/dana.png"
+   image: "/img/authors/dana.webp"
    university: "Villanova University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

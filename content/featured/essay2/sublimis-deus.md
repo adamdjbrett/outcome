@@ -2,7 +2,7 @@
 title: Sublimis Deus (Sublimis Dei)
 description: "On the limits of Sublimis Deus (also called Sublimis Dei)."
 abstract: "Every few years, when the Doctrine of Discovery gets traction, someone raises the old chestnut of Sublimis Deus as apparent proof that the Catholic church did already rescind the Doctrine and therefore it’s not necessary. I should probably do a blog post that I can just repost."
-image: "/img/post/featured/sublim.jpg"
+image: "/img/post/featured/sublim.webp"
 date: 2024-12-09
 doi:  "https://dofd.fyi/sd/"
 canoncial:  "https://doctrineofdiscovery.org/papal-bulls/sublimis-deus/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: Tina Ngata
    sort: "1"
-   image: "/img/authors/tina.png"
+   image: "/img/authors/tina.webp"
    university: "Ngāti Porou"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -61,7 +61,7 @@ They were able to be cast as enemies of Christ because Pope Paul did NOT actuall
 
 The other argument offered by the church against rescinding the papal bulls is that they “mean nothing” and are irrelevant. Of course, if they mean nothing to the church but clearly mean something to Indigenous Peoples then rescinding them should be a simple matter, and not rescinding them is an abuse of privilege and power. So there, anyone raises Sublimis Deus to you, smack em with that.
 
-![an image of Sublimis Deus with the words so what super imposed over it. ]({{metadata.url}}/img/post/featured/sublim.jpg)
+![an image of Sublimis Deus with the words so what super imposed over it. ]({{metadata.url}}/img/post/featured/sublim.webp)
 
 [Sublimis Deus, Pastorale Officium and Non Indecens Videtur by Tina Ngata](https://doctrineofdiscovery.org/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/) [On the Papal Bull Sublimis Deus by Steven T. Newcomb](https://doctrineofdiscovery.org/blog/newcomb-sublimis-deus/)
 

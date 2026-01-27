@@ -11,11 +11,11 @@ class ImageSitemap {
 
 	async render(data) {
 		const imageFiles = await globby([
+			"public/img/**/*.webp",
 			"public/img/**/*.jpg",
 			"public/img/**/*.jpeg",
-			"public/img/**/*.png",
 			"public/img/**/*.gif",
-			"public/img/**/*.webp",
+			"public/img/**/*.png",
 			"public/img/**/*.svg"
 		]);
 

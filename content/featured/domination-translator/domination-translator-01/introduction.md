@@ -2,7 +2,7 @@
 title: "The Domination Translator Series: An Extended Essay on Various U.S. Supreme Court Rulings and Other Topics - Part 1"
 description: "How did the U.S. justify 'ultimate dominion' over Native nations and lands? This series examines the Doctrine of Discovery in Supreme Court rulings."
 abstract: "The Domination Translator Series is a comprehensive 15-part extended essay examining the historical and ongoing impact of the Doctrine of Discovery on United States legal jurisprudence. This introduction establishes the context and methodology for analyzing how the Doctrine of Discovery—a medieval principle of Christian supremacy used to justify European colonization—has been embedded in American constitutional law and continues to affect indigenous peoples and their rights."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-01
 doi: "https://doctrineofdiscovery.org/blog/domination/domination-translator-series-introduction/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'The Domination Translator Series: An Extended 
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

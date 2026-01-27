@@ -2,8 +2,8 @@
 title: "Travelling Along the River of Life"
 description: "Lyons discusses the journey in the Doctrine of Discovery, highlighting his experience presenting at the United Nations in 2001. He focuses on the history of the Haudenosaunee Confederacy, emphasizing the importance of peace and the responsibility to consider future generations."
 abstract: "Lyons discusses the journey in the Doctrine of Discovery, highlighting his experience presenting at the United Nations in 2001. He focuses on the history of the Haudenosaunee Confederacy, emphasizing the importance of peace and the responsibility to consider future generations. He also reflects on the impact of inequity, racism, and the need for change."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-21
 doi:  "https://doi.org/10.1353/cro.2024.a963632"
 pdf: "https://muse.jhu.edu/pub/12/article/963632/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Oren Lyons"
    sort: "1"
-   image: /img/authors/oren-lyons-traditional-640.jpg
+   image: /img/authors/oren-lyons-traditional-640.webp
    university: "Onondaga Nation Turtle Clan Faithkeeper"
    profile_icon: 
     icon: "fa-solid fa-link"

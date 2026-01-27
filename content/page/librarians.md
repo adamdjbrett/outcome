@@ -1,7 +1,7 @@
 ---
 title: Librarians
 description: A note to librarians
-image: "/img/post/christmas-background-1659717_1920.jpg"
+image: "/img/post/christmas-background-1659717_1920.webp"
 permalink: /librarians/
 show_toc: true
 ---

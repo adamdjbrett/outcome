@@ -2,7 +2,7 @@
 title: "Johnson v. M’Intosh, Plenary Power,and Our Colonial Constitution"
 description: "Wife and Child of Bull Plume&#8221; by Kathryn Woodman Leighton (Wikimedia PD-US) This article is part of our “200 Years of&nbsp;Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. "
 abstract: "Wife and Child of Bull Plume&#8221; by Kathryn Woodman Leighton (Wikimedia PD-US) This article is part of our “200 Years of&nbsp;Johnson v. M’Intosh: Law, Religion, and Native American Lands” series. In Johnson v. M’Intosh, Chief Justice John Marshall articulated the doctrine of discovery as a justification for the legal subordination of Native people and their rights. "
-image: "/img/post/plenary.jpg"
+image: "/img/post/plenary.webp"
 date: 2023-03-29
 doi: https://dofd.fyi/c/fay/
 canoncial: "https://canopyforum.org/2023/03/29/johnson-v-mintosh-plenary-power-and-our-colonial-constitution/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Alexandra Fay"
    sort: "1"
-   image: "/img/authors/fay.png"
+   image: "/img/authors/fay.webp"
    university: "Emory University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

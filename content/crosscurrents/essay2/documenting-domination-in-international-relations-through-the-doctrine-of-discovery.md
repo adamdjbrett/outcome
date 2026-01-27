@@ -2,8 +2,8 @@
 title: "Documenting Domination in International Relations Through the Doctrine of Discovery"
 description: "The American Indian Law Alliance (AILA) was founded in 1989 by Tonya Gonnella Frichner as an Indigenous, non-profit organization advocating for sovereignty, human rights, and social justice for Indigenous peoples."
 abstract: "The American Indian Law Alliance (AILA) was founded in 1989 by Tonya Gonnella Frichner as an Indigenous, non-profit organization advocating for sovereignty, human rights, and social justice for Indigenous peoples. AILA works at the international level to support and advocate for Indigenous nations. In 2010, Gonnella Frichner submitted a Preliminary Study on The Impact on Indigenous Peoples of The Doctrine of Discovery to the United Nations. The study highlighted the ongoing effects of the Doctrine of Discovery on Indigenous peoples globally. AILA continues to call for a follow-up study by the United Nations. The organization also works to dismantle the Doctrine of Discovery through advocacy and collaboration with other organizations. Here, Brett and Hill discuss the history of the Doctrine of Discovery, the work of Indigenous nations in international diplomacy, and the importance of shifting from a rights-based approach to a responsibility-based approach. He emphasize the need for collective action to challenge the Doctrine of Discovery and create a more just and sustainable world."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-12
 doi:  "https://doi.org/10.1353/cro.2024.a963640"
 pdf: "https://muse.jhu.edu/pub/12/article/963640/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Adam DJ Brett"
    sort: "1"
-   image: "/img/authors/adam.jpg"
+   image: "/img/authors/adam.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -42,7 +42,7 @@ author:
       title: "Message Adam DJ Brett"
  - name: "Betty Hill (Lyons)"
    sort: "2"
-   image: "/img/authors/betty.jpg"
+   image: "/img/authors/betty.webp"
    university: "American Indian Law Alliance"
    profile_icon: 
     icon: ""

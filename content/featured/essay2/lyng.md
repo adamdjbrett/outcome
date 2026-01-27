@@ -2,7 +2,7 @@
 title: "Lyng v. Northwest Indian Cemetery Protective Association, 485 U.S. 439"
 description: "In 1988 the United States Supreme Court declared constitutional the federal government’s development plan in the High Country, aboriginal homeland of the Karuk Nation of Northern California, sacred to them as well as to the Yurok and Tolowa Nations, and managed today by the US Forest Service as the Six Rivers National Forest among the Siskiyou Mountains."
 abstract: "In 1988 the United States Supreme Court declared constitutional the federal government’s development plan in the High Country, aboriginal homeland of the Karuk Nation of Northern California, sacred to them as well as to the Yurok and Tolowa Nations, and managed today by the US Forest Service as the Six Rivers National Forest among the Siskiyou Mountains. The Court admitted that “it is undisputed that the Indian respondents’ beliefs are sincere and that the Government’s proposed actions will have severe adverse effects on the practice of their religion.” Nevertheless, because the disputed area was on public land, the Court thought that the government should be allowed to manage its property in any way it saw fit, regardless of the severe adverse effects on the religious practice of the three Indigenous nations. A lot has been written about this case, Lyng v. Northwest Indian Cemetery Protective Association, but here I would like to focus on the Court’s reasoning, that this is government property and therefore cannot be protected as Indigenous sacred land with accordance with the religion clauses of the First Amendment to the US Constitution. Justice Sandra Day O’Connor, writing for the majority, declares that “whatever rights the Indians may have to the use of the area—those rights do not divest the Government of its right to use what is, after all, its land."
-image: "/img/post/featured/megan-nixon-RVw8GvUwDj4-unsplash.jpg"
+image: "/img/post/featured/megan-nixon-RVw8GvUwDj4-unsplash.webp"
 date: 2024-12-01
 doi: "https://dofd.fyi/lyng/"
 canoncial: "https://doctrineofdiscovery.org/law/lyng/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Dana Lloyd"
    sort: "1"
-   image: "/img/authors/dana.png"
+   image: "/img/authors/dana.webp"
    university: "Villanova University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

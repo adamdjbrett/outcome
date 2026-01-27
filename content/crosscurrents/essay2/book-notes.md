@@ -2,8 +2,8 @@
 title: "Book Notes: New Books in the Study of Domination"
 description: "Brett and Hill review several books, including The Urgency of Indigenous Values by Philip P. Arnold"
 abstract: "Brett and Hill review several books, including The Urgency of Indigenous Values by Philip P. Arnold, Banning Black Gods: Law and Religions of the African Diaspora by Danielle N. Boaz and Voodoo: The History of a Racial Slur by Danielle N. Boaz."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-11
 doi:  "https://doi.org/10.1353/cro.2024.a963641"
 pdf: "https://muse.jhu.edu/pub/12/article/963641/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Adam DJ Brett"
    sort: "1"
-   image: "/img/authors/adam.jpg"
+   image: "/img/authors/adam.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -42,7 +42,7 @@ author:
       title: "Message Adam DJ Brett"
  - name: "Betty Hill (Lyons)"
    sort: "2"
-   image: "/img/authors/betty.jpg"
+   image: "/img/authors/betty.webp"
    university: "American Indian Law Alliance"
    profile_icon: 
     icon: ""

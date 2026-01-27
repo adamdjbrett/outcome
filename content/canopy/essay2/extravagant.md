@@ -2,7 +2,7 @@
 title: "However, Extravagant The Pretensions Of Johnson V. M’Intosh"
 description: "The George Washington Belt, the Two Row Wampum, and the Hiawatha Belt. The Canandaigua, Two Row, and Haudenosaunee Confederacy Wampum Belts. Image by Lindsay Speer, 2008. This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series."
 abstract: "The George Washington Belt, the Two Row Wampum, and the Hiawatha Belt. The Canandaigua, Two Row, and Haudenosaunee Confederacy Wampum Belts. Image by Lindsay Speer, 2008. This article is part of our “200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands” series."
-image: "/img/post/extravagant.jpg"
+image: "/img/post/extravagant.webp"
 date: 2023-03-23
 doi: https://dofd.fyi/c/lyons/
 canoncial: "https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Betty Hill (Lyons)"
    sort: "1"
-   image: "/img/authors/betty.jpg"
+   image: "/img/authors/betty.webp"
    university: "American Indian Law Alliance"
    profile_icon: 
     icon: ""
@@ -29,7 +29,7 @@ author:
       title: "Betty Hill (Lyons) Google Scholar"
  - name: "Adam DJ Brett"
    sort: "2"
-   image: "/img/authors/adam.jpg"
+   image: "/img/authors/adam.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

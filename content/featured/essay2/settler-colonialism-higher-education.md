@@ -2,7 +2,7 @@
 title: "Settler Colonialism in Higher Education: Syracuse University and the Legacy of the Doctrine of Discovery (… and Onondaga Limestone)"
 description: "Keywords: Settler colonialism, higher education, land grant, the Whipple Report, Onondaga Nation, Syracuse University"
 abstract: "In this article, I examine ways in which Syracuse University, a higher education institution located in Central New York, was founded from settler colonialism vis-à-vis the Doctrine of Discovery."
-image: "/img/post/featured/Sims_Resized-copy.jpg"
+image: "/img/post/featured/Sims_Resized-copy.webp"
 date: 2024-11-24
 doi:  "https://dofd.fyi/he/"
 canoncial:  "https://doctrineofdiscovery.org/blog/settler-colonialism-higher-education/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Hugh Burnam"
    sort: "1"
-   image: "/img/authors/hugh-burnam-headshot.png"
+   image: "/img/authors/hugh-burnam-headshot.webp"
    university: 
    profile_icon: 
     icon: "fa-brands fa-linkedin"
@@ -90,7 +90,7 @@ The Indian Removal Policy was most favored by settler society, but while Indian 
 
 The third chancellor of Syracuse University, Charles Sims, a Methodist preacher, served as chair of a committee of religious converts. Sims and his constituents participated in interviews conducted by a Chairman, James S. Whipple, called _The Special Committee to Investigate the Indian Problem of New York State_ who eventually generated a large manuscript known as “The Whipple Report” to which the committee compiled interviews with the specific purpose to assimilate and divide Indigenous lands in New York State. Sims describes how he and his colleagues attempted to negotiate a “treaty” between New York State, Syracuse University and the Onondaga Nation. Interviews recorded in the [Whipple Report (1889)](https://nysl.ptfs.com/#!/s?a=c&q=*&type=16&criteria=field11%3D4709377&b=0) reveal that in Sims and his associates, pushed for total assimilation of Onondaga children in order to divide Onondaga lands to benefit Syracuse University, an effort which ultimately failed. Later Sims mentions this fraudulent treaty in his own journal notes, now located in Syracuse University’s archives called, “The Onondaga Treaty” (1883). In the following subsections, I describe Chancellor Sims’ efforts to divide and privatize Indigenous lands and the state’s efforts to do the same, in the Whipple Report.
 
-<!-- Missing image: The Onondaga Treaty- Report of the Commission appointed by the State of New York 1883 (onondaga-treaty-report.png) -->
+<!-- Missing image: The Onondaga Treaty- Report of the Commission appointed by the State of New York 1883 (onondaga-treaty-report.webp) -->
 
 Image source: \*The Onondaga Treaty- Report of the Commission appointed by the State of New York 1883\*, Syracuse University Archives, Box 10, folder RG 01, Accessed: November 11, 2022.
 
@@ -108,7 +108,7 @@ The philanthropic “treaty” negotiation effort led by Chancellor Sims was ind
 
 _The Whipple Report._ A document titled, _The Special Committee to Investigate the Indian Problem of New York State_ also known as “The Whipple Report” was designed to investigate the social, moral, and industrial condition of tribes or Indigenous nations in New York State. The special committee examined all treaties between each Indigenous nation and interviewed participants as to the conditions of each tribal nation to determine legislative action across the state. As documented in the Whipple Report, Charles Sims and Bishop Huntington,[2](#fn:2) both of whom were Syracuse University leaders and affiliates, mention the condition of the Onondaga Nation. Sims co-founded a local group (“committee”) which consisted of many people in the Syracuse area including religious leaders, missionaries, judges, and politicians— and of course, individuals associated with Syracuse University— to convince people to address the customs of the Onondaga Nation and the ways in which Onondaga people conducted their lives. Their group called attention to their problem with Onondaga ceremonies, agriculture, schooling, child rearing, and their marriages. The following excerpt was taken from this interview conducted with Duncan in the report (1889),
 
-<!-- Missing image: Onondaga described as Indian Problem (onondaga-indian-problem.png) -->
+<!-- Missing image: Onondaga described as Indian Problem (onondaga-indian-problem.webp) -->
 <!-- Image source: The Special Committee to Investigate the Indian Problem of New York State, 1889, p. 1221. -->
 
 Local politicians and people of power were constantly meeting about “what to do” about the Onondaga Nation, considering their interest in the land. It was clear that this local group (“committee”), co-chaired by Chancellor Sims, wanted to do something about the “Onondaga Indian Problem” (p. 1221) to which they made mention to a “treaty” with Onondaga. According to the Whipple Report (1889) on July 9, 1888, the committee interviewed Syracuse University Chancellor Charles Sims and Sims summed up what he thought should be done about the Onondaga people and their lands,
@@ -121,7 +121,7 @@ The non-Native man who leased the quarry on the south end from the Onondaga Nati
 
 In this paper, I discussed several historical moments in which Syracuse University followed in the long dark legacy of settler “discovery.” After the Doctrine of Discovery was adopted into US law, Indigenous lands were thought to be fair game for most of the general American public, especially those in power positions in institutions of higher education. In 1862 the Morrill Land Grant College Act was passed through the Supreme Court which funded the founding land-grant-colleges, directly from the sales of federally “owned” lands obtained from seizure of Indigenous lands during the allotment era. In 1865, Cornell University donated $25,000 from Morrill grant aid, towards Syracuse University’s founding (this amount is worth approximately $500,000 today). In early 1870’s Judge Comstock offered Syracuse University a mysterious 50 acres of farmland on the hill. In 1870 Syracuse University was founded. In 1883 Chancellor Charles Sims created a fraudulent treaty, which Onondaga Chiefs voted unanimously against. In 1889 the Whipple Report was published about New York State’s years of efforts to completely seize all Indigenous lands in New York State, an effort which ultimately failed. Precious limestone in Onondaga quarries, later named “Onondaga Limestone” contributed to the production of salt in the City of Syracuse (Smith, 1904, p. 199). The limestone quarries offered the Onondaga Nation some level of economic advantage and political sovereignty during a period of Indigenous termination.
 
-<!-- Missing image: Map of Onondaga Territory (onondaga-reservation.png) -->
+<!-- Missing image: Map of Onondaga Territory (onondaga-reservation.webp) -->
 
 ### References
 

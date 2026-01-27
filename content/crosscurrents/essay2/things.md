@@ -2,8 +2,8 @@
 title: "Things We Already Knew Before the Prophecy of I Am"
 description: "I am the meadow And the tall grasses I am the stone That rolled away I am the water That flows through all life possible I am the tree That shades"
 abstract: "I am the meadow And the tall grasses.."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-10
 doi:  "https://doi.org/10.1353/cro.2024.a963643"
 pdf: "https://muse.jhu.edu/pub/12/article/963643/pdf"

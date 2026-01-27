@@ -5,7 +5,7 @@ description: "Religion Compass is an online-only journal published by Wiley, pro
 abstract: "Religion Compass publishes original, peer-reviewed surveys of current research from across the field of religious studies. The journal provides both experts and non-specialists with an accessible and comprehensive introduction to emerging topics and contemporary research. Each article offers a synoptic overview of key themes, debates, and recent scholarship, making Religion Compass an essential resource for researchers, students, and anyone seeking to understand the latest developments in the study of religion."
 breadcumb: compass
 #pdf_download: "/pdf/compass/"
-image: "/img/post/religion-compass.png"
+image: "/img/post/religion-compass.webp"
 show_toc: true
 pagination:
   data: collections.compassall

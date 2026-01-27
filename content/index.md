@@ -10,16 +10,16 @@ image:
 widget_title: Featured Content
 widget:
  - title: Featured
-   image: /img/post/legal.jpg
+   image: /img/post/legal.webp
    url: /featured/
  - title: CrossCurrents
-   image: /img/post/crosscurrents-thumbnail.png
+   image: /img/post/crosscurrents-thumbnail.webp
    url: /crosscurrents/
  - title: JCREOR
-   image: /img/post/honor-two-row-3-wampum-belts.jpg
+   image: /img/post/honor-two-row-3-wampum-belts.webp
    url: /jcreor/
  - title: Podcast
-   image: /img/post/mapping-doctrine-of-discovery-favicon.png
+   image: /img/post/mapping-doctrine-of-discovery-favicon.webp
    url: /podcast
 pagination:
   data: collections.posting

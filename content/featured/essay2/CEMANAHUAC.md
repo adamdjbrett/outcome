@@ -2,7 +2,7 @@
 title: "Superseding the Doctrine of Discovery: World Water One"
 description: "CEMANAHUAC - Superseding the Doctrine of Discovery: World Water One www.www.www"
 abstract: "Ten years since the First Dismantling the Doctrine of Discovery International Conference held at Arizona State University West on April 1920, 2013, the Continental Commission Abya Yala will advance into the next cycle of INTENT and ENGAGEMENT towards the objectives and goals of the local-regional, continental-global initiative which has remained active across the continent throughout this most recent chapter of our collective history as Original Nations of Indigenous Peoples of the Great Turtle Island Abya Yala."
-image: "/img/post/featured/7Cuevas-med.jpg"
+image: "/img/post/featured/7Cuevas-med.webp"
 date: 2024-11-25
 doi:  "https://dofd.fyi/1c/"
 canoncial:  "https://doctrineofdiscovery.org/blog/1CEMANAHUAC/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Tupac Enrique Acosta"
    sort: "1"
-   image: "/img/authors/Tupac-Enrique-Acosta.jpg"
+   image: "/img/authors/Tupac-Enrique-Acosta.webp"
    university: 
    profile_icon: 
     icon: "fa-solid fa-link"
@@ -182,7 +182,7 @@ _In a moment’s time_ _There is a place._ _Where all that came to be_ _Arrives_
 
 - - -
 
-<!-- decorative image: image_002.png not available -->
+<!-- decorative image: image_002.webp not available -->
 
 #WorldWaterOne
 

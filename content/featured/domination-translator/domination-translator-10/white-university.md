@@ -2,7 +2,7 @@
 title: "White v. University of California (9th Cir., 2014) - Domination Translator Series - Part 10"
 description: "UC professors attempted to prevent repatriation of Kumeyaay Nation ancestral remains, invoking tribal sovereignty immunity doctrines."
 abstract: "Part 10 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. UC professors attempted to prevent repatriation of Kumeyaay Nation ancestral remains, invoking tribal sovereignty immunity doctrines."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-10
 doi: "https://doctrineofdiscovery.org/blog/domination/white-university/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'White v. University of California (9th Cir., 2
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

@@ -2,8 +2,8 @@
 title: "Christian Nationalism in the Lithuanian Context"
 description: "The transition of Lithuania from a pagan to a Roman Catholic culture began with Pope Innocent IV's issuance of Bulls in 1251. Mindaugas, Grand Duke of Lithuania, was baptized Christian, and Lithuania was placed under the jurisdiction of the Bishop of Rome. The Dominicans led crusades against pagans in Prussia and Livonia."
 abstract: "The transition of Lithuania from a pagan to a Roman Catholic culture began with Pope Innocent IV's issuance of Bulls in 1251. Mindaugas, Grand Duke of Lithuania, was baptized Christian, and Lithuania was placed under the jurisdiction of the Bishop of Rome. The Dominicans led crusades against pagans in Prussia and Livonia. Later papal Bulls by Pope Alexander IV further solidified Roman Catholic dominance in Lithuania. The Roman Catholic Church has played a significant role in Lithuania's history and continues to influence its national identity. Christian Nationalism, intertwined with Roman Catholicism, shapes Lithuania's social and political order. Religious NGOs and the Lithuanian Parliament play a role in preserving traditional values and opposing perceived threats. The conflict between Roman Catholicism and traditional Baltic religion, exemplified by the Romuva community, reflects tensions in defining Lithuanian national identity."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-14
 doi:  "https://doi.org/10.1353/cro.2024.a963638"
 pdf: "https://muse.jhu.edu/pub/12/article/963638/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Eglutė Trinkauskaitė"
    sort: "1"
-   image: /img/authors/Eglute-Trinkauskaite.jpeg
+   image: /img/authors/Eglute-Trinkauskaite.webp
    university: "Maryland Institute College of Arts"
    profile_icon: 
     icon: "fa-solid fa-link"

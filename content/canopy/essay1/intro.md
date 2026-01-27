@@ -2,7 +2,7 @@
 title: "Introduction to 200 Years of Johnson v. M’Intosh: Law, Religion, and Native American Lands"
 description: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Courts landmark ruling in Johnson v. M’Intosh (1823) includes all these elements."
 abstract: "As historians of religions, we are interested in myths, history, and creation narratives. The U.S. Supreme Court’s landmark ruling in Johnson v. M’Intosh (1823) includes all these elements. The Johnson decision illustrates one of the powerful ways in which Christianity has played a hegemonic role within American law and culture at the expense of Mother Earth and all living beings, especially Indigenous peoples."
-image: "/img/post/NARA.jpg"
+image: "/img/post/NARA.webp"
 date: 2024-10-20
 doi: https://dofd.fyi/c/intro/
 canoncial:  "https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Philip P. Arnold"
    sort: "1"
-   image: "/img/authors/pparnold.jpg"
+   image: "/img/authors/pparnold.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -29,7 +29,7 @@ author:
       title: "Philip P Arnold ORCID"
  - name: "Sandra Bigtree"
    sort: "2"
-   image: "/img/authors/sandra.jpg"
+   image: "/img/authors/sandra.webp"
    university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"
@@ -43,7 +43,7 @@ author:
       title: "Sandra Bigtree URL Link"
  - name: "Adam DJ Brett"
    sort: "3"
-   image: "/img/authors/adam.jpg"
+   image: "/img/authors/adam.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -90,7 +90,7 @@ Methodology
 
 Abolishing something as pernicious as the Doctrine of Christian Discovery requires collaboration between settler-colonial and Indigenous Peoples. As guest editors of this series and members of the Indigenous Values Initiative at Syracuse University, we are guided by Haudenosaunee practices of peace (_Skä·noñh_), described in Betty Lyons’ article. _Skä·noñh_ is attained only when human beings have a proper relationship with the natural world. The Haudenosaunee “Great Binding Peace” is the basis for their understanding of freedom and democracy. This pre-colonial matrilineal clan system of governance has been practiced for thousands of years, throughout periods of warfare, colonization, forced removal, and environmental destruction, which were often conducted under a banner of Christian hegemony. In the 18th century, the Haudenosaunee Confederacy’s non-monarchical system of government was a source of great inspiration to the Founding Fathers. By the 19th century, their matrilineal clan system had influenced the Women’s Rights Movement. 
 
-![{{title}}](/img/post/indian.jpg)
+![{{title}}](/img/post/indian.webp)
 
 “We were planting corn and they were planting crosses.” ~ Faithkeeper Oren Lyons.  
 (Photo by Phillip P. Arnold from the Skä•noñh Great Law of Peace Center.)

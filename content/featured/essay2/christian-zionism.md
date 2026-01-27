@@ -2,7 +2,7 @@
 title: "The Doctrine of Discovery and Christian Zionism"
 description: "The Doctrine of Discovery (DoD) has a well-documented and researched connection to the colonization of Turtle Island. Its ideology, however, reaches far beyond the continent’s bounds."
 abstract: "The Doctrine of Discovery (DoD) has a well-documented and researched connection to the colonization of Turtle Island. Its ideology, however, reaches far beyond the continent’s bounds. What is less researched is the DoD’s connection to European colonialism in the rest of the world."
-image: "/img/post/featured/sacred-text-land-deed.png"
+image: "/img/post/featured/sacred-text-land-deed.webp"
 date: 2024-11-28
 doi: "https://dofd.fyi/cz/"
 canoncial: "https://doctrineofdiscovery.org/blog/christian-zionism/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Jonathan Brenneman"
    sort: "1"
-   image: "/img/authors/jonathan-brenneman-sq-250x250.jpg"
+   image: "/img/authors/jonathan-brenneman-sq-250x250.webp"
    about: "Jonathan is a Palestinian-American Christian and graduate of the Kroc Institute for International Peace Studies. He has worked in multiple countries doing Palestine advocacy, human rights monitoring, grassroots organizing, and challenging anti-Arab racism."
    information: 
     - text: "Jonathan’s work connects the Palestinian decolonial struggle with those of other indigenous peoples, and challenges theologies of domination."

@@ -2,7 +2,7 @@
 title: "Reappraising the Doctrine of Discovery"
 description: "Again, were we to inquire by what law or authority you set up a claim [to our land], I answer, none! Your laws extend not into our country, nor ever did."
 abstract: "Again, were we to inquire by what law or authority you set up a claim [to our land], I answer, none! Your laws extend not into our country, nor ever did. You talk of the law of nature and the law of nations, and they are both against you. ~ Corn Tassel (Cherokee, 1785)"
-image: "/img/post/featured/richard-cohrs-DeRk8Mlnd78-unsplash.jpg"
+image: "/img/post/featured/richard-cohrs-DeRk8Mlnd78-unsplash.webp"
 date: 2024-12-03
 doi:  "https://dofd.fyi/reapp/"
 canoncial:  "https://doctrineofdiscovery.org/blog/reapprasing-the-doctrine-discovery/"

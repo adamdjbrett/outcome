@@ -2,8 +2,8 @@
 title: 'An Unholy Wedding: Christianity, Civilizational Supremacy, and the In/visibility of "Race" in Post-colonial Philippines'
 description: "An often-heard truism among homeland Filipinos in conversations with their diasporic counterparts in the United States is the notion that race and racism are irrelevant categories when it comes to the Philippines. 'Don't export your racism to us,' is the usual protest. 'There's no racism in the Philippines."
 abstract: "An often-heard truism among homeland Filipinos in conversations with their diasporic counterparts in the United States is the notion that race and racism are irrelevant categories when it comes to the Philippines. 'Don't export your racism to us,' is the usual protest. 'There's no racism in the Philippines.We all descend from the islands' original peoples.' Wary—and rightfully so—of the often-decontextualized exportation of debates and discourses to the home country (as has been the case historically in a kind of center-periphery trajectory), one interlocutor quips: 'You cannot employ the white settler colonizer vs. Indigenous in North America to the paradigm of the Philippines. … People from the Philippines, yes, including many from different Indigenous groups … do not consider themselves so removed from [other] Filipinos who are not part of their heritage.'"
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-15
 doi:  "https://doi.org/10.1353/cro.2024.a963637"
 pdf: "https://muse.jhu.edu/pub/12/article/963637/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "S. Lily Mendoza"
    sort: "1"
-   image: "/img/authors/lily-mendoza.png"
+   image: "/img/authors/lily-mendoza.webp"
    university: 
    about: "S. Lily Mendoza is a Kapampangan-born Filipina and currently resides in Waawiyatanong (aka Detroit, Michigan)."
    information: 

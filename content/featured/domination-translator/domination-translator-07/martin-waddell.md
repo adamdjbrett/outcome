@@ -2,7 +2,7 @@
 title: "Martin v. Waddell (1842) - Domination Translator Series - Part 7"
 description: "Martin v. Waddell (1842) applied the Doctrine of Discovery to oyster beds, asserting European discovery gave absolute property rights."
 abstract: "Part 07 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. Martin v. Waddell (1842) applied the Doctrine of Discovery to oyster beds, asserting European discovery gave absolute property rights."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-07
 doi: "https://doctrineofdiscovery.org/blog/domination/martin-waddell/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'Martin v. Waddell (1842) - Domination Translat
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

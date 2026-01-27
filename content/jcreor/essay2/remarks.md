@@ -2,7 +2,7 @@
 title: "Remarks on the Freedom of Religion or Belief Report"
 description: 'Remarks delivered at the forum “Freedom of Religion or Belief for Indigenous Peoples: The 2022 UN Report,” at the Center for Earth Ethics at Union Theological Seminary on October 26, 2022.'
 abstract: 'Remarks delivered at the forum “Freedom of Religion or Belief for Indigenous Peoples: The 2022 UN Report,” at the Center for Earth Ethics at Union Theological Seminary on October 26, 2022. This forum discussed human rights questions, including alternative approaches for improving the effective enjoyment of human rights and fundamental freedoms.'
-image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
+image: "/img/post/jcreor/cover_issue_12_en_US.webp"
 date: 2024-09-19
 doi: https://doi.org/10.26443/jcreor.v5i2.115
 pdf: /pdf/jcreor/remarks.pdf
@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Betty Hill (Lyons)"
    sort: "1"
-   image: "/img/authors/betty.jpg"
+   image: "/img/authors/betty.webp"
    university: "American Indian Law Alliance"
    profile_icon: 
     icon: ""

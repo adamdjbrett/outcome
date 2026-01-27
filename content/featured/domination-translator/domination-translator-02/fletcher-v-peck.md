@@ -2,7 +2,7 @@
 title: "Fletcher v. Peck (1810) - Domination Translator Series - Part 2"
 description: "The Fletcher v. Peck case examined whether the U.S. courts would recognize Indian title to land, and how colonial charters justified domination."
 abstract: "Part 02 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. The Fletcher v. Peck case examined whether the U.S. courts would recognize Indian title to land, and how colonial charters justified domination."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-02
 doi: "https://doctrineofdiscovery.org/blog/domination/fletcher-v-peck/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'Fletcher v. Peck (1810) - Domination Translato
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

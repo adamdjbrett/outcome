@@ -2,7 +2,7 @@
 title: "What Doctrine of Discovery Statements of Religious Repudiation Reveal"
 description: "Nations formulate doctrines that define and guide their relations toward other nations. The Monroe Doctrine, and the Truman, Carter, and Bush Doctrines are American examples."
 abstract: "Nations formulate doctrines that define and guide their relations toward other nations. The Monroe Doctrine, and the Truman, Carter, and Bush Doctrines are American examples. As nations in Christendom in the 15th century had the wherewithal to explore the world by sea, popes formulated a doctrine to shape their relations with the lands and people the explorers would encounter."
-image: "/img/post/featured/rod-long-VHS_CmxFBGI-unsplash.jpg"
+image: "/img/post/featured/rod-long-VHS_CmxFBGI-unsplash.webp"
 date: 2024-12-06
 doi:  "https://dofd.fyi/wrep/"
 canoncial:  "https://doctrineofdiscovery.org/blog/what-repudiations-reveal/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Arden Mahlberg"
    sort: "1"
-   image: "/img/authors/mahlberg.jpg"
+   image: "/img/authors/mahlberg.webp"
    university: 
    profile_icon: 
     icon: "fa-solid fa-link"

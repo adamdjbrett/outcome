@@ -2,7 +2,7 @@
 title: "U.S. v. King Mountain Tobacco Co., Inc. (9th Cir. Court, August 13, 2012) - Domination Translator Series - Part 15"
 description: "U.S. v. King Mountain Tobacco (2012) asserted federal excise tax authority over Yakama Nation based on plenary power doctrine."
 abstract: "Part 15 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. U.S. v. King Mountain Tobacco (2012) asserted federal excise tax authority over Yakama Nation based on plenary power doctrine."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-15
 doi: "https://doctrineofdiscovery.org/blog/domination/king-mountain/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'U.S. v. King Mountain Tobacco Co., Inc. (9th C
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

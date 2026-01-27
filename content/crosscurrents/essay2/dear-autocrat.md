@@ -2,8 +2,8 @@
 title: "DEAR AUTOCRAT(S)"
 description: "We never strived to be your equals Or fought for that sameness of identity There was no reason for uprising Against your anthropocentric prototyped pattern Foreseen long before your arrival"
 abstract: "A poem is presented - We never strived to be your equals Or fought for that sameness of identity There was no reason for uprising Against your anthropocentric prototyped pattern Foreseen long before your arrival Because we had established equivalent equity Millennium prior to your pilgrimage of biblical conquest And your utopian misunderstanding of our communities And your fear of the unknown"
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-22
 doi:  "https://doi.org/10.1353/cro.2024.a963631"
 pdf: "https://muse.jhu.edu/pub/12/article/963631/pdf"

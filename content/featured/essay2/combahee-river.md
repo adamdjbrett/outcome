@@ -2,7 +2,7 @@
 title: "Part 1: The Origins of the Combahee River Collective Statement"
 description: "Asia, Africa, and Europe all meet in the Americas to labor over the dialectics of free and unfree"
 abstract: "Asia, Africa, and Europe all meet in the Americas to labor over the dialectics of free and unfree, but what of the Americas themselves and the prior peoples upon whom that labor took place?” ~Jodi Byrd, Transit of Empire: Indigenous Critiques of Colonialism"
-image: "/img/post/featured/3440029653_5e5275d800_o.jpg"
+image: "/img/post/featured/3440029653_5e5275d800_o.webp"
 date: 2024-11-20
 doi:  "https://dofd.fyi/cr/"
 canoncial:  "https://doctrineofdiscovery.org/blog/river/combahee-river/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Sarah Nahar"
    sort: "1"
-   image: "/img/authors/sarah-nahar.jpeg"
+   image: "/img/authors/sarah-nahar.webp"
    university: "Syracuse University"
    about: "Sarah Nahar is a PhD student in Religion and Environmental Studies at Syracuse University and SUNY College of Environmental Science and Forestry, on unceded Onondaga land."
    social:

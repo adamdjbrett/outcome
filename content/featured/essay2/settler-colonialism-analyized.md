@@ -2,7 +2,7 @@
 title: "Part 3: Using the Doctrine of Discovery to Foreground an Analysis of Settler Colonialism"
 description: "In the 1600s when enslaved Africans disembarked en masse and travel weary to this land mass, they arrived in a place where hundreds of Indigenous groups lived since time immemorial."
 abstract: "In the 1600s when enslaved Africans disembarked en masse and travel weary to this land mass, they arrived in a place where hundreds of Indigenous groups lived since time immemorial.1 Since that moment The majority of the interactions between Black people and Indigenous Peoples living in the so-called United States occur(red) in the bloody context of settler colonial imperialism."
-image: "/img/post/featured/a-correct-map-of-virginia-2e6b71-1600.jpg"
+image: "/img/post/featured/a-correct-map-of-virginia-2e6b71-1600.webp"
 date: 2024-11-18
 doi:  "https://dofd.fyi/sca/"
 canoncial:  "https://doctrineofdiscovery.org/blog/river/settler-colonialism-analyized/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Sarah Nahar"
    sort: "1"
-   image: "/img/authors/sarah-nahar.jpeg"
+   image: "/img/authors/sarah-nahar.webp"
    university: "Syracuse University"
    about: "Sarah Nahar is a PhD student in Religion and Environmental Studies at Syracuse University and SUNY College of Environmental Science and Forestry, on unceded Onondaga land."
    social:

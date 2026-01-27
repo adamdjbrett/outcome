@@ -2,7 +2,7 @@
 title: "How we met the Doctrine of Discovery. A Maya commentary - Doctrine of Discovery"
 description: "It was an ordinary evening on October 9, 2018 when, scrolling down my mouse wheel randomly looking at posts on Facebook something suddenly caught my attention: A post launched an invitation from the Mennonite Coalition for the Dismantling of the Doctrine of Discovery to join a Christian lament in the United States."
 abstract: "It was an ordinary evening on October 9, 2018 when, scrolling down my mouse wheel randomly looking at posts on Facebook something suddenly caught my attention: A post launched an invitation from the Mennonite Coalition for the Dismantling of the Doctrine of Discovery to join a Christian lament in the United States. The post invited lamenting of the Doctrine of Discovery (DD) and encouraged reflection on its consequences for the lives of Indigenous Peoples today."
-# image: "/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg" # Missing image
+# image: "/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.webp" # Missing image
 date: 2024-12-05
 doi:  "https://dofd.fyi/maya/"
 canoncial:  "https://doctrineofdiscovery.org/blog/doctrine-discovery-maya-commentary/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Manuel May Castillo"
    sort: "1"
-   image: "/img/authors/manuel-may.jpg"
+   image: "/img/authors/manuel-may.webp"
    university: 
    profile_icon: 
     icon: "fa-solid fa-link"
@@ -74,7 +74,7 @@ However, the juridical concept of _nullius (or nullus)_ applied not only to the 
 
 In Mesoamerica the idea of _Nullus Persona_ is underpinned by paganism-barbarism attributed by the Spaniards to native peoples. The construction of a barbarian ‘Other’ is fueled by allegations of cannibalism and human sacrifice by Hernan Cortés and friars, such as Diego de Landa, from the early stages of colonization.[7](#fn:7) As such, the Doctrine of Discovery, _terra nullius_ and _Nullus Persona_ (a juridical “disabled” Indigenous ‘Other’: barbarian and infidel) had been set in motion for the colonial project in the Americas aiming at legitimizing a constructed status of moral and racial superiority for European Christians and their authorities.
 
-<!-- Missing image: the interlocking gears of the doctrine of discovery (mark.png) -->
+<!-- Missing image: the interlocking gears of the doctrine of discovery (mark.webp) -->
 
 Figure 1. The ideological assemblage of the Doctrine of Discovery, \*terra nullius\* and paganism-barbarism
 
@@ -96,9 +96,9 @@ Landa’s account does not allude to _terra nullius_, even though it is an essen
 
 ### The Doctrine of Discovery and Maya heritage in the 17th - 19th centuries
 
-<!-- Missing image: Uxmal, main facade of the Governor's Palace in 1842 (Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg) -->
+<!-- Missing image: Uxmal, main facade of the Governor's Palace in 1842 (Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.webp) -->
 
-Figure 2. Palacio del Gobernador at Uxmal by Catherwood (Stephens 1843: Frontspiece Vol. 1) via [Wikipedia](https://commons.wikimedia.org/wiki/File:Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg).
+Figure 2. Palacio del Gobernador at Uxmal by Catherwood (Stephens 1843: Frontspiece Vol. 1) via [Wikipedia](https://commons.wikimedia.org/wiki/File:Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.webp).
 
 Colonial testimonies in Yucatan show allegations of paganism-barbarism in the context of land concessions, claims or disputes, in such a way that these testimonies can be instrumental to legitimize the occupation of so called idle lands (tierras ociosas). Indigenous territories, however, housed pre-colonial cities, buildings and temples where rituals were continuously performed in spite of the Inquisition. The testimony of explorer and lawyer John Lloyd Stephens - about his visit to the Yucatan Peninsula between 1839 and 1842 - illustrates how the idea of paganism was invoked in a land litigation process in the 17^th^ Century. Stephens alludes to historical documents with which Captain Lorenzo de Evia petitioned the Spanish king to grant the land around Uxmal.[11](#fn:11) This procedure apparently begins on May 12, 1673, according to Stephens’ testimony. In these times, more than a century after _Inter caetera_, the land ownership situation was much more complex in the Maya region and a good number of Indigenous people owning property titles could already be counted (Bracamonte y Sosa 2003: 151-189).[12](#fn:12) However, in order to mobilize the land concession in his favor, de Evia used paganism in his argument:
 

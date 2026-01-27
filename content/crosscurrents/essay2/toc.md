@@ -1,8 +1,8 @@
 ---
 title: "Table of Contents"
 description: "Article Table of Content"
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-08
 doi:  "https://muse.jhu.edu/issue/55074/online"
 #pdf: "/pdf/01-intro.pdf"
@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "The Association for Public Religion and Intellectual Life (APRIL)"
    sort: "1"
-   image: /img/authors/April-logo02.png
+   image: /img/authors/April-logo02.webp
    profile_icon: 
     icon: "fa-solid fa-link"
     link: "https://www.aprilonline.org/"

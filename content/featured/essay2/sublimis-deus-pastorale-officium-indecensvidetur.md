@@ -2,7 +2,7 @@
 title: "Sublimis Deus, Pastorale Officium and Non Indecens Videtur – A Historical Dive Into the Vatican’s Failure to Rescind the Doctrine of Discovery"
 description: "In our journey of dismantling the Doctrine of Discovery and its horrible legacy, there is a recurring argument from the Catholic church and its supporters, that there is no need for the church to formally rescind, for it has already done so through the papal bull, Sublimis Deus."
 abstract: "In our journey of dismantling the Doctrine of Discovery and its horrible legacy, there is a recurring argument from the Catholic church and its supporters, that there is no need for the church to formally rescind, for it has already done so through the papal bull Sublimis Deus. I have previously provided a brief overview as to why this argument does not hold true, and for those who wish to dive a little deeper into this history, now offer further discussion below."
-image: "/img/post/featured/sublims.png"
+image: "/img/post/featured/sublims.webp"
 date: 2024-12-08
 doi:  "https://dofd.fyi/sdpoi/"
 canoncial:  "https://doctrineofdiscovery.org/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: Tina Ngata
    sort: "1"
-   image: "/img/authors/tina.png"
+   image: "/img/authors/tina.webp"
    university: "Ngāti Porou"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -39,10 +39,10 @@ Repudiation relates to the moral rejection and renunciation of a concept. Within
 
 Rescindment refers to the revoking and repealing of a law or policy. Within the context of the Doctrine of Discovery, rescindment is most often what is called upon by the Vatican to do, as the papal bulls (laws) which form the basis of the Doctrine of Discovery, were issued by the Vatican.
 
-[![]({{metadata.url}}/img/post/featured/sublims.png)]({{metadata.url}}/img/post/featured/sublims.png)
+[![]({{metadata.url}}/img/post/featured/sublims.webp)]({{metadata.url}}/img/post/featured/sublims.webp)
 
 a Rescind the Doctrine of Discovery banner hanging before the Pope  
-[(image source)](https://cathnews.co.nz/wp-content/uploads/2022/08/r0_0_800_600_w800_h600_fmax.jpg)
+[(image source)](https://cathnews.co.nz/wp-content/uploads/2022/08/r0_0_800_600_w800_h600_fmax.webp)
 
 It’s important for us to be clear about these two concepts, because so often those who argue against rescindment of the papal pulls cite the many instances where the Catholic church has repudiated the concepts of slavery and dispossession, including through the papal bull Sublimis Deus ([as we saw recently](https://cruxnow.com/pope-in-canada/2022/07/rescind-the-doctrine-protest-greets-pope-in-canada) when church defenders responded to First Nation protests calling for the Pope to rescind the Doctrine of Discovery, during his papal visit to Canada). [As stated by leading Doctrine of Discovery scholar, Steven Newcomb](https://indiancountrytoday.com/archive/on-the-papal-bull-sublimis-deus) it is important that the Pope formally and ceremonially revoke the entire body of papal bulls which constitute the Doctrine of Discovery, in order to systemically undercut the very basis of the arguments of domination which remain to be used against us to this day.
 
@@ -54,13 +54,13 @@ Understanding the intent and application of _Sublimis Deus_ calls us to take a d
 
 <div class="row">
 <div class="col-md-4 p-3">
-<!-- Missing image: Portrait of Pope Paul III (sublimis-deus-image005.jpg) -->
+<!-- Missing image: Portrait of Pope Paul III (sublimis-deus-image005.webp) -->
 </div>
 <div class="col-md-4 p-3">
-<!-- Missing image: Portrait of Bartolome De Las Casas (sublimis-deus-image004.jpg) -->
+<!-- Missing image: Portrait of Bartolome De Las Casas (sublimis-deus-image004.webp) -->
 </div>
 <div class="col-md-4 p-3">
-<!-- Missing image: Portrait of King Charles (sublimis-deus-image003.png) -->
+<!-- Missing image: Portrait of King Charles (sublimis-deus-image003.webp) -->
 </div>
 </div>
 

@@ -2,8 +2,8 @@
 title: "The Challenges of Revoking the Papal Bulls: A View-from-the-Shore Analysis of Recent Statements by Christian Churches"
 description: "Let us set the context for this discussion. The context begins with the free existence of our Native nations and peoples, extending back to the beginning of our time through our oral histories and traditions, contrasted with the system of domination that was carried by ship across the ocean and imposed on everyone and everything."
 abstract: "Let us set the context for this discussion. The context begins with the free existence of our Native nations and peoples, extending back to the beginning of our time through our oral histories and traditions, contrasted with the system of domination that was carried by ship across the ocean and imposed on everyone and everything. From that starting point we end up with a non-Christian view-from-the-shore with our Ancestors looking out at the invading ships sailing from Western Christendom, and a view-from-the-ship perspective, with the colonizers moving toward our Ancestors with the intention of establishing the Christian empire's system of domination where it did not yet exist"
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-18
 doi:  "https://doi.org/10.1353/cro.2024.a963635"
 pdf: "https://muse.jhu.edu/pub/12/article/963635/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Steven T. Newcomb"
    sort: "1"
-   image: "/img/authors/steven.png"
+   image: "/img/authors/steven.webp"
    university: "Indigenous Law Institute"
    profile_icon: 
     icon: "fa-solid fa-link"

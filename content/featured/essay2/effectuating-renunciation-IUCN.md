@@ -2,7 +2,7 @@
 title: "Effectuating Renunciation: An International Effort to Provide a Pathway to Repudiate the Doctrine of Discovery"
 description: "On September 8, 2021 the International Union for Conservation of Nature (IUCN) voted to renounce the Doctrine of Discovery by adopting Motion 048, now Resolution 119 for the Renunciation of the Doctrine of Discovery to Rediscover care for Mother Earth."
 abstract: "On September 8, 2021 the International Union for Conservation of Nature (IUCN) voted to renounce the Doctrine of Discovery by adopting Motion 048, now Resolution 119 for the Renunciation of the Doctrine of Discovery to Rediscover care for Mother Earth."
-image: "/img/post/featured/david-marcu-78A265wPiO4-unsplash.jpg"
+image: "/img/post/featured/david-marcu-78A265wPiO4-unsplash.webp"
 date: 2024-11-29
 doi: "https://dofd.fyi/iucn/"
 canoncial: "https://doctrineofdiscovery.org/blog/effectuating-renunciation-IUCN/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Christopher Sudol"
    sort: "1"
-   image: "/img/authors/Christopher-Sudol.jpg"
+   image: "/img/authors/Christopher-Sudol.webp"
    university: "Pace University"
    profile_icon: 
     icon: "fa-brands fa-linkedin"

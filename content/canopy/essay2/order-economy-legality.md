@@ -2,7 +2,7 @@
 title: "Order, Economy, and Legality:Johnson v. M’Intosh after Two Hundred Years"
 description: "Mother Earth is the wellspring of indigenous culture, religion, and economic life. It forms the identity of Native Americans as indigenous peoples."
 abstract: "Mother Earth is the wellspring of indigenous culture, religion, and economic life. It forms the identity of Native Americans as indigenous peoples.rom the beginning, the appropriation and distribution of Indigenous land had to be orderly. Settler-colonists needed a system to avoid haphazard, disorganized tribal land transactions and achieve their goal of the private commodification of the expanding American frontier. "
-image: "/img/post/national.jpg"
+image: "/img/post/national.webp"
 date: 2023-03-11
 doi: https://dofd.fyi/c/little/
 canoncial: "https://canopyforum.org/2023/03/11/order-economy-and-legality-johnson-v-mintosh-after-two-hundred-years/"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Andrew Little"
    sort: "1"
-   image: "/img/authors/andrew.png"
+   image: "/img/authors/andrew.webp"
    university: "Abilene University"
    profile_icon: 
     icon: "fa-brands fa-google-scholar"

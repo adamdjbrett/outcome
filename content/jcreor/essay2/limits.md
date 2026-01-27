@@ -2,7 +2,7 @@
 title: "On the Limits of the Concept of Religious Freedom in Indigenous Communities"
 description: 'In this essay, we will argue that firstly, the international and national legal framings of religion or belief are limited in scope, and one must ask not only religious freedom for whom but also from whom. Secondly, we will underscore the continued limitations of international human rights-based discourse.'
 abstract: 'In this essay, we will argue that firstly, the international and national legal framings of religion or belief are limited in scope, and one must ask not only religious freedom for whom but also from whom. Secondly, we will underscore the continued limitations of international human rights-based discourse. Why are Indigenous nations consistently excluded from rights-based discourses? We have the UN Declaration on Human Rights (UNDHR), the UN Declaration on the Rights of Indigenous Peoples (UNPFII), the Expert Mechanism on the Rights of Indigenous Peoples (EMRIP), this new report, and so many other reports. We will ask at what stage we move from declarations and reports to protecting and supporting Indigenous nations and peoples. Thirdly, building on the limitations of rights-based reporting, we will highlight what this report gets right and invite activists, lawyers, scholars, and all folks to take up and read the report and follow up on the elements we believe to be most salient. Finally, we will conclude by offering an alternative to declarations that support Indigenous nations and peoples’ inherent right to sovereignty. Our conclusion emphasizes Faithkeeper Lyons urgent message, The Ice is Melting in the North, and provides a framework for how people could respond by explaining the Two Row Wampum treaty and the Two Row Wampum Method.'
-image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
+image: "/img/post/jcreor/cover_issue_12_en_US.webp"
 date: 2024-09-17
 doi: https://doi.org/10.26443/jcreor.v5i2.117
 pdf: /pdf/jcreor/limits.pdf
@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Adam DJ Brett"
    sort: "1"
-   image: "/img/authors/adam.jpg"
+   image: "/img/authors/adam.webp"
    university: "Syracuse University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -41,7 +41,7 @@ author:
       title: "Message Adam DJ Brett"
  - name: "Betty Hill (Lyons)"
    sort: "2"
-   image: "/img/authors/betty.jpg"
+   image: "/img/authors/betty.webp"
    university: "American Indian Law Alliance"
    profile_icon: 
     icon: ""

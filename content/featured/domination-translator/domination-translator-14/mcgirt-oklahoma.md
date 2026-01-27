@@ -2,7 +2,7 @@
 title: "McGirt v. Oklahoma (U.S. Supreme Court, July 2020) - Domination Translator Series - Part 14"
 description: "McGirt v. Oklahoma (2020) upheld Creek Nation jurisdiction while affirming federal plenary power based on the Doctrine of Discovery."
 abstract: "Part 14 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. McGirt v. Oklahoma (2020) upheld Creek Nation jurisdiction while affirming federal plenary power based on the Doctrine of Discovery."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-14
 doi: "https://doctrineofdiscovery.org/blog/domination/mcgirt-oklahoma/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'McGirt v. Oklahoma (U.S. Supreme Court, July 2
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

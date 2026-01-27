@@ -2,7 +2,7 @@
 title: "The Marshall Trilogy: Cherokee Nation v. Georgia (1831) - Domination Translator Series - Part 4"
 description: "In 1831, the Cherokee Nation sought Supreme Court protection from Georgia's laws designed to annihilate their political existence."
 abstract: "Part 04 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. In 1831, the Cherokee Nation sought Supreme Court protection from Georgia's laws designed to annihilate their political existence."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-04
 doi: "https://doctrineofdiscovery.org/blog/domination/cherokee-nation-georgia/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'The Marshall Trilogy: Cherokee Nation v. Georg
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

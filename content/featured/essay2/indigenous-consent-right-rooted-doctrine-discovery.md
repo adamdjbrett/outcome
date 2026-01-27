@@ -2,7 +2,7 @@
 title: "Indigenous Consent: A Right Rooted in the Doctrine of Discovery"
 description: "Indians being the prior occupants, possess the right to the soil. It cannot be taken from them unless by their free consent…"
 abstract: "Indians being the prior occupants, possess the right to the soil. It cannot be taken from them unless by their free consent…. To dispossess them in any other principle, would be a gross violation of the fundamental laws of nature” (Henry Knox, Secretary of War, 1789)."
-image: "/img/post/featured/honor-two-row-3-wampum-belts.jpg"
+image: "/img/post/featured/honor-two-row-3-wampum-belts.webp"
 date: 2024-12-02
 doi:  "https://dofd.fyi/icr/"
 canoncial: "https://doctrineofdiscovery.org/blog/indigenous-consent-right-rooted-doctrine-discovery/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Urszula Piasta Mansfield"
    sort: "1"
-   image: "/img/authors/Urszula-Piasta-Mansfield-Cornell.jpg"
+   image: "/img/authors/Urszula-Piasta-Mansfield-Cornell.webp"
    university: 
    profile_icon: 
     icon: "fa-solid fa-link"

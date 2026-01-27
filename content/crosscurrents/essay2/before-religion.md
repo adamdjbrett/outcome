@@ -2,8 +2,8 @@
 title: "Before Religion"
 description: "It is a classic misinterpretation to refer to all Natives as always being in harmony with themselves and their surroundings. As in, categorizing, denomination, caste, grade,order and grouping"
 abstract: "A poem is presented - It is a classic misinterpretation to refer to allNatives as always being in harmony withthemselves and their surroundings. As in, categorizing, denomination, caste, grade,order and grouping. With the above sentences in mind, I'll refer to only my people's past. We weren't always at peace or in harmony with ourselves and the earth. We struggled and fought with our own people. We suffered insult and reproach and turned toviolence in return for that insult and reproach."
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-27
 doi:  "https://doi.org/10.1353/cro.2024.a963643"
 pdf: "https://muse.jhu.edu/pub/12/article/963643/pdf"

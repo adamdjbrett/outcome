@@ -2,8 +2,8 @@
 title: "The Roots of Christian Nationalism Go Back Further Than You Think"
 description: 'The term "white Christian nationalism" has emerged in recent years to describe a worldview that has become central to the contemporary Republican Party. This ideology has deep roots in the Doctrine of Discovery, a series of papal bulls from the fifteenth century that claimed European civilization and Christianity were superior to all other cultures.'
 abstract: 'The term "white Christian nationalism" has emerged in recent years to describe a worldview that has become central to the contemporary Republican Party. This ideology has deep roots in the Doctrine of Discovery, a series of papal bulls from the fifteenth century that claimed European civilization and Christianity were superior to all other cultures. This doctrine provided the moral and religious justification for European colonial conquest and the African slave trade. The contemporary white Christian nationalist movement is a continuation of this cultural stream that has run through America since the arrival of Europeans five centuries ago. To move forward, white Christians must confront their role in benefiting from this legacy of oppression and work towards repairing the damage done.'
-image: "/img/post/9781469683744.jpg"
-thumbnail: "/img/post/crosscurrents-thumbnail.png"
+image: "/img/post/9781469683744.webp"
+thumbnail: "/img/post/crosscurrents-thumbnail.webp"
 date: 2025-06-23
 doi:  "https://doi.org/10.1353/cro.2024.a963630"
 pdf: "https://muse.jhu.edu/pub/12/article/963630/pdf"
@@ -15,7 +15,7 @@ show_toc: true
 author: 
  - name: "Robert P. Jones"
    sort: "1"
-   image: /img/authors/robert-p-jones.png
+   image: /img/authors/robert-p-jones.webp
    university: "Public Religion Research Institute (PRRI)"
    profile_icon: 
     icon: "fa-solid fa-link"

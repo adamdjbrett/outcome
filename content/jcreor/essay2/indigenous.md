@@ -2,7 +2,7 @@
 title: "Indigenous Values Initiative Together with the American Indian Law Alliance Submits this Report"
 description: 'The Territorial Integrity of Mother Earth, Indigenous Peoples, and the Right to Freedom of Religion or Belief'
 abstract: 'The present report is the input provided by the Indigenous Values Initiative (IVI) and American Indian Law Alliance (AILA) in response to the new report drafted in 2022 by Ahmed Shaheed, the Special Rapporteur on Religious Freedom or Belief.'
-image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
+image: "/img/post/jcreor/cover_issue_12_en_US.webp"
 date: 2024-09-21
 doi: https://dofd.fyi/report/
 pdf: /pdf/jcreor/indigenous.pdf
@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Indigenous Values Initiative"
    sort: "1"
-   image: "/img/authors/Indigenous-Values-Initiative-new-logo-200x200-1.png"
+   image: "/img/authors/Indigenous-Values-Initiative-new-logo-200x200-1.webp"
    university: "Indigenous Values Initiative"
    profile_icon: 
     icon: "fa-solid fa-link"
@@ -28,7 +28,7 @@ author:
     title: "Learn More about the Indigenous Values Initiative"
  - name: "American Indian Law Alliance"
    sort: "2"
-   image: "/img/authors/aila.png"
+   image: "/img/authors/aila.webp"
    university: "American Indian Law Alliance"
    profile_icon: 
     icon: "fa-solid fa-link"

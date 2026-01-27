@@ -2,7 +2,7 @@
 title: "Manifest Destiny"
 description: "Manifest Destiny is a nineteenth-century term designating an expansionist ideology grounded in the Doctrine of Christian Discovery and republican ideals that shaped the westward development of the United States through legal, religious, military, educational, and other cultural, structural, and systemic means; its effects are present in the twenty-first century."
 abstract: "Manifest Destiny is a nineteenth-century term designating an expansionist ideology grounded in the Doctrine of Christian Discovery and republican ideals that shaped the westward development of the United States through legal, religious, military, educational, and other cultural, structural, and systemic means; its effects are present in the twenty-first century."
-image: "/img/post/featured/American_Progress_(John_Gast_painting).jpg"
+image: "/img/post/featured/American_Progress_(John_Gast_painting).webp"
 date: 2024-11-27
 doi: "https://dofd.fyi/md/"
 canoncial: "https://doctrineofdiscovery.org/blog/manifest-destiny/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Robert Michael Ruehl"
    sort: "1"
-   image: "/img/authors/rmruehl.jpg"
+   image: "/img/authors/rmruehl.webp"
    university: 
    profile_icon: 
     icon: "fa-brands fa-linkedin"

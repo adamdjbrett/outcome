@@ -2,7 +2,7 @@
 title: "The U.S. Government’s Claim of a Right of Domination"
 description: "Joseph Story is regarded as a genius and a giant in the legal profession."
 abstract: "Joseph Story is regarded as a genius and a giant in the legal profession. His continuing influence on American law was demonstrated for me some years ago when I attended a talk that Justice Antonin Scalia (1936-2016) delivered at the University of San Diego (USD) School of Law."
-image: "/img/post/featured/Joseph-Story-Antonin-Scalia.png"
+image: "/img/post/featured/Joseph-Story-Antonin-Scalia.webp"
 date: 2024-12-07
 doi:  "https://dofd.fyi/uscd/"
 canoncial:  "https://doctrineofdiscovery.org/blog/us-government-claim-domination/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Steven T. Newcomb"
    sort: "1"
-   image: "/img/authors/steven.png"
+   image: "/img/authors/steven.webp"
    university: "Indigenous Law Institute"
    profile_icon: 
     icon: "fa-solid fa-link"

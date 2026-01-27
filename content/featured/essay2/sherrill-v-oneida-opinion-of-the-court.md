@@ -2,7 +2,7 @@
 title: City of Sherrill v. Oneida Indian Nation of New York
 description: "In March 2005, the U.S. Supreme Court handed down a decision in City of Sherrill, New York v. Oneida Indian Nation of New York. Sherrill is a case about land rights and sovereignty, and it raises the question what it means for an Indigenous nation to appeal to its colonizer to recognize its sovereignty over land that belonged to it before it was colonized."
 abstract: "In March 2005, the U.S. Supreme Court handed down a decision in City of Sherrill, New York v. Oneida Indian Nation of New York. Sherrill is a case about land rights and sovereignty, and it raises the question what it means for an Indigenous nation to appeal to its colonizer to recognize its sovereignty over land that belonged to it before it was colonized."
-image: "/img/post/featured/colonial-contact.jpg"
+image: "/img/post/featured/colonial-contact.webp"
 date: 2024-12-10
 doi:  "https://dofd.fyi/svo/"
 canoncial:  "https://doctrineofdiscovery.org/sherrill-v-oneida-opinion-of-the-court/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Dana Lloyd"
    sort: "1"
-   image: "/img/authors/dana.png"
+   image: "/img/authors/dana.webp"
    university: "Villanova University"
    profile_icon: 
     icon: "fa-brands fa-orcid"

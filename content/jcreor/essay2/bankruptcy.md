@@ -2,7 +2,7 @@
 title: "The Bankruptcy of the Category of Religion"
 description: 'This article takes as its point of departure the 2022 Interim Report of the United Nations Special Rapporteur on Freedom of Religion or Belief, entitled “Indigenous Peoples and the Right to Freedom of Religion or Belief.”'
 abstract: 'This article takes as its point of departure the 2022 Interim Report of the United Nations Special Rapporteur on Freedom of Religion or Belief, entitled “Indigenous Peoples and the Right to Freedom of Religion or Belief.” The report recommends “collaborat[ing] with indigenous spiritual leaders and influencers to support conservation efforts and the sustainable development of traditional lands through a human rights-based approach.” We ask what a human-rights-based approach to the conservation and sustainable development of traditional Indigenous lands looks like. More specifically, would such an approach be in line with the worldviews of the Indigenous peoples potentially affected by such conservation or development? We consider these questions both legally and theologically. We acknowledge that the protection of human rights is better than their violation, but we also take seriously critiques of this standard human rights discourse. We argue that case studies such as Oak Flat, Lake Titicaca, and the Klamath River call us away from abstract affirmations of the human right to religious freedom and toward a rights-of-nature framework – even as we consider critiques of this framework as well. Ultimately, both Western legal discourse and Western religious studies discourse reduce Indigenous cosmologies (which are metaphysical systems) into cultural debates, thus erasing the sovereignty of Indigenous lands and peoples. A decolonizing approach therefore requires a rethinking of the sacred.'
-image: "/img/post/jcreor/cover_issue_12_en_US.jpg"
+image: "/img/post/jcreor/cover_issue_12_en_US.webp"
 date: 2024-09-18
 doi: https://doi.org/10.26443/jcreor.v5i2.116
 pdf: /pdf/jcreor/remarks.pdfTitizano+and+Lloyd_Final+upload+version_Dec+16th.pdf
@@ -14,7 +14,7 @@ show_toc: true
 author: 
  - name: "Dana Lloyd"
    sort: "1"
-   image: "/img/authors/dana.png"
+   image: "/img/authors/dana.webp"
    university: "Villanova University"
    profile_icon: 
     icon: "fa-brands fa-orcid"
@@ -28,7 +28,7 @@ author:
       title: "Dana Lloyd Orcid"
  - name: "Cecilia Titizano"
    sort: "2"
-   image: "/img/authors/cecilia.png"
+   image: "/img/authors/cecilia.webp"
    university: "Santa Clara University"
    about: "Cecilia Titizano La Fuente - Director of Latina/o Theology and Ministry Leadership Network"
    social:

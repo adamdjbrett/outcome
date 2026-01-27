@@ -2,7 +2,7 @@
 title: "The Marshall Trilogy: Worcester v. Georgia (1832) - Domination Translator Series - Part 5"
 description: "The 1832 Worcester v. Georgia ruling protected Native nations from state laws, yet affirmed federal domination under the Doctrine of Discovery."
 abstract: "Part 05 of Steven T. Newcomb's Domination Translator Series examining the Doctrine of Discovery in U.S. Supreme Court cases. The 1832 Worcester v. Georgia ruling protected Native nations from state laws, yet affirmed federal domination under the Doctrine of Discovery."
-image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.jpg"
+image: "/img/post/featured/adam-michael-szuscik-zu-eJEhMFEU-unsplash.webp"
 date: 2026-01-05
 doi: "https://doctrineofdiscovery.org/blog/domination/worcester-georgia/"
 pdf: 
@@ -10,7 +10,7 @@ how_to_cite: "Steven T. Newcomb, 'The Marshall Trilogy: Worcester v. Georgia (18
 author:
   - name: "Steven T. Newcomb"
     sort: "1"
-    image: "/img/authors/steven.png"
+    image: "/img/authors/steven.webp"
     university: "Doctrine of Discovery Initiative"
     profile_icon:
       icon: "fa-solid fa-link"

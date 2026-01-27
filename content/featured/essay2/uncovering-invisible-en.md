@@ -2,7 +2,7 @@
 title: "Uncovering the Invisible: The Doctrine of Discovery, its Impact on the Brazilian Indigenous Peoples, on the environment and how it continues to shape the Brazilian landscape today: English"
 description: "Doctrine of Discovery, Brazilian Literature, Indigenous Peoples, Amazon Forest, Yanomami, Environment, Colonization, Imperialism, Rainforest, Indigenous Rights, Sovereignty, Tordesillas Treaty"
 abstract: "Despite being a tool of colonization and imperialism worldwide, the Doctrine of Discovery’s importance and influence has been overlooked in Brazilian literature and studies. This article examines the Doctrine’s impact on the Brazilian Indigenous people and environment, highlighting the need to acknowledge and understand the effects and manifestations of the Doctrine of Discovery in Brazil. It explores intersections of the Doctrine with Indigenous rights and sovereignty. It argues that understanding the Doctrine is essential to move forward respectfully and sustainably with Indigenous people and the environment."
-image: "/img/post/featured/mateus-campos-felipe-6lrHdKhaYt0-unsplash.jpg"
+image: "/img/post/featured/mateus-campos-felipe-6lrHdKhaYt0-unsplash.webp"
 date: 2024-11-23
 doi:  "https://dofd.fyi/uncover/"
 canoncial:  "https://doctrineofdiscovery.org/blog/uncovering-invisible-en/"
@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "Telma Alencar"
    sort: "1"
-   image: "/img/authors/telma-alencar.jpg"
+   image: "/img/authors/telma-alencar.webp"
    university: 
    about: "MA Social Anthropology /Ph.D. Social & Political Thought in progress at York University, Canada. Telma’s research focuses on identifying the intersections of the Doctrine of Discovery with the destruction of one of the world’s most important ecosystems - the Amazon forest, through the ongoing violence against indigenous people in Brazil for the exploitation of natural resources for profit. Telma’s research draws on neocolonialism studies as a theoretical framework, also focusing on intersections between Christianity and Global Capitalism, aiming at shedding light on the Doctrine of Discovery’s effects and legacy related to the Global South, specifically to Brazilian Indigenous communities."
 tags: 
@@ -100,7 +100,7 @@ The 1860 oil on canvas by famous artist Victor Meirelles, currently on display a
 
 #### ‘First Mass in Brazil’ by Victor Meirelles (1860) - Museu Nacional de Belas Artes, SP, Brazil.
 
-[![](/img/post/featured/Meirelles-primeiramissa2.jpg)](/img/post/featured/Meirelles-primeiramissa2.jpg)
+[![](/img/post/featured/Meirelles-primeiramissa2.webp)](/img/post/featured/Meirelles-primeiramissa2.webp)
 
 By Victor Meirelles, Public Domain, [commons.wikimedia.org/](https://commons.wikimedia.org/w/index.php?curid=4077499)
 

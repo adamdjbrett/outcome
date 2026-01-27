@@ -12,7 +12,7 @@ show_toc: true
 author: 
  - name: "S. Lily Mendoza"
    sort: "1"
-   image: "/img/authors/lily-mendoza.png"
+   image: "/img/authors/lily-mendoza.webp"
    university: 
    about: "S. Lily Mendoza is a Kapampangan-born Filipina and currently resides in Waawiyatanong (aka Detroit, Michigan)."
    information: 
