@@ -1,6 +1,10 @@
 {% include "widgets/head_essay.njk" %}
+<div data-pagefind-ignore>
 {% include "widgets/nav.njk" %}
-<main>
+</div>
+<main data-pagefind-body>
 {{ content | safe }}
 </main>
+<div data-pagefind-ignore>
 {% include "widgets/footer.njk" %}
+</div>

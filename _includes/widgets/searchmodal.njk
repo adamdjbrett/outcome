@@ -21,7 +21,7 @@
         checkPagefindAvailability().then(available => {
             const searchDiv = document.getElementById('search');
             if (!available) {
-                searchDiv.innerHTML = '<div class="alert alert-warning"><i class="fa-solid fa-exclamation-triangle"></i> Search functionality is not available in development mode. Please run <code>npm run build-prod</code> to enable search.</div>';
+                searchDiv.innerHTML = '<div class="alert alert-warning"><i class="fa-solid fa-exclamation-triangle"></i> Search functionality is not available in development mode. Please run <code>npm run build-prod</code> or <code>npm run dev:search</code> to enable search.</div>';
                 return;
             }
             
@@ -38,7 +38,14 @@
                 script.src = '/pagefind/pagefind-ui.js';
                 script.onload = () => {
                     searchDiv.innerHTML = '';
-                    pagefindInstance = new PagefindUI({ element: "#search", showSubResults: true });
+                    // Initialize with improved options based on best practices
+                    pagefindInstance = new PagefindUI({ 
+                        element: "#search", 
+                        showSubResults: true,
+                        showImages: false,  // Disable images for better performance
+                        excerptLength: 30   // Optimize excerpt length
+                    });
+                    // Auto-focus search input after initialization
                     setTimeout(() => {
                         const input = document.querySelector('#search input');
                         if (input) input.focus();
@@ -47,7 +54,12 @@
                 document.head.appendChild(script);
             } else {
                 searchDiv.innerHTML = '';
-                pagefindInstance = new PagefindUI({ element: "#search", showSubResults: true });
+                pagefindInstance = new PagefindUI({ 
+                    element: "#search", 
+                    showSubResults: true,
+                    showImages: false,
+                    excerptLength: 30
+                });
                 setTimeout(() => {
                     const input = document.querySelector('#search input');
                     if (input) input.focus();

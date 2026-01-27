@@ -108,7 +108,7 @@ export default async function(eleventyConfig) {
 		}
 		try {
 			console.log('[Pagefind] Building search index...');
-			execSync(`npx pagefind --site _site`, {
+			execSync(`npx pagefind --site _site --force-language unknown`, {
 				encoding: 'utf-8',
 				cwd: process.cwd(),
 				stdio: 'inherit'
