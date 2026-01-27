@@ -5,6 +5,7 @@ import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import { execSync } from 'child_process';
+import path from 'path';
 import pluginFilters from "./_config/filters.js";
 import PurgeCSS from 'purgecss';
 import markdownIt from 'markdown-it';
@@ -147,17 +148,41 @@ export default async function(eleventyConfig) {
 
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-	// Image transforms temporarily disabled due to remote URL processing issues
-	// TODO: Configure proper local-only image processing
-	// eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-	// 	extensions: "html",
-	// 	formats: ["webp", "auto"],
-	// 	urlFilter: (src) => !src.includes('://') && !src.includes('outcome.doctrineofdiscovery.org'),
-	// 	defaultAttributes: {
-	// 		loading: "lazy",
-	// 		decoding: "async",
-	// 	}
-	// });
+	// Image transforms for performance optimization
+	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+		extensions: "html",
+		formats: ["avif", "webp", "auto"],
+		widths: [250, 400, 600, 900, 1200],
+		defaultAttributes: {
+			loading: "lazy",
+			decoding: "async",
+			sizes: "auto"
+		},
+		// Only process local images, exclude external URLs and remote images
+		urlFilter: (src) => {
+			// Skip data URIs
+			if (src.startsWith('data:')) {
+				return false;
+			}
+			// Skip external domains (but allow our own domain)
+			if (src.includes('://') && !src.includes('outcome.doctrineofdiscovery.org')) {
+				// Skip truly external domains
+				if (src.includes('unsplash.com') || src.includes('wsrv.nl') || src.includes('googleapis.com') || src.includes('gravatar.com')) {
+					return false;
+				}
+				// Skip any other external protocols
+				return false;
+			}
+			// Process local relative paths and our own domain images
+			return true;
+		},
+		filenameFormat: function (id, src, width, format, options) {
+			// Keep original filename structure but add responsive suffixes
+			const extension = path.extname(src);
+			const name = path.basename(src, extension);
+			return `${name}-${width}w.${format}`;
+		}
+	});
 
 
 
