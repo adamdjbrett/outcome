@@ -7,7 +7,7 @@
 <div class="row shadow-sm p-1 mt-3 mb-5 bg-body-tertiary zoom">
   <div class="col-md-4 p-3">
 {% if post.data.image %}<a href="{{post.url}}"><img class="img-fluid img_canopyt" alt="{{canopy.title}} {{metadata.title}}" 
-src="https://wsrv.nl/?url={{metadata.url}}{{post.data.image}}&w=400&h=280&output=webp"/></a>{% endif %}
+src="{{post.data.image}}"/></a>{% endif %}
 </div>
 <div class="col-md-8 p-3 p-md-5">
 <h3><strong><a href="{{post.url}}" class="no-deco">{{post.data.title}}</a></strong></h3>
@@ -17,7 +17,7 @@ src="https://wsrv.nl/?url={{metadata.url}}{{post.data.image}}&w=400&h=280&output
 <div class="col-md-4 col-6">
 <p><small>
 <img class="img-fluid me-3 rounded-circle" alt="{{s.name}}{{title}}" width="30" height="30" loading="eager" 
-src="https://wsrv.nl/?url={{metadata.url}}{{s.image}}&w=30&output=webp"/>
+src="{{s.image}}"/>
 {{s.name}}
 </small></p>
 </div>

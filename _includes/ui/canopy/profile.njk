@@ -8,16 +8,16 @@
 <div class="modal-body">
 <div class="col-md-12 p-3 text-center">
 {% if a.image %}
-<img class="img-fluid" alt="{{a.name}}" width="150" height="150" loading="lazy" src="https://wsrv.nl/?url={{metadata.url}}{{a.image}}&w=150&h=150&output=webp"
+<img class="img-fluid" alt="{{a.name}}" width="150" height="150" loading="lazy" src="{{a.image}}"
 style="border-radius:80px;object-fit:cover;"/>{% else %}
-<img class="img-fluid" alt="{{a.name}}" width="150" height="150" loading="lazy" src="https://wsrv.nl/?url={{metadata.url}}{{metadata.favicon}}&w=150&h=150&output=webp"
+<img class="img-fluid" alt="{{a.name}}" width="150" height="150" loading="lazy" src="{{metadata.favicon}}"
 style="border-radius:80px;object-fit:cover;"/>
 {% endif %}
 <h3 class="mt-3"><strong><a href="{{page.url}}" class="no-deco">{{a.name}}</a></strong></h3>
 </div>
 <div class="col-md-12 p-3 text-center bg-body-tertiary">
 {% if custom_icon %}<a href="{{custom_icon.link}}" class="btn btn-sm me-3">
-<img class="img-fluid" src="https://wsrv.nl/?url={{metadata.url}}{{custom_icon.icon}}&w=24&output=webp" loading="eager" width="24" height="24"/></a>{% endif %}
+<img class="img-fluid" src="{{custom_icon.icon}}" loading="eager" width="24" height="24"/></a>{% endif %}
 {% if a.social %}{% for s in a.social %}
 <a href="{{s.link}}" title="{{s.title}}" class="btn btn-sm me-3"><i class="{{s.icon}}"></i></a>
 {% endfor %}{% endif %}

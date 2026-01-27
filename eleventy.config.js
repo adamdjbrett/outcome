@@ -147,24 +147,17 @@ export default async function(eleventyConfig) {
 
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-	// Automatically converts images to modern formats (webp, avif) with lazy loading
-	if (process.env.ELEVENTY_ENV === 'production') {
-		eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-			// File extensions to process in _site folder
-			extensions: "html",
-
-			// Output formats for each image (avif=best compression, webp=good support, auto=fallback)
-			formats: ["avif", "webp", "auto"],
-
-			// widths: ["auto"],
-
-			defaultAttributes: {
-				// Apply to all images for better performance
-				loading: "lazy",
-				decoding: "async",
-			}
-		});
-	}
+	// Image transforms temporarily disabled due to remote URL processing issues
+	// TODO: Configure proper local-only image processing
+	// eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+	// 	extensions: "html",
+	// 	formats: ["webp", "auto"],
+	// 	urlFilter: (src) => !src.includes('://') && !src.includes('outcome.doctrineofdiscovery.org'),
+	// 	defaultAttributes: {
+	// 		loading: "lazy",
+	// 		decoding: "async",
+	// 	}
+	// });
 
 
 
