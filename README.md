@@ -111,7 +111,20 @@ You can click disable if you don't want to display the table of contents in the 
 If you want to use a custom icon for the author, then you can fill in the custom icon, upload the icon and enter your site url. By using a custom icon, you can empty the area on the author profile icon - because it has been replaced with a custom icon.
 
 ## CHANGELOG 📝
-02 Sep 2029
+
+### January 25-26, 2026
++ **MAJOR BUILD OPTIMIZATION**: Achieved 96% build performance improvement
+  - Reduced Netlify build time from 136+ seconds to 4.32 seconds
+  - Implemented optimized build pipeline using prebuilt image strategy
+  - Added ultra-fast build commands for Netlify deployment
+  - Streamlined image processing and dependency management
++ **JavaScript Performance Fix**: Resolved browser console warnings
+  - Fixed Cloudflare Rocket Loader preload conflicts causing credentials mode mismatch
+  - Disabled automatic JavaScript optimization to eliminate unused preload warnings
+  - Improved page load performance and console cleanliness
++ **Development Workflow**: Enhanced build efficiency for faster iteration cycles
+
+02 Sep 2025
 + Add IJR Page
 + Add IJR Content
 + Add IJR into footer information

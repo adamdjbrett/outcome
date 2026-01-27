@@ -29,6 +29,22 @@
 
   setTheme(getPreferredTheme())
 
+  // Add keyboard shortcut for search (Cmd+K on macOS, Ctrl+K on Windows/Linux)
+  document.addEventListener('keydown', function(event) {
+    // Check for Cmd+K (macOS) or Ctrl+K (Windows/Linux)
+    if ((event.metaKey || event.ctrlKey) && event.key === 'k') {
+      event.preventDefault();
+      
+      // Find and trigger the search modal
+      const searchModal = document.getElementById('searchModal');
+      if (searchModal) {
+        // Use Bootstrap's modal API to show the modal
+        const modal = bootstrap.Modal.getOrCreateInstance(searchModal);
+        modal.show();
+      }
+    }
+  });
+
   const showActiveTheme = (theme, focus = false) => {
     const themeSwitcher = document.querySelector('#bd-theme')
 
