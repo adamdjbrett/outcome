@@ -6,23 +6,59 @@
 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 </div>
 <div class="modal-body p-3 p-md-3 bg-light rounded opacity-95">
-<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/pagefind/pagefind-ui.js"></script>
 <div id="search"></div>
 <script>
-    // Only initialize Pagefind UI when the modal is shown
+    // Only initialize Pagefind UI when the modal is shown and files exist
     let pagefindInstance = null;
+    
+    function checkPagefindAvailability() {
+        return fetch('/pagefind/pagefind.js', { method: 'HEAD' })
+            .then(response => response.ok)
+            .catch(() => false);
+    }
+    
+    function initializeSearch() {
+        checkPagefindAvailability().then(available => {
+            const searchDiv = document.getElementById('search');
+            if (!available) {
+                searchDiv.innerHTML = '<div class="alert alert-warning"><i class="fa-solid fa-exclamation-triangle"></i> Search functionality is not available in development mode. Please run <code>npm run build-prod</code> to enable search.</div>';
+                return;
+            }
+            
+            // Load Pagefind CSS and JS if available
+            if (!document.querySelector('link[href="/pagefind/pagefind-ui.css"]')) {
+                const css = document.createElement('link');
+                css.rel = 'stylesheet';
+                css.href = '/pagefind/pagefind-ui.css';
+                document.head.appendChild(css);
+            }
+            
+            if (!window.PagefindUI) {
+                const script = document.createElement('script');
+                script.src = '/pagefind/pagefind-ui.js';
+                script.onload = () => {
+                    searchDiv.innerHTML = '';
+                    pagefindInstance = new PagefindUI({ element: "#search", showSubResults: true });
+                    setTimeout(() => {
+                        const input = document.querySelector('#search input');
+                        if (input) input.focus();
+                    }, 100);
+                };
+                document.head.appendChild(script);
+            } else {
+                searchDiv.innerHTML = '';
+                pagefindInstance = new PagefindUI({ element: "#search", showSubResults: true });
+                setTimeout(() => {
+                    const input = document.querySelector('#search input');
+                    if (input) input.focus();
+                }, 100);
+            }
+        });
+    }
+    
     document.addEventListener('shown.bs.modal', function(event) {
         if (event.target && event.target.id === 'searchModal') {
-            // Remove previous instance if any
-            const searchDiv = document.getElementById('search');
-            if (searchDiv) searchDiv.innerHTML = '';
-            pagefindInstance = new PagefindUI({ element: "#search", showSubResults: true });
-            // Focus the input after rendering
-            setTimeout(() => {
-                const input = document.querySelector('#search input');
-                if (input) input.focus();
-            }, 100);
+            initializeSearch();
         }
     });
 </script>

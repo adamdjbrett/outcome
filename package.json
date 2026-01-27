@@ -6,6 +6,7 @@
 	"scripts": {
 		"build": "npx @11ty/eleventy",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
+		"build-search": "npx @11ty/eleventy && npx pagefind --site _site",
 		"build-prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy && npx pagefind --site _site",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/outcome/",
 		"build-ghpages-prod": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy --pathprefix=/outcome/ && npx pagefind",
