@@ -44,7 +44,7 @@ _Johnson v. M’Intosh_ established the precedent that the federal government of
 
 The opinion reinforced the contractual nature of the treaties and supremacy over indigenous nations in [_Lone Wolf v. Hitchcock_](https://thorpe.law.ou.edu/treatises/cases/hitchcock.html) (1903). The Supreme Court reinforced the precedent in _Johnson v. M’Intosh,_ employing the language “of the contracting Indians and the relation of dependency they bore and continue to bear towards the government of the United States.” Standing out in the legal opinions that have shaped federal Indian law is the legacy of _Johnson v. M’Intosh_ and the direct relationship between land and dependency that formed the basis of the [federal trust relationship](https://www.bia.gov/faqs/what-federal-indian-trust-responsibility) between the [domestic dependent nations](https://www.justice.gov/enrd/timeline-event/federal-trust-doctrine-first-described-supreme-court) conjured up by Chief Justice Marshall in _Cherokee v. Georgia_ and the federal government. 
 
-![{{title}}](/img/post/legal.jpg)
+<!-- ![{{title}}](/img/post/legal.jpg) -->
 
 United States Department of the Interior advertisement offering ‘Indian Land for Sale’. [Wikimedia](https://commons.wikimedia.org/wiki/File:Indian_Land_for_Sale.jpg).
 

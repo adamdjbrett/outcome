@@ -43,7 +43,7 @@ Chief Justice Marshall constructed federal anti-Indian law in three early ninete
 
 As the legal historian Paul Finkelman explained, “Marshall’s years on the court . . . coincided with a relentless push to remove Indians from the eastern part of the United States. Thomas Jefferson developed the idea of Indian removal. Under James Madison and James Monroe, the nation’s policy of war and removal devastated the southeastern Indians. President Andrew Jackson continued these policies. Marshall’s decisions in _Johnson and Graham’s Lessee v. M’Intosh_, . . . _Cherokee Nation v. Georgia_, . . . and _Worcester v. Georgia_ . . . provided the legal basis for taking all land from Indians.”
 
-![{{title}}](/img/post/indians.jpg)
+![{{title}}](/img/post/indian.jpg)
 
 _[Federal Anti-Indian Law: The Legal Entrapment of Indigenous Peoples](https://www.abc-clio.com/products/A6462C/)_, (Bloomsbury, September 2022).
 

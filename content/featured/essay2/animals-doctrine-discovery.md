@@ -56,7 +56,8 @@ What sort of animals did the Spanish and Portuguese bring to these “lands with
 
 > **_Colonus:_** _Latin for farmer, cultivator, tiller, inhabitant. Root of the words colonization, colonial, and colonist._
 
-[![](/img/post/featured/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg)](/img/post/featured/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg)
+<!-- Missing image: Andaman Pig illustration from vintage book -->
+<!-- [![](/img/post/featured/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg)](/img/post/featured/Vintage-Illustrations-Of-Andaman-Pig-In-Public-Domain.jpg) -->
 
 An illustration of the Andaman Pig. This illustration was extracted from the vintage book : [Zoological sketches](https://freevintageillustrations.com/vintage-book-illustrations/zoological-sketches)  
 Illustrations by : [Wolf, Joseph](https://freevintageillustrations.com/illustrator/wolf-joseph "View all illustrations by: Wolf, Joseph").
@@ -81,7 +82,8 @@ Some of the species that Indigenous cultures feel the closest kinship with and h
 
 ### Beaver
 
-[![](/img/post/featured/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp)](/img/post/featured/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp)
+<!-- Missing image: Antique Animal Illustration Of Beaver -->
+<!-- [![](/img/post/featured/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp)](/img/post/featured/Antique-animal-illustration-of-Beaver-in-the-Public-Domain.webp) -->
 
 Antique Animal Illustration Of Beaver In The Public Domain. This illustration was extracted from the vintage book : [Types du règne animal. Buffon en estampes](https://freevintageillustrations.com/vintage-book-illustrations/types-du-regne-animal-buffon-en-estampes). Illustrations by : [Traviés, Edouard](https://freevintageillustrations.com/illustrator/travies-edouard "View all illustrations by: Traviés, Edouard")
 
@@ -93,7 +95,8 @@ Today, the beaver is making a comeback. As a keystone species beaver create fres
 
 ### Sturgeon
 
-[![](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.png)](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.png)
+<!-- Missing image: Common Sturgeon Fish Vintage Illustration -->
+<!-- [![](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.png)](/img/post/featured/Common-Sturgeon-Fish-Vintage-Illustration.png) -->
 
 This illustration was extracted from the vintage book: [A history of the fishes of the British islands.](https://freevintageillustrations.com/vintage-book-illustrations/a-history-of-the-fishes-of-the-british-islands) Illustrations by: [Couch, Jonathan](https://freevintageillustrations.com/illustrator/couch-jonathan "View all illustrations by: Couch, Jonathan").
 
@@ -103,7 +106,8 @@ From early colonial history to today, the sacred ties between sturgeon and Nativ
 
 ### California Condor
 
-[![](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg)](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg)
+<!-- Missing image: California Condor photo by Jeffrey Eisen -->
+<!-- [![](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg)](/img/post/featured/jeffrey-eisen-N6Iw5TB2FL8-unsplash.jpg) -->
 
 A condor flying over the water. Photo by [Jeffrey Eisen](https://unsplash.com/@jeisen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/N6Iw5TB2FL8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
@@ -115,7 +119,8 @@ Settlers in search of gold first rushed into Yurok territory around 1849. Loggin
 
 ### Buffalo
 
-[![](/img/post/featured/bison.webp)](/img/post/featured/bison.webp)
+<!-- Missing image: American Bison illustration -->
+<!-- [![](/img/post/featured/bison.webp)](/img/post/featured/bison.webp) -->
 
 American Bison (Bos Americanus) from the viviparous quadrupeds of North America (1845) illustrated by John Woodhouse via [NYPL](https://www.rawpixel.com/image/321915/free-illustration-image-bison-audubon-animals).
 

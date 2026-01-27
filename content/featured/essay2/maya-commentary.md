@@ -2,7 +2,7 @@
 title: "How we met the Doctrine of Discovery. A Maya commentary - Doctrine of Discovery"
 description: "It was an ordinary evening on October 9, 2018 when, scrolling down my mouse wheel randomly looking at posts on Facebook something suddenly caught my attention: A post launched an invitation from the Mennonite Coalition for the Dismantling of the Doctrine of Discovery to join a Christian lament in the United States."
 abstract: "It was an ordinary evening on October 9, 2018 when, scrolling down my mouse wheel randomly looking at posts on Facebook something suddenly caught my attention: A post launched an invitation from the Mennonite Coalition for the Dismantling of the Doctrine of Discovery to join a Christian lament in the United States. The post invited lamenting of the Doctrine of Discovery (DD) and encouraged reflection on its consequences for the lives of Indigenous Peoples today."
-image: "/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg"
+# image: "/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg" # Missing image
 date: 2024-12-05
 doi:  "https://dofd.fyi/maya/"
 canoncial:  "https://doctrineofdiscovery.org/blog/doctrine-discovery-maya-commentary/"
@@ -74,7 +74,7 @@ However, the juridical concept of _nullius (or nullus)_ applied not only to the 
 
 In Mesoamerica the idea of _Nullus Persona_ is underpinned by paganism-barbarism attributed by the Spaniards to native peoples. The construction of a barbarian ‘Other’ is fueled by allegations of cannibalism and human sacrifice by Hernan Cortés and friars, such as Diego de Landa, from the early stages of colonization.[7](#fn:7) As such, the Doctrine of Discovery, _terra nullius_ and _Nullus Persona_ (a juridical “disabled” Indigenous ‘Other’: barbarian and infidel) had been set in motion for the colonial project in the Americas aiming at legitimizing a constructed status of moral and racial superiority for European Christians and their authorities.
 
-[![the interlocking gears of the doctrine of discovery](/img/post/featured/mark.png)](/img/post/featured/mark.png)
+<!-- Missing image: the interlocking gears of the doctrine of discovery (mark.png) -->
 
 Figure 1. The ideological assemblage of the Doctrine of Discovery, \*terra nullius\* and paganism-barbarism
 
@@ -96,7 +96,7 @@ Landa’s account does not allude to _terra nullius_, even though it is an essen
 
 ### The Doctrine of Discovery and Maya heritage in the 17th - 19th centuries
 
-[![Uxmal, main facade of the Governor's Palace in 1842](/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg)](/img/post/featured/Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg)
+<!-- Missing image: Uxmal, main facade of the Governor's Palace in 1842 (Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg) -->
 
 Figure 2. Palacio del Gobernador at Uxmal by Catherwood (Stephens 1843: Frontspiece Vol. 1) via [Wikipedia](https://commons.wikimedia.org/wiki/File:Uxmal_Casa_del_Gobernador_Catherwood_Frontpiece.jpg).
 

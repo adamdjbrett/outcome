@@ -54,13 +54,13 @@ Understanding the intent and application of _Sublimis Deus_ calls us to take a d
 
 <div class="row">
 <div class="col-md-4 p-3">
-<img class="img-fluid" loading="lazy" alt="Portrait of Pope Paul III" src="/img/post/featured//sublimis-deus-image005.jpg">
+<!-- Missing image: Portrait of Pope Paul III (sublimis-deus-image005.jpg) -->
 </div>
 <div class="col-md-4 p-3">
-<img class="img-fluid" loading="lazy" alt="Potrait of Bartolome De Las Casas" src="/img/post/featured//sublimis-deus-image004.jpg">
+<!-- Missing image: Portrait of Bartolome De Las Casas (sublimis-deus-image004.jpg) -->
 </div>
 <div class="col-md-4 p-3">
-<img class="img-fluid" loading="lazy" alt="Potrait of King Charles" src="/img/post/featured//sublimis-deus-image003.png">
+<!-- Missing image: Portrait of King Charles (sublimis-deus-image003.png) -->
 </div>
 </div>
 

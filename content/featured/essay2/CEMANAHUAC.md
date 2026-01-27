@@ -182,7 +182,7 @@ _In a moment’s time_ _There is a place._ _Where all that came to be_ _Arrives_
 
 - - -
 
-![decorative image](/img/post/featured/image_002.png)
+<!-- decorative image: image_002.png not available -->
 
 #WorldWaterOne
 
