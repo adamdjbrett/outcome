@@ -1,5 +1,5 @@
+import "./_config/file-polyfill.js";
 import { IdAttributePlugin, InputPathToUrlTransformPlugin, HtmlBasePlugin } from "@11ty/eleventy";
-import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
@@ -13,6 +13,7 @@ import markdownItAnchor from "markdown-it-anchor";
 import pluginTOC from 'eleventy-plugin-toc';
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
+	const { feedPlugin } = await import("@11ty/eleventy-plugin-rss");
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
 		if(data.draft && process.env.ELEVENTY_RUN_MODE === "build") {
@@ -145,9 +146,11 @@ export default async function(eleventyConfig) {
 	});
 
 
-	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
-	// Conditionally enable image transforms (skip in production if SKIP_IMAGE_TRANSFORM is set)
-	if (process.env.SKIP_IMAGE_TRANSFORM !== 'true') {
+	// Image optimization: run only for production builds unless explicitly forced.
+	const shouldRunImageTransform =
+		process.env.SKIP_IMAGE_TRANSFORM !== "true" &&
+		(process.env.ELEVENTY_ENV === "production" || process.env.FORCE_IMAGE_TRANSFORM === "true");
+	if (shouldRunImageTransform) {
 		eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
 			extensions: "html",
 			formats: ["avif", "webp", "auto"],
@@ -183,13 +186,33 @@ export default async function(eleventyConfig) {
 			}
 		});
 	} else {
-		console.log('🚀 Skipping image transform for faster build (using prebuilt images)');
+		console.log("🚀 Skipping image transform for faster build (set ELEVENTY_ENV=production or FORCE_IMAGE_TRANSFORM=true to enable)");
 	}
 
 
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
+
+	// Memoized tag list collection: use this for tag pages instead of scanning all collection keys.
+	eleventyConfig.addCollection("publicTags", (collectionApi) => {
+		const allItems = collectionApi.getAll();
+		const allTags = allItems.flatMap(item => item?.data?.tags || []);
+		const publicTags = eleventyConfig.getFilter("filterTagList")(allTags);
+		const slugify = eleventyConfig.getFilter("slugify");
+		const dedupedBySlug = new Map();
+
+		for (const tag of publicTags) {
+			const key = slugify(String(tag).toLowerCase());
+			if (!dedupedBySlug.has(key)) {
+				dedupedBySlug.set(key, tag);
+			}
+		}
+
+		return Array.from(dedupedBySlug.values()).sort((a, b) =>
+			String(a).localeCompare(String(b))
+		);
+	});
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {
 		// by default we use Eleventy’s built-in `slugify` filter:

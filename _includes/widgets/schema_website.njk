@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ metadata.url }}/#website",
+  "name": "{{ metadata.title }}",
+  "url": "{{ metadata.url }}",
+  "description": "{{ metadata.description }}",
+  "inLanguage": "{{ metadata.language }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ metadata.url }}/search/?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>

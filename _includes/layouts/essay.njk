@@ -2,7 +2,16 @@
 <div data-pagefind-ignore>
 {% include "widgets/nav.njk" %}
 </div>
-<main data-pagefind-body>
+<main data-pagefind-body class="h-entry">
+<a class="u-url d-none" href="{{ metadata.url }}{{ page.url }}">{{ metadata.url }}{{ page.url }}</a>
+{% if editor %}
+  {% for e in editor %}
+  <div class="p-author h-card d-none">
+    <span class="p-name">{{ e.name or e }}</span>
+    <span class="u-url">{{ metadata.url }}{{ page.url }}</span>
+  </div>
+  {% endfor %}
+{% endif %}
 {{ content | safe }}
 </main>
 <div data-pagefind-ignore>

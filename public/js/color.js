@@ -7,8 +7,23 @@
 (() => {
   'use strict'
 
-  const getStoredTheme = () => localStorage.getItem('theme')
-  const setStoredTheme = theme => localStorage.setItem('theme', theme)
+  const VALID_THEMES = new Set(['light', 'dark', 'auto'])
+
+  const getStoredTheme = () => {
+    try {
+      const theme = localStorage.getItem('theme')
+      return VALID_THEMES.has(theme) ? theme : null
+    } catch (e) {
+      return null
+    }
+  }
+  const setStoredTheme = theme => {
+    try {
+      localStorage.setItem('theme', theme)
+    } catch (e) {
+      // Ignore storage errors (private mode, denied storage, etc.)
+    }
+  }
 
   const getPreferredTheme = () => {
     const storedTheme = getStoredTheme()
@@ -55,7 +70,11 @@
     const themeSwitcherText = document.querySelector('#bd-theme-text')
     const activeThemeIcon = document.querySelector('.theme-icon-active use')
     const btnToActive = document.querySelector(`[data-bs-theme-value="${theme}"]`)
-    const svgOfActiveBtn = btnToActive.querySelector('svg use').getAttribute('href')
+    if (!btnToActive) {
+      return
+    }
+    const activeSvgUse = btnToActive.querySelector('svg use')
+    const svgOfActiveBtn = activeSvgUse ? activeSvgUse.getAttribute('href') : null
 
     document.querySelectorAll('[data-bs-theme-value]').forEach(element => {
       element.classList.remove('active')
@@ -64,21 +83,31 @@
 
     btnToActive.classList.add('active')
     btnToActive.setAttribute('aria-pressed', 'true')
-    activeThemeIcon.setAttribute('href', svgOfActiveBtn)
-    const themeSwitcherLabel = `${themeSwitcherText.textContent} (${btnToActive.dataset.bsThemeValue})`
-    themeSwitcher.setAttribute('aria-label', themeSwitcherLabel)
+    if (activeThemeIcon && svgOfActiveBtn) {
+      activeThemeIcon.setAttribute('href', svgOfActiveBtn)
+    }
+    if (themeSwitcherText) {
+      const themeSwitcherLabel = `${themeSwitcherText.textContent} (${btnToActive.dataset.bsThemeValue})`
+      themeSwitcher.setAttribute('aria-label', themeSwitcherLabel)
+    }
 
     if (focus) {
       themeSwitcher.focus()
     }
   }
 
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => {
+  const media = window.matchMedia('(prefers-color-scheme: dark)')
+  const onMediaChange = () => {
     const storedTheme = getStoredTheme()
     if (storedTheme !== 'light' && storedTheme !== 'dark') {
       setTheme(getPreferredTheme())
     }
-  })
+  }
+  if (typeof media.addEventListener === 'function') {
+    media.addEventListener('change', onMediaChange)
+  } else if (typeof media.addListener === 'function') {
+    media.addListener(onMediaChange)
+  }
 
   window.addEventListener('DOMContentLoaded', () => {
     showActiveTheme(getPreferredTheme())

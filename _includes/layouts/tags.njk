@@ -9,7 +9,7 @@ layout: layouts/base.njk
 <h2 class="mt-3 mb-3">{{description}}</h2>
 <div class="p-3">{{content | safe }}</div>
 <div class="row">
-{% for tag in collections | getKeys | filterTagList %}{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+{% for tag in collections.publicTags %}{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
 <div class="col-md-3 col-6 p-3"><a class="btn bg-body-secondary" href="{{ tagUrl }}">{{ tag }}</a></div>
 {% endfor %}
 </div>

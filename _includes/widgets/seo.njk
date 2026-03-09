@@ -22,5 +22,6 @@
 <meta name="locale" content="{{metadata.locale}}">
 <meta property="og:locale" content="{{metadata.locale}}">
 <meta name="generator" content="{{ eleventy.generator }}"> 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","description":"{{metadata.description}}","headline":"{{metadata.title}} - {{metadata.description}}","name":"{{metadata.title}}","url":"{{metadata.url}}{{page.url}}"}</script>
+{% include "widgets/schema_website.njk" %}
+{% include "widgets/schema_organization.njk" %}
 <link rel="apple-touch-icon" href="/logo.webp">

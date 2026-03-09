@@ -16,11 +16,13 @@
 <meta content="{{metadata.metasocial.twitteruser}}" property="twitter:author">
 <meta content="{{metadata.metasocial.twitter}}" name="twitter:site">
 <meta property="og:type" content="website">
-<link rel="canonical" href="{{canoncial or doi}}">
+<link rel="canonical" href="{{canonical or doi or metadata.url ~ page.url}}">
 <link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 <meta name="language" content="{{metadata.language}}">
 <meta name="locale" content="{{metadata.locale}}">
 <meta property="og:locale" content="{{metadata.locale}}">
 <meta name="generator" content="{{ eleventy.generator }}"> 
-<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","description":"{{metadata.description}}","headline":"{{metadata.title}} - {{metadata.description}}","name":"{{metadata.title}}","url":"{{metadata.url}}{{page.url}}"}</script>
+{% include "widgets/schema_website.njk" %}
+{% include "widgets/schema_organization.njk" %}
+{% include "widgets/schema_entry.njk" %}
 <link rel="apple-touch-icon" href="/logo.webp">

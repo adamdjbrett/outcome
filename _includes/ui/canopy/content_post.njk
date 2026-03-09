@@ -1,9 +1,12 @@
 <div class="col-md-8 p-3 content content-essay">
+<a class="u-url d-none" href="{{ metadata.url }}{{ page.url }}">{{ metadata.url }}{{ page.url }}</a>
 <p>
 <strong>Permalink:</strong> <i class="fa-solid fa-link me-1"></i>
 <a href="{{doi}}">{{doi}}</a>
 </p>
 <p><strong>Abstract</strong></p>
-<p class="mb-3">{{abstract}}</p><hr/>
+<p class="mb-3 p-summary">{{abstract}}</p><hr/>
+<div class="e-content">
 {{ content | safe }}
+</div>
 </div>

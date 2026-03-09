@@ -56,12 +56,16 @@
 						"link": "/crosscurrents/"
 					},
 					{
+						"name": "Featured",
+						"link": "/featured/"
+					},
+					{
 						"name": "IJR",
 						"link": "/ijr/"
 					},
 					{
-						"name": "Featured",
-						"link": "/featured/"
+						"name": "JCRT",
+						"link": "/jcrt/"
 					},
 					{
 						"name": "JCREOR",
@@ -76,25 +80,25 @@
 			{
 				"title": "Information",
 				"item": 
-				[
-					{
-						"name": "For Developer",
-						"link": "/"
-					},
-					{
-						"name": "For Authors",
-						"link": "/"
-					},
-					{
-						"name": "For Sponsor",
-						"link": "/"
-					},
-					{
-						"name": "For Publishers",
-						"link": "/"
-					}
-				]
-			},
+					[
+						{
+							"name": "Developers",
+							"link": "/developers/"
+						},
+						{
+							"name": "Authors",
+							"link": "/authors/"
+						},
+						{
+							"name": "Sponsors",
+							"link": "/sponsors/"
+						},
+						{
+							"name": "Publishers",
+							"link": "/publishers/"
+						}
+					]
+				},
 			{
 				"title": "Pages",
 				"item": 
@@ -122,25 +126,25 @@
 			{
 				"title": "Information",
 				"item": 
-				[
-					{
-						"name": "For Developer",
-						"link": "/"
-					},
-					{
-						"name": "For Authors",
-						"link": "/"
-					},
-					{
-						"name": "For Sponsor",
-						"link": "/"
-					},
-					{
-						"name": "For Publishers",
-						"link": "/"
-					}
-				]
-			},
+					[
+						{
+							"name": "Developers",
+							"link": "/developers/"
+						},
+						{
+							"name": "Authors",
+							"link": "/authors/"
+						},
+						{
+							"name": "Sponsors",
+							"link": "/sponsors/"
+						},
+						{
+							"name": "Publishers",
+							"link": "/publishers/"
+						}
+					]
+				},
 			{
 				"title": "Essay",
 				"item": 
@@ -152,6 +156,10 @@
 					{
 						"name": "Canopy",
 						"link": "/canopy/"
+					},
+					{
+						"name": "JCRT",
+						"link": "/jcrt/"
 					},
 					{
 						"name": "JCREOR",
@@ -181,15 +189,15 @@
 					},
 					{
 						"name": "About Page",
-						"link": "/"
+						"link": "/about/"
 					},
 					{
 						"name": "How to Submit",
-						"link": "/"
+						"link": "/how-to-submit/"
 					},
 					{
 						"name": "Contact Us",
-						"link": "/"
+						"link": "/contact/"
 					}
 				]
 			}
@@ -198,22 +206,22 @@
 			{
 				"icon": "fa-brands fa-facebook",
 				"title": "Connect with our Facebook",
-				"link": "https://facebook.com"
+				"link": "https://facebook.com/indigenousvalues"
 			},
 			{
 				"icon": "fa-brands fa-twitter",
 				"title": "Connect with our Twitter",
-				"link": "https://twitter.com"
+				"link": "https://twitter.com/indigenousVI"
 			},
 			{
 				"icon": "fa-brands fa-instagram",
 				"title": "Connect with our Instagram",
-				"link": "https://instagram.com"
+				"link": "https://instagram.com/indigenousvalues"
 			},
 			{
 				"icon": "fa-brands fa-youtube",
 				"title": "Connect with our Youtube",
-				"link": "https://youtube.com"
+				"link": "https://youtube.com/@indigenousvaluesinitiative"
 			}
 		]
 	},
@@ -276,6 +284,10 @@
 			{
 				"name": "JCREOR",
 				"url": "/jcreor/"
+			},
+			{
+				"name": "JCRT",
+				"url": "/jcrt/"
 			},
 			{
 				"name": "CrossCurrents",

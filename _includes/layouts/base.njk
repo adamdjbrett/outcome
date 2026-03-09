@@ -2,7 +2,8 @@
 <div data-pagefind-ignore>
 {% include "widgets/nav.njk" %}
 </div>
-<main data-pagefind-body>
+<main data-pagefind-body class="h-entry">
+<a class="u-url d-none" href="{{ metadata.url }}{{ page.url }}">{{ metadata.url }}{{ page.url }}</a>
 {{ content | safe }}
 </main>
 <div data-pagefind-ignore>

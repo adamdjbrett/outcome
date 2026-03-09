@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Arial, Helvetica, sans-serif;}
 .img-logo {width:35px;height:35px;}
 .img-logo-footer {width:314px;height:90px;}
 .img-logo-nav {width:180px;height:50px;}
-.darklight {background-color:transpatrent;}
+.darklight {background-color:transparent;}
 .darklight:hover,.darklight:active{background-color:#e84c31; color:#fff;}
 .dropdown-menu .active{background-color:#bf2d13; color:#fff;}
 .navis:hover {border-bottom: 1px solid;}
@@ -98,31 +98,130 @@ select option:checked{
 ::selection {color: white; background: #d0290b;} 
 html{scrollbar-color: #cf371c transparent;}
 
-[data-bs-theme=light] {
-a.nav-link {color:#bf2d13; font-weight:bold;}
-a,.page-link{color:#cf371c;}
-a:hover{color:#d0290b;}
-.menu-list {color:#cf371c;}
-.bt-orange {border-top: 1px solid #cf371c;}
-.bb-orange {border-bottom: 1px solid #cf371c;}
-.border-orange {border: 1px solid #cf371c;}
-.page-link:hover{background-color:#bf2d13; color:white;}
-.btn-orange{background-color:#cf371c;padding:10px;color:#fff}
-.btn-orange:hover, .orange{background-color:#bf2d13;padding:10px;color:#fff}
-}
+[data-bs-theme=light] a.nav-link {color:#bf2d13; font-weight:bold;}
+[data-bs-theme=light] a,[data-bs-theme=light] .page-link{color:#cf371c;}
+[data-bs-theme=light] a:hover{color:#d0290b;}
+[data-bs-theme=light] .menu-list {color:#cf371c;}
+[data-bs-theme=light] .bt-orange {border-top: 1px solid #cf371c;}
+[data-bs-theme=light] .bb-orange {border-bottom: 1px solid #cf371c;}
+[data-bs-theme=light] .border-orange {border: 1px solid #cf371c;}
+[data-bs-theme=light] .page-link:hover{background-color:#bf2d13; color:white;}
+[data-bs-theme=light] .btn-orange{background-color:#cf371c;padding:10px;color:#fff}
+[data-bs-theme=light] .btn-orange:hover{background-color:#bf2d13;padding:10px;color:#fff}
+[data-bs-theme=light] .orange{background-color:#cf371c;color:#fff}
 .content img {width:100%; height:auto;}
 .img-pages {width:100%; height:250px; object-fit:cover;}
 
 
+[data-bs-theme=dark] a.nav-link {color:#e95339; font-weight:bold;}
+[data-bs-theme=dark] a,[data-bs-theme=dark] .page-link{color:#f36248;}
+[data-bs-theme=dark] a:hover{color:#e73515;}
+[data-bs-theme=dark] .menu-list {color:#ff8069;}
+[data-bs-theme=dark] .bt-orange {border-top: 1px solid #ff8069;}
+[data-bs-theme=dark] .bb-orange {border-bottom: 1px solid #ff8069;}
+[data-bs-theme=dark] .border-orange {border: 1px solid #ff8069;}
+[data-bs-theme=dark] .page-link:hover{background-color:#e24d33; color:white;}
+[data-bs-theme=dark] .btn-orange  {background-color:#fc6146;padding:10px;color:#fff}
+[data-bs-theme=dark] .btn-orange:hover{background-color:#ed6047;padding:10px;color:#fff}
+[data-bs-theme=dark] .orange{background-color:#ed6047;color:#fff}
+
+/* Theme tokens + smoother transitions for the full site shell */
+:root {
+  --outcome-accent: #cf371c;
+  --outcome-accent-strong: #bf2d13;
+  --outcome-surface: #ffffff;
+  --outcome-surface-muted: #f8f9fa;
+  --outcome-border: #e6e7ea;
+}
+
 [data-bs-theme=dark] {
-  a.nav-link {color:#e95339; font-weight:bold;}
-  a,.page-link{color:#f36248;}
-  a:hover{color:#e73515;}
-  .menu-list {color:#ff8069;}
-  .bt-orange {border-top: 1px solid #ff8069;}
-  .bb-orange {border-bottom: 1px solid #ff8069;}
-  .border-orange {border: 1px solid #ff8069;}
-  .page-link:hover{background-color:#e24d33; color:white;}
-  .btn-orange  {background-color:#fc6146;padding:10px;color:#fff}
-  .btn-orange:hover,  .orange  {background-color:#ed6047;padding:10px;color:#fff}
-  }
+  --outcome-accent: #ff7257;
+  --outcome-accent-strong: #f15f44;
+  --outcome-surface: #22252a;
+  --outcome-surface-muted: #2a2e34;
+  --outcome-border: #3a3f47;
+}
+
+html,
+body,
+.card,
+.dropdown-menu,
+.offcanvas,
+.modal-content {
+  transition: background-color .2s ease, color .2s ease, border-color .2s ease;
+}
+
+.bg-body-tertiary,
+.offcanvas,
+.modal-content,
+.dropdown-menu {
+  border-color: var(--outcome-border);
+}
+
+.bt-orange,
+.bb-orange,
+.border-orange {
+  border-color: var(--outcome-accent) !important;
+}
+
+.page-link:hover,
+.btn-orange:hover {
+  background-color: var(--outcome-accent-strong) !important;
+}
+
+/* JCRT should look integrated with the house style in both themes */
+.journal-shell--jcrt .journal-hero,
+.journal-shell--jcrt .journal-summary,
+.journal-shell--jcrt .journal-section,
+.journal-shell--jcrt .journal-list-item,
+.journal-shell--jcrt .journal-meta-card,
+.journal-shell--jcrt .journal-sidebar {
+  background-color: var(--outcome-surface);
+  border: 1px solid var(--outcome-border);
+  border-radius: .25rem;
+}
+
+.journal-shell--jcrt .journal-hero,
+.journal-shell--jcrt .journal-summary,
+.journal-shell--jcrt .journal-section,
+.journal-shell--jcrt .journal-meta-card,
+.journal-shell--jcrt .journal-sidebar {
+  padding: 1rem;
+}
+
+.journal-shell--jcrt .journal-list-item {
+  padding: .75rem;
+  margin-bottom: .75rem;
+}
+
+.journal-shell--jcrt .journal-title-link {
+  text-decoration: none;
+}
+
+.journal-shell--jcrt .journal-title-link:hover {
+  text-decoration: underline;
+}
+
+.journal-shell--jcrt .journal-cover {
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+  object-fit: cover;
+}
+
+[data-bs-theme=dark] .journal-shell--jcrt .text-muted {
+  color: #adb5bd !important;
+}
+
+/* Author avatars in starter cards should match live site size */
+.avatar-30 {
+  width: 30px !important;
+  height: 30px !important;
+  object-fit: cover;
+}
+
+img.img-fluid.me-3.rounded-circle[loading="eager"][decoding="async"] {
+  width: 30px !important;
+  height: 30px !important;
+  object-fit: cover;
+}

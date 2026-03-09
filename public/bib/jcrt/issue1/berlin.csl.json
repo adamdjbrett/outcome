@@ -1,0 +1,28 @@
+[
+  {
+    "id": "archives-24.2-berlin",
+    "type": "article-journal",
+    "title": "Unselling the Classroom: Confronting History and Ourselves",
+    "container-title": "Journal for Cultural & Religious Theory",
+    "short-container-title": "JCRT",
+    "publisher": "Whitestone Foundation",
+    "ISSN": "1530-5228",
+    "URL": "https://jcrt.org/archives/24.2/berlin.pdf",
+    "author": [
+      {
+        "family": "Berlin",
+        "given": "Elaina"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2026
+        ]
+      ]
+    },
+    "season": "winter",
+    "volume": "24",
+    "issue": "2"
+  }
+]

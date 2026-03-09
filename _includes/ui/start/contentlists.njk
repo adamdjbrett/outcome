@@ -2,21 +2,21 @@
 <h3 class="col-md-9 col-8 p-3">{{canopy.title}}</h3>
 </div>
 {% for post in pagination.items %}
-<div class="row shadow-sm p-1 mt-3 mb-5 bg-body-tertiary zoom">
+<div class="row shadow-sm p-1 mt-3 mb-5 bg-body-tertiary zoom h-entry">
   <div class="col-md-4 p-3">
 {% if post.data.image %}<a href="{{post.url}}"><img class="img-fluid img_canopyt" alt="{{canopy.title}} {{metadata.title}}" 
 src="{{post.data.image}}"/></a>{% endif %}
 </div>
 <div class="col-md-8 p-3 p-md-5">
-<h3><strong><a href="{{post.url}}" class="no-deco">{{post.data.title}}</a></strong></h3>
-<p class="abstract-post">{{post.data.abstract}} </p>
+<h3 class="p-name"><strong><a href="{{post.url}}" class="no-deco u-url">{{post.data.title}}</a></strong></h3>
+<p class="abstract-post p-summary">{{post.data.abstract}} </p>
 <div class="row">
 {% for s in post.data.author %}
-<div class="col-md-4 col-6">
+<div class="col-md-4 col-6 p-author h-card">
 <p><small>
-<img class="img-fluid me-3 rounded-circle" alt="{{s.name}} {{title}}" width="30" height="30" loading="eager" 
+<img class="img-fluid me-3 rounded-circle avatar-30 u-photo" alt="{{s.name}} {{title}}" width="30" height="30" loading="eager" 
 src="{{s.image or metadata.image}}"/>
-{{s.name or metadata.title}}
+<span class="p-name">{{s.name or metadata.title}}</span>
 </small></p>
 </div>
 {% endfor %}

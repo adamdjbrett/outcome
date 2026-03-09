@@ -1,4 +1,32 @@
-import { globby } from "globby";
+import { readdir } from "node:fs/promises";
+import path from "node:path";
+
+async function walkFiles(rootDir) {
+	const files = [];
+
+	async function walk(currentDir) {
+		let entries = [];
+		try {
+			entries = await readdir(currentDir, { withFileTypes: true });
+		} catch {
+			return;
+		}
+
+		for (const entry of entries) {
+			const fullPath = path.join(currentDir, entry.name);
+			if (entry.isDirectory()) {
+				await walk(fullPath);
+				continue;
+			}
+			if (entry.isFile()) {
+				files.push(fullPath.split(path.sep).join("/"));
+			}
+		}
+	}
+
+	await walk(rootDir);
+	return files;
+}
 
 class ImageSitemap {
 	data() {
@@ -10,14 +38,12 @@ class ImageSitemap {
 	}
 
 	async render(data) {
-		const imageFiles = await globby([
-			"public/img/**/*.webp",
-			"public/img/**/*.jpg",
-			"public/img/**/*.jpeg",
-			"public/img/**/*.gif",
-			"public/img/**/*.png",
-			"public/img/**/*.svg"
-		]);
+		const imageFiles = (await walkFiles("public"))
+			.filter((file) => file.startsWith("public/img/"))
+			.filter((file) => {
+				const lower = file.toLowerCase();
+				return [".webp", ".jpg", ".jpeg", ".gif", ".png", ".svg"].some((ext) => lower.endsWith(ext));
+			});
 
 		const baseUrl = data.metadata?.url || "https://outcome.doctrineofdiscovery.org";
 		

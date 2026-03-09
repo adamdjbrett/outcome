@@ -1,0 +1,36 @@
+---
+layout: layouts/essay.njk
+---
+{%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
+{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+<div class="col-md-12 p-3 p-md-5"></div>
+<div class="container-fluid journal-shell journal-shell--jcrt">
+<div class="row mt-5 mb-3">
+<div class="col-md-10 mx-auto p-3 p-md-5">
+{% include "ui/jcrt/breadcumb_post.njk" %}
+{% include "ui/jcrt/header_post.njk" %}
+{% include "ui/jcrt/author_post.njk" %}
+<div class="row mt-3 mb-3 border-top">
+<div class="col-md-9">
+<div class="row">
+{% include "ui/jcrt/content_post.njk" %}
+<div class="col-md-4 p-3 journal-meta-card">
+{% include "ui/jcrt/pdf_download.njk" %}
+{% include "ui/jcrt/publish_date.njk" %}
+{% include "ui/jcrt/tagging.njk" %}
+<div class="border-top mt-3">
+{% include "ui/jcrt/how_to_cite.njk" %}
+{% include "ui/jcrt/citation_format.njk" %}
+</div>
+{% include "ui/jcrt/shared.njk" %}
+</div>
+</div>
+{% include "ui/jcrt/pagination_post.njk" %}
+</div>
+</div>
+{% include "widgets/rightbar.njk" %}
+</div>
+</div>
+</div>
+</div>
+{% include "ui/jcrt/profile.njk" %}

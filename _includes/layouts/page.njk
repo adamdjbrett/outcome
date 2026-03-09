@@ -12,11 +12,11 @@ layout: layouts/base.njk
 </ol>
 </nav>
 <div class="mb-3 mt-3">
-<h1>{{title}}</h1>
-<h2 class="lead mb-5">{{description}}</h2>
+<h1 class="p-name">{{title}}</h1>
+<h2 class="lead mb-5 p-summary">{{description}}</h2>
 </div>
 <div class="row mt-3 mb-3">
-<div class="col-md-9 p-3">
+<div class="col-md-9 p-3 e-content">
 {% if image %}<img class="img-fluid img-pages mb-3" alt="{{title}}" width="100%" height="100%" loading="eager" 
 src="{{image}}"/>{% endif %}
 {{ content | safe }}

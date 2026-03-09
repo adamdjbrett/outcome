@@ -1,4 +1,32 @@
-import { globby } from "globby";
+import { readdir } from "node:fs/promises";
+import path from "node:path";
+
+async function walkFiles(rootDir) {
+	const files = [];
+
+	async function walk(currentDir) {
+		let entries = [];
+		try {
+			entries = await readdir(currentDir, { withFileTypes: true });
+		} catch {
+			return;
+		}
+
+		for (const entry of entries) {
+			const fullPath = path.join(currentDir, entry.name);
+			if (entry.isDirectory()) {
+				await walk(fullPath);
+				continue;
+			}
+			if (entry.isFile()) {
+				files.push(fullPath.split(path.sep).join("/"));
+			}
+		}
+	}
+
+	await walk(rootDir);
+	return files;
+}
 
 class DocumentSitemap {
 	data() {
@@ -10,15 +38,12 @@ class DocumentSitemap {
 	}
 
 	async render(data) {
-		const documentFiles = await globby([
-			"public/pdf/**/*.pdf",
-			"public/files/**/*.pdf",
-			"public/downloads/**/*.pdf",
-			"public/pdf/**/*.doc",
-			"public/pdf/**/*.docx",
-			"public/files/**/*.xlsx",
-			"public/downloads/**/*.pptx"
-		]);
+		const documentFiles = (await walkFiles("public"))
+			.filter((file) => file.startsWith("public/pdf/") || file.startsWith("public/files/") || file.startsWith("public/downloads/"))
+			.filter((file) => {
+				const lower = file.toLowerCase();
+				return [".pdf", ".doc", ".docx", ".xlsx", ".pptx"].some((ext) => lower.endsWith(ext));
+			});
 
 		const baseUrl = data.metadata?.url || "https://outcome.doctrineofdiscovery.org";
 		

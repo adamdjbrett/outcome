@@ -1,5 +1,29 @@
 import { DateTime } from "luxon";
 
+const EXCLUDED_TAGS = new Set([
+	"all", "posts", "posting", "canopyt", "cocor", "fifi", "jc",
+	"canopys", "esaysones", "esaystwos", "jcreors", "jcesaysones",
+	"jcesaystwos", "crosscurrentss", "croesaysones", "croesaystwos",
+	"features", "fesaysones", "fesaystwos", "podsones", "podsstwos",
+	"ijrs", "ijrall", "ijrones", "ijrtwos", "compassall", "compassone",
+	"jcrt", "jcrt_issue1", "pods", "podcastss", "podthrees",
+	"doctrine-of-discovery", "domination-translator", "indigenous-rights",
+	"education", "law"
+]);
+
+const tagFilterCache = new Map();
+
+function filterPublicTags(tags = []) {
+	// Memoize by sorted key to avoid repeated filtering work during templating.
+	const key = Array.isArray(tags) ? [...tags].sort().join("|") : "";
+	if (tagFilterCache.has(key)) {
+		return tagFilterCache.get(key);
+	}
+	const filtered = (tags || []).filter(tag => !EXCLUDED_TAGS.has(tag));
+	tagFilterCache.set(key, filtered);
+	return filtered;
+}
+
 export default function(eleventyConfig) {
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
 		// Formatting tokens for Luxon: https://moment.github.io/luxon/#/formatting?id=table-of-tokens
@@ -54,13 +78,6 @@ export default function(eleventyConfig) {
 		return Object.keys(target);
 	});
 
-	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-		return (tags || []).filter(tag => ["all", "posts","posting","canopyt", "cocor" , "fifi", "jc" , 
-			"canopys" ,"esaysones" , "esaystwos" , "jcreors" , "jcesaysones" , "jcesaystwos" , 
-			"crosscurrentss" , "croesaysones" , "croesaystwos" ,"features" , "fesaysones" , 
-			"fesaystwos" ,"podsones" , "podsstwos" , "ijrs",  "ijrall","ijrones", "ijrtwos" ,
-			"compassall", "compassone",
-			"pods"].indexOf(tag) === -1);
-	});
+		eleventyConfig.addFilter("filterTagList", filterPublicTags);
 
 };

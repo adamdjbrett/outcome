@@ -1,24 +1,24 @@
 {%- for item in pagination.items %}
-<div class="col-md-12 p-1 mb-3 zoom">
+<div class="col-md-12 p-1 mb-3 zoom h-entry">
 <p><strong>
-<a href="{{item.url}}" title="{{item.data.title}}">{{item.data.title}}</a>
+<a class="u-url p-name" href="{{item.url}}" title="{{item.data.title}}">{{item.data.title}}</a>
 </strong></p>
 {% if item.data.abstract %}
 {% if item.data.image %}<a href="{{item.url}}" title="{{item.data.title}}"><img class="img-fluid float-start me-3"
 style="width:120px; height:80px; object-fit:cover;" alt="{{item.data.title}}" loading="lazy" 
 src="{{item.data.thumbnail or item.data.image}}"/></a>{% endif %}    
-<p class="abstract-post">{{item.data.abstract}}</p>
+<p class="abstract-post p-summary">{{item.data.abstract}}</p>
 {% endif %}
 <div class="row">
 {% if item.data.author %}
 {% for a in item.data.author %}
-<div class="col-md-4 col-6 p-1">
+<div class="col-md-4 col-6 p-1 p-author h-card">
 <p><small>
-{% if a.image %}<img class="me-3 rounded-circle img-author-main" alt="{{a.title}} {{metadata.title}}" loading="eager" 
+{% if a.image %}<img class="me-3 rounded-circle img-author-main u-photo" alt="{{a.title}} {{metadata.title}}" loading="eager" 
 width="20" height="20" src="{{a.image}}"/>{% else %}
-<img class="me-3 rounded-circle img-author-main" alt="{{a.title}} {{metadata.title}}" loading="eager" 
+<img class="me-3 rounded-circle img-author-main u-photo" alt="{{a.title}} {{metadata.title}}" loading="eager" 
 width="20" height="20" src="{{metadata.favicon}}"/>{% endif %}
-{{a.name}}
+<span class="p-name">{{a.name}}</span>
 </small></p>
 </div>
 {% endfor %}

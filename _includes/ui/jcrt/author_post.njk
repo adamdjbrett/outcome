@@ -1,0 +1,45 @@
+<div class="row mt-1">
+{% if author %}
+{% for a in author %}
+<div class="col-md-4 col-6 p-3 p-author h-card">
+<div class="row bg-body-tertiary p-1">
+<div class="col-md-3 col-4 p-1">
+{% if a.image %}
+<img class="img-fluid u-photo" alt="{{a.name}} {{a.university}}" loading="eager"
+src="{{a.image}}"
+style="
+background-position: center;
+width: 80px; height: 80px;
+object-fit:cover;
+background-repeat: no-repeat;
+background-size: cover;
+border-radius: 50px; "
+/>
+{% else %}
+<img class="img-fluid u-photo" alt="{{metadata.title}}" loading="eager" 
+src="{{metadata.favicon}}"
+style="
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; 
+border-radius: 90px; "
+/>{% endif %}
+</div>
+<div class="col-md-9 col-8 p-3">
+<p>
+<strong><a href="#" class="no-deco me-1" data-bs-toggle="modal" data-bs-target="#{{a.sort}}Modal"> 
+<span class="p-name">{{a.name}}</span></a></strong> {% if a.profile_icon %}<a href="{{a.profile_icon.link}}" title="{{a.name}} profile" class="no-deco u-url">
+<i class="{{a.profile_icon.icon}} text-success ms-1"></i></a>{% endif %}
+{% if custom_icon %}<a href="{{custom_icon.link}}" class="btn btn-sm me-3">
+<img class="img-fluid" alt="{{a.university}}" loading="eager" 
+src="{{custom_icon.icon}}" width="24" height="24"/></a>{% endif %}
+{% if a.university %}<br/><small class="p-org">{{a.university}}</small>{% endif %}
+<span class="u-url d-none">{{ metadata.url }}{{ page.url }}</span>
+{% include "ui/jcrt/profile.njk" %}
+</p>
+</div>
+</div>
+</div>
+{% endfor %}
+{% endif %}
+</div>

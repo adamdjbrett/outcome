@@ -8,4 +8,9 @@
 {% include "widgets/style.njk" %}
 </head>
 <body>
+<div class="h-card d-none">
+  <span class="p-name">{{ metadata.title }}</span>
+  <a class="u-url" href="{{ metadata.url }}">{{ metadata.url }}</a>
+  <img class="u-photo" alt="{{ metadata.title }}" src="{{ metadata.url }}{{ metadata.favicon }}">
+</div>
 {% include "widgets/dark_light.njk" %}

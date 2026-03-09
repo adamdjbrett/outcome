@@ -1,0 +1,165 @@
+{% set entryUrl = metadata.url ~ page.url %}
+{% set blogFolders = ['/canopy/', '/featured/'] %}
+{% set academicFolders = ['/compass/', '/crosscurrents/', '/ecozoic/', '/ijr/', '/jcrt/', '/jcreor/'] %}
+{% set isBlogPost = false %}
+{% for f in blogFolders %}{% if page.url.startsWith(f) and page.url != f %}{% set isBlogPost = true %}{% endif %}{% endfor %}
+{% set isAcademic = false %}
+{% for f in academicFolders %}{% if page.url.startsWith(f) and page.url != f %}{% set isAcademic = true %}{% endif %}{% endfor %}
+{% set isPodcast = page.url.startsWith('/podcast/') and page.url != '/podcast/' %}
+
+{% if isBlogPost %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "{{ entryUrl }}#blogposting",
+  "headline": {{ (title or metadata.title) | dump | safe }},
+  "name": {{ (title or metadata.title) | dump | safe }},
+  "description": {{ (description or abstract or metadata.description) | dump | safe }},
+  "url": "{{ entryUrl }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ entryUrl }}"
+  },
+  "isPartOf": {
+    "@type": "Blog",
+    "name": "{{ metadata.title }}",
+    "url": "{{ metadata.url }}"
+  },
+  "datePublished": "{{ page.date | htmlDateString }}",
+  "dateModified": "{{ page.date | htmlDateString }}",
+  "inLanguage": "{{ metadata.language }}",
+  {% if image %}
+  "image": "{{ metadata.url }}{{ image }}",
+  {% endif %}
+  {% if tags %}
+  "keywords": {{ (tags | filterTagList | join(', ')) | dump | safe }},
+  {% endif %}
+  "author": [
+    {% if author and author.length %}
+      {% for a in author %}
+      {
+        "@type": "Person",
+        "name": {{ (a.name or a) | dump | safe }}{% if a.university %},
+        "affiliation": { "@type": "Organization", "name": {{ a.university | dump | safe }} }{% endif %}
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    {% else %}
+      {
+        "@type": "Organization",
+        "name": "{{ metadata.title }}"
+      }
+    {% endif %}
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ metadata.title }}",
+    "url": "{{ metadata.url }}"
+  }
+}
+</script>
+{% endif %}
+
+{% if isAcademic %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "@id": "{{ entryUrl }}#scholarlyarticle",
+  "headline": {{ (title or metadata.title) | dump | safe }},
+  "name": {{ (title or metadata.title) | dump | safe }},
+  "description": {{ (description or abstract or metadata.description) | dump | safe }},
+  "abstract": {{ (abstract or description or metadata.description) | dump | safe }},
+  "url": "{{ entryUrl }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ entryUrl }}"
+  },
+  "datePublished": "{{ page.date | htmlDateString }}",
+  "dateModified": "{{ page.date | htmlDateString }}",
+  "inLanguage": "{{ metadata.language }}",
+  {% if image %}
+  "image": "{{ metadata.url }}{{ image }}",
+  {% endif %}
+  {% if doi %}
+  "identifier": {{ doi | dump | safe }},
+  {% endif %}
+  {% if how_to_cite %}
+  "citation": {{ how_to_cite | dump | safe }},
+  {% endif %}
+  {% if tags %}
+  "keywords": {{ (tags | filterTagList | join(', ')) | dump | safe }},
+  {% endif %}
+  "author": [
+    {% if author and author.length %}
+      {% for a in author %}
+      {
+        "@type": "Person",
+        "name": {{ (a.name or a) | dump | safe }}{% if a.university %},
+        "affiliation": { "@type": "Organization", "name": {{ a.university | dump | safe }} }{% endif %}
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    {% else %}
+      {
+        "@type": "Organization",
+        "name": "{{ metadata.title }}"
+      }
+    {% endif %}
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ metadata.title }}",
+    "url": "{{ metadata.url }}"
+  }
+}
+</script>
+{% endif %}
+
+{% if isPodcast %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PodcastEpisode",
+  "@id": "{{ entryUrl }}#podcastepisode",
+  "name": {{ (title or metadata.title) | dump | safe }},
+  "headline": {{ (title or metadata.title) | dump | safe }},
+  "description": {{ (description or abstract or metadata.description) | dump | safe }},
+  "url": "{{ entryUrl }}",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ entryUrl }}"
+  },
+  "datePublished": "{{ page.date | htmlDateString }}",
+  "inLanguage": "{{ metadata.language }}",
+  {% if image %}
+  "image": "{{ metadata.url }}{{ image }}",
+  {% endif %}
+  "partOfSeries": {
+    "@type": "PodcastSeries",
+    "@id": "{{ metadata.url }}/podcast/#series",
+    "name": "Outcome Podcast",
+    "url": "{{ metadata.url }}/podcast/"
+  },
+  "creator": [
+    {% if author and author.length %}
+      {% for a in author %}
+      {
+        "@type": "Person",
+        "name": {{ (a.name or a) | dump | safe }}
+      }{% if not loop.last %},{% endif %}
+      {% endfor %}
+    {% else %}
+      {
+        "@type": "Organization",
+        "name": "{{ metadata.title }}"
+      }
+    {% endif %}
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ metadata.title }}",
+    "url": "{{ metadata.url }}"
+  }
+}
+</script>
+{% endif %}
