@@ -1,30 +1,22 @@
 [
   {
-    "type": "journal-article",
-    "title": "Dear Autocrat(s)",
+    "id": "crosscurrents_dear_autocrat",
+    "type": "article-webpage",
+    "title": "DEAR AUTOCRAT(S)",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/dear-autocrat/",
     "author": [
       {
-        "given": "Sawatis",
-        "family": "Frushell"
+        "family": "Frushell",
+        "given": "Sawatis"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "416--417",
-    "URL": "https://doi.org/10.1353/cro.2024.a963631",
-    "ISSN": "00111953",
-    "abstract": "A poem is presented.",
-    "keyword": [
-      "Autocracy",
-      "Philosophy",
-      "Poetry"
-    ]
+    "DOI": "10.1353/cro.2024.a963631"
   }
 ]

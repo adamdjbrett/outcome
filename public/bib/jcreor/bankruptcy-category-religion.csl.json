@@ -1,30 +1,26 @@
 [
   {
-    "type": "article-journal",
-    "title": "The Bankruptcy of the Category of Religion: A Decolonizing Approach",
-    "container-title": "Journal of the Council for Research on Religion",
-    "volume": "5",
-    "issue": "2",
-    "page": "58-74",
-    "DOI": "10.26443/jcreor.v5i2.116",
-    "URL": "https://creor-ejournal.library.mcgill.ca/article/view/116",
+    "id": "jcreor_bankruptcy_category_religion",
+    "type": "article-webpage",
+    "title": "The Bankruptcy of the Category of Religion",
+    "URL": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/bankruptcy/",
     "author": [
       {
-        "given": "Cecilia",
-        "family": "Titizano"
+        "family": "Lloyd",
+        "given": "Dana"
       },
       {
-        "given": "Dana",
-        "family": "Lloyd"
+        "family": "Titizano",
+        "given": "Cecilia"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024,
-          11
+          2024
         ]
       ]
-    }
+    },
+    "DOI": "10.26443/jcreor.v5i2.116"
   }
 ]

@@ -1,34 +1,22 @@
 [
   {
-    "type": "journal-article",
+    "id": "crosscurrents_the_challenges_of_revoking_the_papal_bulls",
+    "type": "article-webpage",
     "title": "The Challenges of Revoking the Papal Bulls: A View-from-the-Shore Analysis of Recent Statements by Christian Churches",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/challenges/",
     "author": [
       {
-        "given": "Steven",
-        "family": "Newcomb"
+        "family": "Newcomb",
+        "given": "Steven T."
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "431--457",
-    "URL": "https://doi.org/10.1353/cro.2024.a963635",
-    "ISSN": "00111953",
-    "abstract": "Newcomb discusses the contrast between the free existence of Native nations and the system of domination imposed by Western colonizers. He explores the perspectives of both the Native Ancestors looking out at the invading ships and the colonizers moving towards them with the intention of establishing Christian domination. The recent Vatican Statement on the Doctrine of Discovery is also analyzed from both a Native perspective and a church perspective.",
-    "keyword": [
-      "Dominance",
-      "Francis (Pope)",
-      "Native North Americans",
-      "Papal documents",
-      "Philosophy",
-      "Ships",
-      "Vatican City"
-    ]
+    "DOI": "10.1353/cro.2024.a963635"
   }
 ]

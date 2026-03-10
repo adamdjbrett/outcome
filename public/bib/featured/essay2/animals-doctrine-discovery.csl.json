@@ -1,0 +1,22 @@
+[
+  {
+    "id": "featured_essay2_animals_doctrine_discovery",
+    "type": "article-webpage",
+    "title": "Animal Nations and the Doctrine of Discovery",
+    "URL": "https://doctrineofdiscovery.org/blog/animals-doctrine-discovery/",
+    "author": [
+      {
+        "family": "Basile",
+        "given": "Tracy"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/animals/"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "podcast_essay1_s04",
+    "type": "article-webpage",
+    "title": "Gustavo Melo Cerqueira & Danielle N. Boaz: Religious Racism",
+    "URL": "https://podcast.doctrineofdiscovery.org/special/s04/",
+    "author": [
+      {
+        "family": "Cerqueira",
+        "given": "Gustavo Melo"
+      },
+      {
+        "family": "Boaz",
+        "given": "Danielle N."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/p/s04/"
+  }
+]

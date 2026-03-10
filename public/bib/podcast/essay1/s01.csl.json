@@ -1,0 +1,22 @@
+[
+  {
+    "id": "podcast_essay1_s01",
+    "type": "article-webpage",
+    "title": "Betty Hill (Lyons): Understanding the Doctrine",
+    "URL": "https://podcast.doctrineofdiscovery.org/special/s01/",
+    "author": [
+      {
+        "family": "(Lyons)",
+        "given": "Betty Hill"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/p/s01/"
+  }
+]

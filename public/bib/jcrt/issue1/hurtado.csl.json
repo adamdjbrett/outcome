@@ -1,13 +1,9 @@
 [
   {
-    "id": "archives-24.2-hurtado",
-    "type": "article-journal",
+    "id": "jcrt_issue1_hurtado",
+    "type": "article-webpage",
     "title": "Flesh of Words: Confrontation, Navigation, and Integrity in the English Classroom",
-    "container-title": "Journal for Cultural & Religious Theory",
-    "short-container-title": "JCRT",
-    "publisher": "Whitestone Foundation",
-    "ISSN": "1530-5228",
-    "URL": "https://jcrt.org/archives/24.2/hurtado.pdf",
+    "URL": "https://jcrt.org/archives/24.2/hurtado/",
     "author": [
       {
         "family": "Hurtado",
@@ -20,9 +16,6 @@
           2026
         ]
       ]
-    },
-    "season": "winter",
-    "volume": "24",
-    "issue": "2"
+    }
   }
 ]

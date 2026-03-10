@@ -1,27 +1,22 @@
 [
   {
-    "type": "journal-article",
-    "title": "Credits",
+    "id": "crosscurrents_credits_contributors",
+    "type": "article-webpage",
+    "title": "Contributors",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/contributors/",
     "author": [
       {
-        "given": "",
-        "family": "Anonymous"
+        "family": "(APRIL)",
+        "given": "The Association for Public Religion and Intellectual Life"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "7",
-    "URL": "https://doi.org/10.1353/cro.2024.a963644",
-    "ISSN": "00111953",
-    "keyword": [
-      "Philosophy"
-    ]
+    "DOI": "10.1353/cro.2024.a963644"
   }
 ]

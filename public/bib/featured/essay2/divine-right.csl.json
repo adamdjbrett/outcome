@@ -1,0 +1,22 @@
+[
+  {
+    "id": "featured_essay2_divine_right",
+    "type": "article-webpage",
+    "title": "The Myth of Divine Right and the Doctrine of Discovery",
+    "URL": "https://doctrineofdiscovery.org/blog/divine-right/",
+    "author": [
+      {
+        "family": "Chestek",
+        "given": "Kenneth"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/dr/"
+  }
+]

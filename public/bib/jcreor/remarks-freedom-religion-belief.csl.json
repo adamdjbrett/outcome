@@ -1,26 +1,22 @@
 [
   {
-    "type": "article-journal",
+    "id": "jcreor_remarks_freedom_religion_belief",
+    "type": "article-webpage",
     "title": "Remarks on the Freedom of Religion or Belief Report",
-    "container-title": "Journal of the Council for Research on Religion",
-    "volume": "5",
-    "issue": "2",
-    "page": "54-57",
-    "DOI": "10.26443/jcreor.v5i2.115",
-    "URL": "https://creor-ejournal.library.mcgill.ca/article/view/115",
+    "URL": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/remarks/",
     "author": [
       {
-        "given": "Betty",
-        "family": "Hill (Lyons)"
+        "family": "(Lyons)",
+        "given": "Betty Hill"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024,
-          11
+          2024
         ]
       ]
-    }
+    },
+    "DOI": "10.26443/jcreor.v5i2.115"
   }
 ]

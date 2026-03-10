@@ -1,0 +1,26 @@
+[
+  {
+    "id": "featured_essay1_what_is_the_doctrine_of_discovery",
+    "type": "article-webpage",
+    "title": "What is the Doctrine of Discovery?",
+    "URL": "https://outcome.doctrineofdiscovery.org/featured/essay1/what-is-the-doctrine-of-discovery/",
+    "author": [
+      {
+        "family": "Arnold",
+        "given": "Philip P."
+      },
+      {
+        "family": "Bigtree",
+        "given": "Sandra"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/what/"
+  }
+]

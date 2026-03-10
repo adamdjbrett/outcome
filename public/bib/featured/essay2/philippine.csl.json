@@ -1,0 +1,22 @@
+[
+  {
+    "id": "featured_essay2_philippine",
+    "type": "article-webpage",
+    "title": "The Regalian Doctrine: The Philippine Case",
+    "URL": "https://doctrineofdiscovery.org/blog/philippine-doctrine-discovery/",
+    "author": [
+      {
+        "family": "Mendoza",
+        "given": "S. Lily"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/ph/"
+  }
+]

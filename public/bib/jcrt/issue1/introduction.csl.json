@@ -1,17 +1,21 @@
 [
   {
-    "id": "archives-24.2-introduction",
-    "type": "article-journal",
+    "id": "jcrt_issue1_introduction",
+    "type": "article-webpage",
     "title": "Introduction",
-    "container-title": "Journal for Cultural & Religious Theory",
-    "short-container-title": "JCRT",
-    "publisher": "Whitestone Foundation",
-    "ISSN": "1530-5228",
-    "URL": "https://jcrt.org/archives/24.2/introduction.pdf",
+    "URL": "https://jcrt.org/archives/24.2/introduction/",
     "author": [
       {
-        "family": "PHILIP P. ARNOLD",
-        "given": "SANDRA BIGTREE, and ADAM DJ BRETT"
+        "family": "Arnold",
+        "given": "Philip P."
+      },
+      {
+        "family": "Bigtree",
+        "given": "Sandra"
+      },
+      {
+        "family": "Brett",
+        "given": "Adam DJ"
       }
     ],
     "issued": {
@@ -20,9 +24,6 @@
           2026
         ]
       ]
-    },
-    "season": "winter",
-    "volume": "24",
-    "issue": "2"
+    }
   }
 ]

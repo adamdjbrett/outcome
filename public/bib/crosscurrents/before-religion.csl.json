@@ -1,30 +1,22 @@
 [
   {
-    "type": "journal-article",
+    "id": "crosscurrents_before_religion",
+    "type": "article-webpage",
     "title": "Before Religion",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/before-religion/",
     "author": [
       {
-        "given": "Sawatis",
-        "family": "Frushell"
+        "family": "Frushell",
+        "given": "Sawatis"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "400--401",
-    "URL": "https://doi.org/10.1353/cro.2024.a963626",
-    "ISSN": "00111953",
-    "abstract": "A poem is presented.",
-    "keyword": [
-      "Philosophy",
-      "Poetry",
-      "Religion"
-    ]
+    "DOI": "10.1353/cro.2024.a963643"
   }
 ]

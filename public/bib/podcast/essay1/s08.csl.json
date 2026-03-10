@@ -1,0 +1,22 @@
+[
+  {
+    "id": "podcast_essay1_s08",
+    "type": "article-webpage",
+    "title": "Mitch Randall: Countering Conversion",
+    "URL": "https://podcast.doctrineofdiscovery.org/special/s08/",
+    "author": [
+      {
+        "family": "Randall",
+        "given": "Mitch"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/p/s08/"
+  }
+]

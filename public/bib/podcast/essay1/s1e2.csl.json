@@ -1,0 +1,30 @@
+[
+  {
+    "id": "podcast_essay1_s1e2",
+    "type": "article-webpage",
+    "title": "S1E02 - The Doctrine Of Christian Discovery As An Ideological And Legal Framework with Steven T. Newcomb",
+    "URL": "https://podcast.doctrineofdiscovery.org/season1/episode-02/",
+    "author": [
+      {
+        "family": "Arnold",
+        "given": "Philip P."
+      },
+      {
+        "family": "Bigtree",
+        "given": "Sandra"
+      },
+      {
+        "family": "Brett",
+        "given": "Adam DJ"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2022
+        ]
+      ]
+    },
+    "DOI": "https://podcast.doctrineofdiscovery.org/season1/episode-02/"
+  }
+]

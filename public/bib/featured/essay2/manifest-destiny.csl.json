@@ -1,0 +1,22 @@
+[
+  {
+    "id": "featured_essay2_manifest_destiny",
+    "type": "article-webpage",
+    "title": "Manifest Destiny",
+    "URL": "https://doctrineofdiscovery.org/blog/manifest-destiny/",
+    "author": [
+      {
+        "family": "Ruehl",
+        "given": "Robert Michael"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/md/"
+  }
+]

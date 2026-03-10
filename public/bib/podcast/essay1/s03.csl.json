@@ -1,0 +1,22 @@
+[
+  {
+    "id": "podcast_essay1_s03",
+    "type": "article-webpage",
+    "title": "Robert J. Miller: Property & Sovereignty",
+    "URL": "https://podcast.doctrineofdiscovery.org/special/s03/",
+    "author": [
+      {
+        "family": "Miller",
+        "given": "Robert J."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/p/s03"
+  }
+]

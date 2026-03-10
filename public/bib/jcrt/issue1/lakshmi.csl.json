@@ -1,13 +1,9 @@
 [
   {
-    "id": "archives-24.2-lakshmi",
-    "type": "article-journal",
+    "id": "jcrt_issue1_lakshmi",
+    "type": "article-webpage",
     "title": "Other Forms of Dwelling: A Dalit – Feminist Perspective",
-    "container-title": "Journal for Cultural & Religious Theory",
-    "short-container-title": "JCRT",
-    "publisher": "Whitestone Foundation",
-    "ISSN": "1530-5228",
-    "URL": "https://jcrt.org/archives/24.2/lakshmi.pdf",
+    "URL": "https://jcrt.org/archives/24.2/lakshmi/",
     "author": [
       {
         "family": "Lakshmi",
@@ -20,9 +16,6 @@
           2026
         ]
       ]
-    },
-    "season": "winter",
-    "volume": "24",
-    "issue": "2"
+    }
   }
 ]

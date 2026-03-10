@@ -1,13 +1,9 @@
 [
   {
-    "id": "archives-24.2-modrow",
-    "type": "article-journal",
+    "id": "jcrt_issue1_modrow",
+    "type": "article-webpage",
     "title": "Charting the Doctrine in the Colonial Archive: Papal Bulls and the Translation of the ‘Discovery’ Purpose",
-    "container-title": "Journal for Cultural & Religious Theory",
-    "short-container-title": "JCRT",
-    "publisher": "Whitestone Foundation",
-    "ISSN": "1530-5228",
-    "URL": "https://jcrt.org/archives/24.2/modrow.pdf",
+    "URL": "https://jcrt.org/archives/24.2/modrow/",
     "author": [
       {
         "family": "Modrow",
@@ -20,9 +16,6 @@
           2026
         ]
       ]
-    },
-    "season": "winter",
-    "volume": "24",
-    "issue": "2"
+    }
   }
 ]

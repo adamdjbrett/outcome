@@ -1,38 +1,22 @@
 [
   {
-    "type": "journal-article",
+    "id": "crosscurrents_the_construction_of_indigenous_americans",
+    "type": "article-webpage",
     "title": "The Construction of Indigenous Americans and Spanish Conquistadors in Theodore de Bry's Engravings",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/construction/",
     "author": [
       {
-        "given": "Isabel V",
-        "family": "Maine-Torres"
+        "family": "Maine-Torres",
+        "given": "Isabel V."
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "458--464",
-    "URL": "https://doi.org/10.1353/cro.2024.a963636",
-    "ISSN": "00111953",
-    "abstract": "The primary visual sources depicting the treatment of Indigenous peoples by conquerors, particularly the works of Protestant engraver Theodore de Bry, offer valuable insights into the interactions between European explorers and Indigenous Americans. De Bry's illustrations, influenced by Bartolomé de Las Casas's accounts of Spanish atrocities, serve as a condemnation of Spanish Catholic colonization in the Americas. Through his engravings, de Bry politicizes and weaponizes Indigenous bodies, portraying them as deserving of conquest and civilizing, albeit by Protestant conquerors. His depictions of Indigenous peoples, based on biased accounts relayed from explorers, perpetuate stereotypes used to justify colonization. De Bry's Protestant vision, evident in his works, advocates for Protestant colonization as a preferable alternative to Spanish Catholic conquest. Despite condemning Spanish abuses, de Bry's ultimate goal is not to end colonialism but to promote Protestant colonization in the Americas.",
-    "keyword": [
-      "Atrocities",
-      "Belgium",
-      "Catholics",
-      "Colonialism",
-      "Engraving",
-      "Europe",
-      "Indigenous peoples",
-      "Native North Americans",
-      "Philosophy",
-      "Protestantism",
-      "Stereotypes"
-    ]
+    "DOI": "https://dx.doi.org/10.1353/cro.2024.a963636"
   }
 ]

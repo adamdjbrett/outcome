@@ -1,51 +1,30 @@
 [
   {
-    "type": "journal-article",
+    "id": "crosscurrents_200_years_of_johnson_v_m_intosh_jvm",
+    "type": "article-webpage",
     "title": "200 Years of Johnson v. M'Intosh (JVM): Indigenous Responses to the Religious Foundations of Racism",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay1/200/",
     "author": [
       {
-        "given": "Philip P",
-        "family": "Arnold"
+        "family": "Arnold",
+        "given": "Philip P."
       },
       {
-        "given": "Sandra",
-        "family": "Bigtree"
+        "family": "Bigtree",
+        "given": "Sandra"
       },
       {
-        "given": "Adam DJ",
-        "family": "Brett"
+        "family": "Brett",
+        "given": "Adam DJ"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "391--399",
-    "URL": "https://doi.org/10.1353/cro.2024.a963625",
-    "ISSN": "00111953",
-    "keyword": [
-      "Anniversaries",
-      "Canada",
-      "Catholic churches",
-      "Christianity",
-      "Collaboration",
-      "Colonialism",
-      "Law",
-      "Leadership",
-      "Native peoples",
-      "Philosophy",
-      "Popes",
-      "Religious education",
-      "Religious studies",
-      "South America",
-      "Supreme Court decisions",
-      "Theology",
-      "United States--US"
-    ]
+    "DOI": "10.1353/cro.2024.a963625"
   }
 ]

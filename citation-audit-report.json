@@ -1,0 +1,1632 @@
+{
+  "generatedAt": "2026-03-10T16:47:37.384Z",
+  "fixMode": false,
+  "totals": {
+    "items": 162,
+    "missingTriples": 0,
+    "invalidFiles": 0,
+    "fixedFiles": 0
+  },
+  "items": [
+    {
+      "file": "canopy/essay1/intro.md",
+      "section": "canopy",
+      "citationBasePath": "intro-arnold",
+      "expectedPermalink": "https://canopyforum.org/2023/03/10/introduction-to-the-200-years-of-johnson-v-mintosh-law-religion-and-native-american-lands-series/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/colonialism.md",
+      "section": "canopy",
+      "citationBasePath": "miller",
+      "expectedPermalink": "https://canopyforum.org/2023/03/30/the-international-law-of-colonialism-johnson-v-mintosh-and-the-doctrine-of-discovery-applied-worldwide/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/content-temporary.md",
+      "section": "canopy",
+      "citationBasePath": "tremblay",
+      "expectedPermalink": "https://canopyforum.org/2023/03/14/the-contemporary-presence-of-discoverys-assertion-in-canada/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/extravagant.md",
+      "section": "canopy",
+      "citationBasePath": "brett-lyons",
+      "expectedPermalink": "https://canopyforum.org/2023/03/23/however-extravagant-the-pretensions-of-johnson-v-mintosh/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/federal.md",
+      "section": "canopy",
+      "citationBasePath": "d'errico",
+      "expectedPermalink": "https://canopyforum.org/2023/03/07/federal-anti-indian-law-the-legal-entrapment-of-indigenous-peoples/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/halland-v-braken.md",
+      "section": "canopy",
+      "citationBasePath": "lloyd",
+      "expectedPermalink": "https://canopyforum.org/2023/03/18/haaland-v-brackeen-and-the-logic-of-discovery/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/jigsaw-puzzle.md",
+      "section": "canopy",
+      "citationBasePath": "newcomb",
+      "expectedPermalink": "https://canopyforum.org/2023/04/13/johnson-v-mintosh-and-the-missing-cover-of-the-jigsaw-puzzle/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/johnson-v-mintosh-wi-parata-v-bishop-of-wellington-and-the-legacy-of-the-doctrine-of-discovery-in-aotearoa-new-zealand.md",
+      "section": "canopy",
+      "citationBasePath": "ngata",
+      "expectedPermalink": "https://canopyforum.org/2023/04/11/johnson-v-mintosh-wi-parata-v-bishop-of-wellington-and-the-legacy-of-the-doctrine-of-discovery-in-aotearoa-new-zealand/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/legacy.md",
+      "section": "canopy",
+      "citationBasePath": "malloy",
+      "expectedPermalink": "https://canopyforum.org/2023/04/01/the-legacy-of-the-right-to-control-land-and-dependency/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/order-economy-legality.md",
+      "section": "canopy",
+      "citationBasePath": "little",
+      "expectedPermalink": "https://canopyforum.org/2023/03/11/order-economy-and-legality-johnson-v-mintosh-after-two-hundred-years/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/plenary-power.md",
+      "section": "canopy",
+      "citationBasePath": "alexandra",
+      "expectedPermalink": "https://canopyforum.org/2023/03/29/johnson-v-mintosh-plenary-power-and-our-colonial-constitution/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "canopy/essay2/pope-alexander-VI.md",
+      "section": "canopy",
+      "citationBasePath": "cavedon",
+      "expectedPermalink": "https://canopyforum.org/2023/03/21/did-pope-alexander-vi-authorize-englands-colonization-of-north-america/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "compass/essay1/examining-doctrine-of-discovery.md",
+      "section": "compass",
+      "citationBasePath": "compass/examining-doctrine-of-discovery",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/compass/essay1/examining-doctrine-of-discovery/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay1/200.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/200-years-of-johnson-v.-m'intosh-(jvm)",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay1/200/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/before-religion.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/before-religion",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/before-religion/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/book-notes.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/book-notes",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/book-notes/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/challenges.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/the-challenges-of-revoking-the-papal-bulls",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/challenges/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/comments.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/comments-on-the-bishop's-panel",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/comments/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/construction.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/the-construction-of-indigenous-americans",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/construction/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/contributors.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/credits-contributors",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/contributors/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/cultivating-grace-mindset-elca.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/cultivating-a-g.r.a.c.e.-mindset",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/cultivating-grace-mindset-elca/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/dear-autocrat.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/dear-autocrat",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/dear-autocrat/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/documenting-domination-in-international-relations-through-the-doctrine-of-discovery.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/documenting-domination-in-international-relations-",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/documenting-domination-in-international-relations-through-the-doctrine-of-discovery/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/joint.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/joint-statement",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/joint/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/lithuanian.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/christian-nationalism-in-the-lithuanian-context",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/lithuanian/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/religious-origins.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/the-religious-origins-of-white-supremacy-and-the-doctrine-of-christian-discovery",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/religious-origins/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/roots.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/the-roots-of-christian-nationalism-go-back-further-than-you-think",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/roots/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/routing.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/routing-out-supremacy's-religious-roots",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/routing/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/statement-doctrine-discovery-episcopal.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/statement-on-the-doctrine-of-discovery",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/statement-doctrine-discovery-episcopal/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/things.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/things-we-already-knew-before-the-prophecy-of-i-am",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/things/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/toward.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/toward-a-kinder-future",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/toward/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/travel.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/travelling-along-the-river-of-life",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/travel/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "crosscurrents/essay2/wedding.md",
+      "section": "crosscurrents",
+      "citationBasePath": "crosscurrents/an-unholy-wedding",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/wedding/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "ecozoic/essay1/haudenosaunee-great-binding-peace.md",
+      "section": "ecozoic",
+      "citationBasePath": "ecozoic/arnold-bigtree",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/ecozoic/essay1/haudenosaunee-great-binding-peace/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-01/introduction.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-01/introduction",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-01/introduction/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-02/fletcher-v-peck.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-02/fletcher-v-peck",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-02/fletcher-v-peck/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-03/johnson-mcintosh.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-03/johnson-mcintosh",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-03/johnson-mcintosh/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-04/cherokee-nation-georgia.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-04/cherokee-nation-georgia",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-04/cherokee-nation-georgia/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-05/worcester-georgia.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-05/worcester-georgia",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-05/worcester-georgia/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-06/monroe-doctrine.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-06/monroe-doctrine",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-06/monroe-doctrine/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-07/martin-waddell.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-07/martin-waddell",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-07/martin-waddell/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-08/roosevelt-corollary.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-08/roosevelt-corollary",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-08/roosevelt-corollary/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-09/tee-hit-ton.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-09/tee-hit-ton",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-09/tee-hit-ton/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-10/white-university.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-10/white-university",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-10/white-university/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-11/cayuga-pataki.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-11/cayuga-pataki",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-11/cayuga-pataki/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-12/oneida-county.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-12/oneida-county",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-12/oneida-county/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-13/onondaga-new-york.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-13/onondaga-new-york",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-13/onondaga-new-york/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-14/mcgirt-oklahoma.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-14/mcgirt-oklahoma",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-14/mcgirt-oklahoma/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/domination-translator/domination-translator-15/king-mountain.md",
+      "section": "featured",
+      "citationBasePath": "featured/domination-translator/domination-translator-15/king-mountain",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/domination-translator/domination-translator-15/king-mountain/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay1/what-is-the-doctrine-of-discovery.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay1/what-is-the-doctrine-of-discovery",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/featured/essay1/what-is-the-doctrine-of-discovery/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/10-religous-dimensions.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/10-religous-dimensions",
+      "expectedPermalink": "https://doctrineofdiscovery.org/10-religous-dimensions/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/CEMANAHUAC.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/CEMANAHUAC",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/1CEMANAHUAC/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/animals-doctrine-discovery.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/animals-doctrine-discovery",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/animals-doctrine-discovery/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/beginning-analysis-settler-colonialism.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/beginning-analysis-settler-colonialism",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/river/beginning-analysis-settler-colonialism/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/christian-control-women-mother-earth.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/christian-control-women-mother-earth",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/christian-control-women-mother-earth/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/christian-zionism.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/christian-zionism",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/christian-zionism/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/city-of-sherrill.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/city-of-sherrill",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/sherrill-v-oneida-doctrine-christian-discovery-denial-treaty-rights/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/combahee-river.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/combahee-river",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/river/combahee-river/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/divine-right.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/divine-right",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/divine-right/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/documenting.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/documenting",
+      "expectedPermalink": "https://www.mdpi.com/2077-1444/15/12/1493",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/effectuating-renunciation-IUCN.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/effectuating-renunciation-IUCN",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/effectuating-renunciation-IUCN/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/imagining-shared-futures.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/imagining-shared-futures",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/river/imagining-shared-futures/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/indigenous-consent-right-rooted-doctrine-discovery.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/indigenous-consent-right-rooted-doctrine-discovery",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/indigenous-consent-right-rooted-doctrine-discovery/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/lyng.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/lyng",
+      "expectedPermalink": "https://doctrineofdiscovery.org/law/lyng/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/manifest-destiny.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/manifest-destiny",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/manifest-destiny/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/maya-commentary.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/maya-commentary",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/doctrine-discovery-maya-commentary/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/philippine.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/philippine",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/philippine-doctrine-discovery/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/reapprasing-the-doctrine-discovery.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/reapprasing-the-doctrine-discovery",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/reapprasing-the-doctrine-discovery/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/settler-colonialism-analyized.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/settler-colonialism-analyized",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/river/settler-colonialism-analyized/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/settler-colonialism-higher-education.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/settler-colonialism-higher-education",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/settler-colonialism-higher-education/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/sherrill-v-oneida-opinion-of-the-court.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/sherrill-v-oneida-opinion-of-the-court",
+      "expectedPermalink": "https://doctrineofdiscovery.org/sherrill-v-oneida-opinion-of-the-court/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/sublimis-deus-pastorale-officium-indecensvidetur.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/sublimis-deus-pastorale-officium-indecensvidetur",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/papal-bulls/sublimis-deus-pastorale-officium-indecensvidetur/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/sublimis-deus.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/sublimis-deus",
+      "expectedPermalink": "https://doctrineofdiscovery.org/papal-bulls/sublimis-deus/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/uncovering-invisible-en.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/uncovering-invisible-en",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/uncovering-invisible-en/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/us-government-claim-domination.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/us-government-claim-domination",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/us-government-claim-domination/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "featured/essay2/what-repudiations-reveal.md",
+      "section": "featured",
+      "citationBasePath": "featured/essay2/what-repudiations-reveal",
+      "expectedPermalink": "https://doctrineofdiscovery.org/blog/what-repudiations-reveal/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "ijr/essay1/religious-moral.md",
+      "section": "ijr",
+      "citationBasePath": "ijr/nahar",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/ijr/essay1/religious-moral/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "ijr/essay2/healing-the-sacred.md",
+      "section": "ijr",
+      "citationBasePath": "ijr/healing-the-sacred",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/ijr/essay2/healing-the-sacred/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay1/editorial.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/editorial-address-advisory-board",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay1/editorial/",
+      "authorCount": 4,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay1/intro.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/preface-introduction",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay1/intro/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay2/bankruptcy.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/bankruptcy-category-religion",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/bankruptcy/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay2/comments.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/comments-un-special-rapporteur",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/comments/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay2/indigenous.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/indigenous-values-initiative-territorial-integrity",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/indigenous/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay2/intellectual.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/intellectual-acknowledgement-religious-freedom",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/intellectual/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay2/interim.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/interim-report-special-rapporteur",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/interim/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay2/learning.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/learning",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/learning/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay2/limits.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/limits-concept-religious-freedom",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/limits/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcreor/essay2/remarks.md",
+      "section": "jcreor",
+      "citationBasePath": "jcreor/remarks-freedom-religion-belief",
+      "expectedPermalink": "https://outcome.doctrineofdiscovery.org/jcreor/essay2/remarks/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/alencar.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/alencar",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/alencar/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/barry.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/barry",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/barry/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/berlin.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/berlin",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/berlin/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/callan.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/callan",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/callan/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/chaness.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/chaness",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/chaness/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/felese.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/felese",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/felese/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/hurtado.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/hurtado",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/hurtado/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/introduction.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/introduction",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/introduction/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/jimenez.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/jimenez",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/jimenez/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/lakshmi.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/lakshmi",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/lakshmi/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/modrow.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/modrow",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/modrow/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/nagle.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/nagle",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/nagle/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/nahar.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/nahar",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/nahar/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/preface.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/preface",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/preface/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/radhakrishnan.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/radhakrishnan",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/radhakrishnan/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/somayajula.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/somayajula",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/somayajula/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/trinkauskaite.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/trinkauskaite",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/trinkauskaite/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "jcrt/issue1/wagner.md",
+      "section": "jcrt",
+      "citationBasePath": "jcrt/issue1/wagner",
+      "expectedPermalink": "https://jcrt.org/archives/24.2/wagner/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s01.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s01",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s01/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s02.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s02",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s02/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s03.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s03",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s03/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s04.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s04",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s04/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s05.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s05",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s05/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s06.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s06",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s06/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s07.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s07",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s07/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s08.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s08",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s08/",
+      "authorCount": 1,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s1e2.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s1e2",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season1/episode-02/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s1e3.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s1e3",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season1/episode-03/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s1e4.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s1e4",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season1/episode-04/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s1e5.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s1e5",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season1/episode-05/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s2e1.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s2e1",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season2/episode-01/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s2e2.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s2e2",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season2/episode-02/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s2e3.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s2e3",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season2/episode-03/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s2e4.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s2e4",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season2/episode-04/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s2e5.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s2e5",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season2/episode-05/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s2e6.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s2e6",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season2/episode-06/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s2e7.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s2e7",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season2/episode-07/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay1/s2e8.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay1/s2e8",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season2/episode-08/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s3e1.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s3e1",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season3/episode-01/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s3e2.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s3e2",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season3/episode-02/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s3e3.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s3e3",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season3/episode-03/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s3e4.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s3e4",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season3/episode-04/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s3e5.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s3e5",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season3/episode-05/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s3e6.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s3e6",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season3/episode-06/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s4e1.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s4e1",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season4/episode-01/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s4e2.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s4e2",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season4/episode-02/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s4e3.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s4e3",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season4/episode-03/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s4e4.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s4e4",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season4/episode-04/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s4e5.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s4e5",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season4/episode-05/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s4e6.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s4e6",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season4/episode-06/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s5e1.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s5e1",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season5/episode-01/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s5e2.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s5e2",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season5/episode-02/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s5e3.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s5e3",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season5/episode-03/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s5e4.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s5e4",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season5/episode-04/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s5e5.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s5e5",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season5/episode-05/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s5e6.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s5e6",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season5/episode-06/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s5e7.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s5e7",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season5/episode-07/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay2/s5e8.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay2/s5e8",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season5/episode-08/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay3/s6e1.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay3/s6e1",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season6/episode-01/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay3/s6e2.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay3/s6e2",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season6/episode-02/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay3/s6e3.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay3/s6e3",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season6/episode-03/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay3/s6e4.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay3/s6e4",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season6/episode-04/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay3/s6e5.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay3/s6e5",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season6/episode-05/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay3/s6e6.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay3/s6e6",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season6/episode-06/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay3/s6e7.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay3/s6e7",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season6/episode-07/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay3/s6e8.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay3/s6e8",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/season6/episode-08/",
+      "authorCount": 3,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay4/s01.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay4/s01",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s01/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay4/s02.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay4/s02",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s02/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay4/s03.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay4/s03",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s03/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay4/s04.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay4/s04",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s04/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay4/s05.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay4/s05",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s05/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay4/s06.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay4/s06",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s06/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay4/s07.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay4/s07",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s07/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    },
+    {
+      "file": "podcast/essay4/s08.md",
+      "section": "podcast",
+      "citationBasePath": "podcast/essay4/s08",
+      "expectedPermalink": "https://podcast.doctrineofdiscovery.org/special/s08/",
+      "authorCount": 2,
+      "missing": [],
+      "errors": [],
+      "fixed": false
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "podcast_essay1_s05",
+    "type": "article-webpage",
+    "title": "Steven Newcomb & JoDe Goudy: U.S. Law",
+    "URL": "https://podcast.doctrineofdiscovery.org/special/s05/",
+    "author": [
+      {
+        "family": "Newcomb",
+        "given": "Steven T."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2024
+        ]
+      ]
+    },
+    "DOI": "https://dofd.fyi/p/s05/"
+  }
+]

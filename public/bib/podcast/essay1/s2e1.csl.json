@@ -1,0 +1,30 @@
+[
+  {
+    "id": "podcast_essay1_s2e1",
+    "type": "article-webpage",
+    "title": "S02E01 - The Backstory of Johnson v. M'Intosh with Lindsay Robertson",
+    "URL": "https://podcast.doctrineofdiscovery.org/season2/episode-01/",
+    "author": [
+      {
+        "family": "Arnold",
+        "given": "Philip P."
+      },
+      {
+        "family": "Bigtree",
+        "given": "Sandra"
+      },
+      {
+        "family": "Brett",
+        "given": "Adam DJ"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2023
+        ]
+      ]
+    },
+    "DOI": "https://podcast.doctrineofdiscovery.org/season2/episode-01/"
+  }
+]

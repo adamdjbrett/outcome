@@ -1,35 +1,30 @@
 [
   {
-    "type": "article-journal",
-    "title": "Preface and Introduction: From Indigenous Religions to Indigenous Values",
-    "container-title": "Journal of the Council for Research on Religion",
-    "volume": "5",
-    "issue": "2",
-    "page": "ii-x",
-    "DOI": "10.26443/jcreor.v5i2.108",
-    "ISSN": "2563-0288",
-    "URL": "https://creor-ejournal.library.mcgill.ca/article/view/108",
+    "id": "jcreor_preface_introduction",
+    "type": "article-webpage",
+    "title": "Preface and Introduction: From Indigenous Religions to Indigenous Values Vol. 5 No. 2",
+    "URL": "https://outcome.doctrineofdiscovery.org/jcreor/essay1/intro/",
     "author": [
       {
-        "given": "Philip P.",
-        "family": "Arnold"
+        "family": "Arnold",
+        "given": "Philip P."
       },
       {
-        "given": "Sandra",
-        "family": "Bigtree"
+        "family": "Bigtree",
+        "given": "Sandra"
       },
       {
-        "given": "Adam DJ",
-        "family": "Brett"
+        "family": "Brett",
+        "given": "Adam DJ"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024,
-          11
+          2025
         ]
       ]
-    }
+    },
+    "DOI": "10.26443/jcreor.v5i2.108"
   }
 ]

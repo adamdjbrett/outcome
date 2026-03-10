@@ -1,13 +1,9 @@
 [
   {
-    "id": "archives-24.2-chaness",
-    "type": "article-journal",
+    "id": "jcrt_issue1_chaness",
+    "type": "article-webpage",
     "title": "Expecting Excellence in Education: When Content Conditions Class Consciousness",
-    "container-title": "Journal for Cultural & Religious Theory",
-    "short-container-title": "JCRT",
-    "publisher": "Whitestone Foundation",
-    "ISSN": "1530-5228",
-    "URL": "https://jcrt.org/archives/24.2/chaness.pdf",
+    "URL": "https://jcrt.org/archives/24.2/chaness/",
     "author": [
       {
         "family": "Chaness",
@@ -20,9 +16,6 @@
           2026
         ]
       ]
-    },
-    "season": "winter",
-    "volume": "24",
-    "issue": "2"
+    }
   }
 ]

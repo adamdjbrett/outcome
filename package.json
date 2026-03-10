@@ -4,6 +4,8 @@
 	"description": "Outcome Doctrine of Discovery",
 	"type": "module",
 	"scripts": {
+		"citations:audit": "node scripts/citation-audit-fix.mjs",
+		"citations:fix": "node scripts/citation-audit-fix.mjs --fix",
 		"build": "npx @11ty/eleventy",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
 		"build-search": "npx @11ty/eleventy && npx pagefind --site _site --force-language unknown",

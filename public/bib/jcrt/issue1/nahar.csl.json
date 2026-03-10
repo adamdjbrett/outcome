@@ -1,13 +1,9 @@
 [
   {
-    "id": "archives-24.2-nahar",
-    "type": "article-journal",
+    "id": "jcrt_issue1_nahar",
+    "type": "article-webpage",
     "title": "Using the Doctrine of Discovery to Increase Shared Language and Conceptual Frameworks Between Black and Indigenous Feminist Organizing",
-    "container-title": "Journal for Cultural & Religious Theory",
-    "short-container-title": "JCRT",
-    "publisher": "Whitestone Foundation",
-    "ISSN": "1530-5228",
-    "URL": "https://jcrt.org/archives/24.2/nahar.pdf",
+    "URL": "https://jcrt.org/archives/24.2/nahar/",
     "author": [
       {
         "family": "Nahar",
@@ -20,9 +16,6 @@
           2026
         ]
       ]
-    },
-    "season": "winter",
-    "volume": "24",
-    "issue": "2"
+    }
   }
 ]

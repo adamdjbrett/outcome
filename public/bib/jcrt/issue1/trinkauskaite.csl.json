@@ -1,17 +1,17 @@
 [
   {
-    "id": "archives-24.2-trinkauskaite",
-    "type": "article-journal",
+    "id": "jcrt_issue1_trinkauskaite",
+    "type": "article-webpage",
     "title": "Baltic Religion: The Sacred Things",
-    "container-title": "Journal for Cultural & Religious Theory",
-    "short-container-title": "JCRT",
-    "publisher": "Whitestone Foundation",
-    "ISSN": "1530-5228",
-    "URL": "https://jcrt.org/archives/24.2/trinkauskaite.pdf",
+    "URL": "https://jcrt.org/archives/24.2/trinkauskaite/",
     "author": [
       {
+        "family": "Trinkauskaitė",
+        "given": "Eglutė"
+      },
+      {
         "family": "Cutler",
-        "given": "Eglutė Trinkauskaitė and Ellen B."
+        "given": "Ellen B."
       }
     ],
     "issued": {
@@ -20,9 +20,6 @@
           2026
         ]
       ]
-    },
-    "season": "winter",
-    "volume": "24",
-    "issue": "2"
+    }
   }
 ]

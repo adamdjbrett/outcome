@@ -1,44 +1,26 @@
 [
   {
-    "type": "journal-article",
+    "id": "crosscurrents_book_notes",
+    "type": "article-webpage",
     "title": "Book Notes: New Books in the Study of Domination",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/book-notes/",
     "author": [
       {
-        "given": "Adam DJ",
-        "family": "Brett"
+        "family": "Brett",
+        "given": "Adam DJ"
       },
       {
-        "given": "Betty",
-        "family": "Hill"
+        "family": "(Lyons)",
+        "given": "Betty Hill"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "541--550",
-    "URL": "https://doi.org/10.1353/cro.2024.a963642",
-    "ISSN": "00111953",
-    "abstract": "Brett and Hill review several books, including The Urgency of Indigenous Values by Philip P. Arnold, Banning Black Gods: Law and Religions of the African Diaspora by Danielle N. Boaz and Voodoo: The History of a Racial Slur by Danielle N. Boaz.",
-    "keyword": [
-      "Brazil",
-      "Deities",
-      "Diaspora",
-      "Native North Americans",
-      "Nonfiction",
-      "Pennsylvania",
-      "Philosophy",
-      "Racism",
-      "Religion",
-      "South America",
-      "United States--US",
-      "Urgency",
-      "Voodoo"
-    ]
+    "DOI": "10.1353/cro.2024.a963641"
   }
 ]

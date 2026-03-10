@@ -1,53 +1,30 @@
 [
   {
-    "type": "journal-article",
+    "id": "crosscurrents_the_religious_origins_of_white_supremacy_and_the_doctrine_of_christian_discovery",
+    "type": "article-webpage",
     "title": "The Religious Origins of White Supremacy and The Doctrine of Christian Discovery",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/religious-origins/",
     "author": [
       {
-        "given": "Philip P",
-        "family": "Arnold"
+        "family": "Arnold",
+        "given": "Philip P."
       },
       {
-        "given": "Sandra",
-        "family": "Bigtree"
+        "family": "Bigtree",
+        "given": "Sandra"
       },
       {
-        "given": "Adam DJ",
-        "family": "Brett"
+        "family": "Brett",
+        "given": "Adam DJ"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "537--540",
-    "URL": "https://doi.org/10.1353/cro.2024.a963641",
-    "ISSN": "00111953",
-    "keyword": [
-      "Anniversaries",
-      "Archives \\& records",
-      "Arnold",
-      "Philip",
-      "Collaboration",
-      "Colonialism",
-      "Democracy",
-      "Digital humanities",
-      "Influence",
-      "New York",
-      "Philosophy",
-      "Publishing",
-      "Racism",
-      "Religion",
-      "Secularism",
-      "Teaching",
-      "United Kingdom--UK",
-      "United States--US",
-      "White supremacy"
-    ]
+    "DOI": "10.1353/cro.2024.a963641"
   }
 ]

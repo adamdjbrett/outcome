@@ -1,34 +1,22 @@
 [
   {
-    "type": "journal-article",
+    "id": "crosscurrents_travelling_along_the_river_of_life",
+    "type": "article-webpage",
     "title": "Travelling Along the River of Life",
+    "URL": "https://outcome.doctrineofdiscovery.org/crosscurrents/essay2/travel/",
     "author": [
       {
-        "given": "Oren",
-        "family": "Lyons"
+        "family": "Lyons",
+        "given": "Oren"
       }
     ],
     "issued": {
       "date-parts": [
         [
-          2024
+          2025
         ]
       ]
     },
-    "container-title": "Cross Currents",
-    "volume": 74,
-    "page": "418--423",
-    "URL": "https://doi.org/10.1353/cro.2024.a963632",
-    "ISSN": "00111953",
-    "abstract": "Lyons discusses the journey in the Doctrine of Discovery, highlighting his experience presenting at the United Nations in 2001. He focuses on the history of the Haudenosaunee Confederacy, emphasizing the importance of peace and the responsibility to consider future generations. He also reflects on the impact of inequity, racism, and the need for change.",
-    "keyword": [
-      "Gore",
-      "Albert Jr",
-      "Inequality",
-      "International law",
-      "Peace",
-      "Philosophy",
-      "Racism"
-    ]
+    "DOI": "10.1353/cro.2024.a963632"
   }
 ]
