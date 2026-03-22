@@ -44,6 +44,18 @@
 						"link": "/"
 					},
 					{
+						"name": "Feedback",
+						"link": "/feedback/"	
+					},
+					{
+						"name": "How to Submit",
+						"link": "/how-to-submit/"
+					},
+					{
+						"name": "Contact Us",
+						"link": "/contact/"
+					}
+					{
 						"name": "Compass",
 						"link": "/compass/"
 					},
