@@ -1,6 +1,8 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6b466ad8-fa73-44d3-ad3a-d2286b79cb53/deploy-status)](https://app.netlify.com/projects/outcomedocs/deploys)
+
 # OUTCOME 🚀
 
-![Outcome](outcome.webp)
+![Outcome](outcome.jpg)
 
 The Outcome Documents for the Henry Luce Foundation Grant 200 Years of Johnson v. M’Intosh (JvM): Indigenous Responses to the Religious Foundations of Racism.
 
