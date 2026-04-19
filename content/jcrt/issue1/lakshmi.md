@@ -4,6 +4,7 @@ description: "Lakshmi frames Dalit feminist values alongside Indigenous framewor
 abstract: "Lakshmi frames Dalit feminist values alongside Indigenous frameworks to show alternative forms of dwelling, relation, and resistance beyond colonial modernity."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 13
 canonical: "https://jcrt.org/archives/24.2/lakshmi/"
 pdf: "https://jcrt.org/archives/24.2/lakshmi.pdf"
 how_to_cite: "Shrutika Lakshmi. \"Other Forms of Dwelling: A Dalit – Feminist Perspective\". Journal for Cultural & Religious Theory 2026."

@@ -4,6 +4,7 @@ description: "Trinkauskaite explores Baltic sacred traditions and sutartinės, l
 abstract: "Trinkauskaite explores Baltic sacred traditions and sutartinės, linking domestic deities and revivalist practice to collective ethics beyond hierarchy."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 12
 canonical: "https://jcrt.org/archives/24.2/trinkauskaite/"
 pdf: "https://jcrt.org/archives/24.2/trinkauskaite.pdf"
 how_to_cite: "Eglutė Trinkauskaitė and Ellen B. Cutler. \"Baltic Religion: The Sacred Things\". Journal for Cultural & Religious Theory 2026."

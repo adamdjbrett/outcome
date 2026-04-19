@@ -4,6 +4,7 @@ description: "Wagner links church patriarchy and the Doctrine of Discovery to co
 abstract: "Wagner links church patriarchy and the Doctrine of Discovery to colonial violence, calling for Indigenous rematriation to restore women and the Earth."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 4
 canonical: "https://jcrt.org/archives/24.2/wagner/"
 pdf: "https://jcrt.org/archives/24.2/wagner.pdf"
 how_to_cite: "Sally Roesch Wagner. \"Christian Control of Women and Mother Earth: The Doctrine of Discovery and the Doctrine of Male Domination\". Journal for Cultural & Religious Theory 2026."

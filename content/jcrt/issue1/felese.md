@@ -4,6 +4,7 @@ description: "Felese challenges conquest-based land values and shows Indigenous 
 abstract: "Felese challenges conquest-based land values and shows Indigenous relational worldviews offer life-affirming alternatives to extraction and alienation"
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 8
 canonical: "https://jcrt.org/archives/24.2/felese/"
 pdf: "https://jcrt.org/archives/24.2/felese.pdf"
 how_to_cite: "Wendy Felese. \"The Chosen People at Grouse Mountain\". Journal for Cultural & Religious Theory 2026."

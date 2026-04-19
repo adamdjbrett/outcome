@@ -194,6 +194,15 @@ export default async function(eleventyConfig) {
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
 
+	const sortJcrtIssueItems = (items) => [...items].sort((a, b) => {
+		const aOrder = Number(a?.data?.jcrtSortOrder || 0);
+		const bOrder = Number(b?.data?.jcrtSortOrder || 0);
+		if (aOrder !== bOrder) {
+			return aOrder - bOrder;
+		}
+		return String(a?.inputPath || "").localeCompare(String(b?.inputPath || ""));
+	});
+
 	// Memoized tag list collection: use this for tag pages instead of scanning all collection keys.
 	eleventyConfig.addCollection("publicTags", (collectionApi) => {
 		const allItems = collectionApi.getAll();
@@ -213,6 +222,14 @@ export default async function(eleventyConfig) {
 			String(a).localeCompare(String(b))
 		);
 	});
+
+	eleventyConfig.addCollection("jcrt_issue1_ordered", (collectionApi) =>
+		sortJcrtIssueItems(collectionApi.getFilteredByTag("jcrt_issue1"))
+	);
+
+	eleventyConfig.addCollection("jcrt_issue2_ordered", (collectionApi) =>
+		sortJcrtIssueItems(collectionApi.getFilteredByTag("jcrt_issue2"))
+	);
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {
 		// by default we use Eleventy’s built-in `slugify` filter:

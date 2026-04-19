@@ -4,6 +4,7 @@ description: "Nahar argues Doctrine of Discovery can build shared language betwe
 abstract: "Nahar argues Doctrine of Discovery can build shared language between Black and Indigenous feminisms, strengthening solidarity against settler colonial power."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 6
 canonical: "https://jcrt.org/archives/24.2/nahar/"
 pdf: "https://jcrt.org/archives/24.2/nahar.pdf"
 how_to_cite: "Sarah Nahar. \"Using the Doctrine of Discovery to Increase Shared Language and Conceptual Frameworks Between Black and Indigenous Feminist Organizing\". Journal for Cultural & Religious Theory 2026."

@@ -4,6 +4,7 @@ description: "Callan traces how medieval English myths, crusade defeat, and Iris
 abstract: "Callan traces how medieval English myths, crusade defeat, and Irish colonization shaped Christian white supremacy and fed the global Doctrine of Discovery."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 7
 canonical: "https://jcrt.org/archives/24.2/callan/"
 pdf: "https://jcrt.org/archives/24.2/callan.pdf"
 how_to_cite: "Maeve Callan. \"The Medieval Origins of Religious White Supremacy: English Imperialism, Crusade Defeats, and the Doctrine of Discovery\". Journal for Cultural & Religious Theory 2026."

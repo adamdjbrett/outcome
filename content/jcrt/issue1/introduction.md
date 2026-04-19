@@ -4,6 +4,7 @@ description: "Introduction to a global volume on Christian Discovery, linking la
 abstract: "Introduction to a global volume on Christian Discovery, linking law, religion, and pedagogy, with Indigenous sovereignty and decolonial justice today."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 3
 canonical: "https://jcrt.org/archives/24.2/introduction/"
 pdf: "https://jcrt.org/archives/24.2/introduction.pdf"
 how_to_cite: "Philip P. Arnold, Sandra Bigtree, and Adam DJ Brett. \"Introduction\". Journal for Cultural & Religious Theory 2026."

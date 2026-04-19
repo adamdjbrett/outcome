@@ -4,6 +4,7 @@ description: "Radhakrishnan examines how U.S. schooling reproduces white suprema
 abstract: "Radhakrishnan examines how U.S. schooling reproduces white supremacy and identifies teacher education strategies to disrupt curriculum, instruction, and policy."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 17
 canonical: "https://jcrt.org/archives/24.2/radhakrishnan/"
 pdf: "https://jcrt.org/archives/24.2/radhakrishnan.pdf"
 how_to_cite: "Ritu Radhakrishnan. \"Schools, Teachers, and Teacher Educators: Education Through the Disruption of White Supremacy\". Journal for Cultural & Religious Theory 2026."

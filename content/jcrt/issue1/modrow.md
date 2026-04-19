@@ -4,6 +4,7 @@ description: "Modrow shows how papal bulls transformed crusade theology into glo
 abstract: "Modrow shows how papal bulls transformed crusade theology into global colonial strategy, legitimizing Indigenous dispossession and imperial expansion."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 5
 canonical: "https://jcrt.org/archives/24.2/modrow/"
 pdf: "https://jcrt.org/archives/24.2/modrow.pdf"
 how_to_cite: "Sebastian Modrow. \"Charting the Doctrine in the Colonial Archive: Papal Bulls and the Translation of the ‘Discovery’ Purpose\". Journal for Cultural & Religious Theory 2026."

@@ -4,6 +4,7 @@ description: "Alencar traces how the Doctrine of Discovery shaped Brazil through
 abstract: "Alencar traces how the Doctrine of Discovery shaped Brazil through church-backed silence, racial myths, and colonial violence, urging decolonial accountability."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 11
 canonical: "https://jcrt.org/archives/24.2/alencar/"
 pdf: "https://jcrt.org/archives/24.2/alencar.pdf"
 how_to_cite: "Telma Alencar. \"Silencing the Doctrine of Discovery – The Brazilian Process: Accidental Discoveries, Secret Manuscripts, Imaginary Lines and Myths\". Journal for Cultural & Religious Theory 2026."

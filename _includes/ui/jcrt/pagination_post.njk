@@ -1,6 +1,6 @@
-{%- if collections.jcrt_issue1 %}
-{%- set previousPost = collections.jcrt_issue1 | getPreviousCollectionItem %}
-{%- set nextPost = collections.jcrt_issue1 | getNextCollectionItem %}
+{%- if jcrtIssueCollection and collections[jcrtIssueCollection] %}
+{%- set previousPost = collections[jcrtIssueCollection] | getPreviousCollectionItem %}
+{%- set nextPost = collections[jcrtIssueCollection] | getNextCollectionItem %}
 {%- if nextPost or previousPost %}
 <div class="col-md-12">
 <div class="row mt-3">

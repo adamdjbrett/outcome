@@ -4,6 +4,7 @@ description: "Hurtado uses Critical Race Theory and Latina feminisms to show how
 abstract: "Hurtado uses Critical Race Theory and Latina feminisms to show how multiethnic curricula can confront colonial legacies and teach resistance in class."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 16
 canonical: "https://jcrt.org/archives/24.2/hurtado/"
 pdf: "https://jcrt.org/archives/24.2/hurtado.pdf"
 how_to_cite: "Roberta Hurtado. \"Flesh of Words: Confrontation, Navigation, and Integrity in the English Classroom\". Journal for Cultural & Religious Theory 2026."

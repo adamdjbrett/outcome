@@ -4,6 +4,7 @@ description: "Chaness links white supremacy, settler colonialism, and anti-India
 abstract: "Chaness links white supremacy, settler colonialism, and anti-Indian racism, showing how Indigenous values and pedagogy reshape critical classroom practice."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 15
 canonical: "https://jcrt.org/archives/24.2/chaness/"
 pdf: "https://jcrt.org/archives/24.2/chaness.pdf"
 how_to_cite: "Michael E. Chaness. \"Expecting Excellence in Education: When Content Conditions Class Consciousness\". Journal for Cultural & Religious Theory 2026."

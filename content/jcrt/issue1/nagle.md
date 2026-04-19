@@ -4,6 +4,7 @@ description: "Nagle critiques Erie Canal heritage marketing, showing how enginee
 abstract: "Nagle critiques Erie Canal heritage marketing, showing how engineered marvel obscures Haudenosaunee dispossession and calls settlers to affective resistance."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 9
 canonical: "https://jcrt.org/archives/24.2/nagle/"
 pdf: "https://jcrt.org/archives/24.2/nagle.pdf"
 how_to_cite: "Danielle S. Nagle. \"“Engineering Marvel”: Towards Resisting the Affective Politics of Erie Canal Heritage\". Journal for Cultural & Religious Theory 2026."

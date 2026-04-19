@@ -9,9 +9,8 @@ image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 show_toc: true
 eleventyExcludeFromCollections: true
 pagination:
-  data: collections.jcrt_issue1
+  data: collections.jcrt_issue1_ordered
   size: 10
-  reverse: true
 permalink: "jcrt/issue1/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}/{% endif %}index.html"
 ---
 

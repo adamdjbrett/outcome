@@ -6,7 +6,7 @@ const EXCLUDED_TAGS = new Set([
 	"jcesaystwos", "crosscurrentss", "croesaysones", "croesaystwos",
 	"features", "fesaysones", "fesaystwos", "podsones", "podsstwos",
 	"ijrs", "ijrall", "ijrones", "ijrtwos", "compassall", "compassone",
-	"jcrt", "jcrt_issue1", "pods", "podcastss", "podthrees",
+	"jcrt", "jcrt_issue1", "jcrt_issue2", "pods", "podcastss", "podthrees",
 	"doctrine-of-discovery", "domination-translator", "indigenous-rights",
 	"education", "law"
 ]);

@@ -4,6 +4,7 @@ description: "Preface to a special issue examining Christian Discovery’s role 
 abstract: "Preface to a special issue examining Christian Discovery’s role in white supremacy, law, and education, with decolonial paths grounded in Indigenous justice."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 2
 canonical: "https://jcrt.org/archives/24.2/preface/"
 pdf: "https://jcrt.org/archives/24.2/preface.pdf"
 how_to_cite: "Philip P. Arnold, Sandra Bigtree, and Adam DJ Brett. \"A Preface to Challenging the Justifications of Domination Through Religion: “We Were Planting Corn, and They Were Planting Crosses”\". Journal for Cultural & Religious Theory 2026."

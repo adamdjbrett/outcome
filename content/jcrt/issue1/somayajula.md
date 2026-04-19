@@ -4,6 +4,7 @@ description: "Somayajula reads Hindutva as political theology, showing how Hindu
 abstract: "Somayajula reads Hindutva as political theology, showing how Hindu nationalism flattens religious diversity and urging a more inclusive Hindu identity."
 image: "/img/post/jcrt/24.2-cover-connie-castro.png"
 date: 2026-03-03
+jcrtSortOrder: 14
 canonical: "https://jcrt.org/archives/24.2/somayajula/"
 pdf: "https://jcrt.org/archives/24.2/somayajula.pdf"
 how_to_cite: "Pranay Somayajula. \"Hindu Political Theology: Beyond Hindutva’s Political Monotheism\". Journal for Cultural & Religious Theory 2026."
