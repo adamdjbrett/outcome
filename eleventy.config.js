@@ -203,6 +203,24 @@ export default async function(eleventyConfig) {
 		return String(a?.inputPath || "").localeCompare(String(b?.inputPath || ""));
 	});
 
+	const sortPostingRecentItems = (items) => [...items].sort((a, b) => {
+		const aDate = a?.date instanceof Date ? a.date.getTime() : 0;
+		const bDate = b?.date instanceof Date ? b.date.getTime() : 0;
+		if (aDate !== bDate) {
+			return bDate - aDate;
+		}
+
+		const aOrder = Number(a?.data?.jcrtSortOrder);
+		const bOrder = Number(b?.data?.jcrtSortOrder);
+		if (Number.isFinite(aOrder) && Number.isFinite(bOrder) && aOrder !== bOrder) {
+			return aOrder - bOrder;
+		}
+
+		const aPath = String(a?.inputPath || a?.data?.title || "");
+		const bPath = String(b?.inputPath || b?.data?.title || "");
+		return aPath.localeCompare(bPath);
+	});
+
 	// Memoized tag list collection: use this for tag pages instead of scanning all collection keys.
 	eleventyConfig.addCollection("publicTags", (collectionApi) => {
 		const allItems = collectionApi.getAll();
@@ -229,6 +247,10 @@ export default async function(eleventyConfig) {
 
 	eleventyConfig.addCollection("jcrt_issue2_ordered", (collectionApi) =>
 		sortJcrtIssueItems(collectionApi.getFilteredByTag("jcrt_issue2"))
+	);
+
+	eleventyConfig.addCollection("posting_recent", (collectionApi) =>
+		sortPostingRecentItems(collectionApi.getFilteredByTag("posting"))
 	);
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {

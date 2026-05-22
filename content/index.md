@@ -22,9 +22,8 @@ widget:
    image: /img/post/mapping-doctrine-of-discovery-favicon.webp
    url: /podcast
 pagination:
-  data: collections.posting
+  data: collections.posting_recent
   size: 10
-  reverse: true
 testdata:
  - item1
  - item2
