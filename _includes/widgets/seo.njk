@@ -25,3 +25,21 @@
 {% include "widgets/schema_website.njk" %}
 {% include "widgets/schema_organization.njk" %}
 <link rel="apple-touch-icon" href="/logo.webp">
+
+{# Zotero / Highwire / PRISM — makes posts harvestable as Blog Post type #}
+{% set isPost = layout == 'post' or "posts" in (tags or []) %}
+{% if isPost %}
+<meta property="zotero:itemType" content="blogPost" />
+<meta property="dc:title" content="{{ (title or metadata.title) | escape }}" />
+<meta property="dc:creator" content="{{ metadata.author.name | escape }}" />
+{% if date %}<meta property="dc:date" content="{{ date | date('Y-m-d') }}" />{% endif %}
+<meta property="dc:language" content="{{ metadata.language }}" />
+<meta property="dc:identifier" content="{{ metadata.url }}{{ page.url }}" />
+<meta name="citation_author" content="{{ metadata.author.name | escape }}" />
+{% if date %}<meta name="citation_publication_date" content="{{ date | date('Y-m-d') }}" />{% endif %}
+<meta name="citation_public_url" content="{{ metadata.url }}{{ page.url }}" />
+<meta name="citation_language" content="{{ metadata.language }}" />
+{% if doi %}<meta name="citation_doi" content="{{ doi | escape }}" />{% endif %}
+<meta name="prism.genre" content="blogentry" />
+<meta name="prism.publicationName" content="Outcome Document" />
+{% endif %}
